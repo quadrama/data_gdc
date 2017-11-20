@@ -1,0 +1,14 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,r1zm.0,SELIMA,selima,,
+gdc,r1zm.0,SETH,seth,,
+gdc,r1zm.0,ADAM,adam,,
+gdc,r1zm.0,DER TODESENGEL,der_todesengel,,
+gdc,r1zm.0,KAIN,kain,,
+gdc,r1zm.0,EVA,eva,,
+gdc,r1zm.0,HEMAN,heman,,
+gdc,r1zm.0,EINE MUTTER,eine_mutter,,
+gdc,r1zm.0,NOCH EINE,noch_eine,,
+gdc,r1zm.0,DIE DRITTE,die_dritte,,
+gdc,r1zm.0,SUNIM,sunim,,
+gdc,r1zm.0,Der Tod Adams,de,"Klopstock, Friedrich Gottlieb",118563386,,,1756,1757,0,0

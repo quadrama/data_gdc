@@ -1,0 +1,22 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,qd2g.0,ERSTE,erste,,
+gdc,qd2g.0,ZWEITE,zweite,,
+gdc,qd2g.0,DRITTE,dritte,,
+gdc,qd2g.0,VIERTE,vierte,,
+gdc,qd2g.0,FÜNFTE,fünfte,,
+gdc,qd2g.0,AUFSEHERIN,aufseherin,,
+gdc,qd2g.0,DIE DIENERINNEN,die_dienerinnen,,
+gdc,qd2g.0,ELEKTRA,elektra,,
+gdc,qd2g.0,CHRYSOTHEMIS,chrysothemis,,
+gdc,qd2g.0,KLYTÄMNESTRA,klytämnestra,,
+gdc,qd2g.0,DIE VERTRAUTE,die_vertraute,,
+gdc,qd2g.0,DIE SCHLEPPTRÄGERIN,die_schleppträgerin,,
+gdc,qd2g.0,CHKYSOTHEMIS,chkysothemis,,
+gdc,qd2g.0,EIN JUNGER DIENER,ein_junger_diener,,
+gdc,qd2g.0,DER KOCH,der_koch,,
+gdc,qd2g.0,EIN ALTER DIENER,ein_alter_diener,,
+gdc,qd2g.0,OREST,orest,,
+gdc,qd2g.0,DER PFLEGER,der_pfleger,,
+gdc,qd2g.0,ÄGISTH,ägisth,,
+gdc,qd2g.0,Elektra,de,"Hofmannsthal, Hugo von",118552759,,,1903,1904,1903,0

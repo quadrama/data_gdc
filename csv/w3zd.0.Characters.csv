@@ -1,0 +1,13 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,w3zd.0,FRAU VON WICHMANN,frau_von_wichmann,,
+gdc,w3zd.0,JULIE,julie,,
+gdc,w3zd.0,HERR VON WOHLAU,herr_von_wohlau,,
+gdc,w3zd.0,DER CAPITAIN,der_capitain,,
+gdc,w3zd.0,PETER,peter,,
+gdc,w3zd.0,WERNECK,werneck,,
+gdc,w3zd.0,BELMONT,belmont,,
+gdc,w3zd.0,DALTON,dalton,,
+gdc,w3zd.0,WOLDEMAR,woldemar,,
+gdc,w3zd.0,DER BEDIENTE,der_bediente,,
+gdc,w3zd.0,Julie,de,"Sturz, Helfrich Peter",118619756,,,0,1767,0,0

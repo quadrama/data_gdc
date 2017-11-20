@@ -1,0 +1,15 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,rhnx.0,ROBERT,robert,,
+gdc,rhnx.0,ARMIDA,armida,,
+gdc,rhnx.0,RUNDE,runde,,
+gdc,rhnx.0,MAJOR,major,,
+gdc,rhnx.0,PRINZESSIN,prinzessin,,
+gdc,rhnx.0,LORD HOT,lord_hot,,
+gdc,rhnx.0,LORD HAMILTON,lord_hamilton,,
+gdc,rhnx.0,WILLIAMS,williams,,
+gdc,rhnx.0,PETER,peter,,
+gdc,rhnx.0,TOGNINA,tognina,,
+gdc,rhnx.0,WUNDARZT,wundarzt,,
+gdc,rhnx.0,BEICHTVATER,beichtvater,,
+gdc,rhnx.0,Der Engländer,de,"Lenz, Jakob Michael Reinhold",118571656,,,1776,1776,0,0

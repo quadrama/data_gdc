@@ -1,0 +1,7 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,v3qp.0,MARTIN,martin,,
+gdc,v3qp.0,SOPHIE,sophie,,
+gdc,v3qp.0,CASSIAN,cassian,,
+gdc,v3qp.0,DER DIENER,der_diener,,
+gdc,v3qp.0,II. Der tapfere Cassian,de,"Schnitzler, Arthur",118609807,,,1902,1906,1904,0

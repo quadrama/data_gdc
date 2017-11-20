@@ -1,0 +1,12 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,pb4c.0,MAGIER,magier,,
+gdc,pb4c.0,LIGARES,ligares,,
+gdc,pb4c.0,ZENO,zeno,,
+gdc,pb4c.0,BOTE,bote,,
+gdc,pb4c.0,CASSANDRA,cassandra,,
+gdc,pb4c.0,TIMANDRAS,timandras,,
+gdc,pb4c.0,LADIKÄ,ladikä,,
+gdc,pb4c.0,MANDANE,mandane,,
+gdc,pb4c.0,KNABE,knabe,,
+gdc,pb4c.0,Magie und Schicksal,de,"Günderode, Karoline von",118543202,,,0,1805,0,0

@@ -1,0 +1,10 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,rkq6.0,WUMSHÄTER,wumshäter,,
+gdc,rkq6.0,LISETTE,lisette,,
+gdc,rkq6.0,VALER,valer,,
+gdc,rkq6.0,LELIO,lelio,,
+gdc,rkq6.0,LAURA,laura,,
+gdc,rkq6.0,SOLBIST,solbist,,
+gdc,rkq6.0,LEANDER,leander,,
+gdc,rkq6.0,Der Misogyn,de,"Lessing, Gotthold Ephraim",118572121,,,1748,1755,0,0

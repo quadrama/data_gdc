@@ -1,0 +1,7 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,rjqs.0,PHILOTAS,philotas,,
+gdc,rjqs.0,STRATO,strato,,
+gdc,rjqs.0,ARIDÄUS,aridäus,,
+gdc,rjqs.0,PARMENIO,parmenio,,
+gdc,rjqs.0,Philotas,de,"Lessing, Gotthold Ephraim",118572121,,,1774,1759,0,0

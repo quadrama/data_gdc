@@ -1,0 +1,16 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,kmdt.0,BARON,baron,,
+gdc,kmdt.0,KRABBE,krabbe,,
+gdc,kmdt.0,PELLMANN,pellmann,,
+gdc,kmdt.0,EMMA,emma,,
+gdc,kmdt.0,FRITZE,fritze,,
+gdc,kmdt.0,GUSTAV,gustav,,
+gdc,kmdt.0,JULIUS,julius,,
+gdc,kmdt.0,JULIUS KRABBE,julius_krabbe,,
+gdc,kmdt.0,EWELINE,eweline,,
+gdc,kmdt.0,BARBARA,barbara,,
+gdc,kmdt.0,MAGISTER,magister,,
+gdc,kmdt.0,GOTTLIEB,gottlieb,,
+gdc,kmdt.0,KLARA,klara,,
+gdc,kmdt.0,Vatersorgen,de,"Birch-Pfeiffer, Charlotte",118658875,,,1849,1849,1850,0

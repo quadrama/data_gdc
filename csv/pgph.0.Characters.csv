@@ -1,0 +1,12 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,pgph.0,VALERE,valere,,
+gdc,pgph.0,HANSWURST,hanswurst,,
+gdc,pgph.0,HAUSMEISTER,hausmeister,,
+gdc,pgph.0,FRISEUR,friseur,,
+gdc,pgph.0,LISETTE,lisette,,
+gdc,pgph.0,HENRIETTE,henriette,,
+gdc,pgph.0,HERR VON HASENKOPF,herr_von_hasenkopf,,
+gdc,pgph.0,HEINZENFELD,heinzenfeld,,
+gdc,pgph.0,ALCANTOR,alcantor,,
+gdc,pgph.0,Der Furchtsame,de,"Hafner, Philipp",,,,0,1764,1764,0

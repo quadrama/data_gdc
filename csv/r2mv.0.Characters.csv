@@ -1,0 +1,16 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,r2mv.0,GRAF,graf,,
+gdc,r2mv.0,BALTHASAR,balthasar,,
+gdc,r2mv.0,BEDIENTER,bedienter,,
+gdc,r2mv.0,KRAUTMANN,krautmann,,
+gdc,r2mv.0,ADOLPH,adolph,,
+gdc,r2mv.0,ERNESTINE,ernestine,,
+gdc,r2mv.0,FRAU WUNSCHEL,frau_wunschel,,
+gdc,r2mv.0,AMALIE,amalie,,
+gdc,r2mv.0,HENRIETTE,henriette,,
+gdc,r2mv.0,STEIN,stein,,
+gdc,r2mv.0,GRÄFIN,gräfin,,
+gdc,r2mv.0,JACOB,jacob,,
+gdc,r2mv.0,EINE MAGD,eine_magd,,
+gdc,r2mv.0,Die beiden Klingsberg,de,"Kotzebue, August von",118565796,,,0,1801,0,0

@@ -1,0 +1,12 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,kq6g.0,GABRIELE,gabriele,,
+gdc,kq6g.0,GOMEZ,gomez,,
+gdc,kq6g.0,JÄGER,jäger,,
+gdc,kq6g.0,VASCO,vasco,,
+gdc,kq6g.0,DIE DREI HIRTEN,die_drei_hirten,,
+gdc,kq6g.0,PEDRO,pedro,,
+gdc,kq6g.0,AMBROSIO,ambrosio,,
+gdc,kq6g.0,CHOR,chor,,
+gdc,kq6g.0,OTTO,otto,,
+gdc,kq6g.0,Das Nachtlager von Granada,de,"Braun von Braunthal, Karl Johann",116428384,,,0,0,1834,0

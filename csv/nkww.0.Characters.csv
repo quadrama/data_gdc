@@ -1,0 +1,12 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,nkww.0,DORIS,doris,,
+gdc,nkww.0,MENALKAS,menalkas,,
+gdc,nkww.0,NISUS,nisus,,
+gdc,nkww.0,ATALANTA,atalanta,,
+gdc,nkww.0,CORYDON,corydon,,
+gdc,nkww.0,DAMON,damon,,
+gdc,nkww.0,AMARYLLIS,amaryllis,,
+gdc,nkww.0,MYRTILLUS,myrtillus,,
+gdc,nkww.0,DAMÖTAS,damötas,,
+gdc,nkww.0,Atalanta oder die bezwungene Sprödigkeit,de,"Gottsched, Johann Christoph",118541013,,,0,1741,0,0

@@ -1,0 +1,17 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,ndtw.0,CHLOE,chloe,,
+gdc,ndtw.0,LAMON,lamon,,
+gdc,ndtw.0,EVANDER,evander,,
+gdc,ndtw.0,ALCIMNA,alcimna,,
+gdc,ndtw.0,MILON,milon,,
+gdc,ndtw.0,PYRHUS,pyrhus,,
+gdc,ndtw.0,ARATES,arates,,
+gdc,ndtw.0,BEDIENTER,bedienter,,
+gdc,ndtw.0,JUNGER HERR,junger_herr,,
+gdc,ndtw.0,OFFICIER,officier,,
+gdc,ndtw.0,DER ANDRE,der_andre,,
+gdc,ndtw.0,GELEHRTER,gelehrter,,
+gdc,ndtw.0,ERSTE AUFWÆRTERIN,erste_aufwærterin,,
+gdc,ndtw.0,ZWEYTE AUFWÆRTERIN,zweyte_aufwærterin,,
+gdc,ndtw.0,Evander und Alcimna,de,"Gessner, Salomon",118538969,,,1762,1762,0,0

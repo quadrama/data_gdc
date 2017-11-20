@@ -1,0 +1,17 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,wc9p.0,BEZIRKSAMTMANN,bezirksamtmann,,
+gdc,wc9p.0,FRAU BEZIRKSAMTMANN,frau_bezirksamtmann,,
+gdc,wc9p.0,BABETTE,babette,,
+gdc,wc9p.0,ASSESSOR,assessor,,
+gdc,wc9p.0,LAMPL,lampl,,
+gdc,wc9p.0,SEDLMAIER,sedlmaier,,
+gdc,wc9p.0,HAHNRIEDER,hahnrieder,,
+gdc,wc9p.0,HÄBERLEIN,häberlein,,
+gdc,wc9p.0,GRUBHOFER,grubhofer,,
+gdc,wc9p.0,MERKL,merkl,,
+gdc,wc9p.0,NEUSIGL,neusigl,,
+gdc,wc9p.0,FRAU NEUSIGL,frau_neusigl,,
+gdc,wc9p.0,ANNA,anna,,
+gdc,wc9p.0,REGIERUNGSDIREKTOR STEINBEISSEL,regierungsdirektor_steinbeissel,,
+gdc,wc9p.0,Die Medaille,de,"Thoma, Ludwig",118622072,,,0,1901,1901,0

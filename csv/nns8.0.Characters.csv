@@ -1,0 +1,19 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,nns8.0,MIRZA,mirza,,
+gdc,nns8.0,MASSUD,massud,,
+gdc,nns8.0,ZANGA,zanga,,
+gdc,nns8.0,RUSTAN,rustan,,
+gdc,nns8.0,DER MANN AUF DEM FELSEN,der_mann_auf_dem_felsen,,
+gdc,nns8.0,GÜLNARE,gülnare,,
+gdc,nns8.0,KÄMMERLING,kämmerling,,
+gdc,nns8.0,KARKHAN,karkhan,,
+gdc,nns8.0,DIE ALTE,die_alte,,
+gdc,nns8.0,DER KÖNIG,der_könig,,
+gdc,nns8.0,DAS VOLK,das_volk,,
+gdc,nns8.0,EIN KÄMMERER,ein_kämmerer,,
+gdc,nns8.0,HAUPTMANN,hauptmann,,
+gdc,nns8.0,DER ALTE,der_alte,,
+gdc,nns8.0,EINE DIENERIN,eine_dienerin,,
+gdc,nns8.0,ANFÜHRER,anführer,,
+gdc,nns8.0,Der Traum ein Leben,de,"Grillparzer, Franz",118542192,,,1830,1840,1834,0

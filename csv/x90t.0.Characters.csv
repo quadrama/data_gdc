@@ -1,0 +1,11 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,x90t.0,KANZLIST,kanzlist,,
+gdc,x90t.0,UNTERSUCHUNGSRICHTER,untersuchungsrichter,,
+gdc,x90t.0,DER STAATSANWALT,der_staatsanwalt,,
+gdc,x90t.0,DOKTOR ZWIRN,doktor_zwirn,,
+gdc,x90t.0,ZEUGIN MARIE DWORSCHAK,zeugin_marie_dworschak,,
+gdc,x90t.0,ZEUGE LEOPOLD KRITZENBERGER,zeuge_leopold_kritzenberger,,
+gdc,x90t.0,ANTON GSCHMEIDLER,anton_gschmeidler,,
+gdc,x90t.0,JUSTIZSOLDAT,justizsoldat,,
+gdc,x90t.0,In Ewigkeit Amen,de,"Wildgans, Anton",118632841,,,0,1912,1913,0

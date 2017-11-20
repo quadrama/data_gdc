@@ -1,0 +1,10 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,r11m.0,APOLLO,apollo,,
+gdc,r11m.0,THALIA,thalia,,
+gdc,r11m.0,CRITIK,critik,,
+gdc,r11m.0,MERKUR,merkur,,
+gdc,r11m.0,MOMUS,momus,,
+gdc,r11m.0,PREHAUSER,prehauser,,
+gdc,r11m.0,ODOARDO,odoardo,,
+gdc,r11m.0,Der auf den Parnass versetzte grüne Hut,de,"Klemm, Christian Gottlob",100303935,,,1767,1767,1767,0

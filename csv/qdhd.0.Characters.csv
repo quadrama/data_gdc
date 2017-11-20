@@ -1,0 +1,12 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,qdhd.0,DER PROLOG,der_prolog,,
+gdc,qdhd.0,PARIS,paris,,
+gdc,qdhd.0,GIANINO,gianino,,
+gdc,qdhd.0,BATISTA,batista,,
+gdc,qdhd.0,ANTONIO,antonio,,
+gdc,qdhd.0,TIZIANELLO,tizianello,,
+gdc,qdhd.0,DESIDERIO,desiderio,,
+gdc,qdhd.0,PAGE,page,,
+gdc,qdhd.0,LAVINIA,lavinia,,
+gdc,qdhd.0,Der Tod des Tizian,de,"Hofmannsthal, Hugo von",118552759,,,1892,1901,1901,0

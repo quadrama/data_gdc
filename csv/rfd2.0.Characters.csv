@@ -1,0 +1,17 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,rfd2.0,GRÄFIN FRANZISKA VON HOHENHEIM,gräfin_franziska_von_hohenheim,,
+gdc,rfd2.0,GENERALIN,generalin,,
+gdc,rfd2.0,LAURA,laura,,
+gdc,rfd2.0,HAUPTMANN,hauptmann,,
+gdc,rfd2.0,RIEGER,rieger,,
+gdc,rfd2.0,HERZOG,herzog,,
+gdc,rfd2.0,BLEISTIFT,bleistift,,
+gdc,rfd2.0,KOCH,koch,,
+gdc,rfd2.0,SCHILLER,schiller,,
+gdc,rfd2.0,SCHARPSTEIN,scharpstein,,
+gdc,rfd2.0,HOVER,hover,,
+gdc,rfd2.0,PFEIFFER,pfeiffer,,
+gdc,rfd2.0,PETERS,peters,,
+gdc,rfd2.0,NETTE,nette,,
+gdc,rfd2.0,Die Karlsschüler,de,"Laube, Heinrich",118570080,,,1846,1846,1846,0

@@ -1,0 +1,21 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,pj2h.0,ACTÄA,actäa,,
+gdc,pj2h.0,PARTHENIA,parthenia,,
+gdc,pj2h.0,POLYDOR,polydor,,
+gdc,pj2h.0,LYKON,lykon,,
+gdc,pj2h.0,THEANO,theano,,
+gdc,pj2h.0,ADRAST,adrast,,
+gdc,pj2h.0,ELPENOR,elpenor,,
+gdc,pj2h.0,AMYNTAS,amyntas,,
+gdc,pj2h.0,HEROLD,herold,,
+gdc,pj2h.0,TIMARCH,timarch,,
+gdc,pj2h.0,AMBIVAR,ambivar,,
+gdc,pj2h.0,TRINOBANT,trinobant,,
+gdc,pj2h.0,NOVIO,novio,,
+gdc,pj2h.0,MYRON,myron,,
+gdc,pj2h.0,INGOMAR,ingomar,,
+gdc,pj2h.0,SAMO,samo,,
+gdc,pj2h.0,ALASTOR,alastor,,
+gdc,pj2h.0,EINIGE TECTOSAGEN,einige_tectosagen,,
+gdc,pj2h.0,Der Sohn der Wildnis,de,"Halm, Friedrich",118720074,,,0,1843,1842,0

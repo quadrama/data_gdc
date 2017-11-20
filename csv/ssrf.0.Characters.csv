@@ -1,0 +1,11 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,ssrf.0,ELVIRE,elvire,,
+gdc,ssrf.0,DER DIENER,der_diener,,
+gdc,ssrf.0,JERTA,jerta,,
+gdc,ssrf.0,OTTO,otto,,
+gdc,ssrf.0,KOLBERT,kolbert,,
+gdc,ssrf.0,HOLM,holm,,
+gdc,ssrf.0,HUGO,hugo,,
+gdc,ssrf.0,VALEROS,valeros,,
+gdc,ssrf.0,Die Schuld,de,"Müllner, Adolph",118737775,,,0,1816,1813,0

@@ -1,0 +1,21 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,qn29.0,HOCHFELD,hochfeld,,
+gdc,qn29.0,FAUSTIN,faustin,,
+gdc,qn29.0,EULALIA,eulalia,,
+gdc,qn29.0,REGINE,regine,,
+gdc,qn29.0,HALLER,haller,,
+gdc,qn29.0,HERR VON HUPFER,herr_von_hupfer,,
+gdc,qn29.0,JAKOB,jakob,,
+gdc,qn29.0,GLATT,glatt,,
+gdc,qn29.0,ROBERT,robert,,
+gdc,qn29.0,SEBASTIAN,sebastian,,
+gdc,qn29.0,KLOTILDE,klotilde,,
+gdc,qn29.0,APOLLONIA,apollonia,,
+gdc,qn29.0,EIN KAPELLMEISTER,ein_kapellmeister,,
+gdc,qn29.0,EINE MENGE GÄSTE,eine_menge_gäste,,
+gdc,qn29.0,GRAF VON FLAMBOURG,graf_von_flambourg,,
+gdc,qn29.0,WELLENSCHLAG,wellenschlag,,
+gdc,qn29.0,SIE,sie,,
+gdc,qn29.0,ER,er,,
+gdc,qn29.0,Stadt und Land,de,"Kaiser, Friedrich",118874748,,,0,1845,1844,0

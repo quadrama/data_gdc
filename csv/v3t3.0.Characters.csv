@@ -1,0 +1,9 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,v3t3.0,ANATOL,anatol,,
+gdc,v3t3.0,MAX,max,,
+gdc,v3t3.0,BARON DIEBL,baron_diebl,,
+gdc,v3t3.0,ANNETTE,annette,,
+gdc,v3t3.0,FLIEDER,flieder,,
+gdc,v3t3.0,BERTA,berta,,
+gdc,v3t3.0,Anatols Größenwahn,de,"Schnitzler, Arthur",118609807,,,1891,1955,1932,0

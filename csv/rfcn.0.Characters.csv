@@ -1,0 +1,11 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,rfcn.0,GULDBERG,guldberg,,
+gdc,rfcn.0,GRAF RANZAU,graf_ranzau,,
+gdc,rfcn.0,KÖLLER,köller,,
+gdc,rfcn.0,LORENZ,lorenz,,
+gdc,rfcn.0,KÖNIGIN,königin,,
+gdc,rfcn.0,KÖNIG,könig,,
+gdc,rfcn.0,GALLEN,gallen,,
+gdc,rfcn.0,STRUENSEE,struensee,,
+gdc,rfcn.0,Struensee,de,"Laube, Heinrich",118570080,,,0,1846,1844,0

@@ -1,0 +1,11 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,mgfp.0,LANDRATH,landrath,,
+gdc,mgfp.0,ERNESTINE,ernestine,,
+gdc,mgfp.0,HERR VON KIEL,herr_von_kiel,,
+gdc,mgfp.0,ELISE,elise,,
+gdc,mgfp.0,KOMMERZIENRATH,kommerzienrath,,
+gdc,mgfp.0,MARTIN,martin,,
+gdc,mgfp.0,REITKNECHT,reitknecht,,
+gdc,mgfp.0,BAUER,bauer,,
+gdc,mgfp.0,Die Gunst des Augenblicks,de,"Devrient, Philipp Eduard",118525042,,,0,1836,1880,0

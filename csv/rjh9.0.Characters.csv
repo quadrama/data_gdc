@@ -1,0 +1,16 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,rjh9.0,JUST,just,,
+gdc,rjh9.0,DER WIRT,der_wirt,,
+gdc,rjh9.0,VON TELLHEIM,von_tellheim,,
+gdc,rjh9.0,DIE DAME,die_dame,,
+gdc,rjh9.0,DER BEDIENTE,der_bediente,,
+gdc,rjh9.0,WERNER,werner,,
+gdc,rjh9.0,DAS FRÄULEIN,das_fräulein,,
+gdc,rjh9.0,FRANZISKA,franziska,,
+gdc,rjh9.0,RICCAUT,riccaut,,
+gdc,rjh9.0,DER FELDJÄGER,der_feldjäger,,
+gdc,rjh9.0,DER EINE BEDIENTE,der_eine_bediente,,
+gdc,rjh9.0,DER ANDERE BEDIENTE,der_andere_bediente,,
+gdc,rjh9.0,DER GRAF,der_graf,,
+gdc,rjh9.0,"Minna von Barnhelm, oder das Soldatenglück",de,"Lessing, Gotthold Ephraim",118572121,,,0,1767,1767,0

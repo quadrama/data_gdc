@@ -1,0 +1,13 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,r2r7.0,HERRMANN,herrmann,,
+gdc,r2r7.0,CAROLINE,caroline,,
+gdc,r2r7.0,ARNOLD,arnold,,
+gdc,r2r7.0,DER GRAF,der_graf,,
+gdc,r2r7.0,VALENTIN,valentin,,
+gdc,r2r7.0,DIE GRÄFINN,die_gräfinn,,
+gdc,r2r7.0,CHRYSANDER,chrysander,,
+gdc,r2r7.0,JOHANN,johann,,
+gdc,r2r7.0,VALER,valer,,
+gdc,r2r7.0,FRÄULEIN CHRISTINCHEN,fräulein_christinchen,,
+gdc,r2r7.0,Die Candidaten oder Die Mittel zu einem Amte zu gelangen,de,"Krüger, Johann Christian",118778080,,,0,1748,1747,0

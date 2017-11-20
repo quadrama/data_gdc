@@ -1,0 +1,9 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,kp19.0,CLAUDIA,claudia,,
+gdc,kp19.0,LAURA,laura,,
+gdc,kp19.0,ODOARDO,odoardo,,
+gdc,kp19.0,APPIANI,appiani,,
+gdc,kp19.0,DER PRINZ,der_prinz,,
+gdc,kp19.0,DIE SCHAUSPIELERINN,die_schauspielerinn,,
+gdc,kp19.0,"Odoardo Galotti, Vater der Emilia",de,"Bodmer, Johann Jacob",118512315,,,0,1776,0,0

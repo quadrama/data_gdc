@@ -1,0 +1,15 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,vpv1.0,JAQUINO,jaquino,,
+gdc,vpv1.0,MARZELLINE,marzelline,,
+gdc,vpv1.0,ROCCO,rocco,,
+gdc,vpv1.0,LEONORE,leonore,,
+gdc,vpv1.0,PIZARRO,pizarro,,
+gdc,vpv1.0,CHOR DER WACHE,chor_der_wache,,
+gdc,vpv1.0,ERSTER GEFANGENER,erster_gefangener,,
+gdc,vpv1.0,ZWEITER GEFANGENER,zweiter_gefangener,,
+gdc,vpv1.0,DIE GEFANGENEN,die_gefangenen,,
+gdc,vpv1.0,FLORESTAN,florestan,,
+gdc,vpv1.0,CHOR,chor,,
+gdc,vpv1.0,FERNANDO,fernando,,
+gdc,vpv1.0,Fidelio,de,"Sonnleithner, Joseph Ferdinand von",104332042,,,0,0,1805,0

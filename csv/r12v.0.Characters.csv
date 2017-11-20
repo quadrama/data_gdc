@@ -1,0 +1,11 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,r12v.0,GRIMALDI,grimaldi,,
+gdc,r12v.0,GUELFO,guelfo,,
+gdc,r12v.0,GALBO,galbo,,
+gdc,r12v.0,AMALIA,amalia,,
+gdc,r12v.0,ALTER GUELFO,alter_guelfo,,
+gdc,r12v.0,FERDINANDO,ferdinando,,
+gdc,r12v.0,CAMILLA,camilla,,
+gdc,r12v.0,BEDIENTE,bediente,,
+gdc,r12v.0,Die Zwillinge,de,"Klinger, Friedrich Maximilian",118563319,,,0,1776,1776,0

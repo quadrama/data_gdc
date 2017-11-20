@@ -1,0 +1,8 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,kpsk.0,BOHLE,bohle,,
+gdc,kpsk.0,JÜLF,jülf,,
+gdc,kpsk.0,OHM,ohm,,
+gdc,kpsk.0,PASTER,paster,,
+gdc,kpsk.0,MAIKE,maike,,
+gdc,kpsk.0,De rode Ünnerrock,de,"Boßdorf, Hermann",118659405,,,0,1923,0,0

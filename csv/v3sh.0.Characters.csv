@@ -1,0 +1,14 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,v3sh.0,JOHANNA,johanna,,
+gdc,v3sh.0,FELIX,felix,,
+gdc,v3sh.0,SALA,sala,,
+gdc,v3sh.0,DOKTOR REUMANN,doktor_reumann,,
+gdc,v3sh.0,FRAU WEGRAT,frau_wegrat,,
+gdc,v3sh.0,WEGRAT,wegrat,,
+gdc,v3sh.0,DIENER bei Fichtner,diener_fichtner,,
+gdc,v3sh.0,Diener bei Sala,diener_sala,,
+gdc,v3sh.0,JULIAN,julian,,
+gdc,v3sh.0,IRENE HERMS,irene_herms,,
+gdc,v3sh.0,STUBENMÄDCHEN,stubenmädchen,,
+gdc,v3sh.0,Der einsame Weg,de,"Schnitzler, Arthur",118609807,,,1903,1904,1904,0

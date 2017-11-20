@@ -1,0 +1,7 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,v183.0,FRIZ,friz,,
+gdc,v183.0,ROSALINDE,rosalinde,,
+gdc,v183.0,DOKTOR FAUST,doktor_faust,,
+gdc,v183.0,UNSICHTBARER CHOR,unsichtbarer_chor,,
+gdc,v183.0,Der neue Doktor Faust,de,"Schink, Johann Friedrich",118607774,,,0,1782,0,0

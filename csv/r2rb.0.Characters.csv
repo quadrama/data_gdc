@@ -1,0 +1,12 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,r2rb.0,PETER,peter,,
+gdc,r2rb.0,CATHRINE,cathrine,,
+gdc,r2rb.0,MUFFEL,muffel,,
+gdc,r2rb.0,TEMPELSTOLZ,tempelstolz,,
+gdc,r2rb.0,FRAU VON BIRKENHAYN,frau_von_birkenhayn,,
+gdc,r2rb.0,HERR VON ROSENECK,herr_von_roseneck,,
+gdc,r2rb.0,FRÄULEIN WILHELMINE,fräulein_wilhelmine,,
+gdc,r2rb.0,HERR WAHRMUND,herr_wahrmund,,
+gdc,r2rb.0,BRIGITTE,brigitte,,
+gdc,r2rb.0,Die Geistlichen auf dem Lande,de,"Krüger, Johann Christian",118778080,,,0,1743,0,0

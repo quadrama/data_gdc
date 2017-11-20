@@ -1,0 +1,16 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,r0sb.0,LICHT,licht,,
+gdc,r0sb.0,ADAM,adam,,
+gdc,r0sb.0,DER BEDIENTE,der_bediente,,
+gdc,r0sb.0,ERSTE MAGD,erste_magd,,
+gdc,r0sb.0,ZWEITE MAGD,zweite_magd,,
+gdc,r0sb.0,WALTER,walter,,
+gdc,r0sb.0,DER BÜTTEL,der_büttel,,
+gdc,r0sb.0,FRAU MARTHE,frau_marthe,,
+gdc,r0sb.0,VEIT,veit,,
+gdc,r0sb.0,RUPRECHT,ruprecht,,
+gdc,r0sb.0,EVE,eve,,
+gdc,r0sb.0,FRAU BRIGITTE,frau_brigitte,,
+gdc,r0sb.0,MEHRERE,mehrere,,
+gdc,r0sb.0,Der zerbrochene Krug,de,"Kleist, Heinrich von",118563076,,,1806,1811,1808,0

@@ -1,0 +1,14 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,rjg0.0,THEOPHAN,theophan,,
+gdc,rjg0.0,ADRAST,adrast,,
+gdc,rjg0.0,LISIDOR,lisidor,,
+gdc,rjg0.0,JOHANN,johann,,
+gdc,rjg0.0,LISETTE,lisette,,
+gdc,rjg0.0,HENRIETTE,henriette,,
+gdc,rjg0.0,JULIANE,juliane,,
+gdc,rjg0.0,MARTIN,martin,,
+gdc,rjg0.0,ARASPE,araspe,,
+gdc,rjg0.0,DER WECHSLER,der_wechsler,,
+gdc,rjg0.0,FRAU PHILANE,frau_philane,,
+gdc,rjg0.0,Der Freigeist,de,"Lessing, Gotthold Ephraim",118572121,,,1749,1755,0,0

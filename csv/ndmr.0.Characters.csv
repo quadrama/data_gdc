@@ -1,0 +1,19 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,ndmr.0,FRAUEN,frauen,,
+gdc,ndmr.0,ALLE,alle,,
+gdc,ndmr.0,HIRAM,hiram,,
+gdc,ndmr.0,VOLK,volk,,
+gdc,ndmr.0,WOLF,wolf,,
+gdc,ndmr.0,TEUT,teut,,
+gdc,ndmr.0,THEODA,theoda,,
+gdc,ndmr.0,VELLEDA,velleda,,
+gdc,ndmr.0,MÄNNER,männer,,
+gdc,ndmr.0,KRIEGER,krieger,,
+gdc,ndmr.0,KÖNIG,könig,,
+gdc,ndmr.0,EIN JUNGER KRIEGER,ein_junger_krieger,,
+gdc,ndmr.0,MOLOCHPRIESTER,molochpriester,,
+gdc,ndmr.0,EIN KRIEGER,ein_krieger,,
+gdc,ndmr.0,EIN ANDERER,ein_anderer,,
+gdc,ndmr.0,EINE STIMME,eine_stimme,,
+gdc,ndmr.0,Der Moloch,de,"Gerhäuser, Emil",11656640X,,,0,0,1906,0

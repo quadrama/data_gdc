@@ -1,0 +1,20 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,x400.0,SCHÖNHEITLIEB,schönheitlieb,,
+gdc,x400.0,THEODOR,theodor,,
+gdc,x400.0,ELISABETH,elisabeth,,
+gdc,x400.0,WAGNER,wagner,,
+gdc,x400.0,DONNERSCHLAG,donnerschlag,,
+gdc,x400.0,SPURAUS,spuraus,,
+gdc,x400.0,EMILIE,emilie,,
+gdc,x400.0,FAUST,faust,,
+gdc,x400.0,ITHURIEL,ithuriel,,
+gdc,x400.0,HELENA,helena,,
+gdc,x400.0,MEPHISTOPHELES,mephistopheles,,
+gdc,x400.0,FRIEDREICH,friedreich,,
+gdc,x400.0,SILBERGEITZ,silbergeitz,,
+gdc,x400.0,RAUFGERN,raufgern,,
+gdc,x400.0,SORGENVOLL,sorgenvoll,,
+gdc,x400.0,WAISENPLAG,waisenplag,,
+gdc,x400.0,CHOR,chor,,
+gdc,x400.0,Johann Faust,de,"Weidmann, Paul",119497921,,,0,1775,0,0

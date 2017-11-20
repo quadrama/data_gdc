@@ -1,0 +1,18 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,x4q9.0,RÖSCHEN,röschen,,
+gdc,x4q9.0,MARTHE,marthe,,
+gdc,x4q9.0,MICHEL,michel,,
+gdc,x4q9.0,TÖFFEL,töffel,,
+gdc,x4q9.0,HANNCHEN,hannchen,,
+gdc,x4q9.0,GÜRGE,gürge,,
+gdc,x4q9.0,QUAAS,quaas,,
+gdc,x4q9.0,CHRISTEL,christel,,
+gdc,x4q9.0,DER KÖNIG,der_könig,,
+gdc,x4q9.0,DER ERSTE,der_erste,,
+gdc,x4q9.0,DER ZWEYTE,der_zweyte,,
+gdc,x4q9.0,CHOR,chor,,
+gdc,x4q9.0,GRAF VON SCHMETTERLING,graf_von_schmetterling,,
+gdc,x4q9.0,VON TREUWERTH,von_treuwerth,,
+gdc,x4q9.0,"ALLE BAUREN,",alle_bauren,,
+gdc,x4q9.0,Die Jagd,de,"Weiße, Christian Felix",118630563,,,0,1770,1770,0

@@ -1,0 +1,13 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,11h60.0,MERKURIUS,merkurius,,
+gdc,11h60.0,CHARON,charon,,
+gdc,11h60.0,EURIPIDES,euripides,,
+gdc,11h60.0,LITERATOR,literator,,
+gdc,11h60.0,ALCESTE,alceste,,
+gdc,11h60.0,ADMET,admet,,
+gdc,11h60.0,WIELAND,wieland,,
+gdc,11h60.0,DAS MÄDCHEN,das_mädchen,,
+gdc,11h60.0,HERKULES,herkules,,
+gdc,11h60.0,PLUTO,pluto,,
+gdc,11h60.0,"Götter, Helden und Wieland",de,"Goethe, Johann Wolfgang",118540238,,,1773,1774,0,0

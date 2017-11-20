@@ -1,0 +1,5 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,rfxg.0,DER MANN,der_mann,,
+gdc,rfxg.0,DIE FRAU,die_frau,,
+gdc,rfxg.0,Die Pfandung,de,"Leisewitz, Johann Anton",118571370,,,0,1774,0,0

@@ -1,0 +1,18 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,r0jz.0,SOSIAS,sosias,,
+gdc,r0jz.0,MERKUR,merkur,,
+gdc,r0jz.0,JUPITER,jupiter,,
+gdc,r0jz.0,ALKMENE,alkmene,,
+gdc,r0jz.0,CHARIS,charis,,
+gdc,r0jz.0,AMPHITRYON,amphitryon,,
+gdc,r0jz.0,ERSTER FELDHERR,erster_feldherr,,
+gdc,r0jz.0,ZWEITER FELDHERR,zweiter_feldherr,,
+gdc,r0jz.0,DRITTER FELDHERR,dritter_feldherr,,
+gdc,r0jz.0,EINER AUS DEM VOLK,einer_aus_dem_volk,,
+gdc,r0jz.0,ZWEITER OBERSTER,zweiter_oberster,,
+gdc,r0jz.0,ERSTER OBERSTER,erster_oberster,,
+gdc,r0jz.0,DAS VOLK,das_volk,,
+gdc,r0jz.0,DIE OBERSTEN,die_obersten,,
+gdc,r0jz.0,DIE FELDHERREN,die_feldherren,,
+gdc,r0jz.0,Amphitryon,de,"Kleist, Heinrich von",118563076,,,1806,1807,1899,0

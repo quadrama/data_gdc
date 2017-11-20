@@ -1,0 +1,20 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,m08h.0,DIENER NUREDDINS,diener_nureddins,,
+gdc,m08h.0,NUREDDIN,nureddin,,
+gdc,m08h.0,CHOR,chor,,
+gdc,m08h.0,BOSTANA,bostana,,
+gdc,m08h.0,ABUL,abul,,
+gdc,m08h.0,MARGIANA,margiana,,
+gdc,m08h.0,KADI,kadi,,
+gdc,m08h.0,MUEZZIN,muezzin,,
+gdc,m08h.0,DER KADI,der_kadi,,
+gdc,m08h.0,DRITTER MUEZZIN,dritter_muezzin,,
+gdc,m08h.0,STIMME EINES SKLAVEN,stimme_eines_sklaven,,
+gdc,m08h.0,STIMMEN,stimmen,,
+gdc,m08h.0,FREUNDE DES KADI,freunde_des_kadi,,
+gdc,m08h.0,KLAGEFRAUEN,klagefrauen,,
+gdc,m08h.0,BEWOHNER BAGDADS,bewohner_bagdads,,
+gdc,m08h.0,VIER BEWAFFNETE,vier_bewaffnete,,
+gdc,m08h.0,DER KALIF,der_kalif,,
+gdc,m08h.0,Der Barbier von Bagdad,de,"Cornelius, Peter",118522213,,,0,0,1858,0

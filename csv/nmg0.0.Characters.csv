@@ -1,0 +1,22 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,nmg0.0,DON JUAN,don_juan,,
+gdc,nmg0.0,LEPORELLO,leporello,,
+gdc,nmg0.0,DER GOUVERNEUR,der_gouverneur,,
+gdc,nmg0.0,DON OCTAVIO,don_octavio,,
+gdc,nmg0.0,LISETTE,lisette,,
+gdc,nmg0.0,FAUST,faust,,
+gdc,nmg0.0,DER RITTER,der_ritter,,
+gdc,nmg0.0,DONNA ANNA,donna_anna,,
+gdc,nmg0.0,SIGNOR RUBIO,signor_rubio,,
+gdc,nmg0.0,SIGNOR NEGRO,signor_negro,,
+gdc,nmg0.0,ERSTER HERR,erster_herr,,
+gdc,nmg0.0,ZWEITER HERR,zweiter_herr,,
+gdc,nmg0.0,DER DIENER,der_diener,,
+gdc,nmg0.0,GASPARO,gasparo,,
+gdc,nmg0.0,DIE ANWESENDEN,die_anwesenden,,
+gdc,nmg0.0,DER PRIESTER,der_priester,,
+gdc,nmg0.0,ERSTER GNOM,erster_gnom,,
+gdc,nmg0.0,ZWEITER GNOM,zweiter_gnom,,
+gdc,nmg0.0,DIE GNOMEN,die_gnomen,,
+gdc,nmg0.0,Don Juan und Faust,de,"Grabbe, Christian Dietrich",118541102,,,1829,1829,1829,0

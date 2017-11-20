@@ -1,0 +1,18 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,jn6k.0,KNECHTE,knechte,,
+gdc,jn6k.0,MÄGDE,mägde,,
+gdc,jn6k.0,GRILLHOFER,grillhofer,,
+gdc,jn6k.0,ROSL,rosl,,
+gdc,jn6k.0,WASTL,wastl,,
+gdc,jn6k.0,DUSTERER,dusterer,,
+gdc,jn6k.0,LIESEL,liesel,,
+gdc,jn6k.0,MICHL,michl,,
+gdc,jn6k.0,ANNEMIRL,annemirl,,
+gdc,jn6k.0,CHOR,chor,,
+gdc,jn6k.0,LEONHARDT,leonhardt,,
+gdc,jn6k.0,NATZL,natzl,,
+gdc,jn6k.0,HANS,hans,,
+gdc,jn6k.0,BAUER,bauer,,
+gdc,jn6k.0,BÄUERIN,bäuerin,,
+gdc,jn6k.0,Der Gwissenswurm,de,"Anzengruber, Ludwig",11850357X,,,0,1874,1874,0

@@ -1,0 +1,19 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,qhwd.0,FIEBIG,fiebig,,
+gdc,qhwd.0,HAHN,hahn,,
+gdc,qhwd.0,FRAU FIEBIG,frau_fiebig,,
+gdc,qhwd.0,ANNA,anna,,
+gdc,qhwd.0,MEISCHEN,meischen,,
+gdc,qhwd.0,GEHRKE,gehrke,,
+gdc,qhwd.0,WERNER,werner,,
+gdc,qhwd.0,STYCZINSKI,styczinski,,
+gdc,qhwd.0,DRUCKERJUNGE,druckerjunge,,
+gdc,qhwd.0,BELLERMANN,bellermann,,
+gdc,qhwd.0,GENDARM,gendarm,,
+gdc,qhwd.0,AMTSVORSTEHER,amtsvorsteher,,
+gdc,qhwd.0,SCHWABE,schwabe,,
+gdc,qhwd.0,NAPHTALI,naphtali,,
+gdc,qhwd.0,DIENSTMANN,dienstmann,,
+gdc,qhwd.0,WASCHFRAU,waschfrau,,
+gdc,qhwd.0,Sozialaristokraten,de,"Holz, Arno",118553216,,,0,1896,0,0

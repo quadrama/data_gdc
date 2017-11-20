@@ -1,0 +1,12 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,kjfg.0,MAJA,maja,,
+gdc,kjfg.0,GADHI,gadhi,,
+gdc,kjfg.0,STIMMEN,stimmen,,
+gdc,kjfg.0,ERSTER INDIANER,erster_indianer,,
+gdc,kjfg.0,ZWEITER INDIANER,zweiter_indianer,,
+gdc,kjfg.0,BENASCAR,benascar,,
+gdc,kjfg.0,DAS KIND,das_kind,,
+gdc,kjfg.0,INDIANER,indianer,,
+gdc,kjfg.0,BRAMINE,bramine,,
+gdc,kjfg.0,Der Paria,de,"Beer, Michael",118657887,,,0,1826,1823,0

@@ -1,0 +1,20 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,sttf.0,PHILEMON,philemon,,
+gdc,sttf.0,PHILLIS,phillis,,
+gdc,sttf.0,SYLVIA,sylvia,,
+gdc,sttf.0,MIRTILLO,mirtillo,,
+gdc,sttf.0,SYLVAN,sylvan,,
+gdc,sttf.0,SELADON,seladon,,
+gdc,sttf.0,MIRTA,mirta,,
+gdc,sttf.0,MOPS,mops,,
+gdc,sttf.0,SILEN,silen,,
+gdc,sttf.0,DAMON,damon,,
+gdc,sttf.0,GALATHE,galathe,,
+gdc,sttf.0,DORIS,doris,,
+gdc,sttf.0,OKTOBER,oktober,,
+gdc,sttf.0,VEREHRUNG,verehrung,,
+gdc,sttf.0,TREUE,treue,,
+gdc,sttf.0,LIEBE,liebe,,
+gdc,sttf.0,FREUDE,freude,,
+gdc,sttf.0,Das Schäferfest oder Die Herbstfreude,de,"Neuber, Friederike Caroline",118738577,,,0,1754,0,0

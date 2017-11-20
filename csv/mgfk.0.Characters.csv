@@ -1,0 +1,18 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,mgfk.0,HEILING,heiling,,
+gdc,mgfk.0,KÖNIGIN,königin,,
+gdc,mgfk.0,ERDGEISTER,erdgeister,,
+gdc,mgfk.0,GERTRUD,gertrud,,
+gdc,mgfk.0,ANNA,anna,,
+gdc,mgfk.0,EIN BURSCHE,ein_bursche,,
+gdc,mgfk.0,NIKLAS,niklas,,
+gdc,mgfk.0,STEPHAN,stephan,,
+gdc,mgfk.0,KONRAD,konrad,,
+gdc,mgfk.0,DIE BAUERN,die_bauern,,
+gdc,mgfk.0,CHOR,chor,,
+gdc,mgfk.0,DIE JÄGER,die_jäger,,
+gdc,mgfk.0,SECHS ZWERGE,sechs_zwerge,,
+gdc,mgfk.0,DIE BRAUTJUNGFERN,die_brautjungfern,,
+gdc,mgfk.0,HOCHZEITSLEUTE,hochzeitsleute,,
+gdc,mgfk.0,Hans Heiling,de,"Devrient, Philipp Eduard",118525042,,,0,0,1833,0

@@ -1,0 +1,17 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,vpvx.0,ERSTER FREIER,erster_freier,,
+gdc,vpvx.0,CHOR,chor,,
+gdc,vpvx.0,ZWEITER FREIER,zweiter_freier,,
+gdc,vpvx.0,DRITTER FREIER,dritter_freier,,
+gdc,vpvx.0,SÄNGER,sänger,,
+gdc,vpvx.0,TELEMACHOS,telemachos,,
+gdc,vpvx.0,SEHER,seher,,
+gdc,vpvx.0,OBERER CHOR,oberer_chor,,
+gdc,vpvx.0,UNTERER CHOR,unterer_chor,,
+gdc,vpvx.0,DRITTER CHORSPRECHER,dritter_chorsprecher,,
+gdc,vpvx.0,ODYSSEUS,odysseus,,
+gdc,vpvx.0,EINE STIMME,eine_stimme,,
+gdc,vpvx.0,EINE ANDERE,eine_andere,,
+gdc,vpvx.0,PENELOPEIA,penelopeia,,
+gdc,vpvx.0,Odysseus,de,"Sorge, Reinhard Johannes",118798065,,,0,1912,0,0

@@ -1,0 +1,23 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,twt3.0,KENNEDY,kennedy,,
+gdc,twt3.0,PAULET,paulet,,
+gdc,twt3.0,MARIA,maria,,
+gdc,twt3.0,MORTIMER,mortimer,,
+gdc,twt3.0,BURLEIGH,burleigh,,
+gdc,twt3.0,DAVISON,davison,,
+gdc,twt3.0,KENT,kent,,
+gdc,twt3.0,ELISABETH,elisabeth,,
+gdc,twt3.0,AUBESPINE,aubespine,,
+gdc,twt3.0,BELLIEVRE,bellievre,,
+gdc,twt3.0,TALBOT,talbot,,
+gdc,twt3.0,LEICESTER,leicester,,
+gdc,twt3.0,OKELLY,okelly,,
+gdc,twt3.0,OFFIZIER,offizier,,
+gdc,twt3.0,PAGE,page,,
+gdc,twt3.0,MELVIL,melvil,,
+gdc,twt3.0,KURL,kurl,,
+gdc,twt3.0,BURGOYN,burgoyn,,
+gdc,twt3.0,ZWEITE KAMMERFRAU,zweite_kammerfrau,,
+gdc,twt3.0,DIE KAMMERFRAUEN,die_kammerfrauen,,
+gdc,twt3.0,Maria Stuart,de,"Schiller, Friedrich",118607626,,,1800,1801,1800,0

@@ -1,0 +1,13 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,11hdv.0,POSTMEISTERIN,postmeisterin,,
+gdc,11hdv.0,DER JUNGE,der_junge,,
+gdc,11hdv.0,LUCIE,lucie,,
+gdc,11hdv.0,MADAME SOMMER,madame_sommer,,
+gdc,11hdv.0,POSTILLION,postillion,,
+gdc,11hdv.0,ANNCHEN,annchen,,
+gdc,11hdv.0,BEDIENTER,bedienter,,
+gdc,11hdv.0,FERNANDO,fernando,,
+gdc,11hdv.0,STELLA,stella,,
+gdc,11hdv.0,VERWALTER,verwalter,,
+gdc,11hdv.0,Stella,de,"Goethe, Johann Wolfgang",118540238,,,0,1776,1776,0

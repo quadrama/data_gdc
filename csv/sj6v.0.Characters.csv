@@ -1,0 +1,14 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,sj6v.0,BOLZAU,bolzau,,
+gdc,sj6v.0,BERTHA,bertha,,
+gdc,sj6v.0,SCHNAKE,schnake,,
+gdc,sj6v.0,SCHEFFLER,scheffler,,
+gdc,sj6v.0,HARTWIG,hartwig,,
+gdc,sj6v.0,STEINKIRCH,steinkirch,,
+gdc,sj6v.0,DIENER,diener,,
+gdc,sj6v.0,LUDMILLA,ludmilla,,
+gdc,sj6v.0,BRIMBORIUS,brimborius,,
+gdc,sj6v.0,WILHELMINE,wilhelmine,,
+gdc,sj6v.0,FRANZ,franz,,
+gdc,sj6v.0,Das Stiftungsfest,de,"Moser, Gustav von",116937807,,,0,1862,0,0

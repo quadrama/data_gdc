@@ -1,0 +1,22 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,r134.0,AMANTE,amante,,
+gdc,r134.0,PAULO,paulo,,
+gdc,r134.0,LAURA,laura,,
+gdc,r134.0,JULIO,julio,,
+gdc,r134.0,LUDOVICO,ludovico,,
+gdc,r134.0,PIRRO,pirro,,
+gdc,r134.0,DONNA SOLINA,donna_solina,,
+gdc,r134.0,PASQUINO,pasquino,,
+gdc,r134.0,GALBINO,galbino,,
+gdc,r134.0,ROSALINE,rosaline,,
+gdc,r134.0,HERZOGIN,herzogin,,
+gdc,r134.0,DRULLO,drullo,,
+gdc,r134.0,BEDIENTER,bedienter,,
+gdc,r134.0,ROSAURA,rosaura,,
+gdc,r134.0,GALANTERIEKRÄMERIN,galanteriekrämerin,,
+gdc,r134.0,CARLO,carlo,,
+gdc,r134.0,STALLMEISTER,stallmeister,,
+gdc,r134.0,KAMMERDIENER,kammerdiener,,
+gdc,r134.0,ABGEORDNETER,abgeordneter,,
+gdc,r134.0,Die neue Arria,de,"Klinger, Friedrich Maximilian",118563319,,,1775,1776,0,0

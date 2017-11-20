@@ -1,0 +1,10 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,qh44.0,MARIANNE,marianne,,
+gdc,qh44.0,ONKEL LUDWIG,onkel_ludwig,,
+gdc,qh44.0,GEORG,georg,,
+gdc,qh44.0,DUFROY,dufroy,,
+gdc,qh44.0,UEXKÜLL,uexküll,,
+gdc,qh44.0,STIMME,stimme,,
+gdc,qh44.0,DIE ERSCHEINUNG,die_erscheinung,,
+gdc,qh44.0,Ignorabimus,de,"Holz, Arno",118553216,,,0,1914,1927,0

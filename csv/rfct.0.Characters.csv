@@ -1,0 +1,17 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,rfct.0,SCHLADRITZ,schladritz,,
+gdc,rfct.0,GOTTSCHED,gottsched,,
+gdc,rfct.0,FRAU GOTTSCHED,frau_gottsched,,
+gdc,rfct.0,GRAF BOLZA,graf_bolza,,
+gdc,rfct.0,GOTTFRIED,gottfried,,
+gdc,rfct.0,GELLERT,gellert,,
+gdc,rfct.0,CATO,cato,,
+gdc,rfct.0,WILHELMINE,wilhelmine,,
+gdc,rfct.0,GRÄFIN,gräfin,,
+gdc,rfct.0,KATHARINA,katharina,,
+gdc,rfct.0,SIEGMUND,siegmund,,
+gdc,rfct.0,PRINZ HEINRICH,prinz_heinrich,,
+gdc,rfct.0,ZASTROW,zastrow,,
+gdc,rfct.0,WEDELL,wedell,,
+gdc,rfct.0,Gottsched und Gellert,de,"Laube, Heinrich",118570080,,,1845,1846,1845,0

@@ -1,0 +1,15 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,vrds.0,CONSTANZE,constanze,,
+gdc,vrds.0,CLÄRCHEN,clärchen,,
+gdc,vrds.0,BAST,bast,,
+gdc,vrds.0,ERSTER POET,erster_poet,,
+gdc,vrds.0,ZWEYTER POET,zweyter_poet,,
+gdc,vrds.0,NIKOLO,nikolo,,
+gdc,vrds.0,ALBERT,albert,,
+gdc,vrds.0,TRÜBE,trübe,,
+gdc,vrds.0,LUKREZIA,lukrezia,,
+gdc,vrds.0,VIRGINIA,virginia,,
+gdc,vrds.0,ORPHEUS,orpheus,,
+gdc,vrds.0,DIE NARREN,die_narren,,
+gdc,vrds.0,Die Liebe im Narrenhause,de,"Stephanie, Johann Gottlieb (der Jüngere)",119545799,,,0,0,1787,0

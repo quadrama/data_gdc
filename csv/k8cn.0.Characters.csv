@@ -1,0 +1,20 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,k8cn.0,VOLPINO,volpino,,
+gdc,k8cn.0,LISEL,lisel,,
+gdc,k8cn.0,JOHANN,johann,,
+gdc,k8cn.0,FRÄNZL,fränzl,,
+gdc,k8cn.0,FRAU VON HABICHT,frau_von_habicht,,
+gdc,k8cn.0,FRÄULE,fräule,,
+gdc,k8cn.0,HERR VON BÄR,herr_von_bär,,
+gdc,k8cn.0,HERR VON WOLF,herr_von_wolf,,
+gdc,k8cn.0,CHOR,chor,,
+gdc,k8cn.0,CHLOE,chloe,,
+gdc,k8cn.0,DAPHNE,daphne,,
+gdc,k8cn.0,GANYMEDES,ganymedes,,
+gdc,k8cn.0,TIRUS,tirus,,
+gdc,k8cn.0,DARDOS,dardos,,
+gdc,k8cn.0,JAKOB,jakob,,
+gdc,k8cn.0,PETER,peter,,
+gdc,k8cn.0,TOMASO,tomaso,,
+gdc,k8cn.0,Der Rauchfangkehrer,de,"Auenbrugger, Johann Leopold von",117668931,,,0,0,1781,0

@@ -1,0 +1,10 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,nkdm.0,MEDEA,medea,,
+gdc,nkdm.0,HOFMEISTERIN,hofmeisterin,,
+gdc,nkdm.0,EIN KNABE,ein_knabe,,
+gdc,nkdm.0,KNABEN,knaben,,
+gdc,nkdm.0,DER JÜNGERE,der_jüngere,,
+gdc,nkdm.0,DER ÄLTERE,der_ältere,,
+gdc,nkdm.0,JASON,jason,,
+gdc,nkdm.0,Medea,de,"Gotter, Friedrich Wilhelm",118540939,,,0,1782,1775,0

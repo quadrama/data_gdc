@@ -1,0 +1,7 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,11fzp.0,LAMON,lamon,,
+gdc,11fzp.0,EGLE,egle,,
+gdc,11fzp.0,AMINE,amine,,
+gdc,11fzp.0,ERIDON,eridon,,
+gdc,11fzp.0,Die Laune des Verliebten,de,"Goethe, Johann Wolfgang",118540238,,,1768,1806,1779,0

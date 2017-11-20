@@ -1,0 +1,11 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,t25v.0,WILLHELM,willhelm,,
+gdc,t25v.0,ROBERT,robert,,
+gdc,t25v.0,LUCIE,lucie,,
+gdc,t25v.0,BETTY,betty,,
+gdc,t25v.0,KARL,karl,,
+gdc,t25v.0,AMALIE,amalie,,
+gdc,t25v.0,JAKOB,jakob,,
+gdc,t25v.0,DER BEDIENTE,der_bediente,,
+gdc,t25v.0,Lucie Woodvil,de,"Pfeil, Johann Gottlob Benjamin",115546456,,,0,1756,1756,0

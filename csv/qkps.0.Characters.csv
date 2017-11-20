@@ -1,0 +1,15 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,qkps.0,VOLK,volk,,
+gdc,qkps.0,EUDOXIA,eudoxia,,
+gdc,qkps.0,EIN SPÄHER,ein_späher,,
+gdc,qkps.0,PETER,peter,,
+gdc,qkps.0,KATHARINA,katharina,,
+gdc,qkps.0,GORDON,gordon,,
+gdc,qkps.0,MONS,mons,,
+gdc,qkps.0,OSTERMANN,ostermann,,
+gdc,qkps.0,JAGUSCHINSKY,jaguschinsky,,
+gdc,qkps.0,MENZIKOF,menzikof,,
+gdc,qkps.0,THEOPHANES,theophanes,,
+gdc,qkps.0,RUF,ruf,,
+gdc,qkps.0,Eudoxia,de,"Immermann, Karl",118555553,,,0,1832,1835,0

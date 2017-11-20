@@ -1,0 +1,16 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,tvcm.0,WIEDEWITT,wiedewitt,,
+gdc,tvcm.0,KÄSEBERG,käseberg,,
+gdc,tvcm.0,VON MOELLERKUCHEN,von_moellerkuchen,,
+gdc,tvcm.0,ZWEITER MAGISTRATSBEAMTER,zweiter_magistratsbeamter,,
+gdc,tvcm.0,MAGISTRATSBEAMTER,magistratsbeamter,,
+gdc,tvcm.0,ERSTER RATSHERR,erster_ratsherr,,
+gdc,tvcm.0,ZWEITER RATSHERR,zweiter_ratsherr,,
+gdc,tvcm.0,DRITTER RATSHERR,dritter_ratsherr,,
+gdc,tvcm.0,KAISER,kaiser,,
+gdc,tvcm.0,DER RATSHERR,der_ratsherr,,
+gdc,tvcm.0,DIE SCHILDBÜRGER,die_schildbürger,,
+gdc,tvcm.0,DIE SEKRETÄRE,die_sekretäre,,
+gdc,tvcm.0,DER BÜRGERMEISTER,der_bürgermeister,,
+gdc,tvcm.0,Die Wurzeln der Wohlhabenheit,de,"Scheerbart, Paul",118606816,,,0,1904,0,0

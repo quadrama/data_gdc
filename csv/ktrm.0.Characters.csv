@@ -1,0 +1,19 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,ktrm.0,KALAF,kalaf,,
+gdc,ktrm.0,BARAK,barak,,
+gdc,ktrm.0,DIE KÖNIGINMUTTER,die_königinmutter,,
+gdc,ktrm.0,KLAGEWEIBER,klageweiber,,
+gdc,ktrm.0,TRUFFALDINO,truffaldino,,
+gdc,ktrm.0,DOKTORES,doktores,,
+gdc,ktrm.0,CHOR,chor,,
+gdc,ktrm.0,ALTOUM,altoum,,
+gdc,ktrm.0,PANTALONE,pantalone,,
+gdc,ktrm.0,TARTAGLIA,tartaglia,,
+gdc,ktrm.0,TURANDOT,turandot,,
+gdc,ktrm.0,ADELMA,adelma,,
+gdc,ktrm.0,MÄNNERCHOR,männerchor,,
+gdc,ktrm.0,FRAUENCHOR,frauenchor,,
+gdc,ktrm.0,MÄDCHENCHOR,mädchenchor,,
+gdc,ktrm.0,EUNUCHEN,eunuchen,,
+gdc,ktrm.0,Turandot,de,"Busoni, Ferruccio",118518011,,,0,1920,1917,0

@@ -1,0 +1,22 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,pkhg.0,RADIANA,radiana,,
+gdc,pkhg.0,EIN STALLMEISTER,ein_stallmeister,,
+gdc,pkhg.0,LUISA,luisa,,
+gdc,pkhg.0,WENDELBORN,wendelborn,,
+gdc,pkhg.0,VATER BUNTSCHUH,vater_buntschuh,,
+gdc,pkhg.0,MUTTER BUNTSCHUH,mutter_buntschuh,,
+gdc,pkhg.0,DIENER FRANZ,diener_franz,,
+gdc,pkhg.0,DER SEKRETÄR,der_sekretär,,
+gdc,pkhg.0,PHILIPP WENDELBORN,philipp_wendelborn,,
+gdc,pkhg.0,CLOWN ODEBRECHT,clown_odebrecht,,
+gdc,pkhg.0,CLOWN AMBROIS,clown_ambrois,,
+gdc,pkhg.0,DER HERR,der_herr,,
+gdc,pkhg.0,DIE DAME,die_dame,,
+gdc,pkhg.0,STIMME EINES STALLMEISTERS,stimme_eines_stallmeisters,,
+gdc,pkhg.0,EIN ZWEITER CLOWN,ein_zweiter_clown,,
+gdc,pkhg.0,DER ARZT,der_arzt,,
+gdc,pkhg.0,EIN ZIRKUSDIENER,ein_zirkusdiener,,
+gdc,pkhg.0,TOBIAS BUNTSCHUH,tobias_buntschuh,,
+gdc,pkhg.0,EIN ANDERER STALLMEISTER,ein_anderer_stallmeister,,
+gdc,pkhg.0,Tobias Buntschuh,de,"Hauptmann, Carl",118546910,,,0,1920,0,0

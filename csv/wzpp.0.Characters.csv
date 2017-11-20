@@ -1,0 +1,19 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,wzpp.0,SIRENEN,sirenen,,
+gdc,wzpp.0,VENUS,venus,,
+gdc,wzpp.0,TANNHÄUSER,tannhäuser,,
+gdc,wzpp.0,DER HIRT,der_hirt,,
+gdc,wzpp.0,DIE ÄLTEREN PILGER,die_älteren_pilger,,
+gdc,wzpp.0,DER LANDGRAF,der_landgraf,,
+gdc,wzpp.0,WALTHER,walther,,
+gdc,wzpp.0,BITEROLF,biterolf,,
+gdc,wzpp.0,WOLFRAM,wolfram,,
+gdc,wzpp.0,ELISABETH,elisabeth,,
+gdc,wzpp.0,CHOR,chor,,
+gdc,wzpp.0,CHOR DER RITTER,chor_der_ritter,,
+gdc,wzpp.0,VIER EDELKNABEN,vier_edelknaben,,
+gdc,wzpp.0,CHOR DER EDELFRAUEN,chor_der_frauen,,
+gdc,wzpp.0,MÄNNERGESANG,männergesang,,
+gdc,wzpp.0,DIE JÜNGEREN PILGER,die_jüngeren_pilger,,
+gdc,wzpp.0,Tannhäuser und Der Sängerkrieg auf Wartburg,de,"Wagner, Richard",118594117,,,0,0,1845,0

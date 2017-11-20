@@ -1,0 +1,10 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,pb6v.0,NIKATOR,nikator,,
+gdc,pb6v.0,ESLA,esla,,
+gdc,pb6v.0,KÖNIG,könig,,
+gdc,pb6v.0,KÖNIGIN,königin,,
+gdc,pb6v.0,ADONIA,adonia,,
+gdc,pb6v.0,TOTILA,totila,,
+gdc,pb6v.0,DIE SOLDATEN,die_soldaten,,
+gdc,pb6v.0,Nikator,de,"Günderode, Karoline von",118543202,,,0,1805,0,0

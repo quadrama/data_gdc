@@ -1,0 +1,20 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,qd3h.0,MUSIKLEHRER,musiklehrer,,
+gdc,qd3h.0,HAUSHOFMEISTER,haushofmeister,,
+gdc,qd3h.0,DER LAKAI,der_lakai,,
+gdc,qd3h.0,DER OFFIZIER,der_offizier,,
+gdc,qd3h.0,KOMPONIST,komponist,,
+gdc,qd3h.0,PERÜCKENMACHER,perückenmacher,,
+gdc,qd3h.0,ZERBINETTA,zerbinetta,,
+gdc,qd3h.0,PRIMADONNA,primadonna,,
+gdc,qd3h.0,TANZMEISTER,tanzmeister,,
+gdc,qd3h.0,TENOR,tenor,,
+gdc,qd3h.0,NAJADE,najade,,
+gdc,qd3h.0,DRYADE,dryade,,
+gdc,qd3h.0,ECHO,echo,,
+gdc,qd3h.0,HARLEKIN,harlekin,,
+gdc,qd3h.0,BRIGHELLA,brighella,,
+gdc,qd3h.0,SCARAMUCCIO,scaramuccio,,
+gdc,qd3h.0,TRUFFALDIN,truffaldin,,
+gdc,qd3h.0,Ariadne auf Naxos,de,"Hofmannsthal, Hugo von",118552759,,,0,1912,1916,0

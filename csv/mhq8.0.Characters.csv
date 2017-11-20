@@ -1,0 +1,21 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,mhq8.0,DER LAIENBRUDER,der_laienbruder,,
+gdc,mhq8.0,DIE FRAU,die_frau,,
+gdc,mhq8.0,DER FREMDE,der_fremde,,
+gdc,mhq8.0,PIETRO,pietro,,
+gdc,mhq8.0,SANDRO,sandro,,
+gdc,mhq8.0,MASOLINO,masolino,,
+gdc,mhq8.0,ALESSIO,alessio,,
+gdc,mhq8.0,ARRIGO,arrigo,,
+gdc,mhq8.0,FRANCESCO,francesco,,
+gdc,mhq8.0,DIANORA,dianora,,
+gdc,mhq8.0,CHOR,chor,,
+gdc,mhq8.0,DOPPELCHOR (MARIENCHOR),doppelchor_marienchor,,
+gdc,mhq8.0,CHOR DER MÖNCHE,chor_der_mönche,,
+gdc,mhq8.0,STIMMEN DES VOLKES,stimmen_des_volkes,,
+gdc,mhq8.0,GINEVRA,ginevra,,
+gdc,mhq8.0,LISA,lisa,,
+gdc,mhq8.0,GIOVANNI,giovanni,,
+gdc,mhq8.0,PICCARDA,piccarda,,
+gdc,mhq8.0,Mona Lisa,de,"Dovsky, Beatrice",12686022X,,,0,0,1915,0

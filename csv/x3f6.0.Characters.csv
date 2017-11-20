@@ -1,0 +1,16 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,x3f6.0,SCHÖN,schön,,
+gdc,x3f6.0,SCHWARZ,schwarz,,
+gdc,x3f6.0,GOLL,goll,,
+gdc,x3f6.0,LULU,lulu,,
+gdc,x3f6.0,ALWA,alwa,,
+gdc,x3f6.0,HENRIETTE,henriette,,
+gdc,x3f6.0,SCHIGOLCH,schigolch,,
+gdc,x3f6.0,ESCHERICH,escherich,,
+gdc,x3f6.0,ESCERNY,escerny,,
+gdc,x3f6.0,GESCHWITZ,geschwitz,,
+gdc,x3f6.0,RODRIGO,rodrigo,,
+gdc,x3f6.0,HUGENBERG,hugenberg,,
+gdc,x3f6.0,FERDINAND,ferdinand,,
+gdc,x3f6.0,Erdgeist,de,"Wedekind, Frank",118629867,,,1895,1895,1898,0

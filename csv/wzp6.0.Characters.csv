@@ -1,0 +1,17 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,wzp6.0,SIEGMUND,siegmund,,
+gdc,wzp6.0,SIEGLINDE,sieglinde,,
+gdc,wzp6.0,HUNDING,hunding,,
+gdc,wzp6.0,WOTAN,wotan,,
+gdc,wzp6.0,BRÜNNHILDE,brünnhilde,,
+gdc,wzp6.0,FRICKA,fricka,,
+gdc,wzp6.0,GERHILDE,gerhilde,,
+gdc,wzp6.0,ORTLINDE,ortlinde,,
+gdc,wzp6.0,WALTRAUTE,waltraute,,
+gdc,wzp6.0,HELMWIGE,helmwige,,
+gdc,wzp6.0,SCHWERTLEITE,schwertleite,,
+gdc,wzp6.0,GRIMGERDE,grimgerde,,
+gdc,wzp6.0,ROSSWEISSE,rossweisse,,
+gdc,wzp6.0,SIEGRUNE,siegrune,,
+gdc,wzp6.0,Die Walküre,de,"Wagner, Richard",118594117,,,0,1853,1876,0

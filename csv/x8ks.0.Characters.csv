@@ -1,0 +1,8 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,x8ks.0,ALCESTE,alceste,,
+gdc,x8ks.0,PARTHENIA,parthenia,,
+gdc,x8ks.0,ADMET,admet,,
+gdc,x8ks.0,HERKULES,herkules,,
+gdc,x8ks.0,CHOR,chor,,
+gdc,x8ks.0,Alceste,de,"Wieland, Christoph Martin",118632477,,,0,1773,1773,0

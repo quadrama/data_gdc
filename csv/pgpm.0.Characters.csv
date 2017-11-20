@@ -1,0 +1,13 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,pgpm.0,LEANDER,leander,,
+gdc,pgpm.0,HANSWURST,hanswurst,,
+gdc,pgpm.0,ODOARDO,odoardo,,
+gdc,pgpm.0,RIEPEL,riepel,,
+gdc,pgpm.0,ANGELA,angela,,
+gdc,pgpm.0,COLOMBINA,colombina,,
+gdc,pgpm.0,ANSELMO,anselmo,,
+gdc,pgpm.0,MÄGERA,mägera,,
+gdc,pgpm.0,RICHTER,richter,,
+gdc,pgpm.0,SCHULLMEISTER,schullmeister,,
+gdc,pgpm.0,"Mägera, die förchterliche Hexe",de,"Hafner, Philipp",,,,1763,1764,1763,0

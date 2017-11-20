@@ -1,0 +1,19 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,rfxf.0,ASPERMONTE,aspermonte,,
+gdc,rfxf.0,JULIUS,julius,,
+gdc,rfxf.0,GUIDO,guido,,
+gdc,rfxf.0,ERZBISCHOF,erzbischof,,
+gdc,rfxf.0,FÜRST,fürst,,
+gdc,rfxf.0,CÄCILIA,cäcilia,,
+gdc,rfxf.0,ÄBTISSIN,äbtissin,,
+gdc,rfxf.0,BLANKA,blanka,,
+gdc,rfxf.0,PORZIA,porzia,,
+gdc,rfxf.0,EIN ALTER BAUER,ein_alter_bauer,,
+gdc,rfxf.0,BEDIENTER,bedienter,,
+gdc,rfxf.0,EINER VON DEN BEWAFFNETEN,einer_von_den_bewaffneten,,
+gdc,rfxf.0,MARCELLUS,marcellus,,
+gdc,rfxf.0,ARZT,arzt,,
+gdc,rfxf.0,NONNE,nonne,,
+gdc,rfxf.0,EIN BEDIENTER,ein_bedienter,,
+gdc,rfxf.0,Julius von Tarent,de,"Leisewitz, Johann Anton",118571370,,,0,1776,1776,0

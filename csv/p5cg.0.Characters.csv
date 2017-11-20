@@ -1,0 +1,17 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,p5cg.0,DE SILVA,de_silva,,
+gdc,p5cg.0,JOCHAI,jochai,,
+gdc,p5cg.0,DIENER,diener,,
+gdc,p5cg.0,URIEL,uriel,,
+gdc,p5cg.0,SANTOS,santos,,
+gdc,p5cg.0,MANASSE,manasse,,
+gdc,p5cg.0,SIMON,simon,,
+gdc,p5cg.0,JUDITH,judith,,
+gdc,p5cg.0,RUBEN,ruben,,
+gdc,p5cg.0,ESTHER,esther,,
+gdc,p5cg.0,JOEL,joel,,
+gdc,p5cg.0,AKIBA,akiba,,
+gdc,p5cg.0,EMBDEN,embden,,
+gdc,p5cg.0,BARUCH,baruch,,
+gdc,p5cg.0,Uriel Acosta,de,"Gutzkow, Karl",118543830,,,1846,1847,1846,0

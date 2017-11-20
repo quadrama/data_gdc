@@ -1,0 +1,18 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,ptkw.0,DOUGLAS,douglas,,
+gdc,ptkw.0,MARGARETE,margarete,,
+gdc,ptkw.0,MARIA,maria,,
+gdc,ptkw.0,LESLEY,lesley,,
+gdc,ptkw.0,TOM,tom,,
+gdc,ptkw.0,WILLIE,willie,,
+gdc,ptkw.0,RATCLIFF,ratcliff,,
+gdc,ptkw.0,MEHRERE,mehrere,,
+gdc,ptkw.0,ROBIN,robin,,
+gdc,ptkw.0,DICK,dick,,
+gdc,ptkw.0,BILL,bill,,
+gdc,ptkw.0,JOHN,john,,
+gdc,ptkw.0,TADDIE,taddie,,
+gdc,ptkw.0,EIN DIENER,ein_diener,,
+gdc,ptkw.0,VIELE STIMMEN,viele_stimmen,,
+gdc,ptkw.0,William Ratcliff,de,"Heine, Heinrich",118548018,,,0,1823,0,0

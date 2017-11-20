@@ -1,0 +1,18 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,nkdq.0,MIRANDA,miranda,,
+gdc,nkdq.0,GEISTERCHOR,geisterchor,,
+gdc,nkdq.0,PROSPERO,prospero,,
+gdc,nkdq.0,ARIOSE,ariose,,
+gdc,nkdq.0,ARIEL,ariel,,
+gdc,nkdq.0,CALIBAN,caliban,,
+gdc,nkdq.0,CHOR DER SCHIFFER,chor_der_schiffer,,
+gdc,nkdq.0,FERNANDO,fernando,,
+gdc,nkdq.0,FABIO,fabio,,
+gdc,nkdq.0,ORONZIO,oronzio,,
+gdc,nkdq.0,STEFANO,stefano,,
+gdc,nkdq.0,CAVATINA,cavatina,,
+gdc,nkdq.0,CHOR,chor,,
+gdc,nkdq.0,RUPERTO,ruperto,,
+gdc,nkdq.0,MATROSEN,matrosen,,
+gdc,nkdq.0,Die Geisterinsel,de,"Gotter, Friedrich Wilhelm",118540939,,,0,0,1798,0

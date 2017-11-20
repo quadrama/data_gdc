@@ -1,0 +1,10 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,t2z2.0,DAMON,damon,,
+gdc,t2z2.0,PHYLLIS,phyllis,,
+gdc,t2z2.0,SIRMIO,sirmio,,
+gdc,t2z2.0,SCHMUHL,schmuhl,,
+gdc,t2z2.0,MOPSUS,mopsus,,
+gdc,t2z2.0,SALOME,salome,,
+gdc,t2z2.0,DER WIRTH,der_wirth,,
+gdc,t2z2.0,Die verhängnisvolle Gabel,de,"Platen, August von",118594869,,,1826,1826,0,0

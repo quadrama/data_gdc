@@ -1,0 +1,21 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,jkjb.0,KRAWUTSCHKE,krawutschke,,
+gdc,jkjb.0,LEHMANN,lehmann,,
+gdc,jkjb.0,LUDE,lude,,
+gdc,jkjb.0,BULLE,bulle,,
+gdc,jkjb.0,ABRAMSEN,abramsen,,
+gdc,jkjb.0,MIEZE,mieze,,
+gdc,jkjb.0,HENRIETTE MARSCHALL,henriette_marschall,,
+gdc,jkjb.0,ANGLER,angler,,
+gdc,jkjb.0,HELENE,helene,,
+gdc,jkjb.0,DER HERR,der_herr,,
+gdc,jkjb.0,RUFE VON ALLEN SEITEN,rufe_von_allen_seiten,,
+gdc,jkjb.0,RUFE VON DER GALERIE,rufe_von_der_galerie,,
+gdc,jkjb.0,EIN VORSTANDSMITGLIED DER FREIEN BÜHNE,ein_vorstandsmitglied_der_freien_bühne,,
+gdc,jkjb.0,DAS VORSTANDSMITGLIED,das_vorstandsmitglied,,
+gdc,jkjb.0,EIN ANDERES VORSTANDSMITGLIED,ein_anderes_vorstandsmitglied,,
+gdc,jkjb.0,DAS ERSTE VORSTANDSMITGLIED,das_erste_vorstandsmitglied,,
+gdc,jkjb.0,RUFE,rufe,,
+gdc,jkjb.0,MORPHY,morphy,,
+gdc,jkjb.0,Im Suff,de,"Alberti, Konrad",116009926,,,0,1890,0,0

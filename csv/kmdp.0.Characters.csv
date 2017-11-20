@@ -1,0 +1,17 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,kmdp.0,LORENZ,lorenz,,
+gdc,kmdp.0,DÜNNE,dünne,,
+gdc,kmdp.0,GUTTENBERG,guttenberg,,
+gdc,kmdp.0,BERTHA,bertha,,
+gdc,kmdp.0,SEBALDUS,sebaldus,,
+gdc,kmdp.0,RIEFFE,rieffe,,
+gdc,kmdp.0,FUST,fust,,
+gdc,kmdp.0,PETER,peter,,
+gdc,kmdp.0,BEILDECK,beildeck,,
+gdc,kmdp.0,KÄTHCHEN,käthchen,,
+gdc,kmdp.0,BARBARA,barbara,,
+gdc,kmdp.0,ELSE,else,,
+gdc,kmdp.0,KLARA,klara,,
+gdc,kmdp.0,HUMERY,humery,,
+gdc,kmdp.0,Johannes Gutenberg,de,"Birch-Pfeiffer, Charlotte",118658875,,,1834,1836,1835,0

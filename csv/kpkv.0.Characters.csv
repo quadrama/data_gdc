@@ -1,0 +1,11 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,kpkv.0,SITTENREICH,sittenreich,,
+gdc,kpkv.0,SUSANNA,susanna,,
+gdc,kpkv.0,AGNETA,agneta,,
+gdc,kpkv.0,GROBIAN,grobian,,
+gdc,kpkv.0,EHRENWEHRT,ehrenwehrt,,
+gdc,kpkv.0,CAROLINA,carolina,,
+gdc,kpkv.0,CHARLOTTE,charlotte,,
+gdc,kpkv.0,GUTHERZ,gutherz,,
+gdc,kpkv.0,Der Bookesbeutel,de,"Borkenstein, Hinrich",100428428,,,0,1742,0,0

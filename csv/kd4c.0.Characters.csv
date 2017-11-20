@@ -1,0 +1,22 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,kd4c.0,KÄTHCHEN,käthchen,,
+gdc,kd4c.0,KARL,karl,,
+gdc,kd4c.0,REDLICH,redlich,,
+gdc,kd4c.0,STABERL,staberl,,
+gdc,kd4c.0,THERESE,therese,,
+gdc,kd4c.0,MÜLLER,müller,,
+gdc,kd4c.0,HANS,hans,,
+gdc,kd4c.0,TOLOYSKY,toloysky,,
+gdc,kd4c.0,FERDINAND,ferdinand,,
+gdc,kd4c.0,MEHRERE,mehrere,,
+gdc,kd4c.0,EIN BÜRGER,ein_bürger,,
+gdc,kd4c.0,EIN ANDERER,ein_anderer,,
+gdc,kd4c.0,EIN DRITTER,ein_dritter,,
+gdc,kd4c.0,EIN VIERTER BÜRGER,ein_vierter_bürger,,
+gdc,kd4c.0,KOMMISSÄR,kommissär,,
+gdc,kd4c.0,ERSTE BÜRGERIN,erste_bürgerin,,
+gdc,kd4c.0,DIE WEIBER,die_weiber,,
+gdc,kd4c.0,ZWEITE BÜRGERIN,zweite_bürgerin,,
+gdc,kd4c.0,CHOR,chor,,
+gdc,kd4c.0,Die Bürger in Wien,de,"Bäuerle, Adolf",119560038,,,0,1820,1813,0

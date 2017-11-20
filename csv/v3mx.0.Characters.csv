@@ -1,0 +1,18 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,v3mx.0,SYLVESTER,sylvester,,
+gdc,v3mx.0,FORTUNAT,fortunat,,
+gdc,v3mx.0,CATHRINE,cathrine,,
+gdc,v3mx.0,FRIEDRICH,friedrich,,
+gdc,v3mx.0,FRAU SYLVESTERINN,frau_sylvesterinn,,
+gdc,v3mx.0,STROM,strom,,
+gdc,v3mx.0,FIEKCHEN,fiekchen,,
+gdc,v3mx.0,GOLDSCHMIDTSJUNGE,goldschmidtsjunge,,
+gdc,v3mx.0,TABLETKRÄMER,tabletkrämer,,
+gdc,v3mx.0,LACKEY,lackey,,
+gdc,v3mx.0,MATERIALISTENJUNGE,materialistenjunge,,
+gdc,v3mx.0,RICHARDINN,richardinn,,
+gdc,v3mx.0,LIESCHEN,lieschen,,
+gdc,v3mx.0,RENNER,renner,,
+gdc,v3mx.0,SORGER,sorger,,
+gdc,v3mx.0,Der geschäftige Müßiggänger,de,"Schlegel, Johann Elias",118608002,,,0,1743,0,0

@@ -1,0 +1,19 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,k93c.0,MARCUS,marcus,,
+gdc,k93c.0,LUCIUS,lucius,,
+gdc,k93c.0,VIRGINIA,virginia,,
+gdc,k93c.0,ALBINA,albina,,
+gdc,k93c.0,QUINTUS,quintus,,
+gdc,k93c.0,RUFFUS,ruffus,,
+gdc,k93c.0,NUMITORIUS,numitorius,,
+gdc,k93c.0,ICILIUS,icilius,,
+gdc,k93c.0,EIN PAAR VOM VOLKE,ein_paar_vom_volke,,
+gdc,k93c.0,DAS VOLK,das_volk,,
+gdc,k93c.0,APPIUS,appius,,
+gdc,k93c.0,EINIGE VOM VOLK,einige_vom_volk,,
+gdc,k93c.0,VIRGINIUS,virginius,,
+gdc,k93c.0,VALERIUS,valerius,,
+gdc,k93c.0,DIE ZEUGEN,die_zeugen,,
+gdc,k93c.0,LÄLIA,lälia,,
+gdc,k93c.0,Virginia oder das abgeschaffte Decemvirat,de,"Ayrenhoff, Cornelius Hermann von",118869647,,,0,1790,0,0

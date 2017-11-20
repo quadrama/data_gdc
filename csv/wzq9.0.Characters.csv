@@ -1,0 +1,13 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,wzq9.0,ISOLDE,isolde,,
+gdc,wzq9.0,BRANGÄNE,brangäne,,
+gdc,wzq9.0,DER JUNGE SEEMANN,der_junge_seemann,,
+gdc,wzq9.0,KURWENAL,kurwenal,,
+gdc,wzq9.0,TRISTAN,tristan,,
+gdc,wzq9.0,SCHIFFSVOLK,schiffsvolk,,
+gdc,wzq9.0,MELOT,melot,,
+gdc,wzq9.0,MARKE,marke,,
+gdc,wzq9.0,HIRT,hirt,,
+gdc,wzq9.0,DER STEUERMANN,der_steuermann,,
+gdc,wzq9.0,Tristan und Isolde,de,"Wagner, Richard",118594117,,,1859,1859,1865,0

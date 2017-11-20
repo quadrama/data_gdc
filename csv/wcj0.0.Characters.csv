@@ -1,0 +1,20 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,wcj0.0,BOLLAND,bolland,,
+gdc,wcj0.0,BEERMANN,beermann,,
+gdc,wcj0.0,WASNER,wasner,,
+gdc,wcj0.0,EFFIE,effie,,
+gdc,wcj0.0,FRAU BOLLAND,frau_bolland,,
+gdc,wcj0.0,FRÄULEIN KOCH-PINNEBERG,fräulein_koch-pinneberg,,
+gdc,wcj0.0,DOBLER,dobler,,
+gdc,wcj0.0,FRAU BEERMANN,frau_beermann,,
+gdc,wcj0.0,HAUSER,hauser,,
+gdc,wcj0.0,FRAU LUND,frau_lund,,
+gdc,wcj0.0,STRÖBEL,ströbel,,
+gdc,wcj0.0,REISACHER,reisacher,,
+gdc,wcj0.0,PRÄSIDENT,präsident,,
+gdc,wcj0.0,HAUTEVILLE,hauteville,,
+gdc,wcj0.0,SCHUTZMANN,schutzmann,,
+gdc,wcj0.0,SCHMETTAU,schmettau,,
+gdc,wcj0.0,BETTY,betty,,
+gdc,wcj0.0,Moral,de,"Thoma, Ludwig",118622072,,,0,1909,1908,0

@@ -1,0 +1,23 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,x4vh.0,BARONINN,baroninn,,
+gdc,x4vh.0,BABETTE,babette,,
+gdc,x4vh.0,BLÜMLEIN,blümlein,,
+gdc,x4vh.0,BEDIENTER,bedienter,,
+gdc,x4vh.0,WOLF,wolf,,
+gdc,x4vh.0,NINA,nina,,
+gdc,x4vh.0,EMY,emy,,
+gdc,x4vh.0,MARIE,marie,,
+gdc,x4vh.0,WALDBERG,waldberg,,
+gdc,x4vh.0,GRÜNAU,grünau,,
+gdc,x4vh.0,FRAU VON LICHTBERG,frau_von_lichtberg,,
+gdc,x4vh.0,FRÄULEIN GRINZBERG,fräulein_grinzberg,,
+gdc,x4vh.0,FRÄULEIN IMPFEN,fräulein_impfen,,
+gdc,x4vh.0,FRAU VON DORN,frau_von_dorn,,
+gdc,x4vh.0,RÄTHINN SOMMER,räthinn_sommer,,
+gdc,x4vh.0,HERR VON HACKEN,herr_von_hacken,,
+gdc,x4vh.0,HERR VON DORN,herr_von_dorn,,
+gdc,x4vh.0,BARONINN DÜRRER,baroninn_dürrer,,
+gdc,x4vh.0,HERR VON TRAUFBACH,herr_von_traufbach,,
+gdc,x4vh.0,GERTRAUDE,gertraude,,
+gdc,x4vh.0,Welche ist die Braut!,de,"Weißenthurn, Johanna von",116752505,,,0,1817,1813,0

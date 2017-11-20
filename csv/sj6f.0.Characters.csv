@@ -1,0 +1,13 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,sj6f.0,ALLGEMEINER CHOR,allgemeiner_chor,,
+gdc,sj6f.0,THERESE,therese,,
+gdc,sj6f.0,CHRISTINE,christine,,
+gdc,sj6f.0,BOMBARDON,bombardon,,
+gdc,sj6f.0,GONTRAN,gontran,,
+gdc,sj6f.0,COLAS,colas,,
+gdc,sj6f.0,CHOR DER MÄNNER,chor_der_männer,,
+gdc,sj6f.0,CHOR DER FRAUEN,chor_der_frauen,,
+gdc,sj6f.0,CHOR DER MÄDCHEN,chor_der_mädchen,,
+gdc,sj6f.0,CHOR DER SOLDATEN,chor_der_soldaten,,
+gdc,sj6f.0,Das goldene Kreuz,de,"Mosenthal, Salomon Hermann von",101363184,,,0,0,1875,0

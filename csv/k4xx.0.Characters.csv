@@ -1,0 +1,21 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,k4xx.0,JOHANNES MÜLLER,johannes_müller,,
+gdc,k4xx.0,BÜSCHING,büsching,,
+gdc,k4xx.0,BETTLER,bettler,,
+gdc,k4xx.0,CAROFILLI,carofilli,,
+gdc,k4xx.0,CABOGA,caboga,,
+gdc,k4xx.0,PROCOLI,procoli,,
+gdc,k4xx.0,MITROVICH,mitrovich,,
+gdc,k4xx.0,MARINA,marina,,
+gdc,k4xx.0,CROOK,crook,,
+gdc,k4xx.0,CORNELIA,cornelia,,
+gdc,k4xx.0,HERZOG,herzog,,
+gdc,k4xx.0,VIELE,viele,,
+gdc,k4xx.0,RATSHERR,ratsherr,,
+gdc,k4xx.0,HITROV,hitrov,,
+gdc,k4xx.0,CZIRICH,czirich,,
+gdc,k4xx.0,KASSUBA,kassuba,,
+gdc,k4xx.0,POLO,polo,,
+gdc,k4xx.0,EINER,einer,,
+gdc,k4xx.0,Marino Caboga,de,"Arnim, Ludwig Achim von",118504177,,,0,1826,0,0

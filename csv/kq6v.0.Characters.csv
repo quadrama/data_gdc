@@ -1,0 +1,9 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,kq6v.0,HENLEY,henley,,
+gdc,kq6v.0,WIDSTON,widston,,
+gdc,kq6v.0,KLERDON,klerdon,,
+gdc,kq6v.0,TRUWORTH,truworth,,
+gdc,kq6v.0,GRANVILLE,granville,,
+gdc,kq6v.0,AMALIA,amalia,,
+gdc,kq6v.0,Der Freigeist,de,"Brawe, Joachim Wilhelm von",11865991X,,,0,1758,0,0

@@ -1,0 +1,14 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,v3w3.0,SOLDAT,soldat,,
+gdc,v3w3.0,DIRNE,dirne,,
+gdc,v3w3.0,STUBENMÄDCHEN,stubenmädchen,,
+gdc,v3w3.0,Stubenmädel (10),stubenmädel,,
+gdc,v3w3.0,DER JUNGE HERR,der_junge_herr,,
+gdc,v3w3.0,DIE JUNGE FRAU,die_junge_frau,,
+gdc,v3w3.0,DER GATTE,der_gatte,,
+gdc,v3w3.0,DAS SÜSSE MÄDEL,das_süsse_mädel,,
+gdc,v3w3.0,DER DICHTER,der_dichter,,
+gdc,v3w3.0,SCHAUSPIELERIN,schauspielerin,,
+gdc,v3w3.0,GRAF,graf,,
+gdc,v3w3.0,Reigen,de,"Schnitzler, Arthur",118609807,,,1896,1902,1920,0

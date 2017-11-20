@@ -1,0 +1,21 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,strd.0,CHOR,chor,,
+gdc,strd.0,HEINRICH,heinrich,,
+gdc,strd.0,JOHANN,johann,,
+gdc,strd.0,MEHLWURM,mehlwurm,,
+gdc,strd.0,SPECHT,specht,,
+gdc,strd.0,EULENSPIEGEL,eulenspiegel,,
+gdc,strd.0,NATZI,natzi,,
+gdc,strd.0,CORDULA,cordula,,
+gdc,strd.0,LENCHEN,lenchen,,
+gdc,strd.0,NELKENSTEIN,nelkenstein,,
+gdc,strd.0,DOROTHEA,dorothea,,
+gdc,strd.0,FRIEDRICH,friedrich,,
+gdc,strd.0,PEPPI,peppi,,
+gdc,strd.0,STEFFEL,steffel,,
+gdc,strd.0,SEBASTIAN,sebastian,,
+gdc,strd.0,CHOR DER MÜHLKNECHTE,chor_der_mühlknechte,,
+gdc,strd.0,HANS,hans,,
+gdc,strd.0,JAKOB,jakob,,
+gdc,strd.0,Eulenspiegel,de,"Nestroy, Johann",118587080,,,0,1839,1835,0

@@ -1,0 +1,15 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,kw8v.0,CHOR DER FRAUEN,chor_der_frauen,,
+gdc,kw8v.0,KÖNIG,könig,,
+gdc,kw8v.0,ADOLAR,adolar,,
+gdc,kw8v.0,LYSIART,lysiart,,
+gdc,kw8v.0,CHOR,chor,,
+gdc,kw8v.0,EURYANTHE,euryanthe,,
+gdc,kw8v.0,EGLANTINE,eglantine,,
+gdc,kw8v.0,RUDOLF,rudolf,,
+gdc,kw8v.0,BERTHA,bertha,,
+gdc,kw8v.0,DIE LANDLEUTE,die_landleute,,
+gdc,kw8v.0,DIE RITTER,die_ritter,,
+gdc,kw8v.0,CHOR DER JÄGER,chor_der_jäger,,
+gdc,kw8v.0,Euryanthe,de,"Chézy, Helmina von",119360659,,,0,0,1823,0

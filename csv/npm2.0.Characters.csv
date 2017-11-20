@@ -1,0 +1,20 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,npm2.0,LEON,leon,,
+gdc,npm2.0,HAUSVERWALTER,hausverwalter,,
+gdc,npm2.0,GREGOR,gregor,,
+gdc,npm2.0,PILGER,pilger,,
+gdc,npm2.0,KATTWALD,kattwald,,
+gdc,npm2.0,EDRITA,edrita,,
+gdc,npm2.0,GALOMIR,galomir,,
+gdc,npm2.0,SCHAFFER,schaffer,,
+gdc,npm2.0,ATALUS,atalus,,
+gdc,npm2.0,FÄHRMANN,fährmann,,
+gdc,npm2.0,KNECHT,knecht,,
+gdc,npm2.0,EIN KRIEGER,ein_krieger,,
+gdc,npm2.0,ZWEITER KRIEGER,zweiter_krieger,,
+gdc,npm2.0,KNECHT KATTWALDS,knecht_kattwalds,,
+gdc,npm2.0,ZWEITER KNECHT,zweiter_knecht,,
+gdc,npm2.0,KATTWALDS SCHAFFER,kattwalds_schaffer,,
+gdc,npm2.0,ANFÜHRER,anführer,,
+gdc,npm2.0,"Weh dem, der lügt!",de,"Grillparzer, Franz",118542192,,,0,1840,1838,0

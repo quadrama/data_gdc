@@ -1,0 +1,11 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,vrcn.0,HUGO,hugo,,
+gdc,vrcn.0,ELSABE,elsabe,,
+gdc,vrcn.0,WILLEM,willem,,
+gdc,vrcn.0,MUDDER,mudder,,
+gdc,vrcn.0,LISBETH,lisbeth,,
+gdc,vrcn.0,KINDER,kinder,,
+gdc,vrcn.0,JUNGE,junge,,
+gdc,vrcn.0,HEIN,hein,,
+gdc,vrcn.0,Mudder Mews,de,"Stavenhagen, Fritz",118752901,,,1903,1904,1905,0

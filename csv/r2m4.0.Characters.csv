@@ -1,0 +1,16 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,r2m4.0,SABINE,sabine,,
+gdc,r2m4.0,MAGD,magd,,
+gdc,r2m4.0,FRAU STAAR,frau_staar,,
+gdc,r2m4.0,HERR STAAR,herr_staar,,
+gdc,r2m4.0,BAUER,bauer,,
+gdc,r2m4.0,FRAU BRENDEL,frau_brendel,,
+gdc,r2m4.0,FRAU MORGENROTH,frau_morgenroth,,
+gdc,r2m4.0,SPERLING,sperling,,
+gdc,r2m4.0,DIE KINDER,die_kinder,,
+gdc,r2m4.0,OLMERS,olmers,,
+gdc,r2m4.0,DER BÜRGERMEISTER,der_bürgermeister,,
+gdc,r2m4.0,NACHTWÄCHTER,nachtwächter,,
+gdc,r2m4.0,KLAUS,klaus,,
+gdc,r2m4.0,Die deutschen Kleinstädter,de,"Kotzebue, August von",118565796,,,1806,1803,1808,0

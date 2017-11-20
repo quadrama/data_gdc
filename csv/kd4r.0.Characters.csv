@@ -1,0 +1,15 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,kd4r.0,WELTING,welting,,
+gdc,kd4r.0,WILDENHAIN,wildenhain,,
+gdc,kd4r.0,HERMINE,hermine,,
+gdc,kd4r.0,BALDINGER,baldinger,,
+gdc,kd4r.0,HUBERT,hubert,,
+gdc,kd4r.0,JUSTITIÄR,justitiär,,
+gdc,kd4r.0,DIE ARBEITER,die_arbeiter,,
+gdc,kd4r.0,SEKRETÄR,sekretär,,
+gdc,kd4r.0,GRIESICKE,griesicke,,
+gdc,kd4r.0,PETERMANN,petermann,,
+gdc,kd4r.0,PÖNCHES,pönches,,
+gdc,kd4r.0,KANZELLIST,kanzellist,,
+gdc,kd4r.0,Industrie und Herz,de,"Bauernfeld, Eduard von",118507400,,,0,1847,1842,0

@@ -1,0 +1,21 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,qdmd.0,KARTENAUFSCHLÄGERIN,kartenaufschlägerin,,
+gdc,qdmd.0,ADELAIDE,adelaide,,
+gdc,qdmd.0,ZDENKA,zdenka,,
+gdc,qdmd.0,MATTEO,matteo,,
+gdc,qdmd.0,ARABELLA,arabella,,
+gdc,qdmd.0,ELEMER,elemer,,
+gdc,qdmd.0,WALDNER,waldner,,
+gdc,qdmd.0,ZIMMERKELLNER,zimmerkellner,,
+gdc,qdmd.0,MANDRYKA,mandryka,,
+gdc,qdmd.0,WELKO,welko,,
+gdc,qdmd.0,LAMORAL,lamoral,,
+gdc,qdmd.0,DOMINIK,dominik,,
+gdc,qdmd.0,DIE FIAKERMILLI,die_fiakermilli,,
+gdc,qdmd.0,PICCOLO,piccolo,,
+gdc,qdmd.0,DIE GÄSTE,die_gäste,,
+gdc,qdmd.0,EINER DER SPIELER,einer_der_spieler,,
+gdc,qdmd.0,DIE DREI SPIELER,die_drei_spieler,,
+gdc,qdmd.0,Fiaker,fiaker,,
+gdc,qdmd.0,Arabella,de,"Hofmannsthal, Hugo von",118552759,,,0,1928,0,0

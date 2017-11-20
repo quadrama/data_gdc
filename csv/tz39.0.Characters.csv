@@ -1,0 +1,18 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,tz39.0,MILLER,miller,,
+gdc,tz39.0,FRAU,frau,,
+gdc,tz39.0,WURM,wurm,,
+gdc,tz39.0,LUISE,luise,,
+gdc,tz39.0,FERDINAND,ferdinand,,
+gdc,tz39.0,PRÄSIDENT,präsident,,
+gdc,tz39.0,EIN KAMMERDIENER,ein_kammerdiener_präsident,,
+gdc,tz39.0,HOFMARSCHALL,hofmarschall,,
+gdc,tz39.0,SOPHIE,sophie,,
+gdc,tz39.0,LADY,lady,,
+gdc,tz39.0,EIN KAMMERDIENER (FÜRST),kammerdiener_fürst,,
+gdc,tz39.0,KAMMERDIENER 4.1,kammerdiener_4.1,,
+gdc,tz39.0,KAMMERDIENER 4.9,kammerdiener_4.6-9,,
+gdc,tz39.0,BEDIENTER,bedienter,,
+gdc,tz39.0,ALLE BEDIENTE,alle_bediente,,
+gdc,tz39.0,Kabale und Liebe,de,"Schiller, Friedrich",118607626,,,1783,1784,1784,0

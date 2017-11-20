@@ -1,0 +1,13 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,tvc9.0,HANNIBAL,hannibal,,
+gdc,tvc9.0,KATHARINA,katharina,,
+gdc,tvc9.0,META,meta,,
+gdc,tvc9.0,MAX,max,,
+gdc,tvc9.0,THEOPHIL,theophil,,
+gdc,tvc9.0,STRICK,strick,,
+gdc,tvc9.0,SCHLAMMBERGER,schlammberger,,
+gdc,tvc9.0,REITZER,reitzer,,
+gdc,tvc9.0,FINKENSTEIN,finkenstein,,
+gdc,tvc9.0,OBERKELLNER,oberkellner,,
+gdc,tvc9.0,Die lustigen Räuber,de,"Scheerbart, Paul",118606816,,,1904,0,0,0

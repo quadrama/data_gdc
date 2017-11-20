@@ -1,0 +1,13 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,12675.0,MICHELANGELO,michelangelo,,
+gdc,12675.0,TORRIGIANO,torrigiano,,
+gdc,12675.0,CELLINI,cellini,,
+gdc,12675.0,ERSTER STUDENT,erster_student,,
+gdc,12675.0,ZWEITER STUDENT,zweiter_student,,
+gdc,12675.0,DIE MENGE,die_menge,,
+gdc,12675.0,EIN HEROLD,ein_herold,,
+gdc,12675.0,DER PAPST,der_papst,,
+gdc,12675.0,KARDINAL AUS DEM GEFOLGE,kardinal_aus_dem_gefolge,,
+gdc,12675.0,STIMMEN AUS DEM VOLK,stimmen_aus_dem_volk,,
+gdc,12675.0,Die Nase des Michelangelo,de,"Ball, Hugo",118506234,,,1908,1911,0,0

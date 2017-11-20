@@ -1,0 +1,20 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,stqx.0,ANTON,anton,,
+gdc,stqx.0,JOSEPH,joseph,,
+gdc,stqx.0,CHRISTIAN,christian,,
+gdc,stqx.0,GLUTHAMMER,gluthammer,,
+gdc,stqx.0,KATHI,kathi,,
+gdc,stqx.0,STIFLER,stifler,,
+gdc,stqx.0,WIXER,wixer,,
+gdc,stqx.0,LIPS,lips,,
+gdc,stqx.0,SPORNER,sporner,,
+gdc,stqx.0,MADAME SCHLEIER,madame_schleier,,
+gdc,stqx.0,DIE HERREN,die_herren,,
+gdc,stqx.0,KRAUTKOPF,krautkopf,,
+gdc,stqx.0,ERSTER KNECHT,erster_knecht,,
+gdc,stqx.0,ZWEITER KNECHT,zweiter_knecht,,
+gdc,stqx.0,DRITTER KNECHT,dritter_knecht,,
+gdc,stqx.0,VIERTER KNECHT,vierter_knecht,,
+gdc,stqx.0,JUSTITIÄR,justitiär,,
+gdc,stqx.0,Der Zerrissene,de,"Nestroy, Johann",118587080,,,1844,1845,1844,0

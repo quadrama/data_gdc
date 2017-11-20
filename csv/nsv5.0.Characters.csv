@@ -1,0 +1,13 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,nsv5.0,DER GRAF,der_graf,,
+gdc,nsv5.0,BERTHA,bertha,,
+gdc,nsv5.0,GÜNTHER,günther,,
+gdc,nsv5.0,JAROMIR,jaromir,,
+gdc,nsv5.0,HAUPTMANN,hauptmann,,
+gdc,nsv5.0,WALTER,walter,,
+gdc,nsv5.0,EIN SOLDAT,ein_soldat,,
+gdc,nsv5.0,BOLESLAV,boleslav,,
+gdc,nsv5.0,CHOR,chor,,
+gdc,nsv5.0,DIE AHNFRAU,die_ahnfrau,,
+gdc,nsv5.0,Die Ahnfrau,de,"Grillparzer, Franz",118542192,,,1816,1817,1817,0

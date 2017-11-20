@@ -1,0 +1,19 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,wznr.0,WILHELM,wilhelm,,
+gdc,wznr.0,LANGEN,langen,,
+gdc,wznr.0,WERNER,werner,,
+gdc,wznr.0,CHRISTIAN,christian,,
+gdc,wznr.0,JUSTITZRÄTHIN,justitzräthin,,
+gdc,wznr.0,LENCHEN,lenchen,,
+gdc,wznr.0,FRIDERICKE,fridericke,,
+gdc,wznr.0,WALZ,walz,,
+gdc,wznr.0,KARL,karl,,
+gdc,wznr.0,CAROLINE,caroline,,
+gdc,wznr.0,FRANZÖSIN,französin,,
+gdc,wznr.0,JUD,jud,,
+gdc,wznr.0,BETTELWEIB,bettelweib,,
+gdc,wznr.0,EIN OFFICIER,ein_officier,,
+gdc,wznr.0,DOKTOR,doktor,,
+gdc,wznr.0,FELDSCHEER,feldscheer,,
+gdc,wznr.0,Die Reue nach der That,de,"Wagner, Heinrich Leopold",11862833X,,,0,1775,1775,0

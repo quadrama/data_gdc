@@ -1,0 +1,14 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,wzq0.0,MATROSEN,matrosen,,
+gdc,wzq0.0,DALAND,daland,,
+gdc,wzq0.0,STEUERMANN,steuermann,,
+gdc,wzq0.0,HOLLÄNDER,holländer,,
+gdc,wzq0.0,CHOR,chor,,
+gdc,wzq0.0,MÄDCHEN,mädchen,,
+gdc,wzq0.0,MARY,mary,,
+gdc,wzq0.0,SENTA,senta,,
+gdc,wzq0.0,ERIK,erik,,
+gdc,wzq0.0,CHOR DER NORWEGISCHEN MATROSEN,chor_der_norwegischen_matrosen,,
+gdc,wzq0.0,CHOR DER MANNSCHAFT DES FLIEGENDEN HOLLÄNDERS,chor_der_mannschaft_des_fliegenden_holländers,,
+gdc,wzq0.0,Der fliegende Holländer,de,"Wagner, Richard",118594117,,,0,0,1843,0

@@ -1,0 +1,10 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,kd4v.0,BLASE,blase,,
+gdc,kd4v.0,AUGUSTE,auguste,,
+gdc,kd4v.0,SPITZ,spitz,,
+gdc,kd4v.0,AMALIE,amalie,,
+gdc,kd4v.0,SCHMERL,schmerl,,
+gdc,kd4v.0,HERMANN,hermann,,
+gdc,kd4v.0,BEDIENTER,bedienter,,
+gdc,kd4v.0,Großjährig,de,"Bauernfeld, Eduard von",118507400,,,0,1846,1846,0

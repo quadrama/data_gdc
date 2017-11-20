@@ -1,0 +1,21 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,v3q4.0,OTTOKAR,ottokar,,
+gdc,v3q4.0,CZIPRA,czipra,,
+gdc,v3q4.0,CHOR DER SCHIFFER,chor_der_schiffer,,
+gdc,v3q4.0,BARINKAY,barinkay,,
+gdc,v3q4.0,CHOR,chor,,
+gdc,v3q4.0,CARNERO,carnero,,
+gdc,v3q4.0,SAFFI,saffi,,
+gdc,v3q4.0,ZSUPÁN,zsupán,,
+gdc,v3q4.0,MIRABELLA,mirabella,,
+gdc,v3q4.0,ARSENA,arsena,,
+gdc,v3q4.0,CHOR DER MÄDCHEN,chor_der_mädchen,,
+gdc,v3q4.0,CHOR DER ZSUPÁN'SCHEN GRUPPE,chor_der_zsupánschen_gruppe,,
+gdc,v3q4.0,BARINKAYS GRUPPE,barinkays_gruppe,,
+gdc,v3q4.0,DIE ZIGEUNER,die_zigeuner,,
+gdc,v3q4.0,DER ALTE PALI,der_alte_pali,,
+gdc,v3q4.0,ALLGEMEINER CHOR,allgemeiner_chor,,
+gdc,v3q4.0,GRAF HOMONAY,graf_homonay,,
+gdc,v3q4.0,SOLDATEN,soldaten,,
+gdc,v3q4.0,Der Zigeunerbaron,de,"Schnitzer, Ignaz",121068218,,,0,0,1885,0

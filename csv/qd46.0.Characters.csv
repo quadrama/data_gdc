@@ -1,0 +1,16 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,qd46.0,DIE JUNGFER,die_jungfer,,
+gdc,qd46.0,BESCHLIESSERIN,beschliesserin,,
+gdc,qd46.0,GÄRTNER,gärtner,,
+gdc,qd46.0,BARONIN,baronin,,
+gdc,qd46.0,KUTSCHER,kutscher,,
+gdc,qd46.0,GENERAL,general,,
+gdc,qd46.0,JAROMIR,jaromir,,
+gdc,qd46.0,DER KLEINE JAROMIR,der_kleine_jaromir,,
+gdc,qd46.0,ANNA,anna,,
+gdc,qd46.0,THEODOR,theodor,,
+gdc,qd46.0,MARIE,marie,,
+gdc,qd46.0,MELANIE,melanie,,
+gdc,qd46.0,HERMINE,hermine,,
+gdc,qd46.0,Der Unbestechliche,de,"Hofmannsthal, Hugo von",118552759,,,0,1929,1923,0

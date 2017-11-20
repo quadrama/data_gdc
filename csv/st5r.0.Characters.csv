@@ -1,0 +1,11 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,st5r.0,MONTAN,montan,,
+gdc,st5r.0,CHLOE,chloe,,
+gdc,st5r.0,DORIS,doris,,
+gdc,st5r.0,SILVANDER,silvander,,
+gdc,st5r.0,MOPS,mops,,
+gdc,st5r.0,SYLVIA,sylvia,,
+gdc,st5r.0,DAMÖT,damöt,,
+gdc,st5r.0,CORYDON,corydon,,
+gdc,st5r.0,Die Schäferinsel,de,"Mylius, Christlob",11858605X,,,0,1749,0,0

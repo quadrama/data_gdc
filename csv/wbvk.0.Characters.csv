@@ -1,0 +1,18 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,wbvk.0,MAJOR,major,,
+gdc,wbvk.0,FRAU BÜRGERMEISTER,frau_bürgermeister,,
+gdc,wbvk.0,SUSCHEN,suschen,,
+gdc,wbvk.0,BERINGER,beringer,,
+gdc,wbvk.0,BÜRGERMEISTER,bürgermeister,,
+gdc,wbvk.0,STELZER,stelzer,,
+gdc,wbvk.0,SCHWEIGEL,schweigel,,
+gdc,wbvk.0,HEITZINGER,heitzinger,,
+gdc,wbvk.0,KIERMAYER,kiermayer,,
+gdc,wbvk.0,GRUBER,gruber,,
+gdc,wbvk.0,MARIE,marie,,
+gdc,wbvk.0,HARTL,hartl,,
+gdc,wbvk.0,FRIEDA,frieda,,
+gdc,wbvk.0,GSCHWENDTNER,gschwendtner,,
+gdc,wbvk.0,LINDLACHER,lindlacher,,
+gdc,wbvk.0,Die Lokalbahn,de,"Thoma, Ludwig",118622072,,,0,1902,1902,0

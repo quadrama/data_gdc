@@ -1,0 +1,16 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,11h10.0,MANA,mana,,
+gdc,11h10.0,SORA,sora,,
+gdc,11h10.0,FERIA,feria,,
+gdc,11h10.0,LATO,lato,,
+gdc,11h10.0,ANDRASON,andrason,,
+gdc,11h10.0,MELA,mela,,
+gdc,11h10.0,BEDIENTER,bedienter,,
+gdc,11h10.0,MERKULO,merkulo,,
+gdc,11h10.0,BEDIENTE,bediente,,
+gdc,11h10.0,PRINZ,prinz,,
+gdc,11h10.0,MANDANDANE,mandandane,,
+gdc,11h10.0,DIE PARZEN,die_parzen,,
+gdc,11h10.0,PROSERPINA,proserpina,,
+gdc,11h10.0,Der Triumph der Empfindsamkeit,de,"Goethe, Johann Wolfgang",118540238,,,1779,1787,1778,0

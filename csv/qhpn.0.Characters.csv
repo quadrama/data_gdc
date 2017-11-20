@@ -1,0 +1,9 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,qhpn.0,LA BELLA CENCI,la_bella_cenci,,
+gdc,qhpn.0,URL,url,,
+gdc,qhpn.0,HOLLRIEDER,hollrieder,,
+gdc,qhpn.0,MUSMANN,musmann,,
+gdc,qhpn.0,LIPSIUS,lipsius,,
+gdc,qhpn.0,DER PRÄSIDENT DER SEZESSION,der_präsident_der_sezession,,
+gdc,qhpn.0,Sonnenfinsternis,de,"Holz, Arno",118553216,,,0,1908,1913,0

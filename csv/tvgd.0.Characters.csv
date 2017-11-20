@@ -1,0 +1,20 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,tvgd.0,RÜBEZAHL,rübezahl,,
+gdc,tvgd.0,RAXER,raxer,,
+gdc,tvgd.0,RÜFFEL,rüffel,,
+gdc,tvgd.0,QUIWI,quiwi,,
+gdc,tvgd.0,ERSTE FEE,erste_fee,,
+gdc,tvgd.0,DIE ANDERN FEEN,die_andern_feen,,
+gdc,tvgd.0,VON SCHMALZ,von_schmalz,,
+gdc,tvgd.0,PASCHKE,paschke,,
+gdc,tvgd.0,BETTY,betty,,
+gdc,tvgd.0,EIN ZWERG,ein_zwerg,,
+gdc,tvgd.0,DIE ZWERGE,die_zwerge,,
+gdc,tvgd.0,DER JUNGE SCHORNSTEINFEGER,der_junge_schornsteinfeger,,
+gdc,tvgd.0,DER ALTE SCHORNSTEINFEGER,der_alte_schornsteinfeger,,
+gdc,tvgd.0,MILCHMANN,milchmann,,
+gdc,tvgd.0,ERSTER TOURIST,erster_tourist,,
+gdc,tvgd.0,ZWEITER TOURIST,zweiter_tourist,,
+gdc,tvgd.0,DRITTER TOURIST,dritter_tourist,,
+gdc,tvgd.0,Rübezahl,de,"Scheerbart, Paul",118606816,,,0,1904,0,0

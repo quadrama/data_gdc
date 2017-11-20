@@ -1,0 +1,14 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,pkx0.0,KLARA,klara,,
+gdc,pkx0.0,MUTTER,mutter,,
+gdc,pkx0.0,KARL,karl,,
+gdc,pkx0.0,LEONHARD,leonhard,,
+gdc,pkx0.0,MEISTER ANTON,meister_anton,,
+gdc,pkx0.0,ADAM,adam,,
+gdc,pkx0.0,ZWEITER GERICHTSDIENER,zweiter_gerichtsdiener,,
+gdc,pkx0.0,EINE MAGD,eine_magd,,
+gdc,pkx0.0,DER KAUFMANN WOLFRAM,der_kaufmann_wolfram,,
+gdc,pkx0.0,DER SEKRETÄR,der_sekretär,,
+gdc,pkx0.0,EIN KNABE,ein_knabe,,
+gdc,pkx0.0,Maria Magdalene,de,"Hebbel, Friedrich",118547445,,,0,1844,1846,0

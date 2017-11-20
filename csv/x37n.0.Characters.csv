@@ -1,0 +1,13 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,x37n.0,KLARA,klara,,
+gdc,x37n.0,ELSE,else,,
+gdc,x37n.0,JOSEF,josef,,
+gdc,x37n.0,DIE AUFSEHERIN,die_aufseherin,,
+gdc,x37n.0,DER WACHTMEISTER,der_wachtmeister,,
+gdc,x37n.0,DER GEFÄNGNISDIREKTOR,der_gefängnisdirektor,,
+gdc,x37n.0,EIN DIENSTMÄDCHEN,ein_dienstmädchen,,
+gdc,x37n.0,LINDEKUH,lindekuh,,
+gdc,x37n.0,DR,dr,,
+gdc,x37n.0,FRAU OBERST,frau_oberst,,
+gdc,x37n.0,Musik,de,"Wedekind, Frank",118629867,,,1906,1908,1908,0

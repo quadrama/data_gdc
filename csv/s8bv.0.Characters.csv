@@ -1,0 +1,19 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,s8bv.0,LIESCHEN,lieschen,,
+gdc,s8bv.0,GRETCHEN,gretchen,,
+gdc,s8bv.0,CAPITAIN,capitain,,
+gdc,s8bv.0,MILLER,miller,,
+gdc,s8bv.0,BUCHDRUCKER,buchdrucker,,
+gdc,s8bv.0,CORNET,cornet,,
+gdc,s8bv.0,WEIGENAND,weigenand,,
+gdc,s8bv.0,EPPELMEIER,eppelmeier,,
+gdc,s8bv.0,DAPPELIUS,dappelius,,
+gdc,s8bv.0,KNORZHEIMER,knorzheimer,,
+gdc,s8bv.0,SCHMUTTLER,schmuttler,,
+gdc,s8bv.0,LEIMPFANN,leimpfann,,
+gdc,s8bv.0,MEHRERE ANDERE,mehrere_andere,,
+gdc,s8bv.0,EINE STIMME,eine_stimme,,
+gdc,s8bv.0,POMPIER,pompier,,
+gdc,s8bv.0,TAMBOUR,tambour,,
+gdc,s8bv.0,Der alte Bürger-Capitain,de,"Malß, Karl",119098911,,,0,1820,1821,0

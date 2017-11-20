@@ -1,0 +1,13 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,mjbp.0,SPETH,speth,,
+gdc,mjbp.0,FRAU SPETH,frau_speth,,
+gdc,mjbp.0,WILLIBALD,willibald,,
+gdc,mjbp.0,IDA,ida,,
+gdc,mjbp.0,CLAUDINE BRIESEN,claudine_briesen,,
+gdc,mjbp.0,FRAU VON AUSTEN,frau_von_austen,,
+gdc,mjbp.0,SONDERRATH,sonderrath,,
+gdc,mjbp.0,SEYBOLD,seybold,,
+gdc,mjbp.0,EIN DIENER,ein_diener,,
+gdc,mjbp.0,FRAU VON THIELEN,frau_von_thielen,,
+gdc,mjbp.0,"Perdu! oder Dichter, Verleger und Blaustrümpfe",de,"Droste-Hülshoff, Annette von",118527533,,,1840,1886,0,0

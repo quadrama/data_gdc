@@ -1,0 +1,21 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,sj6g.0,FRAU FLUTH,frau_fluth,,
+gdc,sj6g.0,FRAU REICH,frau_reich,,
+gdc,sj6g.0,FLUTH,fluth,,
+gdc,sj6g.0,REICH,reich,,
+gdc,sj6g.0,SPÄRLICH,spärlich,,
+gdc,sj6g.0,CAJUS,cajus,,
+gdc,sj6g.0,FENTON,fenton,,
+gdc,sj6g.0,FALSTAFF,falstaff,,
+gdc,sj6g.0,KELLNER,kellner,,
+gdc,sj6g.0,STIMMEN VON AUSSEN,stimmen_von_aussen,,
+gdc,sj6g.0,ERSTER BÜRGER,erster_bürger,,
+gdc,sj6g.0,ZWEITER BÜRGER,zweiter_bürger,,
+gdc,sj6g.0,MEHRERE BÜRGER,mehrere_bürger,,
+gdc,sj6g.0,CHOR,chor,,
+gdc,sj6g.0,VIERTER BÜRGER,vierter_bürger,,
+gdc,sj6g.0,DRITTER BÜRGER,dritter_bürger,,
+gdc,sj6g.0,ANNA,anna,,
+gdc,sj6g.0,ELFEN,elfen,,
+gdc,sj6g.0,Die lustigen Weiber von Windsor,de,"Mosenthal, Salomon Hermann von",101363184,,,0,0,1849,0

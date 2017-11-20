@@ -1,0 +1,12 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,x8fs.0,SIDNEY,sidney,,
+gdc,x8fs.0,LADY JOHANNA GRAY,lady_johanna_gray,,
+gdc,x8fs.0,LORD GUILFORD,lord_guilford,,
+gdc,x8fs.0,DER OFFICIER,der_officier,,
+gdc,x8fs.0,NORTHUMBERLAND,northumberland,,
+gdc,x8fs.0,LADY SUFFOLK,lady_suffolk,,
+gdc,x8fs.0,SUFFOLK,suffolk,,
+gdc,x8fs.0,JOHANNA,johanna,,
+gdc,x8fs.0,GARDINER,gardiner,,
+gdc,x8fs.0,Lady Johanna Gray,de,"Wieland, Christoph Martin",118632477,,,1758,1758,1758,0

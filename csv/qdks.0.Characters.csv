@@ -1,0 +1,19 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,qdks.0,BARON,baron,,
+gdc,qdks.0,VENIER,venier,,
+gdc,qdks.0,LE DUC,le_duc,,
+gdc,qdks.0,SASSI,sassi,,
+gdc,qdks.0,DIE MUTTER,die_mutter,,
+gdc,qdks.0,DIE CORTICELLI,die_corticelli,,
+gdc,qdks.0,SALAINO,salaino,,
+gdc,qdks.0,MARFISA,marfisa,,
+gdc,qdks.0,REDEGONDA,redegonda,,
+gdc,qdks.0,ACHILLES,achilles,,
+gdc,qdks.0,DER ABBATE,der_abbate,,
+gdc,qdks.0,JUWELIER,juwelier,,
+gdc,qdks.0,LORENZO,lorenzo,,
+gdc,qdks.0,VITTORIA,vittoria,,
+gdc,qdks.0,CESARINO,cesarino,,
+gdc,qdks.0,DER GRAF,der_graf,,
+gdc,qdks.0,Der Abenteurer und die Sängerin oder Die Geschenke des Lebens,de,"Hofmannsthal, Hugo von",118552759,,,1898,1899,1899,0

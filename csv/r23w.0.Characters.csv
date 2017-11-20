@@ -1,0 +1,22 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,r23w.0,LEVI,levi,,
+gdc,r23w.0,SOLIMAN,soliman,,
+gdc,r23w.0,MEHMED,mehmed,,
+gdc,r23w.0,ALI,ali,,
+gdc,r23w.0,MUSTAFA,mustafa,,
+gdc,r23w.0,DER BEGLER BEG,der_begler_beg,,
+gdc,r23w.0,AGA,aga,,
+gdc,r23w.0,BOTE,bote,,
+gdc,r23w.0,EVA,eva,,
+gdc,r23w.0,HELENE,helene,,
+gdc,r23w.0,ZRINY,zriny,,
+gdc,r23w.0,ALAPI,alapi,,
+gdc,r23w.0,PAPRUTOWITSCH,paprutowitsch,,
+gdc,r23w.0,BAUER,bauer,,
+gdc,r23w.0,JURANITSCH,juranitsch,,
+gdc,r23w.0,SCHERENK,scherenk,,
+gdc,r23w.0,VILACKY,vilacky,,
+gdc,r23w.0,HAUPTMANN,hauptmann,,
+gdc,r23w.0,DIE MÄNNER,die_männer,,
+gdc,r23w.0,Zriny,de,"Körner, Theodor",118713507,,,1812,1814,1812,0

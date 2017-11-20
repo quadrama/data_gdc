@@ -1,0 +1,11 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,tvdq.0,URBAN,urban,,
+gdc,tvdq.0,HAESER,haeser,,
+gdc,tvdq.0,ALTER HERR,alter_herr,,
+gdc,tvdq.0,ZWEITER ALTER HERR,zweiter_alter_herr,,
+gdc,tvdq.0,DR,dr,,
+gdc,tvdq.0,JUNGE DAME,junge_dame,,
+gdc,tvdq.0,ALTE DAME,alte_dame,,
+gdc,tvdq.0,POLIZIST,polizist,,
+gdc,tvdq.0,Es lebe Europa!,de,"Scheerbart, Paul",118606816,,,0,1904,0,0

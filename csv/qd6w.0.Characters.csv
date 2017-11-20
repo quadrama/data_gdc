@@ -1,0 +1,21 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,qd6w.0,LUKAS,lukas,,
+gdc,qd6w.0,VINZENZ,vinzenz,,
+gdc,qd6w.0,HANS KARL,hans_karl,,
+gdc,qd6w.0,CRESCENCE,crescence,,
+gdc,qd6w.0,SEKRETÄR,sekretär,,
+gdc,qd6w.0,AGATHE,agathe,,
+gdc,qd6w.0,STANI,stani,,
+gdc,qd6w.0,NEUHOFF,neuhoff,,
+gdc,qd6w.0,ALTENWYL,altenwyl,,
+gdc,qd6w.0,HELENE,helene,,
+gdc,qd6w.0,EDINE,edine,,
+gdc,qd6w.0,DER BERÜHMTE MANN,der_berühmte_mann,,
+gdc,qd6w.0,ANTOINETTE,antoinette,,
+gdc,qd6w.0,HUBERTA,huberta,,
+gdc,qd6w.0,NANNI,nanni,,
+gdc,qd6w.0,KAMMERDIENER,kammerdiener,,
+gdc,qd6w.0,DIENER,diener,,
+gdc,qd6w.0,HECHINGEN,hechingen,,
+gdc,qd6w.0,Der Schwierige,de,"Hofmannsthal, Hugo von",118552759,,,0,1917,1921,0

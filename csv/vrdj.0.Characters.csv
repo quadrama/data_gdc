@@ -1,0 +1,13 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,vrdj.0,STURMWALD,sturmwald,,
+gdc,vrdj.0,LEONORE,leonore,,
+gdc,vrdj.0,CLAUDIA,claudia,,
+gdc,vrdj.0,ROSALIE,rosalie,,
+gdc,vrdj.0,GOTTHOLD,gotthold,,
+gdc,vrdj.0,SICHEL,sichel,,
+gdc,vrdj.0,KRAUTMANN,krautmann,,
+gdc,vrdj.0,GALLUS,gallus,,
+gdc,vrdj.0,STÖßEL,stößel,,
+gdc,vrdj.0,KOMMISSÄR,kommissär,,
+gdc,vrdj.0,Doktor und Apotheker,de,"Stephanie, Johann Gottlieb (der Jüngere)",119545799,,,0,0,1786,0

@@ -1,0 +1,18 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,w40n.0,FRAU HEBENSTREIT,frau_hebenstreit,,
+gdc,w40n.0,FRAU HEINECKE,frau_heinecke,,
+gdc,w40n.0,HEINECKE,heinecke,,
+gdc,w40n.0,ROBERT,robert,,
+gdc,w40n.0,AUGUSTE,auguste,,
+gdc,w40n.0,MICHALSKI,michalski,,
+gdc,w40n.0,WILHELM,wilhelm,,
+gdc,w40n.0,ALMA,alma,,
+gdc,w40n.0,TRAST,trast,,
+gdc,w40n.0,CURT,curt,,
+gdc,w40n.0,MÜHLINGK,mühlingk,,
+gdc,w40n.0,FRAU MÜHLINGK,frau_mühlingk,,
+gdc,w40n.0,LENORE,lenore,,
+gdc,w40n.0,LOTHAR,lothar,,
+gdc,w40n.0,HUGO,hugo,,
+gdc,w40n.0,Die Ehre,de,"Sudermann, Hermann",118619853,,,0,1889,1889,0

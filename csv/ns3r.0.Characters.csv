@@ -1,0 +1,18 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,ns3r.0,ISAAK,isaak,,
+gdc,ns3r.0,RAHEL,rahel,,
+gdc,ns3r.0,ESTHER,esther,,
+gdc,ns3r.0,KÖNIG,könig,,
+gdc,ns3r.0,MANRIQUE,manrique,,
+gdc,ns3r.0,KÖNIGIN,königin,,
+gdc,ns3r.0,GARCERAN,garceran,,
+gdc,ns3r.0,EINE WEIBERSTIMME,eine_weiberstimme,,
+gdc,ns3r.0,KNAPPE,knappe,,
+gdc,ns3r.0,DIENER,diener,,
+gdc,ns3r.0,BITTSTELLER,bittsteller,,
+gdc,ns3r.0,ZWEITER BITTSTELLER,zweiter_bittsteller,,
+gdc,ns3r.0,DRITTER BITTSTELLER,dritter_bittsteller,,
+gdc,ns3r.0,KAMMERFRAU,kammerfrau,,
+gdc,ns3r.0,VON AUSSEN,von_aussen,,
+gdc,ns3r.0,Die Jüdin von Toledo,de,"Grillparzer, Franz",118542192,,,1851,1872,1872,0

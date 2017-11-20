@@ -1,0 +1,22 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,pmtc.0,SIEGFRIED,siegfried,,
+gdc,pmtc.0,HILDEBRANT,hildebrant,,
+gdc,pmtc.0,GOLO,golo,,
+gdc,pmtc.0,GENOVEVA,genoveva,,
+gdc,pmtc.0,DRAGO,drago,,
+gdc,pmtc.0,CASPAR,caspar,,
+gdc,pmtc.0,BALTHASAR,balthasar,,
+gdc,pmtc.0,KATHARINA,katharina,,
+gdc,pmtc.0,MEHRERE STIMMEN,mehrere_stimmen,,
+gdc,pmtc.0,HANS,hans,,
+gdc,pmtc.0,JUDE,jude,,
+gdc,pmtc.0,MARGARETHA,margaretha,,
+gdc,pmtc.0,TRISTAN,tristan,,
+gdc,pmtc.0,MALER,maler,,
+gdc,pmtc.0,CONRAD,conrad,,
+gdc,pmtc.0,KLAUS,klaus,,
+gdc,pmtc.0,EDELKNECHT,edelknecht,,
+gdc,pmtc.0,GEIST,geist,,
+gdc,pmtc.0,SCHMERZENREICH,schmerzenreich,,
+gdc,pmtc.0,Genoveva,de,"Hebbel, Friedrich",118547445,,,0,1843,1849,0

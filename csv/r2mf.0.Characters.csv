@@ -1,0 +1,15 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,r2mf.0,PETER,peter,,
+gdc,r2mf.0,UNBEKANNTER,unbekannter,,
+gdc,r2mf.0,FRANZ,franz,,
+gdc,r2mf.0,GREIS,greis,,
+gdc,r2mf.0,EULALIA,eulalia,,
+gdc,r2mf.0,BITTERMANN,bittermann,,
+gdc,r2mf.0,DER MAJOR,der_major,,
+gdc,r2mf.0,DER GRAF,der_graf,,
+gdc,r2mf.0,GRÄFIN,gräfin,,
+gdc,r2mf.0,LOTTE,lotte,,
+gdc,r2mf.0,WILHELM,wilhelm,,
+gdc,r2mf.0,MALCHEN,malchen,,
+gdc,r2mf.0,Menschenhaß und Reue,de,"Kotzebue, August von",118565796,,,0,1790,0,0

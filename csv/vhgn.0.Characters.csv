@@ -1,0 +1,15 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,vhgn.0,WAGNER,wagner,,
+gdc,vhgn.0,FRITZ,fritz,,
+gdc,vhgn.0,MAD,mad,,
+gdc,vhgn.0,SOPHIE,sophie,,
+gdc,vhgn.0,CHARLOTTE,charlotte,,
+gdc,vhgn.0,WILHELM,wilhelm,,
+gdc,vhgn.0,SIVERS,sivers,,
+gdc,vhgn.0,MALLDORF,malldorf,,
+gdc,vhgn.0,KAUFMANNSDIENER,kaufmannsdiener,,
+gdc,vhgn.0,DIENSTMÄDCHEN,dienstmädchen,,
+gdc,vhgn.0,GERICHTSDIENER,gerichtsdiener,,
+gdc,vhgn.0,STEINBURG,steinburg,,
+gdc,vhgn.0,Der Vetter in Lissabon,de,"Schröder, Friedrich Ludwig",118610813,,,0,1786,1784,0

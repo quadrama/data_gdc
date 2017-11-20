@@ -1,0 +1,20 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,r2m9.0,LANDLEUTE,landleute,,
+gdc,r2m9.0,GRETCHEN,gretchen,,
+gdc,r2m9.0,BACULUS,baculus,,
+gdc,r2m9.0,EIN HOCHZEITSGAST,ein_hochzeitsgast,,
+gdc,r2m9.0,CHOR,chor,,
+gdc,r2m9.0,NANETTE,nanette,,
+gdc,r2m9.0,BARONIN,baronin,,
+gdc,r2m9.0,GRAF,graf,,
+gdc,r2m9.0,BARON,baron,,
+gdc,r2m9.0,JÄGER,jäger,,
+gdc,r2m9.0,DIENER,diener,,
+gdc,r2m9.0,GRÄFIN,gräfin,,
+gdc,r2m9.0,PANCRATIUS,pancratius,,
+gdc,r2m9.0,MÄDCHEN,mädchen,,
+gdc,r2m9.0,ERSTES MÄDCHEN,erstes_mädchen,,
+gdc,r2m9.0,ZWEITES MÄDCHEN,zweites_mädchen,,
+gdc,r2m9.0,SCHULJUGEND,schuljugend,,
+gdc,r2m9.0,Der Wildschütz oder Die Stimme der Natur,de,"Kotzebue, August von",118565796,,,0,0,1842,0

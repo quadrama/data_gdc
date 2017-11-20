@@ -1,0 +1,13 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,npsg.0,HERO,hero,,
+gdc,npsg.0,JANTHE,janthe,,
+gdc,npsg.0,PRIESTER,priester,,
+gdc,npsg.0,VATER,vater,,
+gdc,npsg.0,MUTTER,mutter,,
+gdc,npsg.0,DER SKLAVE,der_sklave,,
+gdc,npsg.0,TEMPELHÜTER,tempelhüter,,
+gdc,npsg.0,NAUKLEROS,naukleros,,
+gdc,npsg.0,DAS VOLK,das_volk,,
+gdc,npsg.0,LEANDER,leander,,
+gdc,npsg.0,Des Meeres und der Liebe Wellen,de,"Grillparzer, Franz",118542192,,,1829,1840,1831,0

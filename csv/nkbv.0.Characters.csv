@@ -1,0 +1,16 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,nkbv.0,LUCENTIO,lucentio,,
+gdc,nkbv.0,CHOR,chor,,
+gdc,nkbv.0,BAPTISTA,baptista,,
+gdc,nkbv.0,KATHARINE,katharine,,
+gdc,nkbv.0,NACHBARINNEN,nachbarinnen,,
+gdc,nkbv.0,BIANCA,bianca,,
+gdc,nkbv.0,HORTENSIO,hortensio,,
+gdc,nkbv.0,PETRUCHIO,petruchio,,
+gdc,nkbv.0,GRUMIO,grumio,,
+gdc,nkbv.0,HAUSHOFMEISTER,haushofmeister,,
+gdc,nkbv.0,HAUSHÄLTERIN,haushälterin,,
+gdc,nkbv.0,DIENER,diener,,
+gdc,nkbv.0,SCHNEIDER,schneider,,
+gdc,nkbv.0,Der Widerspenstigen Zähmung,de,"Goetz, Hermann Gustav",118696025,,,0,0,1874,0

@@ -1,0 +1,20 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,v186.0,HANSWURST,hanswurst,,
+gdc,v186.0,STOFFEL KNIPS,stoffel_knips,,
+gdc,v186.0,FRAU KNIPS,frau_knips,,
+gdc,v186.0,DER ERSTE TÜRKE,der_erste_türke,,
+gdc,v186.0,DER ZWEITE TÜRKE,der_zweite_türke,,
+gdc,v186.0,ERSTER MATROSE,erster_matrose,,
+gdc,v186.0,ZWEITER MATROSE,zweiter_matrose,,
+gdc,v186.0,DAS MÄDEL,das_mädel,,
+gdc,v186.0,DER KNABE,der_knabe,,
+gdc,v186.0,DER MATROSE,der_matrose,,
+gdc,v186.0,DER ARZT,der_arzt,,
+gdc,v186.0,DER SULTAN,der_sultan,,
+gdc,v186.0,DER SKLAV,der_sklav,,
+gdc,v186.0,DIE DAME,die_dame,,
+gdc,v186.0,EIN ALT MÜTTERCHEN,ein_alt_mütterchen,,
+gdc,v186.0,DER SCHWARZROK,der_schwarzrok,,
+gdc,v186.0,DER SOUFLEUR,der_soufleur,,
+gdc,v186.0,Hanswurst von Salzburg mit dem hölzernen Gat,de,"Schink, Johann Friedrich",118607774,,,0,1778,0,0

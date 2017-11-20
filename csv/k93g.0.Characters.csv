@@ -1,0 +1,14 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,k93g.0,DER VERWALTER,der_verwalter,,
+gdc,k93g.0,LISETTE,lisette,,
+gdc,k93g.0,DIE BARONINN,die_baroninn,,
+gdc,k93g.0,DER HAUPTMANN,der_hauptmann,,
+gdc,k93g.0,LEONORE,leonore,,
+gdc,k93g.0,BEDIENTE,bediente,,
+gdc,k93g.0,BARON,baron,,
+gdc,k93g.0,MAJOR,major,,
+gdc,k93g.0,BLUMENKRANZ,blumenkranz,,
+gdc,k93g.0,REITBAHN,reitbahn,,
+gdc,k93g.0,NOTARIUS,notarius,,
+gdc,k93g.0,Der Postzug oder die noblen Passionen,de,"Ayrenhoff, Cornelius Hermann von",118869647,,,0,1769,0,0

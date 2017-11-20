@@ -1,0 +1,14 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,v409.0,ROSA,rosa,,
+gdc,v409.0,MEISSNER,meissner,,
+gdc,v409.0,GOLLWITZ,gollwitz,,
+gdc,v409.0,NEUMEISTER,neumeister,,
+gdc,v409.0,MARIANNE,marianne,,
+gdc,v409.0,STRIESE,striese,,
+gdc,v409.0,GROSS,gross,,
+gdc,v409.0,FRIEDERIKE,friederike,,
+gdc,v409.0,PAULA,paula,,
+gdc,v409.0,AUGUSTE,auguste,,
+gdc,v409.0,STERNECK,sterneck,,
+gdc,v409.0,Der Raub der Sabinerinnen,de,"Schönthan, Franz und Paul von",116889292,,,0,1885,0,0

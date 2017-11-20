@@ -1,0 +1,13 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,nv2j.0,RHAMNES,rhamnes,,
+gdc,nv2j.0,MELITTA,melitta,,
+gdc,nv2j.0,VOLK,volk,,
+gdc,nv2j.0,SAPPHO,sappho,,
+gdc,nv2j.0,EINER AUS DEM VOLKE,einer_aus_dem_volke,,
+gdc,nv2j.0,PHAON,phaon,,
+gdc,nv2j.0,EUCHARIS,eucharis,,
+gdc,nv2j.0,MÄDCHEN,mädchen,,
+gdc,nv2j.0,MAN RUFT VON INNEN,man_ruft_von_innen,,
+gdc,nv2j.0,EIN LANDMANN,ein_landmann,,
+gdc,nv2j.0,Sappho,de,"Grillparzer, Franz",118542192,,,1817,1819,1818,0

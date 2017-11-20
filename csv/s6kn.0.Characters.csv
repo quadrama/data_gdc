@@ -1,0 +1,22 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,s6kn.0,ZAR,zar,,
+gdc,s6kn.0,IWANOW,iwanow,,
+gdc,s6kn.0,CHOR,chor,,
+gdc,s6kn.0,MARIE,marie,,
+gdc,s6kn.0,LEFORT,lefort,,
+gdc,s6kn.0,MEISTERIN BROWE,meisterin_browe,,
+gdc,s6kn.0,VAN BETT,van_bett,,
+gdc,s6kn.0,MEHRERE ZIMMERLEUTE,mehrere_zimmerleute,,
+gdc,s6kn.0,LORD,lord,,
+gdc,s6kn.0,MARQUIS,marquis,,
+gdc,s6kn.0,DIE MÄDCHEN,die_mädchen,,
+gdc,s6kn.0,EINZELNE STIMMEN,einzelne_stimmen,,
+gdc,s6kn.0,MÄNNER,männer,,
+gdc,s6kn.0,FRAUEN,frauen,,
+gdc,s6kn.0,ANDERE,andere,,
+gdc,s6kn.0,EINIGE,einige,,
+gdc,s6kn.0,DIE GÄSTE,die_gäste,,
+gdc,s6kn.0,OFFIZIER,offizier,,
+gdc,s6kn.0,RATSDIENER,ratsdiener,,
+gdc,s6kn.0,Zar und Zimmermann,de,"Lortzing, Albert (Gustav)",118574469,,,0,1891,1837,0

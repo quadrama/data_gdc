@@ -1,0 +1,14 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,11g3h.0,KÖNIG,könig,,
+gdc,11g3h.0,HERZOG,herzog,,
+gdc,11g3h.0,GRAF,graf,,
+gdc,11g3h.0,EUGENIE,eugenie,,
+gdc,11g3h.0,SEKRETÄR,sekretär,,
+gdc,11g3h.0,HOFMEISTERIN,hofmeisterin,,
+gdc,11g3h.0,WELTGEISTLICHER,weltgeistlicher,,
+gdc,11g3h.0,GERICHTSRAT,gerichtsrat,,
+gdc,11g3h.0,GOUVERNEUR,gouverneur,,
+gdc,11g3h.0,ÄBTISSIN,äbtissin,,
+gdc,11g3h.0,MÖNCH,mönch,,
+gdc,11g3h.0,Die natürliche Tochter,de,"Goethe, Johann Wolfgang",,,,1803,1804,1803,0

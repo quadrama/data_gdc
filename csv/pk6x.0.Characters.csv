@@ -1,0 +1,21 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,pk6x.0,LIESCHEN BODE,lieschen_bode,,
+gdc,pk6x.0,SOPHIE,sophie,,
+gdc,pk6x.0,HANNA,hanna,,
+gdc,pk6x.0,EINE TIEFE BASSSTIMME,eine_tiefe_bassstimme,,
+gdc,pk6x.0,EINE SINGENDE STIMME,eine_singende_stimme,,
+gdc,pk6x.0,VERSCHIEDENE,verschiedene,,
+gdc,pk6x.0,EINE BREITE STIMME,eine_breite_stimme,,
+gdc,pk6x.0,KONRAD,konrad,,
+gdc,pk6x.0,EDUARD,eduard,,
+gdc,pk6x.0,BERNHARD,bernhard,,
+gdc,pk6x.0,FREUDENBERG,freudenberg,,
+gdc,pk6x.0,DIE ZUSCHNEIDERIN,die_zuschneiderin,,
+gdc,pk6x.0,EINE ARBEITERIN,eine_arbeiterin,,
+gdc,pk6x.0,DER ALTE VERNIER,der_alte_vernier,,
+gdc,pk6x.0,DER HAUSDIENER,der_hausdiener,,
+gdc,pk6x.0,VIELE STIMMEN,viele_stimmen,,
+gdc,pk6x.0,ALEXANDER KÖNITZ,alexander_könitz,,
+gdc,pk6x.0,HEDWIG,hedwig,,
+gdc,pk6x.0,Hanna Jagert,de,"Hartleben, Otto Erich",118546198,,,0,1893,1893,0

@@ -1,0 +1,12 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,pkj1.0,DIE DIENERIN,die_dienerin,,
+gdc,pkj1.0,DIE MUTTER,die_mutter,,
+gdc,pkj1.0,GIWAU,giwau,,
+gdc,pkj1.0,DER KAISER,der_kaiser,,
+gdc,pkj1.0,HOTOKE,hotoke,,
+gdc,pkj1.0,EIN DIENER,ein_diener,,
+gdc,pkj1.0,DIE KAMMERFRAU,die_kammerfrau,,
+gdc,pkj1.0,GINYO,ginyo,,
+gdc,pkj1.0,DIE BETTLERIN,die_bettlerin,,
+gdc,pkj1.0,Im goldenen Tempel-Buche verzeichnet,de,"Hauptmann, Carl",118546910,,,0,1909,1910,0

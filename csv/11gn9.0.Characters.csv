@@ -1,0 +1,13 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,11gn9.0,EINSIEDLER,einsiedler,,
+gdc,11gn9.0,SATYROS,satyros,,
+gdc,11gn9.0,ARSINOE,arsinoe,,
+gdc,11gn9.0,PSYCHE,psyche,,
+gdc,11gn9.0,HERMES,hermes,,
+gdc,11gn9.0,EUDORA,eudora,,
+gdc,11gn9.0,DAS VOLK,das_volk,,
+gdc,11gn9.0,EINER AUS DEM VOLK,einer_aus_dem_volk,,
+gdc,11gn9.0,EIN ANDERER,ein_anderer,,
+gdc,11gn9.0,EIN DRITTER,ein_dritter,,
+gdc,11gn9.0,Satyros oder der vergötterte Waldteufel,de,"Goethe, Johann Wolfgang",118540238,,,1773,1817,0,0

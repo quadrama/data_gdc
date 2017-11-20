@@ -1,0 +1,7 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,pkhc.0,EINE SCHWESTER,eine_schwester,,
+gdc,pkhc.0,FRAU GENERALIN,frau_generalin,,
+gdc,pkhc.0,NADJA BIELEW,nadja_bielew,,
+gdc,pkhc.0,DOKTOR LENOIR,doktor_lenoir,,
+gdc,pkhc.0,Frau Nadja Bielew,de,"Hauptmann, Carl",118546910,,,0,1909,0,0

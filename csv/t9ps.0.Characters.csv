@@ -1,0 +1,21 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,t9ps.0,CHOR,chor,,
+gdc,t9ps.0,HIDULFUS,hidulfus,,
+gdc,t9ps.0,GOLO,golo,,
+gdc,t9ps.0,SIEGFRIED,siegfried,,
+gdc,t9ps.0,GENOVEVA,genoveva,,
+gdc,t9ps.0,DRAGO,drago,,
+gdc,t9ps.0,MARGARETHA,margaretha,,
+gdc,t9ps.0,GESANG DER KNECHTE,knechte,,
+gdc,t9ps.0,MÄGDE,mägde,,
+gdc,t9ps.0,BALTHASAR,balthasar,,
+gdc,t9ps.0,STIMMEN HINTER DER SCENE,stimmen_hinter_der_scene,,
+gdc,t9ps.0,GEIST,geist,,
+gdc,t9ps.0,CASPAR,caspar,,
+gdc,t9ps.0,JÄGER,jäger,,
+gdc,t9ps.0,CHOR DER FRAUEN,chor_der_frauen,,
+gdc,t9ps.0,CHOR DER MÄNNER,chor_der_männer,,
+gdc,t9ps.0,MÄDCHEN,mädchen,,
+gdc,t9ps.0,JÜNGLINGE,jünglinge,,
+gdc,t9ps.0,Lohengrin,de,"Wagner, Richard",118594117,,,0,0,1850,0

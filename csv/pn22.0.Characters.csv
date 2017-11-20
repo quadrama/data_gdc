@@ -1,0 +1,20 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,pn22.0,BRUNHILD,brunhild,,
+gdc,pn22.0,FRIGGA,frigga,,
+gdc,pn22.0,SIEGFRIED,siegfried,,
+gdc,pn22.0,GUNTHER,gunther,,
+gdc,pn22.0,HAGEN,hagen,,
+gdc,pn22.0,VOLKER,volker,,
+gdc,pn22.0,GISELHER,giselher,,
+gdc,pn22.0,RUMOLT,rumolt,,
+gdc,pn22.0,GERENOT,gerenot,,
+gdc,pn22.0,UTE,ute,,
+gdc,pn22.0,KRIEMHILD,kriemhild,,
+gdc,pn22.0,DER KAPLAN,der_kaplan,,
+gdc,pn22.0,TRUCHS,truchs,,
+gdc,pn22.0,WULF,wulf,,
+gdc,pn22.0,DANKWART,dankwart,,
+gdc,pn22.0,KÄMMERER,kämmerer,,
+gdc,pn22.0,ANTWORT VON DRAUSSEN,antwort_von_draussen,,
+gdc,pn22.0,Siegfrieds Tod,de,"Hebbel, Friedrich",118547445,,,0,1862,1861,0

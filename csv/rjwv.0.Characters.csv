@@ -1,0 +1,9 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,rjwv.0,DAMIS,damis,,
+gdc,rjwv.0,ANTON,anton,,
+gdc,rjwv.0,CHRYSANDER,chrysander,,
+gdc,rjwv.0,LISETTE,lisette,,
+gdc,rjwv.0,JULIANE,juliane,,
+gdc,rjwv.0,VALER,valer,,
+gdc,rjwv.0,Der junge Gelehrte,de,"Lessing, Gotthold Ephraim",118572121,,,0,1754,1748,0

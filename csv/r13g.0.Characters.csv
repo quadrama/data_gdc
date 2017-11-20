@@ -1,0 +1,21 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,r13g.0,SARAZENENKÖNIG,sarazenenkönig,,
+gdc,r13g.0,GRISALDO,grisaldo,,
+gdc,r13g.0,ALMERINE,almerine,,
+gdc,r13g.0,MALVIZINO,malvizino,,
+gdc,r13g.0,BALLONA,ballona,,
+gdc,r13g.0,PRINZ ZIFALDO,prinz_zifaldo,,
+gdc,r13g.0,EIN KASTILIER,ein_kastilier,,
+gdc,r13g.0,ALLE KASTILIER,alle_kastilier,,
+gdc,r13g.0,CURIO,curio,,
+gdc,r13g.0,INFANTIN,infantin,,
+gdc,r13g.0,LILLA,lilla,,
+gdc,r13g.0,BASTIANO,bastiano,,
+gdc,r13g.0,DON FERNANDO,don_fernando,,
+gdc,r13g.0,TRUFFALDINO,truffaldino,,
+gdc,r13g.0,KÖNIG,könig,,
+gdc,r13g.0,SALUZZO,saluzzo,,
+gdc,r13g.0,ISABELLA,isabella,,
+gdc,r13g.0,EIN MANN,ein_mann,,
+gdc,r13g.0,Simsone Grisaldo,de,"Klinger, Friedrich Maximilian",118563319,,,0,1776,0,0

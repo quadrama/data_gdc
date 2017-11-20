@@ -1,0 +1,16 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,r12k.0,WILD,wild,,
+gdc,r12k.0,BLASIUS,blasius,,
+gdc,r12k.0,LA FEU,la_feu,,
+gdc,r12k.0,DER WIRT,der_wirt,,
+gdc,r12k.0,BERKLEY,berkley,,
+gdc,r12k.0,CAROLINE,caroline,,
+gdc,r12k.0,LOUISE,louise,,
+gdc,r12k.0,KATHRIN,kathrin,,
+gdc,r12k.0,BETTY,betty,,
+gdc,r12k.0,KAPITÄN,kapitän,,
+gdc,r12k.0,MOHR,mohr,,
+gdc,r12k.0,BEDIENTE,bediente,,
+gdc,r12k.0,LORD BUSHY,lord_bushy,,
+gdc,r12k.0,Sturm und Drang,de,"Klinger, Friedrich Maximilian",118563319,,,0,1777,1777,0

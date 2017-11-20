@@ -1,0 +1,16 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,wznj.0,MARIANEL,marianel,,
+gdc,wznj.0,FRAU HUMBRECHT,frau_humbrecht,,
+gdc,wznj.0,VON GRÖNINGSECK,von_gröningseck,,
+gdc,wznj.0,EVCHEN,evchen,,
+gdc,wznj.0,WIRTIN,wirtin,,
+gdc,wznj.0,HUMBRECHT,humbrecht,,
+gdc,wznj.0,MAGISTER,magister,,
+gdc,wznj.0,VON HASENPOTH,von_hasenpoth,,
+gdc,wznj.0,MAJOR LINDSTHAL,major_lindsthal,,
+gdc,wznj.0,LISSEL,lissel,,
+gdc,wznj.0,FAUSTHAMMER,fausthammer,,
+gdc,wznj.0,FISKAL,fiskal,,
+gdc,wznj.0,FRAU MARTHAN,frau_marthan,,
+gdc,wznj.0,Die Kindermörderin,de,"Wagner, Heinrich Leopold",11862833X,,,0,1776,0,0

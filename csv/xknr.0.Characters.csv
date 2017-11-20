@@ -1,0 +1,20 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,xknr.0,ABELLINO,abellino,,
+gdc,xknr.0,MATTEO,matteo,,
+gdc,xknr.0,DOGE,doge,,
+gdc,xknr.0,DANDOLO,dandolo,,
+gdc,xknr.0,CANARI,canari,,
+gdc,xknr.0,IDUELLA,iduella,,
+gdc,xknr.0,ROSAMUNDE,rosamunde,,
+gdc,xknr.0,FLODOARDO,flodoardo,,
+gdc,xknr.0,PAROZZI,parozzi,,
+gdc,xknr.0,MEMMO,memmo,,
+gdc,xknr.0,FALIERI,falieri,,
+gdc,xknr.0,CONTARINO,contarino,,
+gdc,xknr.0,TOLOMEO,tolomeo,,
+gdc,xknr.0,PAROLI,paroli,,
+gdc,xknr.0,DIENER,diener,,
+gdc,xknr.0,EIN SENATOR,ein_senator,,
+gdc,xknr.0,DIE VERSCHWORNEN,die_verschwornen,,
+gdc,xknr.0,Abellino,de,"Zschokke, Heinrich",118637266,,,0,1795,1795,0

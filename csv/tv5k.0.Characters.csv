@@ -1,0 +1,11 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,tv5k.0,KNOBLAUCH,knoblauch,,
+gdc,tv5k.0,LORD,lord,,
+gdc,tv5k.0,KNUSSEL,knussel,,
+gdc,tv5k.0,MERRIBÛR,merribûr,,
+gdc,tv5k.0,KLATSCH,klatsch,,
+gdc,tv5k.0,EIN STRASSENKEHRER,ein_strassenkehrer,,
+gdc,tv5k.0,ZWEITER STRASSENKEHRER,zweiter_strassenkehrer,,
+gdc,tv5k.0,EIN DICHTER,ein_dichter,,
+gdc,tv5k.0,Der vornehme Räuberhauptmann,de,"Scheerbart, Paul",118606816,,,0,1904,0,0

@@ -1,0 +1,7 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,r22j.0,SEPP,sepp,,
+gdc,r22j.0,LISEI,lisei,,
+gdc,r22j.0,GIRGL,girgl,,
+gdc,r22j.0,FÖRSTER,förster,,
+gdc,r22j.0,Der Roaga,de,"Kobell, Franz von",116263431,,,1847,1868,1847,0

@@ -1,0 +1,14 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,v3vp.0,MAX,max,,
+gdc,v3vp.0,ANATOL,anatol,,
+gdc,v3vp.0,CORA,cora,,
+gdc,v3vp.0,GABRIELE,gabriele,,
+gdc,v3vp.0,BIANCA,bianca,,
+gdc,v3vp.0,EMILIE,emilie,,
+gdc,v3vp.0,ANNIE,annie,,
+gdc,v3vp.0,KELLNER,kellner,,
+gdc,v3vp.0,ELSE,else,,
+gdc,v3vp.0,FRANZ,franz,,
+gdc,v3vp.0,ILONA,ilona,,
+gdc,v3vp.0,Anatol,de,"Schnitzler, Arthur",118609807,,,1891,1893,1910,0

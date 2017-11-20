@@ -1,0 +1,12 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,v3vb.0,FRITZ,fritz,,
+gdc,v3vb.0,STIMME DES DIENERS,stimme_des_dieners,,
+gdc,v3vb.0,THEODOR,theodor,,
+gdc,v3vb.0,MIZI,mizi,,
+gdc,v3vb.0,CHRISTINE,christine,,
+gdc,v3vb.0,DER HERR,der_herr,,
+gdc,v3vb.0,KATHARINA,katharina,,
+gdc,v3vb.0,WEIRING,weiring,,
+gdc,v3vb.0,LINA,lina,,
+gdc,v3vb.0,Liebelei,de,"Schnitzler, Arthur",118609807,,,1894,1896,1895,0

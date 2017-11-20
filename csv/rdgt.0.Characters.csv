@@ -1,0 +1,16 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,rdgt.0,CYRUS,cyrus,,
+gdc,rdgt.0,SIGELVAX,sigelvax,,
+gdc,rdgt.0,KULICAN,kulican,,
+gdc,rdgt.0,MORTONG,mortong,,
+gdc,rdgt.0,PUMPHIA,pumphia,,
+gdc,rdgt.0,PINXI,pinxi,,
+gdc,rdgt.0,KNAB,knab,,
+gdc,rdgt.0,DAS VOLK,das_volk,,
+gdc,rdgt.0,FAUSTIBUS,faustibus,,
+gdc,rdgt.0,MIKETEY,miketey,,
+gdc,rdgt.0,SOFFOCLES,soffocles,,
+gdc,rdgt.0,ARLECKIN,arleckin,,
+gdc,rdgt.0,COLOMBINA,colombina,,
+gdc,rdgt.0,Prinzessin Pumphia,de,"Kurz, Joseph von",118725602,,,0,1767,0,0

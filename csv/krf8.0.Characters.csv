@@ -1,0 +1,14 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,krf8.0,BELMONTE,belmonte,,
+gdc,krf8.0,OSMIN,osmin,,
+gdc,krf8.0,PEDRILLO,pedrillo,,
+gdc,krf8.0,CHOR,chor,,
+gdc,krf8.0,EINE ODER ZWO STIMMEN,eine_oder_zwo_stimmen,,
+gdc,krf8.0,SELIM,selim,,
+gdc,krf8.0,KONSTANZE,konstanze,,
+gdc,krf8.0,BLONDE,blonde,,
+gdc,krf8.0,KLAAS,klaas,,
+gdc,krf8.0,WACHE,wache,,
+gdc,krf8.0,EINER VON DER WACHE,einer_von_der_wache,,
+gdc,krf8.0,Belmont und Constanze,de,"Bretzner, Christoph Friedrich",115849238,,,0,0,1781,0

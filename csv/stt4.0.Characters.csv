@@ -1,0 +1,17 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,stt4.0,SILENUS,silenus,,
+gdc,stt4.0,THALIA,thalia,,
+gdc,stt4.0,MELPOMENE,melpomene,,
+gdc,stt4.0,THARSUS,tharsus,,
+gdc,stt4.0,SEDULIUS,sedulius,,
+gdc,stt4.0,ALETHEA,alethea,,
+gdc,stt4.0,OBSEQUENS,obsequens,,
+gdc,stt4.0,ARETE,arete,,
+gdc,stt4.0,VIGILANTIA,vigilantia,,
+gdc,stt4.0,MELETANDER,meletander,,
+gdc,stt4.0,EUPHROSYNE,euphrosyne,,
+gdc,stt4.0,APOLLO,apollo,,
+gdc,stt4.0,THEMIS,themis,,
+gdc,stt4.0,PSEUDOLUS,pseudolus,,
+gdc,stt4.0,Ein Deutsches Vorspiel,de,"Neuber, Friederike Caroline",118738577,,,0,1734,0,0

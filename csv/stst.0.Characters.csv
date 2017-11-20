@@ -1,0 +1,13 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,stst.0,UNWISSENHEIT,unwissenheit,,
+gdc,stst.0,SCHEINFRÖMMIGKEIT,scheinfrömmigkeit,,
+gdc,stst.0,UNSCHULDIGE LUST,unschuldige_lust,,
+gdc,stst.0,MISBRAUCH,misbrauch,,
+gdc,stst.0,PÖBEL,pöbel,,
+gdc,stst.0,VERDERBTE GESCHMACK,verderbte_geschmack,,
+gdc,stst.0,SCHAUSPIELKUNST,schauspielkunst,,
+gdc,stst.0,ERHABENE GESCHMACK,erhabene_geschmack,,
+gdc,stst.0,NUTZEN,nutzen,,
+gdc,stst.0,WEISHEIT,weisheit,,
+gdc,stst.0,Die von der Weisheit wider die Unwissenheit beschützte Schauspielkunst,de,"Neuber, Friederike Caroline",118738577,,,0,1736,0,0

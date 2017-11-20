@@ -1,0 +1,14 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,msqv.0,FLEDER,fleder,,
+gdc,msqv.0,BOTE,bote,,
+gdc,msqv.0,FLITT,flitt,,
+gdc,msqv.0,SCHLENDER,schlender,,
+gdc,msqv.0,KNOLL,knoll,,
+gdc,msqv.0,LEONARD,leonard,,
+gdc,msqv.0,FLORA,flora,,
+gdc,msqv.0,VICTOR,victor,,
+gdc,msqv.0,FRIEDMANN,friedmann,,
+gdc,msqv.0,ADELE,adele,,
+gdc,msqv.0,MARIE,marie,,
+gdc,msqv.0,Die Freier,de,"Eichendorff, Joseph von",118529390,,,0,1833,1849,0

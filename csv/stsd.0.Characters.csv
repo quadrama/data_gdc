@@ -1,0 +1,10 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,stsd.0,FLEIS,fleis,,
+gdc,stsd.0,ALTERTHUM,alterthum,,
+gdc,stsd.0,TRAUERSPIEL,trauerspiel,,
+gdc,stsd.0,REGEL,regel,,
+gdc,stsd.0,LIEBE,liebe,,
+gdc,stsd.0,VERSTAND,verstand,,
+gdc,stsd.0,VOLLKOMMENHEIT,vollkommenheit,,
+gdc,stsd.0,Die Verehrung der Vollkommenheit durch die gebesserten deutschen Schauspiele,de,"Neuber, Friederike Caroline",118738577,,,0,1737,0,0

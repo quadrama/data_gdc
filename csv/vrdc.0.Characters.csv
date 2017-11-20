@@ -1,0 +1,13 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,vrdc.0,PUF,puf,,
+gdc,vrdc.0,FRANK,frank,,
+gdc,vrdc.0,EILER,eiler,,
+gdc,vrdc.0,MADAME PFEIL,madame_pfeil,,
+gdc,vrdc.0,MADAME KRONE,madame_krone,,
+gdc,vrdc.0,HERZ,herz,,
+gdc,vrdc.0,MADAME VOGELSANG,madame_vogelsang,,
+gdc,vrdc.0,MADAME HERZ,madame_herz,,
+gdc,vrdc.0,MADEMOISELLE SILBERKLANG,mademoiselle_silberklang,,
+gdc,vrdc.0,MONSIEUR VOGELSANG,monsieur_vogelsang,,
+gdc,vrdc.0,Der Schauspieldirektor,de,"Stephanie, Johann Gottlieb (der Jüngere)",119545799,,,0,0,1786,0

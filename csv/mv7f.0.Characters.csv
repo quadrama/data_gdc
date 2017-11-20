@@ -1,0 +1,14 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,mv7f.0,MADAME WELLDORF,madame_welldorf,,
+gdc,mv7f.0,SOPHIE,sophie,,
+gdc,mv7f.0,LUISE,luise,,
+gdc,mv7f.0,EDUARD,eduard,,
+gdc,mv7f.0,DER ARZT,der_arzt,,
+gdc,mv7f.0,VON BRINK,von_brink,,
+gdc,mv7f.0,WELLDORF,welldorf,,
+gdc,mv7f.0,DER BEDIENTE,der_bediente,,
+gdc,mv7f.0,DER OBERST,der_oberst,,
+gdc,mv7f.0,SERGEANT,sergeant,,
+gdc,mv7f.0,WACHE,wache,,
+gdc,mv7f.0,Eid und Pflicht,de,"Engel, Johann Jakob",11868468X,,,1776,1803,0,0

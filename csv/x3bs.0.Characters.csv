@@ -1,0 +1,13 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,x3bs.0,CÖLESTIN,cölestin,,
+gdc,x3bs.0,TATJANA,tatjana,,
+gdc,x3bs.0,FÜRST,fürst,,
+gdc,x3bs.0,KATHARINA,katharina,,
+gdc,x3bs.0,SCHWIGERLING,schwigerling,,
+gdc,x3bs.0,FÜRSTIN,fürstin,,
+gdc,x3bs.0,KOLJA,kolja,,
+gdc,x3bs.0,ENJUSCHA,enjuscha,,
+gdc,x3bs.0,ALIOSCHA,alioscha,,
+gdc,x3bs.0,Mitja,mitja,,
+gdc,x3bs.0,Fritz Schwigerling oder Der Liebestrank,de,"Wedekind, Frank",118629867,,,0,1899,1900,0

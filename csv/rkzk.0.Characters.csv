@@ -1,0 +1,11 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,rkzk.0,STALENO,staleno,,
+gdc,rkzk.0,LEANDER,leander,,
+gdc,rkzk.0,PHILTO,philto,,
+gdc,rkzk.0,LELIO,lelio,,
+gdc,rkzk.0,MASKARILL,maskarill,,
+gdc,rkzk.0,ANSELMO,anselmo,,
+gdc,rkzk.0,DER TRÄGER,der_träger,,
+gdc,rkzk.0,RAPS,raps,,
+gdc,rkzk.0,Der Schatz,de,"Lessing, Gotthold Ephraim",118572121,,,1750,1755,0,0

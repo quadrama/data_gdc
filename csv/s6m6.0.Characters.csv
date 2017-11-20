@@ -1,0 +1,20 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,s6m6.0,FÖRSTERIN,försterin,,
+gdc,s6m6.0,WEILER,weiler,,
+gdc,s6m6.0,ANDRES,andres,,
+gdc,s6m6.0,MARIE,marie,,
+gdc,s6m6.0,ROBERT,robert,,
+gdc,s6m6.0,FÖRSTER,förster,,
+gdc,s6m6.0,STEIN,stein,,
+gdc,s6m6.0,MÖLLER,möller,,
+gdc,s6m6.0,WILKENS,wilkens,,
+gdc,s6m6.0,PASTOR,pastor,,
+gdc,s6m6.0,BUCHJÄGER,buchjäger,,
+gdc,s6m6.0,WILHELM,wilhelm,,
+gdc,s6m6.0,FREI,frei,,
+gdc,s6m6.0,WIRT,wirt,,
+gdc,s6m6.0,LINDENSCHMIED,lindenschmied,,
+gdc,s6m6.0,KATHRINE,kathrine,,
+gdc,s6m6.0,BASTIAN,bastian,,
+gdc,s6m6.0,Der Erbförster,de,"Ludwig, Otto",118574973,,,1849,1853,1850,0

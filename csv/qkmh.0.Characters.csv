@@ -1,0 +1,18 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,qkmh.0,NEURATH,neurath,,
+gdc,qkmh.0,HORFMANN,horfmann,,
+gdc,qkmh.0,BEDIENTER,bedienter,,
+gdc,qkmh.0,DELOMER,delomer,,
+gdc,qkmh.0,DOMINIQUE,dominique,,
+gdc,qkmh.0,MADAM DOMINIQUE,madam_dominique,,
+gdc,qkmh.0,GRAF,graf,,
+gdc,qkmh.0,GRÄFIN,gräfin,,
+gdc,qkmh.0,DIE BAUERN,die_bauern,,
+gdc,qkmh.0,SCHULZ,schulz,,
+gdc,qkmh.0,DER KLEINE DOMINIQUE,der_kleine_dominique,,
+gdc,qkmh.0,MARQUIS,marquis,,
+gdc,qkmh.0,GÄRTNER,gärtner,,
+gdc,qkmh.0,DOMINIQUE V,dominique_v,,
+gdc,qkmh.0,ETLICHE,etliche,,
+gdc,qkmh.0,Das Erbtheil des Vaters,de,"Iffland, August Wilhelm",118555324,,,0,1802,0,0

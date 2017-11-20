@@ -1,0 +1,8 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,kjg2.0,EDMUND,edmund,,
+gdc,kjg2.0,HAHNENSPORN,hahnensporn,,
+gdc,kjg2.0,GUSTE,guste,,
+gdc,kjg2.0,OTTO,otto,,
+gdc,kjg2.0,ANTONIE,antonie,,
+gdc,kjg2.0,Die Hochzeitsreise,de,"Benedix, Julius Roderich",118658166,,,1849,1862,0,0

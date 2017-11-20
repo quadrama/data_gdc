@@ -1,0 +1,11 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,wzpd.0,MIME,mime,,
+gdc,wzpd.0,SIEGFRIED,siegfried,,
+gdc,wzpd.0,DER WANDERER,der_wanderer,,
+gdc,wzpd.0,ALBERICH,alberich,,
+gdc,wzpd.0,FAFNER,fafner,,
+gdc,wzpd.0,STIMME EINES WALDVOGELS,stimme_eines_waldvogels,,
+gdc,wzpd.0,ERDA,erda,,
+gdc,wzpd.0,BRÜNNHILDE,brünnhilde,,
+gdc,wzpd.0,Siegfried,de,"Wagner, Richard",118594117,,,0,1853,1876,0

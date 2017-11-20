@@ -1,0 +1,19 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,n3dj.0,DIE BAJADEREN,die_bajaderen,,
+gdc,n3dj.0,BRAMINEN,braminen,,
+gdc,n3dj.0,DANDAU,dandau,,
+gdc,n3dj.0,ERSTE BAJADERE,erste_bajadere,,
+gdc,n3dj.0,ZWEITE BAJADERE,zweite_bajadere,,
+gdc,n3dj.0,NADORI,nadori,,
+gdc,n3dj.0,OFFIZIER,offizier,,
+gdc,n3dj.0,CHOR,chor,,
+gdc,n3dj.0,JESSONDA,jessonda,,
+gdc,n3dj.0,AMAZILI,amazili,,
+gdc,n3dj.0,DIENERINNEN DER JESSONDA,dienerinnen_der_jessonda,,
+gdc,n3dj.0,CHOR DER PORTUGIESEN,chor_der_portugiesen,,
+gdc,n3dj.0,LOPES,lopes,,
+gdc,n3dj.0,TRISTAN,tristan,,
+gdc,n3dj.0,INDIANER,indianer,,
+gdc,n3dj.0,EIN INDISCHER OFFIZIER,ein_indischer_offizier,,
+gdc,n3dj.0,Jessonda,de,"Gehe, Eduard Heinrich",102522359,,,0,0,1828,0

@@ -1,0 +1,23 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,nkdt.0,CHOR,chor,,
+gdc,nkdt.0,TOBIS,tobis,,
+gdc,nkdt.0,JEREMIS,jeremis,,
+gdc,nkdt.0,JOBST,jobst,,
+gdc,nkdt.0,GREIF,greif,,
+gdc,nkdt.0,MICHEL,michel,,
+gdc,nkdt.0,DER LIEUTENANT,der_lieutenant,,
+gdc,nkdt.0,DER OBRISTE,der_obriste,,
+gdc,nkdt.0,DIE BAUERN,die_bauern,,
+gdc,nkdt.0,LENE,lene,,
+gdc,nkdt.0,NATHAN,nathan,,
+gdc,nkdt.0,BÄRBCHEN,bärbchen,,
+gdc,nkdt.0,SUSCHEN,suschen,,
+gdc,nkdt.0,DORCHEN,dorchen,,
+gdc,nkdt.0,LUKAS,lukas,,
+gdc,nkdt.0,FIKFAK,fikfak,,
+gdc,nkdt.0,EVE,eve,,
+gdc,nkdt.0,EIN ÄLTERER BAUER,ein_älterer_bauer,,
+gdc,nkdt.0,SOLDATEN,soldaten,,
+gdc,nkdt.0,PAUL,paul,,
+gdc,nkdt.0,Der Dorfjahrmarkt,de,"Gotter, Friedrich Wilhelm",118540939,,,0,1778,1775,0

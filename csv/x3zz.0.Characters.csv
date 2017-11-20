@@ -1,0 +1,14 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,x3zz.0,LUX,lux,,
+gdc,x3zz.0,ADAM,adam,,
+gdc,x3zz.0,MARGARETHE,margarethe,,
+gdc,x3zz.0,PETER,peter,,
+gdc,x3zz.0,SUSCHEN,suschen,,
+gdc,x3zz.0,JOSEPH,joseph,,
+gdc,x3zz.0,BAUERN,bauern,,
+gdc,x3zz.0,RUND,rund,,
+gdc,x3zz.0,THOMAS,thomas,,
+gdc,x3zz.0,PHILIPP,philipp,,
+gdc,x3zz.0,CHOR,chor,,
+gdc,x3zz.0,Der Dorfbarbier,de,"Weidmann, Paul",119497921,,,0,0,1796,0

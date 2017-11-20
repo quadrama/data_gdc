@@ -1,0 +1,19 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,rfm5.0,WABN,wabn,,
+gdc,rfm5.0,INNOCENTIA,innocentia,,
+gdc,rfm5.0,APOTHEKER,apotheker,,
+gdc,rfm5.0,WIRT,wirt,,
+gdc,rfm5.0,ANNA,anna,,
+gdc,rfm5.0,LEHMANN,lehmann,,
+gdc,rfm5.0,HEINRICH,heinrich,,
+gdc,rfm5.0,JAKOB,jakob,,
+gdc,rfm5.0,GENDARM,gendarm,,
+gdc,rfm5.0,KAUFLEUTE,kaufleute,,
+gdc,rfm5.0,KOMMANDANT,kommandant,,
+gdc,rfm5.0,BRAUMEISTER,braumeister,,
+gdc,rfm5.0,ZIRNGIBL,zirngibl,,
+gdc,rfm5.0,KOMMANDANTIN,kommandantin,,
+gdc,rfm5.0,STIMMEN,stimmen,,
+gdc,rfm5.0,AGNES,agnes,,
+gdc,rfm5.0,Hahnenkampf,de,"Lautensack, Heinrich",118570226,,,0,1908,0,0

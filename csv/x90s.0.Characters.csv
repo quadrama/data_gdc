@@ -1,0 +1,21 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,x90s.0,PROFESSOR REMIGIUS WOHLGEMUT,professor_remigius_wohlgemut,,
+gdc,x90s.0,HUBERT,hubert,,
+gdc,x90s.0,ROSL,rosl,,
+gdc,x90s.0,MUTTER,mutter,,
+gdc,x90s.0,RABANSER,rabanser,,
+gdc,x90s.0,BABÚSCH,babúsch,,
+gdc,x90s.0,DOKTOR FALLMER,doktor_fallmer,,
+gdc,x90s.0,DIENSTMÄDCHEN,dienstmädchen,,
+gdc,x90s.0,POGATSCHNIGG,pogatschnigg,,
+gdc,x90s.0,TAUBE,taube,,
+gdc,x90s.0,MAGENTROST,magentrost,,
+gdc,x90s.0,STIMME VON DRAUSSEN,stimme_von_draussen,,
+gdc,x90s.0,RABANSER CHORAGETES,rabanser_choragetes,,
+gdc,x90s.0,CHORUS PUERORUM,chorus_puerorum,,
+gdc,x90s.0,PATER CONFESSOR,pater_confessor,,
+gdc,x90s.0,CHORUS ADOLESCENTIUM,chorus_adolescentium,,
+gdc,x90s.0,VOX PATRIS E TENEBRIS INFIMIS,vox_patris_e_tenebris_infimis,,
+gdc,x90s.0,VOCES APOKALYPTICAE DE COELIS CANTANTES,voces_apokalypticae_de_coelis_cantantes,,
+gdc,x90s.0,Dies irae,de,"Wildgans, Anton",118632841,,,1918,1918,1919,0

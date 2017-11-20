@@ -1,0 +1,20 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,p5c7.0,LEFÊVRE,lefêvre,,
+gdc,p5c7.0,GERMAIN,germain,,
+gdc,p5c7.0,CHAPELLE,chapelle,,
+gdc,p5c7.0,MATTHIEU,matthieu,,
+gdc,p5c7.0,MADELEINE,madeleine,,
+gdc,p5c7.0,LA ROQUETTE,la_roquette,,
+gdc,p5c7.0,ARMANDE,armande,,
+gdc,p5c7.0,MOLIÈRE,molière,,
+gdc,p5c7.0,DUBOIS,dubois,,
+gdc,p5c7.0,LIONNE,lionne,,
+gdc,p5c7.0,BEDIENTER,bedienter,,
+gdc,p5c7.0,DELARIVE,delarive,,
+gdc,p5c7.0,LAKAI,lakai,,
+gdc,p5c7.0,LUDWIG,ludwig,,
+gdc,p5c7.0,OFFIZIER,offizier,,
+gdc,p5c7.0,LOUISON,louison,,
+gdc,p5c7.0,EIN THEATERDIENER,ein_theaterdiener,,
+gdc,p5c7.0,Das Urbild des Tartüffe,de,"Gutzkow, Karl",118543830,,,0,1847,1846,0

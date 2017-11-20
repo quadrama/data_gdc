@@ -1,0 +1,16 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,kd4z.0,SITTIG,sittig,,
+gdc,kd4z.0,RAT,rat,,
+gdc,kd4z.0,RÄTIN,rätin,,
+gdc,kd4z.0,CÄCILIE,cäcilie,,
+gdc,kd4z.0,FRITZ,fritz,,
+gdc,kd4z.0,UNRUH,unruh,,
+gdc,kd4z.0,KATHARINE,katharine,,
+gdc,kd4z.0,ERNESTINE,ernestine,,
+gdc,kd4z.0,BARON,baron,,
+gdc,kd4z.0,SAMUEL,samuel,,
+gdc,kd4z.0,BABETTE,babette,,
+gdc,kd4z.0,PRÄSIDENT,präsident,,
+gdc,kd4z.0,KAMMERDIENER,kammerdiener,,
+gdc,kd4z.0,Bürgerlich und Romantisch,de,"Bauernfeld, Eduard von",118507400,,,1835,1837,1835,0

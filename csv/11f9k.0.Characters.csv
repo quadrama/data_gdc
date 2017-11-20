@@ -1,0 +1,10 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,11f9k.0,GÖRGE,görge,,
+gdc,11f9k.0,RÖSE,röse,,
+gdc,11f9k.0,EDELMANN,edelmann,,
+gdc,11f9k.0,MÄRTEN,märten,,
+gdc,11f9k.0,SCHNAPS,schnaps,,
+gdc,11f9k.0,RICHTER,richter,,
+gdc,11f9k.0,EIN BAUER,ein_bauer,,
+gdc,11f9k.0,Der Bürgergeneral,de,"Goethe, Johann Wolfgang",118540238,,,0,1793,0,0

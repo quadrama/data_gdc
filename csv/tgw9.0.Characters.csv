@@ -1,0 +1,17 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,tgw9.0,HANNCHEN,hannchen,,
+gdc,tgw9.0,MUTTER LÜCKEL,mutter_lückel,,
+gdc,tgw9.0,DER ALTE SCHNIERMANN,der_alte_schniermann,,
+gdc,tgw9.0,PITTJUPP,pittjupp,,
+gdc,tgw9.0,JAN BIGGEN,jan_biggen,,
+gdc,tgw9.0,TRINA,trina,,
+gdc,tgw9.0,LIESA,liesa,,
+gdc,tgw9.0,DIAKONUS KÖRTING,diakonus_körting,,
+gdc,tgw9.0,LANGENSCHEIDT,langenscheidt,,
+gdc,tgw9.0,VONDERSCHEER,vonderscheer,,
+gdc,tgw9.0,WITTBRÄUKE,wittbräuke,,
+gdc,tgw9.0,HINNÄCK,hinnäck,,
+gdc,tgw9.0,ANNGRET,anngret,,
+gdc,tgw9.0,KLÖNNE,klönne,,
+gdc,tgw9.0,Die im Schatten leben,de,"Rosenow, Emil",119194724,,,1899,1912,0,0

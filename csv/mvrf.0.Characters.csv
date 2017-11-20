@@ -1,0 +1,23 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,mvrf.0,SELMA,selma,,
+gdc,mvrf.0,KARL,karl,,
+gdc,mvrf.0,OBERST,oberst,,
+gdc,mvrf.0,FRAU WEBER,frau_weber,,
+gdc,mvrf.0,HECHT,hecht,,
+gdc,mvrf.0,MARIECHEN,mariechen,,
+gdc,mvrf.0,LÜSTLING,lüstling,,
+gdc,mvrf.0,BRIGITTE,brigitte,,
+gdc,mvrf.0,MARIE,marie,,
+gdc,mvrf.0,JOHANNA,johanna,,
+gdc,mvrf.0,WEBER,weber,,
+gdc,mvrf.0,ALLE GÄSTE,alle_gäste,,
+gdc,mvrf.0,BRAUTVATER,brautvater,,
+gdc,mvrf.0,BLEICH,bleich,,
+gdc,mvrf.0,DIE GESELLSCHAFT,die_gesellschaft,,
+gdc,mvrf.0,BRAUTMUTTER,brautmutter,,
+gdc,mvrf.0,PÖBEL,pöbel,,
+gdc,mvrf.0,FRAU HECHT,frau_hecht,,
+gdc,mvrf.0,BEAMTER,beamter,,
+gdc,mvrf.0,WEIB,weib,,
+gdc,mvrf.0,Überteufel,de,"Essig, Hermann",118531212,,,1906,1912,1923,0

@@ -1,0 +1,11 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,sj6r.0,JOHANN,johann,,
+gdc,sj6r.0,MAJOR,major,,
+gdc,sj6r.0,JENNY,jenny,,
+gdc,sj6r.0,BARBIER,barbier,,
+gdc,sj6r.0,MILCHFRAU,milchfrau,,
+gdc,sj6r.0,PADDEMANN,paddemann,,
+gdc,sj6r.0,ASSESSOR,assessor,,
+gdc,sj6r.0,KULIKE,kulike,,
+gdc,sj6r.0,Krieg oder Frieden,de,"Moser, Gustav von",116937807,,,0,1881,0,0

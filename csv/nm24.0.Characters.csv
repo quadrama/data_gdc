@@ -1,0 +1,14 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,nm24.0,FRÄULEIN AMALIE,fräulein_amalie,,
+gdc,nm24.0,FRÄULEIN KAROLINE,fräulein_karoline,,
+gdc,nm24.0,DR,dr,,
+gdc,nm24.0,FRAU VON TIEFENBORN,frau_von_tiefenborn,,
+gdc,nm24.0,HEINRICH,heinrich,,
+gdc,nm24.0,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,,
+gdc,nm24.0,HERR VON KREUZWEG,herr_von_kreuzweg,,
+gdc,nm24.0,HERR VON ZIEGENDORF,herr_von_ziegendorf,,
+gdc,nm24.0,HERR VON WAGEHALS,herr_von_wagehals,,
+gdc,nm24.0,DER DIENER,der_diener,,
+gdc,nm24.0,NOTARIUS,notarius,,
+gdc,nm24.0,Das Testament,de,"Gottsched, Luise Adelgunde Victorie",118696734,,,0,1745,0,0

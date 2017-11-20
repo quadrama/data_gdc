@@ -1,0 +1,6 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,tvgr.0,JARRIMO,jarrimo,,
+gdc,tvgr.0,LISABELLA,lisabella,,
+gdc,tvgr.0,RODERICH,roderich,,
+gdc,tvgr.0,Der Wetterfürst,de,"Scheerbart, Paul",118606816,,,0,1904,0,0

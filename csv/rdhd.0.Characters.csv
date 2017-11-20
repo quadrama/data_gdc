@@ -1,0 +1,20 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,rdhd.0,NARRABOTH,narraboth,,
+gdc,rdhd.0,PAGE,page,,
+gdc,rdhd.0,ERSTER SOLDAT,erster_soldat,,
+gdc,rdhd.0,ZWEITER SOLDAT,zweiter_soldat,,
+gdc,rdhd.0,EIN CAPPADOCIER,ein_cappadocier,,
+gdc,rdhd.0,SALOME,salome,,
+gdc,rdhd.0,SKLAVE,sklave,,
+gdc,rdhd.0,JOCHANAAN,jochanaan,,
+gdc,rdhd.0,HERODES,herodes,,
+gdc,rdhd.0,HERODIAS,herodias,,
+gdc,rdhd.0,ERSTER JUDE,erster_jude,,
+gdc,rdhd.0,ZWEITER JUDE,zweiter_jude,,
+gdc,rdhd.0,DRITTER JUDE,dritter_jude,,
+gdc,rdhd.0,VIERTER JUDE,vierter_jude,,
+gdc,rdhd.0,FÜNFTER JUDE,fünfter_jude,,
+gdc,rdhd.0,ERSTER NAZARENER,erster_nazarener,,
+gdc,rdhd.0,ZWEITER NAZARENER,zweiter_nazarener,,
+gdc,rdhd.0,Salome,de,"Lachmann, Hedwig",119115441,,,0,0,1905,0

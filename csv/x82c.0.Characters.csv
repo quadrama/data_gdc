@@ -1,0 +1,13 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,x82c.0,GRETEL,gretel,,
+gdc,x82c.0,HÄNSEL,hänsel,,
+gdc,x82c.0,MUTTER,mutter,,
+gdc,x82c.0,VATER,vater,,
+gdc,x82c.0,ECHO,echo,,
+gdc,x82c.0,SANDMÄNNCHEN,sandmännchen,,
+gdc,x82c.0,TAUMÄNNCHEN,taumännchen,,
+gdc,x82c.0,HEXE,hexe,,
+gdc,x82c.0,KUCHENKINDER,kuchenkinder,,
+gdc,x82c.0,ANDRE KUCHENKINDER,andre_kuchenkinder,,
+gdc,x82c.0,Hänsel und Gretel,de,"Wette, Adelheid",119514125,,,0,0,1893,0

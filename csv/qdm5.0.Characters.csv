@@ -1,0 +1,21 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,qdm5.0,WELT,welt,,
+gdc,qdm5.0,ENGEL,engel,,
+gdc,qdm5.0,PROPHETEN,propheten,,
+gdc,qdm5.0,MEISTER,meister,,
+gdc,qdm5.0,VORWITZ,vorwitz,,
+gdc,qdm5.0,WIDERSACHER,widersacher,,
+gdc,qdm5.0,EINER DER PROPHETEN,einer_der_propheten,,
+gdc,qdm5.0,DER ERSTE ENGEL,der_erste_engel,,
+gdc,qdm5.0,STIMMEN,stimmen,,
+gdc,qdm5.0,ZWEITER ENGEL,zweiter_engel,,
+gdc,qdm5.0,KÖNIG,könig,,
+gdc,qdm5.0,SCHÖNHEIT,schönheit,,
+gdc,qdm5.0,WEISHEIT,weisheit,,
+gdc,qdm5.0,BAUER,bauer,,
+gdc,qdm5.0,REICHER,reicher,,
+gdc,qdm5.0,BETTLER,bettler,,
+gdc,qdm5.0,TOD,tod,,
+gdc,qdm5.0,Alle,alle,,
+gdc,qdm5.0,Das Salzburger große Welttheater,de,"Hofmannsthal, Hugo von",118552759,,,0,1929,1922,0

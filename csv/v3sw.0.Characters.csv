@@ -1,0 +1,12 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,v3sw.0,DIENER,diener,,
+gdc,v3sw.0,GRAF,graf,,
+gdc,v3sw.0,KOMTESSE,komtesse,,
+gdc,v3sw.0,GÄRTNER,gärtner,,
+gdc,v3sw.0,DER FÜRST,der_fürst,,
+gdc,v3sw.0,PHILIPP,philipp,,
+gdc,v3sw.0,LOLO,lolo,,
+gdc,v3sw.0,WASNER,wasner,,
+gdc,v3sw.0,PROFESSOR WINDHOFER,professor_windhofer,,
+gdc,v3sw.0,Komtesse Mizzi oder Der Familientag,de,"Schnitzler, Arthur",118609807,,,1907,1909,1909,0

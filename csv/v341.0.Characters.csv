@@ -1,0 +1,14 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,v341.0,SOLISA,solisa,,
+gdc,v341.0,ALVARO,alvaro,,
+gdc,v341.0,LAURA,laura,,
+gdc,v341.0,RICARDO,ricardo,,
+gdc,v341.0,OCTAVIO,octavio,,
+gdc,v341.0,DER KÖNIG,der_könig,,
+gdc,v341.0,ALARCOS,alarcos,,
+gdc,v341.0,CLARA,clara,,
+gdc,v341.0,DAGOBERT,dagobert,,
+gdc,v341.0,EINE WÄRTERIN,eine_wärterin,,
+gdc,v341.0,CORNELIA,cornelia,,
+gdc,v341.0,Alarkos,de,"Schlegel, Friedrich",118607987,,,1801,1802,1802,0

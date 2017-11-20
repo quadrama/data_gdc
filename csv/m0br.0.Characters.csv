@@ -1,0 +1,10 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,m0br.0,HERR ORGON,herr_orgon,,
+gdc,m0br.0,PHILIPP,philipp,,
+gdc,m0br.0,LISETTE,lisette,,
+gdc,m0br.0,TIMANT,timant,,
+gdc,m0br.0,DAMON,damon,,
+gdc,m0br.0,HERR GERONTE,herr_geronte,,
+gdc,m0br.0,CLIMENE,climene,,
+gdc,m0br.0,Der Mißtrauische,de,"Cronegk, Johann Friedrich von",11852285X,,,0,1760,1766,0

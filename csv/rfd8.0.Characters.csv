@@ -1,0 +1,21 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,rfd8.0,KISSLING,kissling,,
+gdc,rfd8.0,KELLNER,kellner,,
+gdc,rfd8.0,GRÖBER,gröber,,
+gdc,rfd8.0,JEAN,jean,,
+gdc,rfd8.0,BERNHARDY,bernhardy,,
+gdc,rfd8.0,JOSEPHINE,josephine,,
+gdc,rfd8.0,ERSTER GAST,erster_gast,,
+gdc,rfd8.0,EUGEN,eugen,,
+gdc,rfd8.0,ULRIKE,ulrike,,
+gdc,rfd8.0,IDA,ida,,
+gdc,rfd8.0,FRANZISKA,franziska,,
+gdc,rfd8.0,ALFRED,alfred,,
+gdc,rfd8.0,KLAPPROTH,klapproth,,
+gdc,rfd8.0,ZWEITER GAST,zweiter_gast,,
+gdc,rfd8.0,BLUMENMÄDCHEN,blumenmädchen,,
+gdc,rfd8.0,SCHÖLLER,schöller,,
+gdc,rfd8.0,AMALIE,amalie,,
+gdc,rfd8.0,FRIEDERIKE,friederike,,
+gdc,rfd8.0,Pension Schöller,de,"Laufs, Carl",106290916,,,0,1898,0,0

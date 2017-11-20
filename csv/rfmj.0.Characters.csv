@@ -1,0 +1,12 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,rfmj.0,HELENE KREINER,helene_kreiner,,
+gdc,rfmj.0,JOSEPH KREINER,joseph_kreiner,,
+gdc,rfmj.0,HEINRICH HÖRMANN,heinrich_hörmann,,
+gdc,rfmj.0,DIE ZEITUNGSFRAU,die_zeitungsfrau,,
+gdc,rfmj.0,FRAU KREINER,frau_kreiner,,
+gdc,rfmj.0,HERR KREINER,herr_kreiner,,
+gdc,rfmj.0,BABETTE,babette,,
+gdc,rfmj.0,Häßliches Mädchen,mädchen,,
+gdc,rfmj.0,Einer (Vorspiel),einer,,
+gdc,rfmj.0,Medusa,de,"Lautensack, Heinrich",118570226,,,0,1904,0,0

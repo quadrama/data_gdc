@@ -1,0 +1,7 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,x3cv.0,BURIDAN,buridan,,
+gdc,x3cv.0,KADIDJA,kadidja,,
+gdc,x3cv.0,DIE ZOFE,die_zofe,,
+gdc,x3cv.0,DR,dr,,
+gdc,x3cv.0,Die Zensur,de,"Wedekind, Frank",118629867,,,1906,1908,1909,0

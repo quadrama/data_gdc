@@ -1,0 +1,23 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,qkmq.0,MATTHES,matthes,,
+gdc,qkmq.0,RUDOLPH,rudolph,,
+gdc,qkmq.0,ANTON,anton,,
+gdc,qkmq.0,OBERFÖRSTERIN,oberförsterin,,
+gdc,qkmq.0,OBERFÖRSTER,oberförster,,
+gdc,qkmq.0,SCHULZ,schulz,,
+gdc,qkmq.0,FRIEDRIKE,friedrike,,
+gdc,qkmq.0,EIN BURSCHE,ein_bursche,,
+gdc,qkmq.0,KORDELCHEN,kordelchen,,
+gdc,qkmq.0,PASTOR,pastor,,
+gdc,qkmq.0,WIRTIN,wirtin,,
+gdc,qkmq.0,BÄRBEL,bärbel,,
+gdc,qkmq.0,GERICHTSSCHREIBER,gerichtsschreiber,,
+gdc,qkmq.0,ROMANN,romann,,
+gdc,qkmq.0,KAPPE,kappe,,
+gdc,qkmq.0,EINIGE,einige,,
+gdc,qkmq.0,ANDRE,andre,,
+gdc,qkmq.0,DER ALTE BAUER,der_alte_bauer,,
+gdc,qkmq.0,DIE BAUERN,die_bauern,,
+gdc,qkmq.0,AMTMANN,amtmann,,
+gdc,qkmq.0,Die Jäger,de,"Iffland, August Wilhelm",118555324,,,0,1785,1785,0

@@ -1,0 +1,13 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,vrdk.0,BELMONTE,belmonte,,
+gdc,vrdk.0,OSMIN,osmin,,
+gdc,vrdk.0,PEDRILLO,pedrillo,,
+gdc,vrdk.0,CHOR,chor,,
+gdc,vrdk.0,EINE ODER ZWO SRIMMEN,eine_oder_zwo_srimmen,,
+gdc,vrdk.0,SELIM,selim,,
+gdc,vrdk.0,KONSTANZE,konstanze,,
+gdc,vrdk.0,BLONDE,blonde,,
+gdc,vrdk.0,KLAAS,klaas,,
+gdc,vrdk.0,WACHE,wache,,
+gdc,vrdk.0,Die Entführung aus dem Serail,de,"Stephanie, Johann Gottlieb (der Jüngere)",119545799,,,0,0,1782,0

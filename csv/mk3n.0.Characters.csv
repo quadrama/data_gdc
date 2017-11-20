@@ -1,0 +1,11 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,mk3n.0,AUFRECHT,aufrecht,,
+gdc,mk3n.0,KRIECHEL,kriechel,,
+gdc,mk3n.0,HANS,hans,,
+gdc,mk3n.0,BEIDE CHÖRE,beide_chöre,,
+gdc,mk3n.0,CENSUR,censur,,
+gdc,mk3n.0,POLISËI,polisëi,,
+gdc,mk3n.0,GENSEDARM,gensedarm,,
+gdc,mk3n.0,THEODOR,theodor,,
+gdc,mk3n.0,Die Wände,de,"Dulk, Albert",118869345,,,0,1848,0,0

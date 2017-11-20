@@ -1,0 +1,13 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,tvg7.0,KNEETSCHKE,kneetschke,,
+gdc,tvg7.0,POSTBOTE,postbote,,
+gdc,tvg7.0,KATHI,kathi,,
+gdc,tvg7.0,DIE BEIDEN DOMESTIKEN,die_beiden_domestiken,,
+gdc,tvg7.0,WLADIMIR,wladimir,,
+gdc,tvg7.0,PAPA,papa,,
+gdc,tvg7.0,MAMA,mama,,
+gdc,tvg7.0,GEIST,geist,,
+gdc,tvg7.0,ONKEL,onkel,,
+gdc,tvg7.0,TANTE,tante,,
+gdc,tvg7.0,Herr Kammerdiener Kneetschke,de,"Scheerbart, Paul",118606816,,,0,1904,0,0

@@ -1,0 +1,14 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,rfcv.0,SYLVA,sylva,,
+gdc,rfcv.0,MALSTRÖM,malström,,
+gdc,rfcv.0,MONALDESCHI,monaldeschi,,
+gdc,rfcv.0,BRAHE,brahe,,
+gdc,rfcv.0,SCHNURE,schnure,,
+gdc,rfcv.0,SANTINELLI,santinelli,,
+gdc,rfcv.0,CHRISTINE,christine,,
+gdc,rfcv.0,EIN DIENER,ein_diener,,
+gdc,rfcv.0,ROSENHANE,rosenhane,,
+gdc,rfcv.0,VIELE STIMMEN,viele_stimmen,,
+gdc,rfcv.0,PRIOR,prior,,
+gdc,rfcv.0,Monaldeschi,de,"Laube, Heinrich",118570080,,,0,1845,1841,0

@@ -1,0 +1,17 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,str5.0,DOMINIK,dominik,,
+gdc,str5.0,EIN KRÄMER,ein_krämer,,
+gdc,str5.0,FRAU VON ERBSENSTEIN,frau_von_erbsenstein,,
+gdc,str5.0,NANETT,nanett,,
+gdc,str5.0,KAUZ,kauz,,
+gdc,str5.0,SCHNOFERL,schnoferl,,
+gdc,str5.0,GIGL,gigl,,
+gdc,str5.0,THEKLA,thekla,,
+gdc,str5.0,CHOR DER GESELLSCHAFT,chor_der_gesellschaft,,
+gdc,str5.0,KNÖPFEL,knöpfel,,
+gdc,str5.0,MADAME STORCH,madame_storch,,
+gdc,str5.0,ROSALIE,rosalie,,
+gdc,str5.0,SABINE,sabine,,
+gdc,str5.0,PEPPI,peppi,,
+gdc,str5.0,Das Mädl aus der Vorstadt,de,"Nestroy, Johann",118587080,,,1841,1845,1841,0

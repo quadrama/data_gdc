@@ -1,0 +1,22 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,n7rr.0,KARL,karl,,
+gdc,n7rr.0,DROMER,dromer,,
+gdc,n7rr.0,BEDIENTER,bedienter,,
+gdc,n7rr.0,SOPHIE,sophie,,
+gdc,n7rr.0,FRITZ,fritz,,
+gdc,n7rr.0,GRAF MONHEIM,graf_monheim,,
+gdc,n7rr.0,FERDINAND,ferdinand,,
+gdc,n7rr.0,EIN BEDIENTER,ein_bedienter,,
+gdc,n7rr.0,GRÄFIN AMALDI,gräfin_amaldi,,
+gdc,n7rr.0,ADJUTANT,adjutant,,
+gdc,n7rr.0,MALER,maler,,
+gdc,n7rr.0,LOTTCHEN,lottchen,,
+gdc,n7rr.0,ANNE,anne,,
+gdc,n7rr.0,HAUSVATER,hausvater,,
+gdc,n7rr.0,DAS KIND,das_kind,,
+gdc,n7rr.0,DER BAUER,der_bauer,,
+gdc,n7rr.0,AMTMANN,amtmann,,
+gdc,n7rr.0,KAMMERJUNGFER,kammerjungfer,,
+gdc,n7rr.0,DIE BEDIENTE,die_bediente,,
+gdc,n7rr.0,Der deutsche Hausvater oder die Familie,de,"Gemmingen-Hornberg, Otto Heinrich von",118716778,,,0,1780,0,0

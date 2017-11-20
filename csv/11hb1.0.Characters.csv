@@ -1,0 +1,7 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,11hb1.0,SÖLLER,söller,,
+gdc,11hb1.0,DER WIRT,der_wirt,,
+gdc,11hb1.0,SOPHIE,sophie,,
+gdc,11hb1.0,ALCEST,alcest,,
+gdc,11hb1.0,Die Mitschuldigen,de,"Goethe, Johann Wolfgang",118540238,,,1769,1909,1776,0
