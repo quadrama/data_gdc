@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,nmg0.0,DON JUAN,don_juan,,
 gdc,nmg0.0,LEPORELLO,leporello,,
 gdc,nmg0.0,DER GOUVERNEUR,der_gouverneur,,

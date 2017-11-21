@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,pn2n.0,HOLOFERNES,holofernes,,
 gdc,pn2n.0,OBERPRIESTER,oberpriester,,
 gdc,pn2n.0,TRABANT,trabant,,

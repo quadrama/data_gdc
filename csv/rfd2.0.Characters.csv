@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,rfd2.0,GRÄFIN FRANZISKA VON HOHENHEIM,gräfin_franziska_von_hohenheim,,
 gdc,rfd2.0,GENERALIN,generalin,,
 gdc,rfd2.0,LAURA,laura,,

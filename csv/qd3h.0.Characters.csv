@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,qd3h.0,MUSIKLEHRER,musiklehrer,,
 gdc,qd3h.0,HAUSHOFMEISTER,haushofmeister,,
 gdc,qd3h.0,DER LAKAI,der_lakai,,

@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,ssrb.0,JARL,jarl,,
 gdc,ssrb.0,ERICHSON,erichson,,
 gdc,ssrb.0,DER TRABANT,der_trabant_1.1,,

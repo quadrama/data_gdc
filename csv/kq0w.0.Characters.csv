@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,kq0w.0,THESEUS,theseus,,
 gdc,kq0w.0,ARIADNE,ariadne,,
 gdc,kq0w.0,DIE STIMME DER OREADE,die_stimme_der_oreade,,

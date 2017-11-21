@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,11g5f.0,MARQUISE,marquise,,
 gdc,11g5f.0,DOMHERR,domherr,,
 gdc,11g5f.0,EIN BEDIENTER,ein_bedienter,,

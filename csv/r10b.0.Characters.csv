@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,r10b.0,DER GRAF VON HOHENZOLLERN,der_graf_von_hohenzollern,,
 gdc,r10b.0,DER KURFÜRST,der_kurfürst,,
 gdc,r10b.0,DIE KURFÜRSTIN,die_kurfürstin,,

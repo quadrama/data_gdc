@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,kjfg.0,MAJA,maja,,
 gdc,kjfg.0,GADHI,gadhi,,
 gdc,kjfg.0,STIMMEN,stimmen,,

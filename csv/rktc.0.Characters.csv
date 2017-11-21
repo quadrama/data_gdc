@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,rktc.0,MARTIN KRUMM,martin_krumm,,
 gdc,rktc.0,MICHEL STICH,michel_stich,,
 gdc,rktc.0,DER REISENDE,der_reisende,,

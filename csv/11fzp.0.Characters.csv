@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,11fzp.0,LAMON,lamon,,
 gdc,11fzp.0,EGLE,egle,,
 gdc,11fzp.0,AMINE,amine,,

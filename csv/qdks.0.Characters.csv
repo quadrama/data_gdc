@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,qdks.0,BARON,baron,,
 gdc,qdks.0,VENIER,venier,,
 gdc,qdks.0,LE DUC,le_duc,,

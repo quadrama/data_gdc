@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,qfxj.0,FRANZ,franz,,
 gdc,qfxj.0,KOTZELUCH,kotzeluch,,
 gdc,qfxj.0,LOUISE,louise,,

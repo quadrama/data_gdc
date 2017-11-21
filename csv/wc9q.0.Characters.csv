@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,wc9q.0,FRAU GISELIUS,frau_giselius,,
 gdc,wc9q.0,PROFESSOR GISELIUS,professor_giselius,,
 gdc,wc9q.0,BABETTE,babette,,

@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,qx5q.0,DAS VOLK,das_volk,,
 gdc,qx5q.0,MAX,max,,
 gdc,qx5q.0,CHOR DER LANDLEUTE,chor_der_landleute,,

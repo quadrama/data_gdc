@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,rjg0.0,THEOPHAN,theophan,,
 gdc,rjg0.0,ADRAST,adrast,,
 gdc,rjg0.0,LISIDOR,lisidor,,

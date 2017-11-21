@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,wzps.0,GURNEMANZ,gurnemanz,,
 gdc,wzps.0,ZWEITER RITTER,zweiter_ritter,,
 gdc,wzps.0,ZWEITER KNAPPE,zweiter_knappe,,

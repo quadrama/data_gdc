@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,11gtp.0,OLIMPIA,olimpia,,
 gdc,11gtp.0,ELMIRE,elmire,,
 gdc,11gtp.0,BERNARDO,bernardo,,

@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,wzp1.0,DIE ERSTE NORN,die_erste_norn,,
 gdc,wzp1.0,DIE ZWEITE NORN,die_zweite_norn,,
 gdc,wzp1.0,DIE DRITTE NORN,die_dritte_norn,,

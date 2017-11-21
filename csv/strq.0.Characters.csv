@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,strq.0,CHOR DER ALTEN ZAUBERER,chor_der_alten_zauberer,,
 gdc,strq.0,STELLARIS,stellaris,,
 gdc,strq.0,MYSTIFAX,mystifax,,

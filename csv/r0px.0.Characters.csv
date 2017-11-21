@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,r0px.0,CHOR DER MÄDCHEN,chor_der_mädchen,,
 gdc,r0px.0,CHOR DER JÜNGLINGE,chor_der_jünglinge,,
 gdc,r0px.0,RUPERT,rupert,,

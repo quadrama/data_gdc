@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,s6m2.0,JOARIM,joarim,,
 gdc,s6m2.0,LEA,lea,,
 gdc,s6m2.0,BENJAMIN,benjamin,,

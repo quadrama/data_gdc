@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,tgw9.0,HANNCHEN,hannchen,,
 gdc,tgw9.0,MUTTER LÜCKEL,mutter_lückel,,
 gdc,tgw9.0,DER ALTE SCHNIERMANN,der_alte_schniermann,,

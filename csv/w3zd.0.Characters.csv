@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,w3zd.0,FRAU VON WICHMANN,frau_von_wichmann,,
 gdc,w3zd.0,JULIE,julie,,
 gdc,w3zd.0,HERR VON WOHLAU,herr_von_wohlau,,

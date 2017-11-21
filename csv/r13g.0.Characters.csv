@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,r13g.0,SARAZENENKÖNIG,sarazenenkönig,,
 gdc,r13g.0,GRISALDO,grisaldo,,
 gdc,r13g.0,ALMERINE,almerine,,

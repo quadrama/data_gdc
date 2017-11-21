@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,p5cg.0,DE SILVA,de_silva,,
 gdc,p5cg.0,JOCHAI,jochai,,
 gdc,p5cg.0,DIENER,diener,,

@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,tn4k.0,FRÄULEIN SCHAITZACH,fräulein_schaitzach,,
 gdc,tn4k.0,HERR VON BECK,herr_von_beck,,
 gdc,tn4k.0,DIE DREI CHORISTINNEN,die_drei_choristinnen,,

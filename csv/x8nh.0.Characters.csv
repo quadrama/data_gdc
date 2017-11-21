@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,x8nh.0,FRITZE BELKOW,fritze_belkow,,
 gdc,x8nh.0,PETER STUMMEL,peter_stummel,,
 gdc,x8nh.0,HANS STURZ,hans_sturz,,

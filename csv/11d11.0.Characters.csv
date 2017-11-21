@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,11d11.0,ARIEL,ariel,,
 gdc,11d11.0,CHOR (ANMUTIGE GEGEND),chor_anmutige_gegend,,
 gdc,11d11.0,FAUST,faust,,

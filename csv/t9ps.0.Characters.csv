@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,t9ps.0,CHOR,chor,,
 gdc,t9ps.0,HIDULFUS,hidulfus,,
 gdc,t9ps.0,GOLO,golo,,

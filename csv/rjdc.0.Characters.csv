@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,rjdc.0,HERR ORONTE,herr_oronte,,
 gdc,rjdc.0,JUNGFER OHLDIN,jungfer_ohldin,,
 gdc,rjdc.0,FRAU ORONTE,frau_oronte,,

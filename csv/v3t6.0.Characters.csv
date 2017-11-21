@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,v3t6.0,DER WOHLWOLLENDE,der_wohlwollende,,
 gdc,v3t6.0,DER BISSIGE,der_bissige,,
 gdc,v3t6.0,DER NAIVE,der_naive,,

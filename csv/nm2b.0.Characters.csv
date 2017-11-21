@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,nm2b.0,JUNGFER LUISCHEN,jungfer_luischen,,
 gdc,nm2b.0,CATHRINE,cathrine,,
 gdc,nm2b.0,FRAU GLAUBELEICHTIN,frau_glaubeleichtin,,

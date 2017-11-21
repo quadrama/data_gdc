@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,sj6f.0,ALLGEMEINER CHOR,allgemeiner_chor,,
 gdc,sj6f.0,THERESE,therese,,
 gdc,sj6f.0,CHRISTINE,christine,,

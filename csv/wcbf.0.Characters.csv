@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,wcbf.0,STÜVE,stüve,,
 gdc,wcbf.0,KLEEWITZ,kleewitz,,
 gdc,wcbf.0,FRAU VON KLEEWITZ,frau_von_kleewitz,,

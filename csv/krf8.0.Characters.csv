@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,krf8.0,BELMONTE,belmonte,,
 gdc,krf8.0,OSMIN,osmin,,
 gdc,krf8.0,PEDRILLO,pedrillo,,

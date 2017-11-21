@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,qdk1.0,STIMME,stimme,,
 gdc,qdk1.0,APOLLON,apollon,,
 gdc,qdk1.0,DER TOD,der_tod,,

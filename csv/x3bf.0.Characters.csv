@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,x3bf.0,DER NORMALE LESER,der_normale_leser,,
 gdc,x3bf.0,DER RÜHRIGE VERLEGER,der_rührige_verleger,,
 gdc,x3bf.0,DER VERSCHÄMTE AUTOR,der_verschämte_autor,,

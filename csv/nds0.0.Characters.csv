@@ -1,7 +1,6 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
-gdc,nds0.0,ANSELMO,anselmo,,
-gdc,nds0.0,UGOLINO,ugolino,,
-gdc,nds0.0,GADDO,gaddo,,
-gdc,nds0.0,FRANCESCO,francesco,,
+gdc,nds0.0,ANSELMO,anselmo,male,
+gdc,nds0.0,UGOLINO,ugolino,male,
+gdc,nds0.0,GADDO,gaddo,male,
+gdc,nds0.0,FRANCESCO,francesco,male,
 gdc,nds0.0,Ugolino,de,"Gerstenberg, Heinrich Wilhelm von",118690949,,,0,1768,1769,0

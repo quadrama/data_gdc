@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,r1hd.0,HORST,horst,,
 gdc,r1hd.0,SIEGMAR,siegmar,,
 gdc,r1hd.0,EINE ENTFERNTE STIMME,eine_entfernte_stimme,,

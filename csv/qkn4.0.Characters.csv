@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,qkn4.0,JAKOB,jakob,,
 gdc,qkn4.0,HOFRATH,hofrath,,
 gdc,qkn4.0,FRAU VON WALLENFELD,frau_von_wallenfeld,,

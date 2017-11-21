@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,x4vp.0,BILAU,bilau,,
 gdc,x4vp.0,GRUNDMANN,grundmann,,
 gdc,x4vp.0,FERDINAND,ferdinand,,

@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,pkj1.0,DIE DIENERIN,die_dienerin,,
 gdc,pkj1.0,DIE MUTTER,die_mutter,,
 gdc,pkj1.0,GIWAU,giwau,,

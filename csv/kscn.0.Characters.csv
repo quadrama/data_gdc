@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,kscn.0,LEONCE,leonce,,
 gdc,kscn.0,HOFMEISTER,hofmeister,,
 gdc,kscn.0,VALERIO,valerio,,

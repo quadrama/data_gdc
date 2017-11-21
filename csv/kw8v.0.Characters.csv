@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,kw8v.0,CHOR DER FRAUEN,chor_der_frauen,,
 gdc,kw8v.0,KÖNIG,könig,,
 gdc,kw8v.0,ADOLAR,adolar,,

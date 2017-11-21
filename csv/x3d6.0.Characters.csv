@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,x3d6.0,MOLLY,molly,,
 gdc,x3d6.0,VON KEITH,von_keith,,
 gdc,x3d6.0,HERMANN CASIMIR,hermann_casimir,,

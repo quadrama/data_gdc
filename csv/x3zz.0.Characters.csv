@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,x3zz.0,LUX,lux,,
 gdc,x3zz.0,ADAM,adam,,
 gdc,x3zz.0,MARGARETHE,margarethe,,

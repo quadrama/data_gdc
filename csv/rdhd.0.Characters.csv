@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,rdhd.0,NARRABOTH,narraboth,,
 gdc,rdhd.0,PAGE,page,,
 gdc,rdhd.0,ERSTER SOLDAT,erster_soldat,,

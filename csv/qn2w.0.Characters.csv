@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,qn2w.0,DIE DAME DES HAUSES,die_dame_des_hauses,,
 gdc,qn2w.0,DER STAATSANWALT,der_staatsanwalt,,
 gdc,qn2w.0,EIN ANDERER HERR,ein_anderer_herr,,

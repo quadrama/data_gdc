@@ -1,13 +1,12 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
-gdc,11f81.0,CLAVIGO,clavigo,,
-gdc,11f81.0,CARLOS,carlos,,
-gdc,11f81.0,BUENCO,buenco,,
-gdc,11f81.0,SOPHIE,sophie,,
-gdc,11f81.0,MARIE,marie,,
-gdc,11f81.0,GUILBERT,guilbert,,
-gdc,11f81.0,BEAUMARCHAIS,beaumarchais,,
-gdc,11f81.0,BEDIENTER,bedienter,,
-gdc,11f81.0,SAINT GEORGE,saint_george,,
-gdc,11f81.0,DIE MÄNNER,die_männer,,
+gdc,11f81.0,CLAVIGO,clavigo,male,
+gdc,11f81.0,CARLOS,carlos,male,
+gdc,11f81.0,BUENCO,buenco,male,
+gdc,11f81.0,SOPHIE,sophie,female,
+gdc,11f81.0,MARIE,marie,female,
+gdc,11f81.0,GUILBERT,guilbert,male,
+gdc,11f81.0,BEAUMARCHAIS,beaumarchais,male,
+gdc,11f81.0,BEDIENTER,bedienter,male,
+gdc,11f81.0,SAINT GEORGE,saint_george,male,
+gdc,11f81.0,DIE MÄNNER,die_männer,male,
 gdc,11f81.0,Clavigo,de,"Goethe, Johann Wolfgang",118540238,,,0,1774,1774,0

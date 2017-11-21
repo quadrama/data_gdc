@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,swzc.0,NERO,nero,,
 gdc,swzc.0,LUKANUS,lukanus,,
 gdc,swzc.0,ERSTES MÄDCHEN,erstes_mädchen,,

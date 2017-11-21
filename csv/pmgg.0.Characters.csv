@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,pmgg.0,JOAB,joab,,
 gdc,pmgg.0,HERODES,herodes,,
 gdc,pmgg.0,JUDAS,judas,,

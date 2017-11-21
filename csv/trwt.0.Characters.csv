@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,trwt.0,DICHTER,dichter,,
 gdc,trwt.0,DIREKTOR,direktor,,
 gdc,trwt.0,SCHAUSPIELER,schauspieler,,

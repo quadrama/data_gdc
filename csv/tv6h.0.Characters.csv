@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,tv6h.0,FRIEDRICH,friedrich,,
 gdc,tv6h.0,LISETTE,lisette,,
 gdc,tv6h.0,AMALIE,amalie,,

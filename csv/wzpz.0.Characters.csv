@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,wzpz.0,DER HEERRUFER,der_heerrufer,,
 gdc,wzpz.0,DIE BRABANTER,die_brabanter,,
 gdc,wzpz.0,KÖNIG HEINRICH,könig_heinrich,,

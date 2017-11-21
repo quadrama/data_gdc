@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,wzq9.0,ISOLDE,isolde,,
 gdc,wzq9.0,BRANGÄNE,brangäne,,
 gdc,wzq9.0,DER JUNGE SEEMANN,der_junge_seemann,,

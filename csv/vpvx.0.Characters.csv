@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,vpvx.0,ERSTER FREIER,erster_freier,,
 gdc,vpvx.0,CHOR,chor,,
 gdc,vpvx.0,ZWEITER FREIER,zweiter_freier,,

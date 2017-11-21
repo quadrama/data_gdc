@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,pn22.0,BRUNHILD,brunhild,,
 gdc,pn22.0,FRIGGA,frigga,,
 gdc,pn22.0,SIEGFRIED,siegfried,,

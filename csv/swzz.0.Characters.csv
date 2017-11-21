@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,swzz.0,ERSTER ENGEL,erster_engel,,
 gdc,swzz.0,ZWEITER ENGEL,zweiter_engel,,
 gdc,swzz.0,DRITTER ENGEL,dritter_engel,,

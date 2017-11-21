@@ -1,5 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 gdc,x4vf.0,AUGUST,august,,
 gdc,x4vf.0,GEHRMANN,gehrmann,,
 gdc,x4vf.0,EMERIKE,emerike,,
