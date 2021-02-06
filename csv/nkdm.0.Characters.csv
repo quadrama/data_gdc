@@ -1,8 +1,6 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,nkdm.0,MEDEA,medea,,
-gdc,nkdm.0,HOFMEISTERIN,hofmeisterin,,
-gdc,nkdm.0,EIN KNABE,ein_knabe,,
-gdc,nkdm.0,KNABEN,knaben,,
-gdc,nkdm.0,DER JÜNGERE,der_jüngere,,
-gdc,nkdm.0,DER ÄLTERE,der_ältere,,
-gdc,nkdm.0,JASON,jason,,
+gdc,nkdm.0,Der Ältere,der_aeltere,MALE,
+gdc,nkdm.0,Hofmeisterin,hofmeisterin,FEMALE,
+gdc,nkdm.0,Medea,medea,FEMALE,
+gdc,nkdm.0,Der Jüngere,der_juengere,MALE,
+gdc,nkdm.0,Jason,jason,MALE,

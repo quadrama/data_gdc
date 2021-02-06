@@ -1,7 +1,7 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,v3t3.0,ANATOL,anatol,,
-gdc,v3t3.0,MAX,max,,
-gdc,v3t3.0,BARON DIEBL,baron_diebl,,
-gdc,v3t3.0,ANNETTE,annette,,
-gdc,v3t3.0,FLIEDER,flieder,,
-gdc,v3t3.0,BERTA,berta,,
+gdc,v3t3.0,Annette,annette,FEMALE,
+gdc,v3t3.0,Anatol,anatol,MALE,
+gdc,v3t3.0,Baron Diebl,baron_diebl,MALE,
+gdc,v3t3.0,Flieder,flieder,MALE,
+gdc,v3t3.0,Berta,berta,FEMALE,
+gdc,v3t3.0,Max,max,MALE,

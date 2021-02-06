@@ -1,0 +1,936 @@
+corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+gdc,r10b.0,1421,1770,_stage,1421,1442,Der Prinz von Homburg,der_prinz_von_homburg
+gdc,r10b.0,1421,1770,_stage,1562,1574,Der Kurfürst,der_kurfuerst
+gdc,r10b.0,1421,1770,_stage,1591,1609,Prinzessin Natalie,natalie
+gdc,r10b.0,1421,1770,_stage,1611,1636,der Graf von Hohenzollern,hohenzollern
+gdc,r10b.0,1772,2226,hohenzollern,1800,1821,Der Prinz von Homburg,der_prinz_von_homburg
+gdc,r10b.0,1772,2226,hohenzollern,1857,1863,Reuter,reuter
+gdc,r10b.0,2599,2632,der_kurfuerst,2621,2624,ich,der_kurfuerst
+gdc,r10b.0,2637,3172,hohenzollern,2770,2791,der Prinz von Homburg,der_prinz_von_homburg
+gdc,r10b.0,3441,3500,die_kurfuerstin,3491,3494,ich,die_kurfuerstin
+gdc,r10b.0,3554,3651,die_kurfuerstin,3599,3603,mich,die_kurfuerstin
+gdc,r10b.0,3657,3937,hohenzollern,3760,3763,ich,hohenzollern
+gdc,r10b.0,3657,3937,hohenzollern,3881,3884,mir,hohenzollern
+gdc,r10b.0,3657,3937,hohenzollern,3889,3893,mein,hohenzollern
+gdc,r10b.0,3943,4091,der_kurfuerst,3986,3989,ich,der_kurfuerst
+gdc,r10b.0,3943,4091,der_kurfuerst,4001,4004,mir,der_kurfuerst
+gdc,r10b.0,4603,4660,der_kurfuerst,4637,4643,meinem,der_kurfuerst
+gdc,r10b.0,4833,4935,der_kurfuerst,4887,4890,ich,der_kurfuerst
+gdc,r10b.0,4941,5126,hohenzollern,4990,4994,mein,hohenzollern
+gdc,r10b.0,4941,5126,hohenzollern,5033,5036,ich,hohenzollern
+gdc,r10b.0,5377,5754,der_kurfuerst,5401,5404,Ich,der_kurfuerst
+gdc,r10b.0,5443,5754,_stage,5443,5455,Der Kurfürst,der_kurfuerst
+gdc,r10b.0,5443,5754,_stage,5526,5538,Der Kurfürst,der_kurfuerst
+gdc,r10b.0,5443,5754,_stage,5635,5647,Der Kurfürst,der_kurfuerst
+gdc,r10b.0,5758,5826,der_prinz_von_homburg,5800,5804,Mein,der_prinz_von_homburg
+gdc,r10b.0,5758,5826,der_prinz_von_homburg,5814,5819,Meine,der_prinz_von_homburg
+gdc,r10b.0,5974,6031,der_prinz_von_homburg,6008,6012,Mein,der_prinz_von_homburg
+gdc,r10b.0,5974,6031,der_prinz_von_homburg,6020,6024,Mein,der_prinz_von_homburg
+gdc,r10b.0,6071,6131,der_kurfuerst,6112,6115,mir,der_kurfuerst
+gdc,r10b.0,6136,6174,der_prinz_von_homburg,6161,6166,meine,der_prinz_von_homburg
+gdc,r10b.0,6256,6401,der_prinz_von_homburg,6334,6337,mir,der_prinz_von_homburg
+gdc,r10b.0,6517,6622,hohenzollern,6566,6570,mein,hohenzollern
+gdc,r10b.0,7230,7344,_stage,7230,7255,Der Graf von Hohenzollern,hohenzollern
+gdc,r10b.0,7230,7344,_stage,7322,7343,Der Prinz von Homburg,der_prinz_von_homburg
+gdc,r10b.0,7478,7499,der_page,7484,7488,Mich,der_page
+gdc,r10b.0,7504,7583,hohenzollern,7546,7549,mir,hohenzollern
+gdc,r10b.0,7589,7762,der_page,7596,7608,Der Kurfürst,der_kurfuerst
+gdc,r10b.0,7589,7762,der_page,7617,7621,mich,der_page
+gdc,r10b.0,7768,7893,hohenzollern,7860,7863,ich,hohenzollern
+gdc,r10b.0,7881,7893,_stage,7881,7889,Der Page,der_page
+gdc,r10b.0,7917,7969,_stage,7917,7942,Der Graf von Hohenzollern,hohenzollern
+gdc,r10b.0,7917,7969,_stage,7947,7968,der Prinz von Homburg,der_prinz_von_homburg
+gdc,r10b.0,7971,8434,hohenzollern,8200,8203,ich,hohenzollern
+gdc,r10b.0,7971,8434,hohenzollern,8255,8258,mir,hohenzollern
+gdc,r10b.0,8479,8656,hohenzollern,8516,8519,ich,hohenzollern
+gdc,r10b.0,8710,8830,hohenzollern,8752,8755,ich,hohenzollern
+gdc,r10b.0,8710,8830,hohenzollern,8811,8817,Reuter,reuter
+gdc,r10b.0,8836,8901,der_prinz_von_homburg,8876,8882,Meinen,der_prinz_von_homburg
+gdc,r10b.0,9057,9108,der_prinz_von_homburg,9092,9095,ich,der_prinz_von_homburg
+gdc,r10b.0,9057,9108,der_prinz_von_homburg,9097,9101,mein,der_prinz_von_homburg
+gdc,r10b.0,9057,9108,der_prinz_von_homburg,9102,9105,ich,der_prinz_von_homburg
+gdc,r10b.0,9299,9484,hohenzollern,9326,9329,ich,hohenzollern
+gdc,r10b.0,9489,9609,der_prinz_von_homburg,9590,9594,mich,der_prinz_von_homburg
+gdc,r10b.0,9673,9760,der_prinz_von_homburg,9701,9707,meinem,der_prinz_von_homburg
+gdc,r10b.0,9673,9760,der_prinz_von_homburg,9714,9717,Ich,der_prinz_von_homburg
+gdc,r10b.0,9673,9760,der_prinz_von_homburg,9752,9755,ich,der_prinz_von_homburg
+gdc,r10b.0,9910,10402,der_prinz_von_homburg,9947,9951,mich,der_prinz_von_homburg
+gdc,r10b.0,9910,10402,der_prinz_von_homburg,9974,9977,Mir,der_prinz_von_homburg
+gdc,r10b.0,9910,10402,der_prinz_von_homburg,10006,10009,ich,der_prinz_von_homburg
+gdc,r10b.0,9910,10402,der_prinz_von_homburg,10055,10058,Ich,der_prinz_von_homburg
+gdc,r10b.0,9910,10402,der_prinz_von_homburg,10147,10150,Ich,der_prinz_von_homburg
+gdc,r10b.0,9910,10402,der_prinz_von_homburg,10186,10190,mich,der_prinz_von_homburg
+gdc,r10b.0,9910,10402,der_prinz_von_homburg,10224,10228,mich,der_prinz_von_homburg
+gdc,r10b.0,9910,10402,der_prinz_von_homburg,10337,10340,ich,der_prinz_von_homburg
+gdc,r10b.0,10788,11123,der_prinz_von_homburg,10913,10916,ich,der_prinz_von_homburg
+gdc,r10b.0,10788,11123,der_prinz_von_homburg,11040,11043,ich,der_prinz_von_homburg
+gdc,r10b.0,10788,11123,der_prinz_von_homburg,11094,11106,Der Kurfürst,der_kurfuerst
+gdc,r10b.0,11275,11621,der_prinz_von_homburg,11336,11339,ich,der_prinz_von_homburg
+gdc,r10b.0,11275,11621,der_prinz_von_homburg,11495,11498,mir,der_prinz_von_homburg
+gdc,r10b.0,11275,11621,der_prinz_von_homburg,11532,11536,mein,der_prinz_von_homburg
+gdc,r10b.0,11275,11621,der_prinz_von_homburg,11551,11563,Der Kurfürst,der_kurfuerst
+gdc,r10b.0,11651,11760,der_prinz_von_homburg,11707,11710,ich,der_prinz_von_homburg
+gdc,r10b.0,11651,11760,der_prinz_von_homburg,11711,11716,meine,der_prinz_von_homburg
+gdc,r10b.0,11970,12089,der_prinz_von_homburg,12008,12011,ich,der_prinz_von_homburg
+gdc,r10b.0,12194,12334,der_prinz_von_homburg,12255,12258,mir,der_prinz_von_homburg
+gdc,r10b.0,12194,12334,der_prinz_von_homburg,12265,12268,ich,der_prinz_von_homburg
+gdc,r10b.0,12381,12720,der_prinz_von_homburg,12415,12419,mich,der_prinz_von_homburg
+gdc,r10b.0,12381,12720,der_prinz_von_homburg,12438,12450,der Kurfürst,der_kurfuerst
+gdc,r10b.0,12381,12720,der_prinz_von_homburg,12543,12546,mir,der_prinz_von_homburg
+gdc,r10b.0,12381,12720,der_prinz_von_homburg,12582,12585,mir,der_prinz_von_homburg
+gdc,r10b.0,12381,12720,der_prinz_von_homburg,12693,12696,mir,der_prinz_von_homburg
+gdc,r10b.0,13164,13205,der_prinz_von_homburg,13199,13202,mir,der_prinz_von_homburg
+gdc,r10b.0,13275,14188,der_prinz_von_homburg,13430,13433,Ich,der_prinz_von_homburg
+gdc,r10b.0,13275,14188,der_prinz_von_homburg,13491,13494,ich,der_prinz_von_homburg
+gdc,r10b.0,13275,14188,der_prinz_von_homburg,13533,13536,ich,der_prinz_von_homburg
+gdc,r10b.0,13275,14188,der_prinz_von_homburg,13656,13659,mir,der_prinz_von_homburg
+gdc,r10b.0,13275,14188,der_prinz_von_homburg,13724,13727,ich,der_prinz_von_homburg
+gdc,r10b.0,13275,14188,der_prinz_von_homburg,13783,13786,Ich,der_prinz_von_homburg
+gdc,r10b.0,13275,14188,der_prinz_von_homburg,13802,13805,ich,der_prinz_von_homburg
+gdc,r10b.0,13275,14188,der_prinz_von_homburg,14067,14070,ich,der_prinz_von_homburg
+gdc,r10b.0,13275,14188,der_prinz_von_homburg,14154,14157,ich,der_prinz_von_homburg
+gdc,r10b.0,13275,14188,der_prinz_von_homburg,14172,14175,ich,der_prinz_von_homburg
+gdc,r10b.0,14194,14279,hohenzollern,14213,14219,meinem,hohenzollern
+gdc,r10b.0,14627,14679,der_prinz_von_homburg,14655,14658,Mir,der_prinz_von_homburg
+gdc,r10b.0,14627,14679,der_prinz_von_homburg,14664,14670,meiner,der_prinz_von_homburg
+gdc,r10b.0,14684,14969,hohenzollern,14733,14737,mich,hohenzollern
+gdc,r10b.0,14975,15228,der_prinz_von_homburg,15076,15079,ich,der_prinz_von_homburg
+gdc,r10b.0,14975,15228,der_prinz_von_homburg,15107,15121,die Kurfürstin,die_kurfuerstin
+gdc,r10b.0,15234,15283,hohenzollern,15257,15260,Ich,hohenzollern
+gdc,r10b.0,15288,15454,der_prinz_von_homburg,15322,15325,Ich,der_prinz_von_homburg
+gdc,r10b.0,15288,15454,der_prinz_von_homburg,15352,15358,Reuter,reuter
+gdc,r10b.0,15288,15454,der_prinz_von_homburg,15426,15429,ich,der_prinz_von_homburg
+gdc,r10b.0,15460,15726,hohenzollern,15680,15683,ich,hohenzollern
+gdc,r10b.0,15460,15726,hohenzollern,15684,15688,mich,hohenzollern
+gdc,r10b.0,15820,16197,_stage,15820,15834,Die Kurfürstin,die_kurfuerstin
+gdc,r10b.0,15820,16197,_stage,15843,15861,Prinzessin Natalie,natalie
+gdc,r10b.0,15820,16197,_stage,15974,15986,der Kurfürst,der_kurfuerst
+gdc,r10b.0,15820,16197,_stage,15988,16010,Feldmarschall Dörfling,feldmarschall_doerfling
+gdc,r10b.0,15820,16197,_stage,16012,16033,der Prinz von Homburg,der_prinz_von_homburg
+gdc,r10b.0,15820,16197,_stage,16060,16085,der Graf von Hohenzollern,hohenzollern
+gdc,r10b.0,15820,16197,_stage,16119,16143,Rittmeister von der Golz,golz
+gdc,r10b.0,16264,16664,feldmarschall_doerfling,16314,16318,mein,feldmarschall_doerfling
+gdc,r10b.0,16264,16664,feldmarschall_doerfling,16587,16590,mir,feldmarschall_doerfling
+gdc,r10b.0,16670,16918,der_kurfuerst,16780,16783,ich,der_kurfuerst
+gdc,r10b.0,17008,17074,hofkavalier_1-5a,17040,17044,mein,hofkavalier_1-5a
+gdc,r10b.0,17079,17376,der_kurfuerst,17175,17180,meine,der_kurfuerst
+gdc,r10b.0,17079,17376,der_kurfuerst,17222,17228,Reuter,reuter
+gdc,r10b.0,17079,17376,der_kurfuerst,17266,17272,meines,der_kurfuerst
+gdc,r10b.0,17439,17614,der_kurfuerst,17572,17576,mein,der_kurfuerst
+gdc,r10b.0,17620,17668,natalie,17640,17644,Mich,natalie
+gdc,r10b.0,17673,17788,der_kurfuerst,17707,17711,mein,der_kurfuerst
+gdc,r10b.0,17857,18128,der_kurfuerst,17891,17894,mir,der_kurfuerst
+gdc,r10b.0,17857,18128,der_kurfuerst,17908,17911,ich,der_kurfuerst
+gdc,r10b.0,17969,18128,_stage,18023,18045,Feldmarschall Dörfling,feldmarschall_doerfling
+gdc,r10b.0,17969,18128,_stage,18058,18079,Der Prinz von Homburg,der_prinz_von_homburg
+gdc,r10b.0,18132,18398,feldmarschall_doerfling,18380,18395,Oberst Hennings,oberst_hennings
+gdc,r10b.0,18444,18723,feldmarschall_doerfling,18711,18722,Graf Truchß,graf_truchss
+gdc,r10b.0,19198,19236,feldmarschall_doerfling,19213,19234,Der Prinz von Homburg,der_prinz_von_homburg
+gdc,r10b.0,19473,19543,feldmarschall_doerfling,19489,19510,Der Prinz von Homburg,der_prinz_von_homburg
+gdc,r10b.0,19473,19543,feldmarschall_doerfling,19521,19542,der Prinz von Homburg,der_prinz_von_homburg
+gdc,r10b.0,19679,19793,der_prinz_von_homburg,19715,19719,mein,der_prinz_von_homburg
+gdc,r10b.0,19797,20096,feldmarschall_doerfling,19960,19975,Obrist Kottwitz,kottwitz
+gdc,r10b.0,20101,20294,golz,20134,20138,mein,golz
+gdc,r10b.0,20101,20294,golz,20160,20164,Mich,golz
+gdc,r10b.0,20526,20684,_stage,20526,20540,Die Kurfürstin,die_kurfuerstin
+gdc,r10b.0,20688,20749,der_kurfuerst,20715,20719,Mein,der_kurfuerst
+gdc,r10b.0,20791,20883,natalie,20811,20814,Ich,natalie
+gdc,r10b.0,21248,21361,der_prinz_von_homburg,21285,21291,meines,der_prinz_von_homburg
+gdc,r10b.0,21248,21361,der_prinz_von_homburg,21304,21307,ich,der_prinz_von_homburg
+gdc,r10b.0,21875,22107,der_prinz_von_homburg,21911,21914,ich,der_prinz_von_homburg
+gdc,r10b.0,22252,22300,hohenzollern,22267,22270,Ich,hohenzollern
+gdc,r10b.0,22306,22466,der_prinz_von_homburg,22342,22346,mein,der_prinz_von_homburg
+gdc,r10b.0,22649,22768,der_prinz_von_homburg,22764,22767,Ich,der_prinz_von_homburg
+gdc,r10b.0,22823,22873,der_prinz_von_homburg,22867,22870,ich,der_prinz_von_homburg
+gdc,r10b.0,22952,23040,der_prinz_von_homburg,23001,23004,mir,der_prinz_von_homburg
+gdc,r10b.0,23858,23977,der_prinz_von_homburg,23895,23901,meinen,der_prinz_von_homburg
+gdc,r10b.0,23981,24017,natalie,23990,23993,Ich,natalie
+gdc,r10b.0,24077,24160,natalie,24112,24115,ich,natalie
+gdc,r10b.0,24308,24377,_stage,24308,24320,Der Kurfürst,der_kurfuerst
+gdc,r10b.0,25586,25628,der_prinz_von_homburg,25609,25613,Mein,der_prinz_von_homburg
+gdc,r10b.0,26017,26171,feldmarschall_doerfling,26037,26052,Obrist Kottwitz,kottwitz
+gdc,r10b.0,26017,26171,feldmarschall_doerfling,26085,26088,ich,feldmarschall_doerfling
+gdc,r10b.0,26177,26266,golz,26232,26235,ich,golz
+gdc,r10b.0,26270,26382,der_kurfuerst,26303,26308,meine,der_kurfuerst
+gdc,r10b.0,26388,26496,feldmarschall_doerfling,26423,26427,mein,feldmarschall_doerfling
+gdc,r10b.0,26502,26831,der_kurfuerst,26586,26589,ich,der_kurfuerst
+gdc,r10b.0,26502,26831,der_kurfuerst,26624,26627,mir,der_kurfuerst
+gdc,r10b.0,26502,26831,der_kurfuerst,26697,26701,mich,der_kurfuerst
+gdc,r10b.0,26502,26831,der_kurfuerst,26777,26780,mir,der_kurfuerst
+gdc,r10b.0,26502,26831,der_kurfuerst,26814,26817,mir,der_kurfuerst
+gdc,r10b.0,26873,27019,der_kurfuerst,26955,26958,ich,der_kurfuerst
+gdc,r10b.0,27045,27581,der_prinz_von_homburg,27229,27232,mir,der_prinz_von_homburg
+gdc,r10b.0,27045,27581,der_prinz_von_homburg,27347,27350,mir,der_prinz_von_homburg
+gdc,r10b.0,27045,27581,der_prinz_von_homburg,27387,27390,ich,der_prinz_von_homburg
+gdc,r10b.0,27045,27581,der_prinz_von_homburg,27405,27408,Ich,der_prinz_von_homburg
+gdc,r10b.0,27045,27581,der_prinz_von_homburg,27472,27475,mir,der_prinz_von_homburg
+gdc,r10b.0,27656,27779,_stage,27656,27671,Obrist Kottwitz,kottwitz
+gdc,r10b.0,27656,27779,_stage,27692,27716,Rittmeister von der Golz,golz
+gdc,r10b.0,27914,27969,kottwitz,27952,27955,mir,kottwitz
+gdc,r10b.0,28046,28471,kottwitz,28105,28109,mich,kottwitz
+gdc,r10b.0,28046,28471,kottwitz,28287,28290,ich,kottwitz
+gdc,r10b.0,28046,28471,kottwitz,28303,28307,mich,kottwitz
+gdc,r10b.0,28046,28471,kottwitz,28320,28323,ich,kottwitz
+gdc,r10b.0,28681,28741,erster_offizier,28714,28717,ich,erster_offizier
+gdc,r10b.0,28746,28775,hohenzollern,28760,28763,Ich,hohenzollern
+gdc,r10b.0,29030,29338,kottwitz,29097,29100,ich,kottwitz
+gdc,r10b.0,29398,29744,kottwitz,29479,29482,ich,kottwitz
+gdc,r10b.0,29398,29744,kottwitz,29526,29530,mich,kottwitz
+gdc,r10b.0,29398,29744,kottwitz,29570,29573,Ich,kottwitz
+gdc,r10b.0,29398,29744,kottwitz,29664,29667,ich,kottwitz
+gdc,r10b.0,29398,29744,kottwitz,29710,29715,meine,kottwitz
+gdc,r10b.0,29398,29744,kottwitz,29716,29722,Reuter,reuter
+gdc,r10b.0,29398,29744,kottwitz,29729,29732,ich,kottwitz
+gdc,r10b.0,29940,30019,_stage,29940,29961,Der Prinz von Homburg,der_prinz_von_homburg
+gdc,r10b.0,30021,30209,kottwitz,30043,30046,mir,kottwitz
+gdc,r10b.0,30021,30209,kottwitz,30056,30060,mein,kottwitz
+gdc,r10b.0,30021,30209,kottwitz,30133,30139,Reuter,reuter
+gdc,r10b.0,30021,30209,kottwitz,30140,30143,ich,kottwitz
+gdc,r10b.0,30021,30209,kottwitz,30168,30171,Ich,kottwitz
+gdc,r10b.0,30021,30209,kottwitz,30190,30193,mir,kottwitz
+gdc,r10b.0,30215,30329,der_prinz_von_homburg,30301,30304,ich,der_prinz_von_homburg
+gdc,r10b.0,30422,30637,der_prinz_von_homburg,30446,30449,Ich,der_prinz_von_homburg
+gdc,r10b.0,30422,30637,der_prinz_von_homburg,30587,30591,mich,der_prinz_von_homburg
+gdc,r10b.0,30422,30637,der_prinz_von_homburg,30613,30617,mich,der_prinz_von_homburg
+gdc,r10b.0,30643,30800,kottwitz,30694,30697,ich,kottwitz
+gdc,r10b.0,30643,30800,kottwitz,30723,30726,mir,kottwitz
+gdc,r10b.0,30806,30995,der_prinz_von_homburg,30833,30836,ich,der_prinz_von_homburg
+gdc,r10b.0,30806,30995,der_prinz_von_homburg,30938,30942,mich,der_prinz_von_homburg
+gdc,r10b.0,31001,31060,hohenzollern,31037,31040,Ich,hohenzollern
+gdc,r10b.0,31065,31183,der_prinz_von_homburg,31110,31113,ich,der_prinz_von_homburg
+gdc,r10b.0,31065,31183,der_prinz_von_homburg,31130,31133,mir,der_prinz_von_homburg
+gdc,r10b.0,31065,31183,der_prinz_von_homburg,31172,31176,mich,der_prinz_von_homburg
+gdc,r10b.0,32173,32216,erster_offizier,32194,32198,mein,erster_offizier
+gdc,r10b.0,32461,32522,erster_offizier,32487,32490,ich,erster_offizier
+gdc,r10b.0,32905,32960,golz,32929,32933,mich,golz
+gdc,r10b.0,32965,33010,dritter_offizier,33002,33005,ich,dritter_offizier
+gdc,r10b.0,33390,33494,zweiter_offizier,33413,33419,meiner,zweiter_offizier
+gdc,r10b.0,33805,33897,golz,33861,33864,ich,golz
+gdc,r10b.0,33805,33897,golz,33870,33876,meines,golz
+gdc,r10b.0,34361,34431,der_prinz_von_homburg,34427,34430,mir,der_prinz_von_homburg
+gdc,r10b.0,34479,34537,der_prinz_von_homburg,34533,34536,mir,der_prinz_von_homburg
+gdc,r10b.0,34542,34575,kottwitz,34559,34562,Ich,kottwitz
+gdc,r10b.0,34937,34966,hohenzollern,34951,34954,Ich,hohenzollern
+gdc,r10b.0,34971,35006,kottwitz,34992,34998,meinem,kottwitz
+gdc,r10b.0,35055,35077,golz,35065,35069,mein,golz
+gdc,r10b.0,35082,35345,kottwitz,35125,35128,mir,kottwitz
+gdc,r10b.0,35082,35345,kottwitz,35133,35137,mein,kottwitz
+gdc,r10b.0,35082,35345,kottwitz,35194,35197,ich,kottwitz
+gdc,r10b.0,35082,35345,kottwitz,35234,35240,meinen,kottwitz
+gdc,r10b.0,35351,35411,golz,35387,35391,mein,golz
+gdc,r10b.0,35530,35760,der_prinz_von_homburg,35563,35566,mir,der_prinz_von_homburg
+gdc,r10b.0,35764,35822,erster_offizier,35790,35794,Mein,erster_offizier
+gdc,r10b.0,36352,36407,kottwitz,36393,36396,Ich,kottwitz
+gdc,r10b.0,36412,36529,der_prinz_von_homburg,36444,36447,Ich,der_prinz_von_homburg
+gdc,r10b.0,36412,36529,der_prinz_von_homburg,36459,36464,meine,der_prinz_von_homburg
+gdc,r10b.0,36412,36529,der_prinz_von_homburg,36478,36481,mir,der_prinz_von_homburg
+gdc,r10b.0,37330,37429,_stage,37330,37344,Die Kurfürstin,die_kurfuerstin
+gdc,r10b.0,37330,37429,_stage,37367,37385,Prinzessin Natalie,natalie
+gdc,r10b.0,37431,37501,die_kurfuerstin,37487,37490,mir,die_kurfuerstin
+gdc,r10b.0,37506,37544,natalie,37531,37536,meine,natalie
+gdc,r10b.0,37619,37703,die_kurfuerstin,37638,37642,mich,die_kurfuerstin
+gdc,r10b.0,37619,37703,die_kurfuerstin,37660,37663,ich,die_kurfuerstin
+gdc,r10b.0,37619,37703,die_kurfuerstin,37669,37673,mich,die_kurfuerstin
+gdc,r10b.0,37709,37739,natalie,37720,37725,meine,natalie
+gdc,r10b.0,37744,37799,die_kurfuerstin,37756,37759,Ich,die_kurfuerstin
+gdc,r10b.0,37825,37909,_stage,37841,37847,Mörner,moerner
+gdc,r10b.0,37911,37966,die_kurfuerstin,37962,37965,mir,die_kurfuerstin
+gdc,r10b.0,37971,38057,moerner,38021,38027,meinem,moerner
+gdc,r10b.0,38095,38131,moerner,38103,38115,Der Kurfürst,der_kurfuerst
+gdc,r10b.0,38235,38476,die_kurfuerstin,38257,38260,mir,die_kurfuerstin
+gdc,r10b.0,38235,38476,die_kurfuerstin,38446,38452,meinem,die_kurfuerstin
+gdc,r10b.0,38482,39010,moerner,38538,38559,Der Prinz von Homburg,der_prinz_von_homburg
+gdc,r10b.0,39066,39099,die_kurfuerstin,39087,39091,mich,die_kurfuerstin
+gdc,r10b.0,39104,39629,moerner,39486,39498,der Kurfürst,der_kurfuerst
+gdc,r10b.0,39104,39629,moerner,39508,39514,Reuter,reuter
+gdc,r10b.0,39635,39659,natalie,39646,39651,meine,natalie
+gdc,r10b.0,39723,40296,moerner,40274,40277,ich,moerner
+gdc,r10b.0,40302,40432,die_kurfuerstin,40343,40346,Ich,die_kurfuerstin
+gdc,r10b.0,40302,40432,die_kurfuerstin,40368,40371,mir,die_kurfuerstin
+gdc,r10b.0,40536,40583,_stage,40536,40557,Der Prinz von Homburg,der_prinz_von_homburg
+gdc,r10b.0,40585,40674,der_prinz_von_homburg,40610,40615,meine,der_prinz_von_homburg
+gdc,r10b.0,40707,40844,der_prinz_von_homburg,40741,40744,ich,der_prinz_von_homburg
+gdc,r10b.0,40707,40844,der_prinz_von_homburg,40765,40768,ich,der_prinz_von_homburg
+gdc,r10b.0,40931,41214,der_prinz_von_homburg,40960,40964,mein,der_prinz_von_homburg
+gdc,r10b.0,40931,41214,der_prinz_von_homburg,41038,41041,ich,der_prinz_von_homburg
+gdc,r10b.0,40931,41214,der_prinz_von_homburg,41062,41066,mich,der_prinz_von_homburg
+gdc,r10b.0,40931,41214,der_prinz_von_homburg,41122,41125,ich,der_prinz_von_homburg
+gdc,r10b.0,41411,41713,der_prinz_von_homburg,41451,41454,Ich,der_prinz_von_homburg
+gdc,r10b.0,41411,41713,der_prinz_von_homburg,41504,41507,ich,der_prinz_von_homburg
+gdc,r10b.0,41411,41713,der_prinz_von_homburg,41575,41587,Der Kurfürst,der_kurfuerst
+gdc,r10b.0,41411,41713,der_prinz_von_homburg,41657,41660,ich,der_prinz_von_homburg
+gdc,r10b.0,41719,41784,natalie,41728,41732,Mein,natalie
+gdc,r10b.0,41897,42375,natalie,41920,41923,ich,natalie
+gdc,r10b.0,41897,42375,natalie,41963,41966,mir,natalie
+gdc,r10b.0,41897,42375,natalie,41998,42001,Mir,natalie
+gdc,r10b.0,41897,42375,natalie,42018,42021,mir,natalie
+gdc,r10b.0,41897,42375,natalie,42101,42107,meines,natalie
+gdc,r10b.0,41897,42375,natalie,42183,42187,mein,natalie
+gdc,r10b.0,41897,42375,natalie,42263,42266,mir,natalie
+gdc,r10b.0,41897,42375,natalie,42298,42304,meines,natalie
+gdc,r10b.0,41897,42375,natalie,42335,42338,Ich,natalie
+gdc,r10b.0,42381,42654,der_prinz_von_homburg,42439,42444,meine,der_prinz_von_homburg
+gdc,r10b.0,42381,42654,der_prinz_von_homburg,42509,42512,ich,der_prinz_von_homburg
+gdc,r10b.0,42660,42695,natalie,42669,42673,Mein,natalie
+gdc,r10b.0,42751,42834,natalie,42767,42770,ich,natalie
+gdc,r10b.0,43264,43312,_stage,43268,43280,Wachtmeister,wachtmeister
+gdc,r10b.0,43314,43449,wachtmeister,43329,43333,Mein,wachtmeister
+gdc,r10b.0,43314,43449,wachtmeister,43350,43353,ich,wachtmeister
+gdc,r10b.0,43314,43449,wachtmeister,43431,43443,Der Kurfürst,der_kurfuerst
+gdc,r10b.0,43491,43569,wachtmeister,43526,43538,Graf Sparren,graf_sparren
+gdc,r10b.0,43575,43686,natalie,43589,43595,meines,natalie
+gdc,r10b.0,43690,43743,der_prinz_von_homburg,43737,43740,mir,der_prinz_von_homburg
+gdc,r10b.0,43881,43967,der_prinz_von_homburg,43938,43941,mir,der_prinz_von_homburg
+gdc,r10b.0,43951,43967,_stage,43951,43963,Wachtmeister,wachtmeister
+gdc,r10b.0,43990,44060,_stage,44021,44033,Wachtmeister,wachtmeister
+gdc,r10b.0,44062,44121,die_kurfuerstin,44083,44087,mich,die_kurfuerstin
+gdc,r10b.0,44126,44160,natalie,44141,44146,meine,natalie
+gdc,r10b.0,44493,44630,graf_sparren,44512,44516,mein,graf_sparren
+gdc,r10b.0,44697,44725,die_kurfuerstin,44711,44716,meine,die_kurfuerstin
+gdc,r10b.0,44826,44985,der_prinz_von_homburg,44854,44857,ich,der_prinz_von_homburg
+gdc,r10b.0,44826,44985,der_prinz_von_homburg,44871,44877,meiner,der_prinz_von_homburg
+gdc,r10b.0,44826,44985,der_prinz_von_homburg,44878,44884,Reuter,reuter
+gdc,r10b.0,44991,45109,graf_sparren,45050,45056,Reuter,reuter
+gdc,r10b.0,44991,45109,graf_sparren,45078,45082,mein,graf_sparren
+gdc,r10b.0,45246,45335,der_prinz_von_homburg,45323,45328,meine,der_prinz_von_homburg
+gdc,r10b.0,46079,47176,graf_sparren,46179,46182,mir,graf_sparren
+gdc,r10b.0,46079,47176,graf_sparren,46209,46212,mir,graf_sparren
+gdc,r10b.0,46079,47176,graf_sparren,46288,46291,ich,graf_sparren
+gdc,r10b.0,46079,47176,graf_sparren,46333,46336,ich,graf_sparren
+gdc,r10b.0,46079,47176,graf_sparren,46476,46479,ich,graf_sparren
+gdc,r10b.0,46079,47176,graf_sparren,46761,46764,ich,graf_sparren
+gdc,r10b.0,46079,47176,graf_sparren,47059,47065,Reuter,reuter
+gdc,r10b.0,47180,47294,der_prinz_von_homburg,47227,47230,ich,der_prinz_von_homburg
+gdc,r10b.0,47180,47294,der_prinz_von_homburg,47256,47259,ich,der_prinz_von_homburg
+gdc,r10b.0,47436,47547,der_prinz_von_homburg,47491,47503,der Kurfürst,der_kurfuerst
+gdc,r10b.0,47758,48085,graf_sparren,47782,47785,ich,graf_sparren
+gdc,r10b.0,47758,48085,graf_sparren,47957,47960,ich,graf_sparren
+gdc,r10b.0,48165,48446,der_prinz_von_homburg,48360,48363,ich,der_prinz_von_homburg
+gdc,r10b.0,48512,48656,_stage,48557,48569,Wachtmeister,wachtmeister
+gdc,r10b.0,48490,48761,der_prinz_von_homburg,48658,48661,Ich,der_prinz_von_homburg
+gdc,r10b.0,48490,48761,der_prinz_von_homburg,48724,48727,ich,der_prinz_von_homburg
+gdc,r10b.0,48490,48761,der_prinz_von_homburg,48728,48732,mich,der_prinz_von_homburg
+gdc,r10b.0,48767,48836,natalie,48812,48816,Mein,natalie
+gdc,r10b.0,48767,48836,natalie,48832,48835,ich,natalie
+gdc,r10b.0,48841,48874,die_kurfuerstin,48870,48873,mir,die_kurfuerstin
+gdc,r10b.0,49085,49254,die_kurfuerstin,49164,49167,ich,die_kurfuerstin
+gdc,r10b.0,49260,49365,der_prinz_von_homburg,49328,49331,ich,der_prinz_von_homburg
+gdc,r10b.0,49260,49365,der_prinz_von_homburg,49334,49337,mir,der_prinz_von_homburg
+gdc,r10b.0,49260,49365,der_prinz_von_homburg,49353,49356,mir,der_prinz_von_homburg
+gdc,r10b.0,49371,49420,die_kurfuerstin,49395,49398,ich,die_kurfuerstin
+gdc,r10b.0,49425,49812,der_prinz_von_homburg,49461,49464,mir,der_prinz_von_homburg
+gdc,r10b.0,49425,49812,der_prinz_von_homburg,49510,49513,ich,der_prinz_von_homburg
+gdc,r10b.0,49836,50091,_stage,49836,49848,Der Kurfürst,der_kurfuerst
+gdc,r10b.0,49836,50091,_stage,49850,49872,Feldmarschall Dörfling,feldmarschall_doerfling
+gdc,r10b.0,49836,50091,_stage,49891,49902,Graf Truchß,graf_truchss
+gdc,r10b.0,50093,50462,der_kurfuerst,50297,50300,ich,der_kurfuerst
+gdc,r10b.0,50093,50462,der_kurfuerst,50366,50369,ich,der_kurfuerst
+gdc,r10b.0,50093,50462,der_kurfuerst,50406,50409,ich,der_kurfuerst
+gdc,r10b.0,50093,50462,der_kurfuerst,50418,50439,Der Prinz von Homburg,der_prinz_von_homburg
+gdc,r10b.0,50468,50509,graf_truchss,50488,50492,mein,graf_truchss
+gdc,r10b.0,50514,50545,der_kurfuerst,50537,50540,mir,der_kurfuerst
+gdc,r10b.0,50550,50783,graf_truchss,50576,50582,Reuter,reuter
+gdc,r10b.0,50550,50783,graf_truchss,50605,50608,mir,graf_truchss
+gdc,r10b.0,50789,51261,der_kurfuerst,50883,50886,ich,der_kurfuerst
+gdc,r10b.0,50789,51261,der_kurfuerst,50972,50975,mir,der_kurfuerst
+gdc,r10b.0,50789,51261,der_kurfuerst,51025,51028,ich,der_kurfuerst
+gdc,r10b.0,50789,51261,der_kurfuerst,51130,51133,Ich,der_kurfuerst
+gdc,r10b.0,50789,51261,der_kurfuerst,51209,51212,ich,der_kurfuerst
+gdc,r10b.0,50789,51261,der_kurfuerst,51228,51233,meine,der_kurfuerst
+gdc,r10b.0,50789,51261,der_kurfuerst,51257,51260,mir,der_kurfuerst
+gdc,r10b.0,51287,51545,_stage,51287,51308,Der Prinz von Homburg,der_prinz_von_homburg
+gdc,r10b.0,51287,51545,_stage,51347,51362,Obrist Kottwitz,kottwitz
+gdc,r10b.0,51287,51545,_stage,51417,51426,Graf Reuß,graf_reuss
+gdc,r10b.0,51287,51545,_stage,51491,51497,Reuter,reuter
+gdc,r10b.0,51547,51650,feldmarschall_doerfling,51601,51622,Der Prinz von Homburg,der_prinz_von_homburg
+gdc,r10b.0,51706,51936,der_prinz_von_homburg,51776,51780,mein,der_prinz_von_homburg
+gdc,r10b.0,51830,51936,_stage,51899,51905,Reuter,reuter
+gdc,r10b.0,51940,52024,der_kurfuerst,51988,51991,ich,der_kurfuerst
+gdc,r10b.0,51940,52024,der_kurfuerst,52012,52023,Graf Truchß,graf_truchss
+gdc,r10b.0,52072,52112,graf_truchss,52099,52102,ich,graf_truchss
+gdc,r10b.0,52117,52280,der_prinz_von_homburg,52141,52145,Mein,der_prinz_von_homburg
+gdc,r10b.0,52117,52280,der_prinz_von_homburg,52222,52225,mir,der_prinz_von_homburg
+gdc,r10b.0,52341,52464,der_prinz_von_homburg,52378,52381,Ich,der_prinz_von_homburg
+gdc,r10b.0,52341,52464,der_prinz_von_homburg,52407,52410,mir,der_prinz_von_homburg
+gdc,r10b.0,52341,52464,der_prinz_von_homburg,52436,52439,ich,der_prinz_von_homburg
+gdc,r10b.0,52567,52630,der_kurfuerst,52626,52629,mir,der_kurfuerst
+gdc,r10b.0,52675,52726,kottwitz,52702,52705,ich,kottwitz
+gdc,r10b.0,52938,52969,kottwitz,52955,52959,Mein,kottwitz
+gdc,r10b.0,52974,53003,feldmarschall_doerfling,52989,52993,Mein,feldmarschall_doerfling
+gdc,r10b.0,53111,53140,kottwitz,53128,53131,Ich,kottwitz
+gdc,r10b.0,53255,53318,kottwitz,53283,53287,Mein,kottwitz
+gdc,r10b.0,53255,53318,kottwitz,53312,53315,mir,kottwitz
+gdc,r10b.0,53323,53588,der_kurfuerst,53468,53471,ich,der_kurfuerst
+gdc,r10b.0,53491,53588,_stage,53491,53503,Der Kurfürst,der_kurfuerst
+gdc,r10b.0,53592,53879,kottwitz,53649,53652,mir,kottwitz
+gdc,r10b.0,53664,53879,_stage,53753,53759,Reuter,reuter
+gdc,r10b.0,53883,53948,offizier_2-10,53944,53947,ich,offizier_2-10
+gdc,r10b.0,54026,54098,der_prinz_von_homburg,54055,54058,ich,der_prinz_von_homburg
+gdc,r10b.0,54026,54098,der_prinz_von_homburg,54065,54068,ich,der_prinz_von_homburg
+gdc,r10b.0,54026,54098,der_prinz_von_homburg,54074,54077,ich,der_prinz_von_homburg
+gdc,r10b.0,54026,54098,der_prinz_von_homburg,54083,54086,ich,der_prinz_von_homburg
+gdc,r10b.0,54103,54156,golz,54135,54138,ich,golz
+gdc,r10b.0,54161,54204,der_prinz_von_homburg,54184,54187,Ich,der_prinz_von_homburg
+gdc,r10b.0,54498,54560,der_prinz_von_homburg,54543,54546,Ich,der_prinz_von_homburg
+gdc,r10b.0,54959,55054,_stage,54959,54971,Der Kurfürst,der_kurfuerst
+gdc,r10b.0,55058,55703,der_prinz_von_homburg,55121,55125,Mein,der_prinz_von_homburg
+gdc,r10b.0,55058,55703,der_prinz_von_homburg,55372,55375,mir,der_prinz_von_homburg
+gdc,r10b.0,55058,55703,der_prinz_von_homburg,55500,55503,ich,der_prinz_von_homburg
+gdc,r10b.0,55058,55703,der_prinz_von_homburg,55547,55550,mir,der_prinz_von_homburg
+gdc,r10b.0,55058,55703,der_prinz_von_homburg,55619,55622,mir,der_prinz_von_homburg
+gdc,r10b.0,55058,55703,der_prinz_von_homburg,55633,55636,ich,der_prinz_von_homburg
+gdc,r10b.0,56073,56176,_stage,56073,56094,Der Prinz von Homburg,der_prinz_von_homburg
+gdc,r10b.0,56073,56176,_stage,56119,56125,Reuter,reuter
+gdc,r10b.0,56073,56176,_stage,56140,56165,Der Graf von Hohenzollern,hohenzollern
+gdc,r10b.0,56178,56286,der_prinz_von_homburg,56243,56246,mir,der_prinz_von_homburg
+gdc,r10b.0,56178,56286,der_prinz_von_homburg,56271,56274,ich,der_prinz_von_homburg
+gdc,r10b.0,56450,56483,der_prinz_von_homburg,56473,56476,Mir,der_prinz_von_homburg
+gdc,r10b.0,56587,56676,der_prinz_von_homburg,56627,56630,Ich,der_prinz_von_homburg
+gdc,r10b.0,56587,56676,der_prinz_von_homburg,56658,56661,mir,der_prinz_von_homburg
+gdc,r10b.0,56681,56717,hohenzollern,56697,56700,Ich,hohenzollern
+gdc,r10b.0,56722,56952,der_prinz_von_homburg,56813,56816,mir,der_prinz_von_homburg
+gdc,r10b.0,56722,56952,der_prinz_von_homburg,56884,56887,mir,der_prinz_von_homburg
+gdc,r10b.0,56722,56952,der_prinz_von_homburg,56914,56926,Der Kurfürst,der_kurfuerst
+gdc,r10b.0,57005,57140,der_prinz_von_homburg,57101,57113,Der Kurfürst,der_kurfuerst
+gdc,r10b.0,57539,57677,der_prinz_von_homburg,57572,57575,ich,der_prinz_von_homburg
+gdc,r10b.0,57539,57677,der_prinz_von_homburg,57644,57648,mich,der_prinz_von_homburg
+gdc,r10b.0,57726,57826,der_prinz_von_homburg,57784,57787,ich,der_prinz_von_homburg
+gdc,r10b.0,57960,58419,der_prinz_von_homburg,57984,57987,Ich,der_prinz_von_homburg
+gdc,r10b.0,57960,58419,der_prinz_von_homburg,58033,58045,Der Kurfürst,der_kurfuerst
+gdc,r10b.0,57960,58419,der_prinz_von_homburg,58160,58163,mir,der_prinz_von_homburg
+gdc,r10b.0,57960,58419,der_prinz_von_homburg,58223,58226,Ich,der_prinz_von_homburg
+gdc,r10b.0,57960,58419,der_prinz_von_homburg,58409,58412,ich,der_prinz_von_homburg
+gdc,r10b.0,58543,59169,der_prinz_von_homburg,58567,58570,Ich,der_prinz_von_homburg
+gdc,r10b.0,58543,59169,der_prinz_von_homburg,58578,58581,mir,der_prinz_von_homburg
+gdc,r10b.0,58543,59169,der_prinz_von_homburg,58586,58589,Ich,der_prinz_von_homburg
+gdc,r10b.0,58543,59169,der_prinz_von_homburg,58613,58616,ich,der_prinz_von_homburg
+gdc,r10b.0,58543,59169,der_prinz_von_homburg,58697,58700,mir,der_prinz_von_homburg
+gdc,r10b.0,58543,59169,der_prinz_von_homburg,58779,58785,meines,der_prinz_von_homburg
+gdc,r10b.0,58543,59169,der_prinz_von_homburg,58821,58824,ich,der_prinz_von_homburg
+gdc,r10b.0,58543,59169,der_prinz_von_homburg,58855,58858,ich,der_prinz_von_homburg
+gdc,r10b.0,58543,59169,der_prinz_von_homburg,58876,58879,ich,der_prinz_von_homburg
+gdc,r10b.0,58543,59169,der_prinz_von_homburg,59084,59087,ich,der_prinz_von_homburg
+gdc,r10b.0,59281,60100,der_prinz_von_homburg,59310,59313,ich,der_prinz_von_homburg
+gdc,r10b.0,59281,60100,der_prinz_von_homburg,59474,59478,mein,der_prinz_von_homburg
+gdc,r10b.0,59281,60100,der_prinz_von_homburg,59671,59676,meine,der_prinz_von_homburg
+gdc,r10b.0,59281,60100,der_prinz_von_homburg,59720,59724,mich,der_prinz_von_homburg
+gdc,r10b.0,59281,60100,der_prinz_von_homburg,59799,59802,mir,der_prinz_von_homburg
+gdc,r10b.0,59281,60100,der_prinz_von_homburg,59975,59979,mein,der_prinz_von_homburg
+gdc,r10b.0,59281,60100,der_prinz_von_homburg,60004,60007,mir,der_prinz_von_homburg
+gdc,r10b.0,59281,60100,der_prinz_von_homburg,60085,60088,ich,der_prinz_von_homburg
+gdc,r10b.0,60178,60223,der_prinz_von_homburg,60201,60204,Ich,der_prinz_von_homburg
+gdc,r10b.0,60274,60386,der_prinz_von_homburg,60353,60356,mir,der_prinz_von_homburg
+gdc,r10b.0,60462,60510,der_prinz_von_homburg,60485,60489,Mich,der_prinz_von_homburg
+gdc,r10b.0,60590,61103,der_prinz_von_homburg,60617,60621,mein,der_prinz_von_homburg
+gdc,r10b.0,60590,61103,der_prinz_von_homburg,60654,60657,Ich,der_prinz_von_homburg
+gdc,r10b.0,60590,61103,der_prinz_von_homburg,60669,60673,mich,der_prinz_von_homburg
+gdc,r10b.0,60590,61103,der_prinz_von_homburg,60685,60688,ich,der_prinz_von_homburg
+gdc,r10b.0,60590,61103,der_prinz_von_homburg,60689,60693,mich,der_prinz_von_homburg
+gdc,r10b.0,61109,61156,hohenzollern,61136,61139,ich,hohenzollern
+gdc,r10b.0,61242,61289,der_prinz_von_homburg,61276,61280,mich,der_prinz_von_homburg
+gdc,r10b.0,61294,61382,hohenzollern,61372,61375,ich,hohenzollern
+gdc,r10b.0,61388,61484,der_prinz_von_homburg,61447,61450,ich,der_prinz_von_homburg
+gdc,r10b.0,61850,61907,hohenzollern,61868,61874,meiner,hohenzollern
+gdc,r10b.0,61850,61907,hohenzollern,61880,61883,Ich,hohenzollern
+gdc,r10b.0,62224,62491,hohenzollern,62314,62318,mich,hohenzollern
+gdc,r10b.0,62224,62491,hohenzollern,62473,62476,ich,hohenzollern
+gdc,r10b.0,62981,63068,hohenzollern,63033,63037,mein,hohenzollern
+gdc,r10b.0,63186,63234,der_prinz_von_homburg,63219,63224,Meine,der_prinz_von_homburg
+gdc,r10b.0,63545,63908,hohenzollern,63572,63575,mir,hohenzollern
+gdc,r10b.0,63545,63908,hohenzollern,63593,63596,ich,hohenzollern
+gdc,r10b.0,63545,63908,hohenzollern,63749,63763,die Kurfürstin,die_kurfuerstin
+gdc,r10b.0,63914,63962,der_prinz_von_homburg,63958,63961,mir,der_prinz_von_homburg
+gdc,r10b.0,64008,64207,der_prinz_von_homburg,64032,64035,Ich,der_prinz_von_homburg
+gdc,r10b.0,64008,64207,der_prinz_von_homburg,64043,64047,mein,der_prinz_von_homburg
+gdc,r10b.0,64008,64207,der_prinz_von_homburg,64066,64069,mir,der_prinz_von_homburg
+gdc,r10b.0,64008,64207,der_prinz_von_homburg,64118,64122,mich,der_prinz_von_homburg
+gdc,r10b.0,64008,64207,der_prinz_von_homburg,64155,64158,ich,der_prinz_von_homburg
+gdc,r10b.0,64008,64207,der_prinz_von_homburg,64173,64176,mir,der_prinz_von_homburg
+gdc,r10b.0,64213,64309,hohenzollern,64284,64288,mein,hohenzollern
+gdc,r10b.0,64315,64383,der_prinz_von_homburg,64360,64364,mich,der_prinz_von_homburg
+gdc,r10b.0,64315,64383,der_prinz_von_homburg,64366,64369,Ich,der_prinz_von_homburg
+gdc,r10b.0,64737,65019,hohenzollern,64846,64858,der Kurfürst,der_kurfuerst
+gdc,r10b.0,65085,65243,der_prinz_von_homburg,65125,65131,Stranz,stranz
+gdc,r10b.0,65085,65243,der_prinz_von_homburg,65147,65150,ich,der_prinz_von_homburg
+gdc,r10b.0,65085,65243,der_prinz_von_homburg,65209,65212,ich,der_prinz_von_homburg
+gdc,r10b.0,65085,65243,der_prinz_von_homburg,65229,65233,mich,der_prinz_von_homburg
+gdc,r10b.0,65250,65394,offizier_2-10,65265,65269,Mein,offizier_2-10
+gdc,r10b.0,65250,65394,offizier_2-10,65277,65280,mir,offizier_2-10
+gdc,r10b.0,65250,65394,offizier_2-10,65326,65329,mir,offizier_2-10
+gdc,r10b.0,65400,65461,der_prinz_von_homburg,65441,65444,ich,der_prinz_von_homburg
+gdc,r10b.0,65691,65834,der_prinz_von_homburg,65715,65718,Ich,der_prinz_von_homburg
+gdc,r10b.0,65691,65834,der_prinz_von_homburg,65738,65744,meiner,der_prinz_von_homburg
+gdc,r10b.0,65858,65896,_stage,65858,65872,Die Kurfürstin,die_kurfuerstin
+gdc,r10b.0,65898,66218,die_kurfuerstin,65921,65926,meine,die_kurfuerstin
+gdc,r10b.0,65898,66218,die_kurfuerstin,66088,66091,ich,die_kurfuerstin
+gdc,r10b.0,66283,66391,die_hofdame_3-4,66357,66360,ich,die_hofdame_3-4
+gdc,r10b.0,66283,66391,die_hofdame_3-4,66374,66377,ich,die_hofdame_3-4
+gdc,r10b.0,66822,66869,_stage,66822,66843,Der Prinz von Homburg,der_prinz_von_homburg
+gdc,r10b.0,66871,66949,der_prinz_von_homburg,66896,66901,meine,der_prinz_von_homburg
+gdc,r10b.0,66996,67058,der_prinz_von_homburg,67025,67029,mich,der_prinz_von_homburg
+gdc,r10b.0,67194,67253,der_prinz_von_homburg,67240,67243,mir,der_prinz_von_homburg
+gdc,r10b.0,67258,67331,die_kurfuerstin,67271,67274,Ich,die_kurfuerstin
+gdc,r10b.0,67258,67331,die_kurfuerstin,67305,67308,ich,die_kurfuerstin
+gdc,r10b.0,67337,67751,der_prinz_von_homburg,67363,67368,meine,der_prinz_von_homburg
+gdc,r10b.0,67337,67751,der_prinz_von_homburg,67438,67442,mich,der_prinz_von_homburg
+gdc,r10b.0,67337,67751,der_prinz_von_homburg,67492,67495,mir,der_prinz_von_homburg
+gdc,r10b.0,67337,67751,der_prinz_von_homburg,67533,67536,Mir,der_prinz_von_homburg
+gdc,r10b.0,67337,67751,der_prinz_von_homburg,67576,67579,ich,der_prinz_von_homburg
+gdc,r10b.0,67337,67751,der_prinz_von_homburg,67659,67663,mich,der_prinz_von_homburg
+gdc,r10b.0,67337,67751,der_prinz_von_homburg,67670,67673,ich,der_prinz_von_homburg
+gdc,r10b.0,67815,68546,der_prinz_von_homburg,67862,67866,mich,der_prinz_von_homburg
+gdc,r10b.0,67815,68546,der_prinz_von_homburg,67887,67890,ich,der_prinz_von_homburg
+gdc,r10b.0,67815,68546,der_prinz_von_homburg,67946,67950,mein,der_prinz_von_homburg
+gdc,r10b.0,67815,68546,der_prinz_von_homburg,68090,68093,mir,der_prinz_von_homburg
+gdc,r10b.0,68550,68653,die_kurfuerstin,68563,68567,Mein,die_kurfuerstin
+gdc,r10b.0,68659,69133,der_prinz_von_homburg,68727,68731,mich,der_prinz_von_homburg
+gdc,r10b.0,68659,69133,der_prinz_von_homburg,68744,68747,ich,der_prinz_von_homburg
+gdc,r10b.0,68659,69133,der_prinz_von_homburg,68841,68844,ich,der_prinz_von_homburg
+gdc,r10b.0,68659,69133,der_prinz_von_homburg,68854,68858,mich,der_prinz_von_homburg
+gdc,r10b.0,68659,69133,der_prinz_von_homburg,68911,68915,mich,der_prinz_von_homburg
+gdc,r10b.0,68659,69133,der_prinz_von_homburg,68916,68922,meiner,der_prinz_von_homburg
+gdc,r10b.0,68659,69133,der_prinz_von_homburg,68990,68994,Mich,der_prinz_von_homburg
+gdc,r10b.0,68659,69133,der_prinz_von_homburg,69043,69046,ich,der_prinz_von_homburg
+gdc,r10b.0,68659,69133,der_prinz_von_homburg,69047,69051,mein,der_prinz_von_homburg
+gdc,r10b.0,68659,69133,der_prinz_von_homburg,69067,69070,ich,der_prinz_von_homburg
+gdc,r10b.0,69139,69244,die_kurfuerstin,69162,69166,mein,die_kurfuerstin
+gdc,r10b.0,69250,69851,der_prinz_von_homburg,69304,69307,mir,der_prinz_von_homburg
+gdc,r10b.0,69250,69851,der_prinz_von_homburg,69340,69344,mein,der_prinz_von_homburg
+gdc,r10b.0,69250,69851,der_prinz_von_homburg,69454,69458,mich,der_prinz_von_homburg
+gdc,r10b.0,69250,69851,der_prinz_von_homburg,69518,69521,ich,der_prinz_von_homburg
+gdc,r10b.0,69250,69851,der_prinz_von_homburg,69629,69632,mir,der_prinz_von_homburg
+gdc,r10b.0,69250,69851,der_prinz_von_homburg,69648,69651,ich,der_prinz_von_homburg
+gdc,r10b.0,69250,69851,der_prinz_von_homburg,69684,69687,ich,der_prinz_von_homburg
+gdc,r10b.0,69250,69851,der_prinz_von_homburg,69736,69740,mich,der_prinz_von_homburg
+gdc,r10b.0,69250,69851,der_prinz_von_homburg,69777,69780,ich,der_prinz_von_homburg
+gdc,r10b.0,69250,69851,der_prinz_von_homburg,69818,69821,mir,der_prinz_von_homburg
+gdc,r10b.0,69857,69960,die_kurfuerstin,69876,69880,Mein,die_kurfuerstin
+gdc,r10b.0,69857,69960,die_kurfuerstin,69936,69939,ich,die_kurfuerstin
+gdc,r10b.0,69966,70645,der_prinz_von_homburg,69990,69993,Ich,der_prinz_von_homburg
+gdc,r10b.0,69966,70645,der_prinz_von_homburg,70081,70084,ich,der_prinz_von_homburg
+gdc,r10b.0,69966,70645,der_prinz_von_homburg,70104,70110,meinem,der_prinz_von_homburg
+gdc,r10b.0,69966,70645,der_prinz_von_homburg,70234,70237,ich,der_prinz_von_homburg
+gdc,r10b.0,69966,70645,der_prinz_von_homburg,70335,70338,ich,der_prinz_von_homburg
+gdc,r10b.0,69966,70645,der_prinz_von_homburg,70345,70348,Ich,der_prinz_von_homburg
+gdc,r10b.0,69966,70645,der_prinz_von_homburg,70358,70363,meine,der_prinz_von_homburg
+gdc,r10b.0,69966,70645,der_prinz_von_homburg,70394,70397,ich,der_prinz_von_homburg
+gdc,r10b.0,69966,70645,der_prinz_von_homburg,70410,70413,ich,der_prinz_von_homburg
+gdc,r10b.0,69966,70645,der_prinz_von_homburg,70433,70436,mir,der_prinz_von_homburg
+gdc,r10b.0,69966,70645,der_prinz_von_homburg,70534,70537,ich,der_prinz_von_homburg
+gdc,r10b.0,70651,70752,die_kurfuerstin,70739,70745,meiner,die_kurfuerstin
+gdc,r10b.0,70758,71442,der_prinz_von_homburg,70943,70947,mich,der_prinz_von_homburg
+gdc,r10b.0,70758,71442,der_prinz_von_homburg,70971,70974,mir,der_prinz_von_homburg
+gdc,r10b.0,70758,71442,der_prinz_von_homburg,71052,71055,ich,der_prinz_von_homburg
+gdc,r10b.0,70758,71442,der_prinz_von_homburg,71105,71108,ich,der_prinz_von_homburg
+gdc,r10b.0,70758,71442,der_prinz_von_homburg,71212,71215,ich,der_prinz_von_homburg
+gdc,r10b.0,71448,71935,natalie,71769,71772,ich,natalie
+gdc,r10b.0,71448,71935,natalie,71862,71865,mir,natalie
+gdc,r10b.0,71939,72334,der_prinz_von_homburg,72092,72095,ich,der_prinz_von_homburg
+gdc,r10b.0,71939,72334,der_prinz_von_homburg,72119,72122,ich,der_prinz_von_homburg
+gdc,r10b.0,71939,72334,der_prinz_von_homburg,72142,72146,mich,der_prinz_von_homburg
+gdc,r10b.0,71939,72334,der_prinz_von_homburg,72320,72324,mich,der_prinz_von_homburg
+gdc,r10b.0,72340,72620,natalie,72371,72374,mir,natalie
+gdc,r10b.0,72340,72620,natalie,72411,72423,der Kurfürst,der_kurfuerst
+gdc,r10b.0,72691,72852,der_prinz_von_homburg,72814,72817,mir,der_prinz_von_homburg
+gdc,r10b.0,72921,73095,_stage,72921,72933,Der Kurfürst,der_kurfuerst
+gdc,r10b.0,73097,73154,natalie,73113,73117,Mein,natalie
+gdc,r10b.0,73291,73790,natalie,73329,73332,mir,natalie
+gdc,r10b.0,73291,73790,natalie,73384,73387,Ich,natalie
+gdc,r10b.0,73291,73790,natalie,73407,73411,mich,natalie
+gdc,r10b.0,73291,73790,natalie,73431,73435,Mein,natalie
+gdc,r10b.0,73291,73790,natalie,73475,73478,Ich,natalie
+gdc,r10b.0,73291,73790,natalie,73498,73502,mich,natalie
+gdc,r10b.0,73291,73790,natalie,73567,73570,Ich,natalie
+gdc,r10b.0,73291,73790,natalie,73676,73679,mir,natalie
+gdc,r10b.0,73291,73790,natalie,73704,73707,ich,natalie
+gdc,r10b.0,73291,73790,natalie,73714,73718,mein,natalie
+gdc,r10b.0,73291,73790,natalie,73778,73781,mir,natalie
+gdc,r10b.0,73796,73918,der_kurfuerst,73822,73826,Mein,der_kurfuerst
+gdc,r10b.0,73997,74775,natalie,74084,74087,ich,natalie
+gdc,r10b.0,73997,74775,natalie,74292,74295,mir,natalie
+gdc,r10b.0,74781,75063,der_kurfuerst,74796,74800,Mein,der_kurfuerst
+gdc,r10b.0,74781,75063,der_kurfuerst,74823,74826,ich,der_kurfuerst
+gdc,r10b.0,74781,75063,der_kurfuerst,74860,74863,ich,der_kurfuerst
+gdc,r10b.0,74781,75063,der_kurfuerst,74879,74882,mir,der_kurfuerst
+gdc,r10b.0,74781,75063,der_kurfuerst,74947,74950,ich,der_kurfuerst
+gdc,r10b.0,74781,75063,der_kurfuerst,74964,74967,ich,der_kurfuerst
+gdc,r10b.0,75101,75278,der_kurfuerst,75120,75124,mich,der_kurfuerst
+gdc,r10b.0,75101,75278,der_kurfuerst,75143,75147,mich,der_kurfuerst
+gdc,r10b.0,75101,75278,der_kurfuerst,75193,75197,mich,der_kurfuerst
+gdc,r10b.0,75284,76175,natalie,75577,75580,mir,natalie
+gdc,r10b.0,75284,76175,natalie,75640,75643,ich,natalie
+gdc,r10b.0,75284,76175,natalie,75767,75771,mein,natalie
+gdc,r10b.0,76425,76504,natalie,76481,76484,ich,natalie
+gdc,r10b.0,76510,76576,der_kurfuerst,76541,76545,mein,der_kurfuerst
+gdc,r10b.0,77007,77120,der_kurfuerst,77051,77056,meine,der_kurfuerst
+gdc,r10b.0,77183,77351,der_kurfuerst,77265,77269,mein,der_kurfuerst
+gdc,r10b.0,77183,77351,der_kurfuerst,77319,77322,mir,der_kurfuerst
+gdc,r10b.0,77357,77955,natalie,77639,77642,ich,natalie
+gdc,r10b.0,77357,77955,natalie,77727,77730,ich,natalie
+gdc,r10b.0,77357,77955,natalie,77768,77774,meiner,natalie
+gdc,r10b.0,77357,77955,natalie,77851,77855,mich,natalie
+gdc,r10b.0,77961,78072,der_kurfuerst,78046,78050,mein,der_kurfuerst
+gdc,r10b.0,78078,78113,natalie,78092,78096,mein,natalie
+gdc,r10b.0,78118,78198,der_kurfuerst,78154,78157,Ich,der_kurfuerst
+gdc,r10b.0,78339,78749,der_kurfuerst,78358,78364,meinem,der_kurfuerst
+gdc,r10b.0,78339,78749,der_kurfuerst,78370,78373,Ich,der_kurfuerst
+gdc,r10b.0,78339,78749,der_kurfuerst,78399,78402,ich,der_kurfuerst
+gdc,r10b.0,78339,78749,der_kurfuerst,78404,78408,Mich,der_kurfuerst
+gdc,r10b.0,78339,78749,der_kurfuerst,78498,78501,ich,der_kurfuerst
+gdc,r10b.0,78339,78749,der_kurfuerst,78588,78591,ich,der_kurfuerst
+gdc,r10b.0,78955,79257,der_kurfuerst,79059,79063,mein,der_kurfuerst
+gdc,r10b.0,78955,79257,der_kurfuerst,79077,79081,mein,der_kurfuerst
+gdc,r10b.0,78955,79257,der_kurfuerst,79106,79109,ich,der_kurfuerst
+gdc,r10b.0,79295,79617,der_kurfuerst,79576,79580,Mein,der_kurfuerst
+gdc,r10b.0,79295,79617,der_kurfuerst,79602,79605,mir,der_kurfuerst
+gdc,r10b.0,79622,79922,natalie,79692,79695,Ich,natalie
+gdc,r10b.0,79622,79922,natalie,79760,79763,ich,natalie
+gdc,r10b.0,79622,79922,natalie,79786,79792,meiner,natalie
+gdc,r10b.0,79622,79922,natalie,79858,79861,Ich,natalie
+gdc,r10b.0,79622,79922,natalie,79883,79886,ich,natalie
+gdc,r10b.0,79926,80063,der_kurfuerst,79948,79952,mein,der_kurfuerst
+gdc,r10b.0,80087,80172,_stage,80087,80105,Prinzessin Natalie,natalie
+gdc,r10b.0,80087,80172,_stage,80154,80163,Graf Reuß,graf_reuss
+gdc,r10b.0,80174,80285,natalie,80222,80228,meinem,natalie
+gdc,r10b.0,80174,80285,natalie,80266,80269,ich,natalie
+gdc,r10b.0,80291,80376,graf_reuss,80346,80361,Obrist Kottwitz,kottwitz
+gdc,r10b.0,80776,80906,graf_reuss,80845,80860,Obrist Kottwitz,kottwitz
+gdc,r10b.0,81076,81131,natalie,81089,81092,mir,natalie
+gdc,r10b.0,81076,81131,natalie,81094,81097,mir,natalie
+gdc,r10b.0,81136,81292,graf_reuss,81149,81153,Mein,graf_reuss
+gdc,r10b.0,81296,81447,natalie,81326,81329,ich,natalie
+gdc,r10b.0,81296,81447,natalie,81337,81341,mein,natalie
+gdc,r10b.0,81493,81842,natalie,81519,81522,ich,natalie
+gdc,r10b.0,81493,81842,natalie,81706,81710,mich,natalie
+gdc,r10b.0,81493,81842,natalie,81760,81766,meinem,natalie
+gdc,r10b.0,81493,81842,natalie,81802,81805,ich,natalie
+gdc,r10b.0,81493,81842,natalie,81806,81810,mich,natalie
+gdc,r10b.0,81912,82067,natalie,81948,81951,Ich,natalie
+gdc,r10b.0,81912,82067,natalie,81962,81966,mein,natalie
+gdc,r10b.0,81912,82067,natalie,81977,81986,Graf Reuß,graf_reuss
+gdc,r10b.0,81912,82067,natalie,82002,82005,ich,natalie
+gdc,r10b.0,82449,82658,natalie,82483,82487,mich,natalie
+gdc,r10b.0,82664,82888,graf_reuss,82696,82700,mein,graf_reuss
+gdc,r10b.0,82664,82888,graf_reuss,82793,82796,ich,graf_reuss
+gdc,r10b.0,83153,83460,natalie,83228,83231,mir,natalie
+gdc,r10b.0,83153,83460,natalie,83232,83244,der Kurfürst,der_kurfuerst
+gdc,r10b.0,83153,83460,natalie,83252,83255,mir,natalie
+gdc,r10b.0,83153,83460,natalie,83390,83393,Ich,natalie
+gdc,r10b.0,83153,83460,natalie,83407,83411,mich,natalie
+gdc,r10b.0,83582,83929,natalie,83862,83865,ich,natalie
+gdc,r10b.0,84049,84323,natalie,84076,84079,Ich,natalie
+gdc,r10b.0,84049,84323,natalie,84217,84221,mich,natalie
+gdc,r10b.0,84049,84323,natalie,84239,84242,ich,natalie
+gdc,r10b.0,84049,84323,natalie,84304,84310,meinem,natalie
+gdc,r10b.0,84329,84405,graf_reuss,84341,84345,Mein,graf_reuss
+gdc,r10b.0,84409,84572,natalie,84442,84447,meine,natalie
+gdc,r10b.0,84409,84572,natalie,84478,84481,ich,natalie
+gdc,r10b.0,84409,84572,natalie,84515,84519,mich,natalie
+gdc,r10b.0,84596,84724,_stage,84596,84617,Der Prinz von Homburg,der_prinz_von_homburg
+gdc,r10b.0,84726,85238,der_prinz_von_homburg,84883,84886,Ich,der_prinz_von_homburg
+gdc,r10b.0,84726,85238,der_prinz_von_homburg,84907,84911,mich,der_prinz_von_homburg
+gdc,r10b.0,84726,85238,der_prinz_von_homburg,85153,85156,Ich,der_prinz_von_homburg
+gdc,r10b.0,85265,85423,_stage,85265,85283,Prinzessin Natalie,natalie
+gdc,r10b.0,85265,85423,_stage,85324,85333,Graf Reuß,graf_reuss
+gdc,r10b.0,85265,85423,_stage,85374,85380,Läufer,laeufer
+gdc,r10b.0,85265,85423,_stage,85401,85422,Der Prinz von Homburg,der_prinz_von_homburg
+gdc,r10b.0,85638,85666,_stage,85638,85647,Graf Reuß,graf_reuss
+gdc,r10b.0,85638,85666,_stage,85656,85662,Läufer,laeufer
+gdc,r10b.0,85670,85714,der_prinz_von_homburg,85693,85697,Mein,der_prinz_von_homburg
+gdc,r10b.0,85754,85846,der_prinz_von_homburg,85842,85845,mir,der_prinz_von_homburg
+gdc,r10b.0,85851,85988,natalie,85881,85884,ich,natalie
+gdc,r10b.0,86128,86535,der_prinz_von_homburg,86159,86163,Mein,der_prinz_von_homburg
+gdc,r10b.0,86128,86535,der_prinz_von_homburg,86187,86190,ich,der_prinz_von_homburg
+gdc,r10b.0,86128,86535,der_prinz_von_homburg,86265,86268,ich,der_prinz_von_homburg
+gdc,r10b.0,86128,86535,der_prinz_von_homburg,86281,86286,meine,der_prinz_von_homburg
+gdc,r10b.0,86128,86535,der_prinz_von_homburg,86337,86340,ich,der_prinz_von_homburg
+gdc,r10b.0,86128,86535,der_prinz_von_homburg,86397,86400,ich,der_prinz_von_homburg
+gdc,r10b.0,86128,86535,der_prinz_von_homburg,86409,86412,mir,der_prinz_von_homburg
+gdc,r10b.0,86128,86535,der_prinz_von_homburg,86460,86463,ich,der_prinz_von_homburg
+gdc,r10b.0,86687,86731,der_prinz_von_homburg,86710,86714,Mein,der_prinz_von_homburg
+gdc,r10b.0,86736,86840,natalie,86767,86770,mir,natalie
+gdc,r10b.0,86900,87074,natalie,86991,86994,ich,natalie
+gdc,r10b.0,87080,87140,der_prinz_von_homburg,87117,87120,ich,der_prinz_von_homburg
+gdc,r10b.0,87145,87265,natalie,87205,87208,Ich,natalie
+gdc,r10b.0,87269,87335,der_prinz_von_homburg,87294,87297,Ich,der_prinz_von_homburg
+gdc,r10b.0,87691,87831,natalie,87741,87745,mich,natalie
+gdc,r10b.0,87835,88000,der_prinz_von_homburg,87896,87899,mir,der_prinz_von_homburg
+gdc,r10b.0,88157,88258,natalie,88210,88214,Mein,natalie
+gdc,r10b.0,88264,88510,der_prinz_von_homburg,88350,88353,Ich,der_prinz_von_homburg
+gdc,r10b.0,88264,88510,der_prinz_von_homburg,88359,88362,mir,der_prinz_von_homburg
+gdc,r10b.0,88627,88756,der_prinz_von_homburg,88678,88681,Ich,der_prinz_von_homburg
+gdc,r10b.0,88627,88756,der_prinz_von_homburg,88701,88704,ich,der_prinz_von_homburg
+gdc,r10b.0,88627,88756,der_prinz_von_homburg,88705,88709,mich,der_prinz_von_homburg
+gdc,r10b.0,88828,88939,der_prinz_von_homburg,88897,88900,ich,der_prinz_von_homburg
+gdc,r10b.0,88974,89038,der_prinz_von_homburg,88997,89001,Mich,der_prinz_von_homburg
+gdc,r10b.0,89448,89544,der_prinz_von_homburg,89505,89508,Ich,der_prinz_von_homburg
+gdc,r10b.0,89625,90040,der_prinz_von_homburg,89688,89691,Ich,der_prinz_von_homburg
+gdc,r10b.0,89625,90040,der_prinz_von_homburg,89704,89708,mich,der_prinz_von_homburg
+gdc,r10b.0,89625,90040,der_prinz_von_homburg,89767,89770,mir,der_prinz_von_homburg
+gdc,r10b.0,89625,90040,der_prinz_von_homburg,89790,89793,mir,der_prinz_von_homburg
+gdc,r10b.0,89625,90040,der_prinz_von_homburg,89818,89821,ich,der_prinz_von_homburg
+gdc,r10b.0,89625,90040,der_prinz_von_homburg,89854,89858,mich,der_prinz_von_homburg
+gdc,r10b.0,89625,90040,der_prinz_von_homburg,89923,89926,ich,der_prinz_von_homburg
+gdc,r10b.0,89625,90040,der_prinz_von_homburg,89940,89943,mir,der_prinz_von_homburg
+gdc,r10b.0,90140,90230,der_prinz_von_homburg,90206,90209,Mir,der_prinz_von_homburg
+gdc,r10b.0,90261,90331,der_prinz_von_homburg,90296,90299,ich,der_prinz_von_homburg
+gdc,r10b.0,90261,90331,der_prinz_von_homburg,90312,90315,ich,der_prinz_von_homburg
+gdc,r10b.0,90370,90429,der_prinz_von_homburg,90409,90412,Ich,der_prinz_von_homburg
+gdc,r10b.0,90434,90935,natalie,90444,90448,Mein,natalie
+gdc,r10b.0,90434,90935,natalie,90479,90482,ich,natalie
+gdc,r10b.0,90434,90935,natalie,90524,90527,ich,natalie
+gdc,r10b.0,90434,90935,natalie,90819,90822,ich,natalie
+gdc,r10b.0,91017,91110,der_prinz_von_homburg,91066,91069,Mir,der_prinz_von_homburg
+gdc,r10b.0,91017,91110,der_prinz_von_homburg,91101,91104,ich,der_prinz_von_homburg
+gdc,r10b.0,91116,91191,natalie,91167,91170,ich,natalie
+gdc,r10b.0,91196,91346,der_prinz_von_homburg,91276,91279,Ich,der_prinz_von_homburg
+gdc,r10b.0,91381,91737,der_prinz_von_homburg,91449,91455,meinem,der_prinz_von_homburg
+gdc,r10b.0,91381,91737,der_prinz_von_homburg,91482,91485,Ich,der_prinz_von_homburg
+gdc,r10b.0,91381,91737,der_prinz_von_homburg,91514,91517,mir,der_prinz_von_homburg
+gdc,r10b.0,91381,91737,der_prinz_von_homburg,91591,91594,mir,der_prinz_von_homburg
+gdc,r10b.0,91381,91737,der_prinz_von_homburg,91615,91618,ich,der_prinz_von_homburg
+gdc,r10b.0,91381,91737,der_prinz_von_homburg,91644,91647,mir,der_prinz_von_homburg
+gdc,r10b.0,91381,91737,der_prinz_von_homburg,91668,91671,ich,der_prinz_von_homburg
+gdc,r10b.0,91381,91737,der_prinz_von_homburg,91702,91705,ich,der_prinz_von_homburg
+gdc,r10b.0,91743,92068,natalie,91854,91857,ich,natalie
+gdc,r10b.0,91743,92068,natalie,91858,91862,mich,natalie
+gdc,r10b.0,91743,92068,natalie,91912,91915,mir,natalie
+gdc,r10b.0,91743,92068,natalie,91969,91972,mir,natalie
+gdc,r10b.0,91743,92068,natalie,91986,91994,meinigen,natalie
+gdc,r10b.0,91743,92068,natalie,92009,92018,Graf Reuß,graf_reuss
+gdc,r10b.0,92022,92068,_stage,92026,92032,Läufer,laeufer
+gdc,r10b.0,92094,92274,natalie,92256,92259,ich,natalie
+gdc,r10b.0,92336,92489,_stage,92336,92348,Der Kurfürst,der_kurfuerst
+gdc,r10b.0,92336,92489,_stage,92403,92414,Graf Truchß,graf_truchss
+gdc,r10b.0,92336,92489,_stage,92443,92467,Rittmeister von der Golz,golz
+gdc,r10b.0,92575,92681,graf_truchss,92613,92617,mein,graf_truchss
+gdc,r10b.0,92687,92774,der_kurfuerst,92719,92722,mir,der_kurfuerst
+gdc,r10b.0,92780,92828,hohenzollern,92803,92806,ich,hohenzollern
+gdc,r10b.0,92780,92828,hohenzollern,92814,92818,mein,hohenzollern
+gdc,r10b.0,92833,92945,der_kurfuerst,92866,92869,ich,der_kurfuerst
+gdc,r10b.0,93036,93143,golz,93064,93067,ich,golz
+gdc,r10b.0,93195,93230,hohenzollern,93220,93223,ich,hohenzollern
+gdc,r10b.0,93235,93344,graf_truchss,93258,93262,mein,graf_truchss
+gdc,r10b.0,93612,93652,_stage,93612,93624,Der Kurfürst,der_kurfuerst
+gdc,r10b.0,93654,94380,der_kurfuerst,93685,93688,ich,der_kurfuerst
+gdc,r10b.0,93654,94380,der_kurfuerst,93721,93724,ich,der_kurfuerst
+gdc,r10b.0,93654,94380,der_kurfuerst,93785,93788,ich,der_kurfuerst
+gdc,r10b.0,93654,94380,der_kurfuerst,93793,93799,meinen,der_kurfuerst
+gdc,r10b.0,93654,94380,der_kurfuerst,93856,93859,ich,der_kurfuerst
+gdc,r10b.0,93654,94380,der_kurfuerst,93947,93950,mir,der_kurfuerst
+gdc,r10b.0,93654,94380,der_kurfuerst,93993,93996,ich,der_kurfuerst
+gdc,r10b.0,93654,94380,der_kurfuerst,93997,94001,mich,der_kurfuerst
+gdc,r10b.0,93654,94380,der_kurfuerst,94106,94109,ich,der_kurfuerst
+gdc,r10b.0,94476,94521,erster_bedienter,94502,94506,mein,erster_bedienter
+gdc,r10b.0,94525,94695,der_kurfuerst,94587,94590,mir,der_kurfuerst
+gdc,r10b.0,94593,94695,_stage,94627,94639,der Kurfürst,der_kurfuerst
+gdc,r10b.0,94719,94767,_stage,94719,94741,Feldmarschall Dörfling,feldmarschall_doerfling
+gdc,r10b.0,94769,94809,feldmarschall_doerfling,94795,94799,mein,feldmarschall_doerfling
+gdc,r10b.0,94814,94972,der_kurfuerst,94889,94892,mir,der_kurfuerst
+gdc,r10b.0,94814,94972,der_kurfuerst,94920,94924,mein,der_kurfuerst
+gdc,r10b.0,94978,95273,feldmarschall_doerfling,95057,95061,mich,feldmarschall_doerfling
+gdc,r10b.0,94978,95273,feldmarschall_doerfling,95072,95087,Obrist Kottwitz,kottwitz
+gdc,r10b.0,95279,95418,der_kurfuerst,95301,95304,mir,der_kurfuerst
+gdc,r10b.0,95494,95551,der_kurfuerst,95526,95530,mein,der_kurfuerst
+gdc,r10b.0,95556,95801,feldmarschall_doerfling,95738,95741,ich,feldmarschall_doerfling
+gdc,r10b.0,95858,96096,feldmarschall_doerfling,95878,95881,mir,feldmarschall_doerfling
+gdc,r10b.0,95858,96096,feldmarschall_doerfling,95943,95949,meiner,feldmarschall_doerfling
+gdc,r10b.0,96102,96247,der_kurfuerst,96134,96137,mir,der_kurfuerst
+gdc,r10b.0,96102,96247,der_kurfuerst,96148,96151,ich,der_kurfuerst
+gdc,r10b.0,96102,96247,der_kurfuerst,96167,96173,meinem,der_kurfuerst
+gdc,r10b.0,96102,96247,der_kurfuerst,96214,96217,ich,der_kurfuerst
+gdc,r10b.0,96253,96817,feldmarschall_doerfling,96275,96278,ich,feldmarschall_doerfling
+gdc,r10b.0,96253,96817,feldmarschall_doerfling,96610,96614,mein,feldmarschall_doerfling
+gdc,r10b.0,96823,97018,der_kurfuerst,96846,96849,ich,der_kurfuerst
+gdc,r10b.0,96823,97018,der_kurfuerst,96971,96974,Ich,der_kurfuerst
+gdc,r10b.0,97201,97288,erster_heiduck,97222,97237,Obrist Kottwitz,kottwitz
+gdc,r10b.0,97394,97436,zweiter_heiduck,97415,97419,mein,zweiter_heiduck
+gdc,r10b.0,97582,97918,der_kurfuerst,97732,97735,mir,der_kurfuerst
+gdc,r10b.0,97582,97918,der_kurfuerst,97822,97825,ich,der_kurfuerst
+gdc,r10b.0,97835,97872,_stage,97835,97843,Der Page,der_page
+gdc,r10b.0,97943,98131,_stage,97943,97958,Obrist Kottwitz,kottwitz
+gdc,r10b.0,97943,98131,_stage,97980,97991,Graf Truchß,graf_truchss
+gdc,r10b.0,97943,98131,_stage,98024,98033,Graf Reuß,graf_reuss
+gdc,r10b.0,97943,98131,_stage,98035,98059,Rittmeister von der Golz,golz
+gdc,r10b.0,97943,98131,_stage,98064,98070,Stranz,stranz
+gdc,r10b.0,98133,98286,kottwitz,98181,98185,mein,kottwitz
+gdc,r10b.0,98133,98286,kottwitz,98205,98208,mir,kottwitz
+gdc,r10b.0,98133,98286,kottwitz,98215,98218,ich,kottwitz
+gdc,r10b.0,98292,98392,der_kurfuerst,98323,98326,ich,der_kurfuerst
+gdc,r10b.0,98292,98392,der_kurfuerst,98340,98343,mir,der_kurfuerst
+gdc,r10b.0,98444,98522,der_kurfuerst,98494,98497,ich,der_kurfuerst
+gdc,r10b.0,98528,98576,kottwitz,98560,98564,mich,kottwitz
+gdc,r10b.0,98581,98621,der_kurfuerst,98617,98620,mir,der_kurfuerst
+gdc,r10b.0,98626,98656,kottwitz,98642,98646,mein,kottwitz
+gdc,r10b.0,98662,98761,der_kurfuerst,98725,98731,meines,der_kurfuerst
+gdc,r10b.0,98767,98857,kottwitz,98788,98792,mein,kottwitz
+gdc,r10b.0,98767,98857,kottwitz,98809,98812,ich,kottwitz
+gdc,r10b.0,98863,98948,der_kurfuerst,98900,98904,mich,der_kurfuerst
+gdc,r10b.0,98954,98974,kottwitz,98964,98973,Graf Reuß,graf_reuss
+gdc,r10b.0,98979,99201,der_kurfuerst,99038,99041,ich,der_kurfuerst
+gdc,r10b.0,99207,99256,kottwitz,99234,99238,mein,kottwitz
+gdc,r10b.0,99454,99552,kottwitz,99465,99469,Mein,kottwitz
+gdc,r10b.0,99887,99978,kottwitz,99952,99957,meine,kottwitz
+gdc,r10b.0,100370,100388,kottwitz,100384,100387,mir,kottwitz
+gdc,r10b.0,100555,100806,der_kurfuerst,100574,100577,mir,der_kurfuerst
+gdc,r10b.0,100812,100869,kottwitz,100826,100830,mein,kottwitz
+gdc,r10b.0,100941,101303,kottwitz,100961,100964,ich,kottwitz
+gdc,r10b.0,100941,101303,kottwitz,100983,100987,mein,kottwitz
+gdc,r10b.0,100941,101303,kottwitz,101051,101054,ich,kottwitz
+gdc,r10b.0,100941,101303,kottwitz,101055,101059,mich,kottwitz
+gdc,r10b.0,101309,101767,der_kurfuerst,101391,101394,ich,der_kurfuerst
+gdc,r10b.0,102409,102822,der_kurfuerst,102514,102517,Mir,der_kurfuerst
+gdc,r10b.0,102409,102822,der_kurfuerst,102659,102662,ich,der_kurfuerst
+gdc,r10b.0,102409,102822,der_kurfuerst,102732,102735,ich,der_kurfuerst
+gdc,r10b.0,102409,102822,der_kurfuerst,102749,102755,meiner,der_kurfuerst
+gdc,r10b.0,102409,102822,der_kurfuerst,102810,102813,mir,der_kurfuerst
+gdc,r10b.0,102828,104598,kottwitz,103075,103078,ich,kottwitz
+gdc,r10b.0,102828,104598,kottwitz,103653,103656,ich,kottwitz
+gdc,r10b.0,102828,104598,kottwitz,103657,103661,mein,kottwitz
+gdc,r10b.0,102828,104598,kottwitz,103786,103791,Meine,kottwitz
+gdc,r10b.0,102828,104598,kottwitz,103802,103807,meine,kottwitz
+gdc,r10b.0,102828,104598,kottwitz,103815,103818,ich,kottwitz
+gdc,r10b.0,102828,104598,kottwitz,103834,103838,mich,kottwitz
+gdc,r10b.0,102828,104598,kottwitz,103978,103982,mein,kottwitz
+gdc,r10b.0,102828,104598,kottwitz,104081,104084,ich,kottwitz
+gdc,r10b.0,102828,104598,kottwitz,104087,104090,Ich,kottwitz
+gdc,r10b.0,102828,104598,kottwitz,104244,104247,ich,kottwitz
+gdc,r10b.0,102828,104598,kottwitz,104264,104267,ich,kottwitz
+gdc,r10b.0,102828,104598,kottwitz,104405,104408,ich,kottwitz
+gdc,r10b.0,102828,104598,kottwitz,104421,104424,ich,kottwitz
+gdc,r10b.0,102828,104598,kottwitz,104466,104470,mich,kottwitz
+gdc,r10b.0,102828,104598,kottwitz,104525,104528,ich,kottwitz
+gdc,r10b.0,102828,104598,kottwitz,104569,104572,ich,kottwitz
+gdc,r10b.0,104604,105271,der_kurfuerst,104663,104666,ich,der_kurfuerst
+gdc,r10b.0,104604,105271,der_kurfuerst,104704,104708,Mich,der_kurfuerst
+gdc,r10b.0,104604,105271,der_kurfuerst,104748,104752,Mich,der_kurfuerst
+gdc,r10b.0,104604,105271,der_kurfuerst,104808,104811,ich,der_kurfuerst
+gdc,r10b.0,104604,105271,der_kurfuerst,104812,104815,mir,der_kurfuerst
+gdc,r10b.0,104604,105271,der_kurfuerst,104843,104848,meine,der_kurfuerst
+gdc,r10b.0,104604,105271,der_kurfuerst,104904,104925,Der Prinz von Homburg,der_prinz_von_homburg
+gdc,r10b.0,104604,105271,der_kurfuerst,105023,105026,ich,der_kurfuerst
+gdc,r10b.0,104604,105271,der_kurfuerst,105095,105098,mir,der_kurfuerst
+gdc,r10b.0,104604,105271,der_kurfuerst,105209,105212,mir,der_kurfuerst
+gdc,r10b.0,105512,105546,hohenzollern,105530,105533,mir,hohenzollern
+gdc,r10b.0,105512,105546,hohenzollern,105535,105539,mein,hohenzollern
+gdc,r10b.0,105551,105772,der_kurfuerst,105663,105666,ich,der_kurfuerst
+gdc,r10b.0,105551,105772,der_kurfuerst,105767,105771,mich,der_kurfuerst
+gdc,r10b.0,105778,105838,hohenzollern,105802,105806,mein,hohenzollern
+gdc,r10b.0,105778,105838,hohenzollern,105821,105824,ich,hohenzollern
+gdc,r10b.0,105843,106035,der_kurfuerst,105920,105923,mir,der_kurfuerst
+gdc,r10b.0,105843,106035,der_kurfuerst,105963,105966,mir,der_kurfuerst
+gdc,r10b.0,105843,106035,der_kurfuerst,105986,105989,ich,der_kurfuerst
+gdc,r10b.0,105843,106035,der_kurfuerst,106022,106025,mir,der_kurfuerst
+gdc,r10b.0,106968,107697,hohenzollern,106993,106997,mich,hohenzollern
+gdc,r10b.0,106968,107697,hohenzollern,107083,107086,ich,hohenzollern
+gdc,r10b.0,106968,107697,hohenzollern,107112,107115,ich,hohenzollern
+gdc,r10b.0,106968,107697,hohenzollern,107419,107422,mir,hohenzollern
+gdc,r10b.0,107761,108246,hohenzollern,108115,108118,mir,hohenzollern
+gdc,r10b.0,108282,108900,hohenzollern,108732,108736,mein,hohenzollern
+gdc,r10b.0,108981,109012,_stage,108981,108993,Der Kurfürst,der_kurfuerst
+gdc,r10b.0,109016,109422,hohenzollern,109310,109314,mich,hohenzollern
+gdc,r10b.0,109016,109422,hohenzollern,109358,109361,mir,hohenzollern
+gdc,r10b.0,109016,109422,hohenzollern,109395,109399,mich,hohenzollern
+gdc,r10b.0,109428,109667,feldmarschall_doerfling,109488,109491,ich,feldmarschall_doerfling
+gdc,r10b.0,109428,109667,feldmarschall_doerfling,109512,109515,ich,feldmarschall_doerfling
+gdc,r10b.0,109428,109667,feldmarschall_doerfling,109516,109520,mich,feldmarschall_doerfling
+gdc,r10b.0,109428,109667,feldmarschall_doerfling,109526,109532,meiner,feldmarschall_doerfling
+gdc,r10b.0,109428,109667,feldmarschall_doerfling,109572,109575,ich,feldmarschall_doerfling
+gdc,r10b.0,109673,110002,der_kurfuerst,109702,109705,ich,der_kurfuerst
+gdc,r10b.0,109673,110002,der_kurfuerst,109773,109776,mir,der_kurfuerst
+gdc,r10b.0,109673,110002,der_kurfuerst,109788,109791,ich,der_kurfuerst
+gdc,r10b.0,110008,110078,hohenzollern,110023,110027,Mein,hohenzollern
+gdc,r10b.0,110008,110078,hohenzollern,110051,110054,ich,hohenzollern
+gdc,r10b.0,110084,110407,der_kurfuerst,110163,110167,mich,der_kurfuerst
+gdc,r10b.0,110084,110407,der_kurfuerst,110191,110194,ich,der_kurfuerst
+gdc,r10b.0,110084,110407,der_kurfuerst,110290,110293,ich,der_kurfuerst
+gdc,r10b.0,110084,110407,der_kurfuerst,110390,110396,meiner,der_kurfuerst
+gdc,r10b.0,110413,110518,hohenzollern,110442,110446,mein,hohenzollern
+gdc,r10b.0,110413,110518,hohenzollern,110457,110460,Ich,hohenzollern
+gdc,r10b.0,110413,110518,hohenzollern,110474,110478,Mein,hohenzollern
+gdc,r10b.0,110849,110882,offizier_5-6,110862,110866,mein,offizier_5-6
+gdc,r10b.0,110914,111114,offizier_5-6,110950,110953,ich,offizier_5-6
+gdc,r10b.0,111319,111390,_stage,111319,111340,Der Prinz von Homburg,der_prinz_von_homburg
+gdc,r10b.0,111392,111752,der_kurfuerst,111407,111411,Mein,der_kurfuerst
+gdc,r10b.0,111392,111752,der_kurfuerst,111435,111438,ich,der_kurfuerst
+gdc,r10b.0,111392,111752,der_kurfuerst,111439,111442,mir,der_kurfuerst
+gdc,r10b.0,111392,111752,der_kurfuerst,111458,111473,Obrist Kottwitz,kottwitz
+gdc,r10b.0,111392,111752,der_kurfuerst,111692,111695,ich,der_kurfuerst
+gdc,r10b.0,111756,112177,der_prinz_von_homburg,111896,111899,mir,der_prinz_von_homburg
+gdc,r10b.0,111756,112177,der_prinz_von_homburg,111924,111927,mir,der_prinz_von_homburg
+gdc,r10b.0,111756,112177,der_prinz_von_homburg,111938,111941,ich,der_prinz_von_homburg
+gdc,r10b.0,111756,112177,der_prinz_von_homburg,112077,112080,ich,der_prinz_von_homburg
+gdc,r10b.0,111756,112177,der_prinz_von_homburg,112087,112090,mir,der_prinz_von_homburg
+gdc,r10b.0,111756,112177,der_prinz_von_homburg,112102,112105,Ich,der_prinz_von_homburg
+gdc,r10b.0,111756,112177,der_prinz_von_homburg,112124,112127,mir,der_prinz_von_homburg
+gdc,r10b.0,112181,112250,kottwitz,112219,112223,mein,kottwitz
+gdc,r10b.0,112343,112421,mehrere_offiziere_5-7,112374,112378,Mein,mehrere_offiziere_5-7
+gdc,r10b.0,112343,112421,mehrere_offiziere_5-7,112398,112402,Mein,mehrere_offiziere_5-7
+gdc,r10b.0,112426,113029,der_prinz_von_homburg,112464,112468,mein,der_prinz_von_homburg
+gdc,r10b.0,112426,113029,der_prinz_von_homburg,112489,112492,Ich,der_prinz_von_homburg
+gdc,r10b.0,112426,113029,der_prinz_von_homburg,112534,112537,ich,der_prinz_von_homburg
+gdc,r10b.0,112426,113029,der_prinz_von_homburg,112636,112641,meine,der_prinz_von_homburg
+gdc,r10b.0,112426,113029,der_prinz_von_homburg,112683,112686,ich,der_prinz_von_homburg
+gdc,r10b.0,113035,113104,kottwitz,113053,113057,Mein,kottwitz
+gdc,r10b.0,113035,113104,kottwitz,113064,113068,Mein,kottwitz
+gdc,r10b.0,113035,113104,kottwitz,113095,113098,ich,kottwitz
+gdc,r10b.0,113144,113207,kottwitz,113169,113173,mich,kottwitz
+gdc,r10b.0,113211,113744,der_prinz_von_homburg,113272,113276,mein,der_prinz_von_homburg
+gdc,r10b.0,113211,113744,der_prinz_von_homburg,113317,113320,mir,der_prinz_von_homburg
+gdc,r10b.0,113211,113744,der_prinz_von_homburg,113363,113366,ich,der_prinz_von_homburg
+gdc,r10b.0,113211,113744,der_prinz_von_homburg,113387,113391,mich,der_prinz_von_homburg
+gdc,r10b.0,113211,113744,der_prinz_von_homburg,113407,113410,ich,der_prinz_von_homburg
+gdc,r10b.0,113211,113744,der_prinz_von_homburg,113512,113516,mich,der_prinz_von_homburg
+gdc,r10b.0,113211,113744,der_prinz_von_homburg,113528,113534,meinem,der_prinz_von_homburg
+gdc,r10b.0,113211,113744,der_prinz_von_homburg,113740,113743,mir,der_prinz_von_homburg
+gdc,r10b.0,113750,113899,der_kurfuerst,113815,113819,Mein,der_kurfuerst
+gdc,r10b.0,113750,113899,der_kurfuerst,113834,113837,ich,der_kurfuerst
+gdc,r10b.0,114144,114681,der_kurfuerst,114213,114217,mein,der_kurfuerst
+gdc,r10b.0,114144,114681,der_kurfuerst,114234,114237,ich,der_kurfuerst
+gdc,r10b.0,114144,114681,der_kurfuerst,114332,114335,mir,der_kurfuerst
+gdc,r10b.0,114144,114681,der_kurfuerst,114402,114405,mir,der_kurfuerst
+gdc,r10b.0,114144,114681,der_kurfuerst,114480,114483,ich,der_kurfuerst
+gdc,r10b.0,114685,114970,der_prinz_von_homburg,114749,114752,mir,der_prinz_von_homburg
+gdc,r10b.0,114685,114970,der_prinz_von_homburg,114764,114767,ich,der_prinz_von_homburg
+gdc,r10b.0,115057,115142,_stage,115069,115083,die Kurfürstin,die_kurfuerstin
+gdc,r10b.0,115144,115288,natalie,115185,115188,mir,natalie
+gdc,r10b.0,115144,115288,natalie,115253,115257,Mein,natalie
+gdc,r10b.0,115340,115433,graf_truchss,115380,115384,mein,graf_truchss
+gdc,r10b.0,115437,115478,der_prinz_von_homburg,115466,115470,mich,der_prinz_von_homburg
+gdc,r10b.0,115483,115529,hohenzollern,115497,115501,Mein,hohenzollern
+gdc,r10b.0,115534,115708,der_prinz_von_homburg,115611,115615,mich,der_prinz_von_homburg
+gdc,r10b.0,115534,115708,der_prinz_von_homburg,115671,115674,ich,der_prinz_von_homburg
+gdc,r10b.0,115712,115844,natalie,115794,115798,mich,natalie
+gdc,r10b.0,115972,116040,_stage,115972,115984,Der Kurfürst,der_kurfuerst
+gdc,r10b.0,116045,116129,kottwitz,116061,116065,Mein,kottwitz
+gdc,r10b.0,116135,116882,der_kurfuerst,116187,116190,ich,der_kurfuerst
+gdc,r10b.0,116223,116376,_stage,116302,116310,der Page,der_page
+gdc,r10b.0,116135,116882,der_kurfuerst,116446,116452,meines,der_kurfuerst
+gdc,r10b.0,116135,116882,der_kurfuerst,116473,116476,ich,der_kurfuerst
+gdc,r10b.0,116135,116882,der_kurfuerst,116738,116742,mich,der_kurfuerst
+gdc,r10b.0,116135,116882,der_kurfuerst,116778,116781,mir,der_kurfuerst
+gdc,r10b.0,117180,117373,der_kurfuerst,117256,117259,mir,der_kurfuerst
+gdc,r10b.0,117397,117582,_stage,117397,117418,Der Prinz von Homburg,der_prinz_von_homburg
+gdc,r10b.0,117397,117582,_stage,117440,117446,Stranz,stranz
+gdc,r10b.0,117584,118223,der_prinz_von_homburg,117645,117649,mein,der_prinz_von_homburg
+gdc,r10b.0,117584,118223,der_prinz_von_homburg,117664,117667,mir,der_prinz_von_homburg
+gdc,r10b.0,117584,118223,der_prinz_von_homburg,117685,117691,meiner,der_prinz_von_homburg
+gdc,r10b.0,117584,118223,der_prinz_von_homburg,117757,117760,mir,der_prinz_von_homburg
+gdc,r10b.0,117584,118223,der_prinz_von_homburg,117816,117820,mein,der_prinz_von_homburg
+gdc,r10b.0,117584,118223,der_prinz_von_homburg,117928,117931,mir,der_prinz_von_homburg
+gdc,r10b.0,117584,118223,der_prinz_von_homburg,117979,117982,ich,der_prinz_von_homburg
+gdc,r10b.0,117584,118223,der_prinz_von_homburg,118042,118045,mir,der_prinz_von_homburg
+gdc,r10b.0,118049,118223,_stage,118162,118168,Stranz,stranz
+gdc,r10b.0,118315,118349,_stage,118315,118321,Stranz,stranz
+gdc,r10b.0,118455,118567,stranz,118464,118467,Ich,stranz
+gdc,r10b.0,118455,118567,stranz,118540,118543,ich,stranz
+gdc,r10b.0,118573,118647,der_prinz_von_homburg,118608,118611,Ich,der_prinz_von_homburg
+gdc,r10b.0,118673,119096,_stage,118673,118685,Der Kurfürst,der_kurfuerst
+gdc,r10b.0,118673,119096,_stage,118765,118783,Prinzessin Natalie,natalie
+gdc,r10b.0,118673,119096,_stage,118785,118807,Feldmarschall Dörfling,feldmarschall_doerfling
+gdc,r10b.0,118673,119096,_stage,118809,118824,Obrist Kottwitz,kottwitz
+gdc,r10b.0,118673,119096,_stage,119004,119010,Stranz,stranz
+gdc,r10b.0,119168,119240,stranz,119196,119200,Mein,stranz
+gdc,r10b.0,119285,119376,stranz,119354,119357,ich,stranz
+gdc,r10b.0,119382,119440,der_prinz_von_homburg,119412,119418,meiner,der_prinz_von_homburg
+gdc,r10b.0,119505,119856,_stage,119505,119517,Der Kurfürst,der_kurfuerst

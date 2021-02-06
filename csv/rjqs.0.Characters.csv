@@ -1,5 +1,5 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,rjqs.0,PHILOTAS,philotas,,
-gdc,rjqs.0,STRATO,strato,,
-gdc,rjqs.0,ARIDÄUS,aridäus,,
-gdc,rjqs.0,PARMENIO,parmenio,,
+gdc,rjqs.0,Parmenio,parmenio,MALE,
+gdc,rjqs.0,Philotas,philotas,MALE,
+gdc,rjqs.0,Aridäus,aridaeus,MALE,
+gdc,rjqs.0,Strato,strato,MALE,

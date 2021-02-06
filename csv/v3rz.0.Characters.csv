@@ -1,5 +1,5 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,v3rz.0,EDUARD,eduard,,
-gdc,v3rz.0,GEORG,georg,,
-gdc,v3rz.0,ANNA,anna,,
-gdc,v3rz.0,DER KLEINE,der_kleine,,
+gdc,v3rz.0,Anna,anna,FEMALE,
+gdc,v3rz.0,Georg,georg,MALE,
+gdc,v3rz.0,Eduard,eduard,MALE,
+gdc,v3rz.0,Der Kleine,der_kleine,MALE,

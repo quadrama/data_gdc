@@ -1,5 +1,5 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,11hb1.0,SÖLLER,söller,,
-gdc,11hb1.0,DER WIRT,der_wirt,,
-gdc,11hb1.0,SOPHIE,sophie,,
-gdc,11hb1.0,ALCEST,alcest,,
+gdc,11hb1.0,Der Wirt,der_wirt,MALE,
+gdc,11hb1.0,Sophie,sophie,FEMALE,
+gdc,11hb1.0,Söller,soeller,MALE,
+gdc,11hb1.0,Alcest,alcest,MALE,

@@ -1,4 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,wznq.0,VOLTAIRE,voltaire,,
-gdc,wznq.0,AMME,amme,,
-gdc,wznq.0,GESPENST,gespenst,,
+gdc,wznq.0,Voltaire,voltaire,MALE,
+gdc,wznq.0,Gespenst,gespenst,UNKNOWN,
+gdc,wznq.0,Amme,amme,FEMALE,

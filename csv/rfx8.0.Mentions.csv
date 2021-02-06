@@ -1,0 +1,20 @@
+corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+gdc,rfx8.0,60,104,_stage,60,69,Der Fürst,der_fuerst
+gdc,rfx8.0,60,104,_stage,74,88,Der Kammerherr,der_kammerherr
+gdc,rfx8.0,106,496,der_fuerst,242,245,ich,der_fuerst
+gdc,rfx8.0,106,496,der_fuerst,286,289,ich,der_fuerst
+gdc,rfx8.0,106,496,der_fuerst,329,332,mir,der_fuerst
+gdc,rfx8.0,630,748,der_fuerst,662,665,ich,der_fuerst
+gdc,rfx8.0,630,748,der_fuerst,680,686,meiner,der_fuerst
+gdc,rfx8.0,753,976,der_kammerherr,786,789,ich,der_kammerherr
+gdc,rfx8.0,981,1226,der_fuerst,992,995,Ich,der_fuerst
+gdc,rfx8.0,981,1226,der_fuerst,1118,1127,Der Fürst,der_fuerst
+gdc,rfx8.0,1479,2029,der_geist,1855,1858,mir,der_geist
+gdc,rfx8.0,2034,2074,der_fuerst,2070,2073,mir,der_fuerst
+gdc,rfx8.0,2079,2660,der_geist,2332,2335,ich,der_geist
+gdc,rfx8.0,2079,2660,der_geist,2373,2376,ich,der_geist
+gdc,rfx8.0,2079,2660,der_geist,2559,2563,mich,der_geist
+gdc,rfx8.0,2079,2660,der_geist,2631,2635,mich,der_geist
+gdc,rfx8.0,2714,2762,der_kammerherr,2730,2733,Ich,der_kammerherr
+gdc,rfx8.0,2714,2762,der_kammerherr,2736,2739,ich,der_kammerherr
+gdc,rfx8.0,2714,2762,der_kammerherr,2758,2761,mir,der_kammerherr

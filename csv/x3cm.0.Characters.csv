@@ -1,5 +1,5 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,x3cm.0,ELFRIEDE,elfriede,,
-gdc,x3cm.0,CASTI PIANI,casti_piani,,
-gdc,x3cm.0,HERR KÖNIG,herr_könig,,
-gdc,x3cm.0,LISISKA,lisiska,,
+gdc,x3cm.0,Herr König,herr_koenig,MALE,
+gdc,x3cm.0,Lisiska,lisiska,FEMALE,
+gdc,x3cm.0,Casti Piani,casti_piani,MALE,
+gdc,x3cm.0,Elfriede,elfriede,FEMALE,

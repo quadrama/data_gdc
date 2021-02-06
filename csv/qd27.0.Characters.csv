@@ -1,7 +1,7 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,qd27.0,CLAUDIO,claudio,,
-gdc,qd27.0,DIENER,diener,,
-gdc,qd27.0,DER TOD,der_tod,,
-gdc,qd27.0,DIE MUTTER,die_mutter,,
-gdc,qd27.0,DAS JUNGE MÄDCHEN,das_junge_mädchen,,
-gdc,qd27.0,DER MANN,der_mann,,
+gdc,qd27.0,Der Tod,der_tod,UNKNOWN,
+gdc,qd27.0,Die Mutter,die_mutter,FEMALE,
+gdc,qd27.0,Der Mann,der_mann,MALE,
+gdc,qd27.0,Diener,diener,MALE,
+gdc,qd27.0,Das junge Mädchen,das_junge_maedchen,FEMALE,
+gdc,qd27.0,Claudio,claudio,MALE,

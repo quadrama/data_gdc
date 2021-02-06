@@ -1,4 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,tvgr.0,JARRIMO,jarrimo,,
-gdc,tvgr.0,LISABELLA,lisabella,,
-gdc,tvgr.0,RODERICH,roderich,,
+gdc,tvgr.0,Jarrimo,jarrimo,MALE,
+gdc,tvgr.0,Roderich,roderich,MALE,
+gdc,tvgr.0,Lisabella,lisabella,FEMALE,

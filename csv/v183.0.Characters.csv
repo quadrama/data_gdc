@@ -1,5 +1,5 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,v183.0,FRIZ,friz,,
-gdc,v183.0,ROSALINDE,rosalinde,,
-gdc,v183.0,DOKTOR FAUST,doktor_faust,,
-gdc,v183.0,UNSICHTBARER CHOR,unsichtbarer_chor,,
+gdc,v183.0,Rosalinde,rosalinde,FEMALE,
+gdc,v183.0,Doktor Faust,faust,MALE,
+gdc,v183.0,Unsichtbares Chor,unsichtbarer_chor,UNKNOWN,
+gdc,v183.0,Friz,friz,MALE,

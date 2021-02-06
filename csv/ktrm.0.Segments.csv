@@ -1,3 +1,5 @@
 corpus,drama,begin.Act,end.Act,Number.Act,begin.Scene,end.Scene,Number.Scene
-gdc,ktrm.0,995,19520,0,995,19520,0
-gdc,ktrm.0,19536,30652,0,19536,30652,0
+gdc,ktrm.0,999,19262,0,1012,5912,0
+gdc,ktrm.0,999,19262,0,5919,19262,0
+gdc,ktrm.0,19271,30176,0,19285,26497,0
+gdc,ktrm.0,19271,30176,0,26503,30176,0

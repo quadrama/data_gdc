@@ -1,0 +1,1278 @@
+corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+gdc,ger000468,1701,1894,_stage,1701,1723,Großvatter Wallbrecker,grossvatter_wallbrecker
+gdc,ger000468,1701,1894,_stage,1725,1729,Carl,carl
+gdc,ger000468,1701,1894,_stage,1741,1747,Amanda,amanda
+gdc,ger000468,1701,1894,_stage,1754,1765,Mutter Pius,mutter_pius
+gdc,ger000468,1701,1894,_stage,1767,1775,Lieschen,lieschen
+gdc,ger000468,1701,1894,_stage,1787,1803,August Puderbach,august
+gdc,ger000468,1701,1894,_stage,1809,1824,Pendelfrederech,pendelfrederech
+gdc,ger000468,1701,1894,_stage,1826,1836,Lange Anna,lange_anna
+gdc,ger000468,1701,1894,_stage,1851,1858,Amadeus,amadeus
+gdc,ger000468,1701,1894,_stage,1880,1893,Kroatenjungen,kroatenjungen
+gdc,ger000468,1896,2082,grossvatter_wallbrecker,1951,1955,Carl,carl
+gdc,ger000468,2087,2175,carl,2097,2101,mich,carl
+gdc,ger000468,2087,2175,carl,2160,2165,meine,carl
+gdc,ger000468,2253,2318,carl,2300,2304,mich,carl
+gdc,ger000468,2324,2657,grossvatter_wallbrecker,2372,2375,ich,grossvatter_wallbrecker
+gdc,ger000468,2662,2871,carl,2699,2702,ich,carl
+gdc,ger000468,2876,3070,grossvatter_wallbrecker,2921,2924,ich,grossvatter_wallbrecker
+gdc,ger000468,2876,3070,grossvatter_wallbrecker,2995,2999,mich,grossvatter_wallbrecker
+gdc,ger000468,3114,3605,grossvatter_wallbrecker,3158,3162,Carl,carl
+gdc,ger000468,3707,3835,grossvatter_wallbrecker,3812,3816,Carl,carl
+gdc,ger000468,3840,3925,grossvatter_wallbrecker,3894,3902,Arbeiter,arbeiter_4a
+gdc,ger000468,3840,3925,grossvatter_wallbrecker,3913,3917,Carl,carl
+gdc,ger000468,3931,4207,grossvatter_wallbrecker,4091,4095,Carl,carl
+gdc,ger000468,3931,4207,grossvatter_wallbrecker,4109,4115,Amanda,amanda
+gdc,ger000468,4649,4777,carl,4659,4662,ich,carl
+gdc,ger000468,4649,4777,carl,4697,4701,mich,carl
+gdc,ger000468,4649,4777,carl,4716,4719,ich,carl
+gdc,ger000468,4782,4870,grossvatter_wallbrecker,4845,4849,mich,grossvatter_wallbrecker
+gdc,ger000468,4935,5335,grossvatter_wallbrecker,5152,5155,ich,grossvatter_wallbrecker
+gdc,ger000468,4935,5335,grossvatter_wallbrecker,5170,5175,meine,grossvatter_wallbrecker
+gdc,ger000468,4935,5335,grossvatter_wallbrecker,5235,5239,Carl,carl
+gdc,ger000468,4935,5335,grossvatter_wallbrecker,5241,5244,Ich,grossvatter_wallbrecker
+gdc,ger000468,5340,5405,carl,5377,5380,ich,carl
+gdc,ger000468,5411,5476,grossvatter_wallbrecker,5458,5461,ich,grossvatter_wallbrecker
+gdc,ger000468,5480,5699,_stage,5580,5588,Lieschen,lieschen
+gdc,ger000468,5480,5699,_stage,5638,5646,Arbeiter,arbeiter_4a
+gdc,ger000468,5701,5847,grossvatter_wallbrecker,5799,5803,Carl,carl
+gdc,ger000468,5852,6162,lieschen,5926,5930,mich,lieschen
+gdc,ger000468,5852,6162,lieschen,5932,5935,ich,lieschen
+gdc,ger000468,5852,6162,lieschen,6029,6032,Ich,lieschen
+gdc,ger000468,5852,6162,lieschen,6038,6042,mich,lieschen
+gdc,ger000468,6167,6387,grossvatter_wallbrecker,6260,6264,Carl,carl
+gdc,ger000468,6167,6387,grossvatter_wallbrecker,6278,6286,Lieschen,lieschen
+gdc,ger000468,6167,6387,grossvatter_wallbrecker,6309,6312,Ich,grossvatter_wallbrecker
+gdc,ger000468,6167,6387,grossvatter_wallbrecker,6355,6361,Eduard,eduard
+gdc,ger000468,6391,6412,_stage,6391,6399,Lieschen,lieschen
+gdc,ger000468,6437,6472,_stage,6447,6455,Lieschen,lieschen
+gdc,ger000468,6414,6500,grossvatter_wallbrecker,6482,6485,mir,grossvatter_wallbrecker
+gdc,ger000468,6514,6532,_stage,6526,6530,Carl,carl
+gdc,ger000468,6505,6577,lieschen,6538,6544,Eduard,eduard
+gdc,ger000468,6505,6577,lieschen,6551,6554,ich,lieschen
+gdc,ger000468,6582,6654,carl,6620,6624,mich,carl
+gdc,ger000468,6751,6902,lieschen,6818,6822,mich,lieschen
+gdc,ger000468,6751,6902,lieschen,6856,6859,Ich,lieschen
+gdc,ger000468,6751,6902,lieschen,6897,6901,Carl,carl
+gdc,ger000468,7240,7267,_stage,7261,7265,Carl,carl
+gdc,ger000468,7233,7390,august,7268,7271,Ich,august
+gdc,ger000468,7233,7390,august,7307,7310,ich,august
+gdc,ger000468,7233,7390,august,7317,7320,mir,august
+gdc,ger000468,7233,7390,august,7367,7389,Großvatter Wallbrecker,grossvatter_wallbrecker
+gdc,ger000468,7476,7551,_stage,7476,7480,Carl,carl
+gdc,ger000468,7553,7726,lieschen,7605,7608,ich,lieschen
+gdc,ger000468,7553,7726,lieschen,7666,7669,ich,lieschen
+gdc,ger000468,7747,7816,_stage,7775,7783,Lieschen,lieschen
+gdc,ger000468,7747,7816,_stage,7801,7809,Lieschen,lieschen
+gdc,ger000468,7856,7895,lieschen,7872,7875,Ich,lieschen
+gdc,ger000468,7899,8025,_stage,7914,7922,Lieschen,lieschen
+gdc,ger000468,7899,8025,_stage,7997,8005,Lieschen,lieschen
+gdc,ger000468,8027,8109,lieschen,8081,8084,Ich,lieschen
+gdc,ger000468,8185,8285,lieschen,8195,8200,Meine,lieschen
+gdc,ger000468,8290,8469,amanda,8456,8460,Carl,carl
+gdc,ger000468,8473,8517,_stage,8473,8484,Mutter Pius,mutter_pius
+gdc,ger000468,8473,8517,_stage,8498,8504,Amanda,amanda
+gdc,ger000468,8569,8720,mutter_pius,8602,8606,Carl,carl
+gdc,ger000468,8737,8751,_stage,8741,8749,Lieschen,lieschen
+gdc,ger000468,8804,8848,_stage,8831,8837,Amanda,amanda
+gdc,ger000468,8795,8947,lieschen,8849,8852,Ich,lieschen
+gdc,ger000468,8996,9108,lieschen,9006,9009,Ich,lieschen
+gdc,ger000468,8996,9108,lieschen,9071,9086,Pendelfrederech,pendelfrederech
+gdc,ger000468,9182,9242,lieschen,9209,9213,mich,lieschen
+gdc,ger000468,9182,9242,lieschen,9218,9233,Gretchen Stomms,gretchen_stomms
+gdc,ger000468,9336,9400,lieschen,9346,9349,Ich,lieschen
+gdc,ger000468,9405,9518,mutter_pius,9459,9465,Amanda,amanda
+gdc,ger000468,9523,9574,_stage,9523,9527,Carl,carl
+gdc,ger000468,9576,9620,grossvatter_wallbrecker,9600,9604,Carl,carl
+gdc,ger000468,9576,9620,grossvatter_wallbrecker,9606,9609,ich,grossvatter_wallbrecker
+gdc,ger000468,9624,9818,_stage,9624,9635,Mutter Pius,mutter_pius
+gdc,ger000468,9624,9818,_stage,9663,9671,Lieschen,lieschen
+gdc,ger000468,9624,9818,_stage,9702,9708,Amanda,amanda
+gdc,ger000468,9624,9818,_stage,9785,9789,Carl,carl
+gdc,ger000468,9820,9885,grossvatter_wallbrecker,9852,9856,mich,grossvatter_wallbrecker
+gdc,ger000468,9910,9959,grossvatter_wallbrecker,9954,9958,Carl,carl
+gdc,ger000468,10003,10506,_stage,10289,10297,Arbeiter,arbeiter_4a
+gdc,ger000468,10003,10506,_stage,10428,10440,Die Arbeiter,die_arbeiter_4
+gdc,ger000468,10003,10506,_stage,10432,10440,Arbeiter,arbeiter_4a
+gdc,ger000468,10639,10706,grossvatter_wallbrecker,10672,10675,ich,grossvatter_wallbrecker
+gdc,ger000468,10639,10706,grossvatter_wallbrecker,10692,10697,meine,grossvatter_wallbrecker
+gdc,ger000468,10711,10744,amanda,10732,10736,Carl,carl
+gdc,ger000468,10851,10967,grossvatter_wallbrecker,10886,10890,mich,grossvatter_wallbrecker
+gdc,ger000468,11092,11581,_stage,11185,11200,Pendelfrederech,pendelfrederech
+gdc,ger000468,11092,11581,_stage,11279,11289,Lange Anna,lange_anna
+gdc,ger000468,11092,11581,_stage,11393,11400,Amadeus,amadeus
+gdc,ger000468,11626,11718,amanda,11662,11665,Ich,amanda
+gdc,ger000468,11723,12033,grossvatter_wallbrecker,11758,11761,ich,grossvatter_wallbrecker
+gdc,ger000468,11723,12033,grossvatter_wallbrecker,11826,11832,Amanda,amanda
+gdc,ger000468,11723,12033,grossvatter_wallbrecker,11882,11885,ich,grossvatter_wallbrecker
+gdc,ger000468,11723,12033,grossvatter_wallbrecker,11886,11889,mir,grossvatter_wallbrecker
+gdc,ger000468,11723,12033,grossvatter_wallbrecker,11899,11903,Carl,carl
+gdc,ger000468,11723,12033,grossvatter_wallbrecker,11959,11965,Amanda,amanda
+gdc,ger000468,11723,12033,grossvatter_wallbrecker,11967,11972,meine,grossvatter_wallbrecker
+gdc,ger000468,12074,12190,amanda,12137,12141,mein,amanda
+gdc,ger000468,12074,12190,amanda,12163,12167,mein,amanda
+gdc,ger000468,12432,12528,grossvatter_wallbrecker,12480,12486,Amanda,amanda
+gdc,ger000468,12648,12785,grossvatter_wallbrecker,12672,12675,Ich,grossvatter_wallbrecker
+gdc,ger000468,12648,12785,grossvatter_wallbrecker,12693,12698,meine,grossvatter_wallbrecker
+gdc,ger000468,12648,12785,grossvatter_wallbrecker,12714,12717,ich,grossvatter_wallbrecker
+gdc,ger000468,12648,12785,grossvatter_wallbrecker,12738,12741,ich,grossvatter_wallbrecker
+gdc,ger000468,12648,12785,grossvatter_wallbrecker,12742,12745,mir,grossvatter_wallbrecker
+gdc,ger000468,12974,13078,lieschen,12996,12999,ich,lieschen
+gdc,ger000468,12974,13078,lieschen,13005,13008,mir,lieschen
+gdc,ger000468,13082,13124,_stage,13082,13104,Großvatter Wallbrecker,grossvatter_wallbrecker
+gdc,ger000468,13126,13190,lieschen,13161,13165,mich,lieschen
+gdc,ger000468,13228,13338,lieschen,13304,13307,ich,lieschen
+gdc,ger000468,13343,13428,grossvatter_wallbrecker,13408,13411,ich,grossvatter_wallbrecker
+gdc,ger000468,13433,13501,lieschen,13497,13500,ich,lieschen
+gdc,ger000468,13557,13625,lieschen,13567,13570,Ich,lieschen
+gdc,ger000468,13557,13625,lieschen,13602,13624,Großvatter Wallbrecker,grossvatter_wallbrecker
+gdc,ger000468,13630,13742,grossvatter_wallbrecker,13697,13700,ich,grossvatter_wallbrecker
+gdc,ger000468,13746,13771,_stage,13746,13754,Lieschen,lieschen
+gdc,ger000468,13780,13856,_stage,13805,13813,Lieschen,lieschen
+gdc,ger000468,13979,14012,lieschen,13989,13996,Amadeus,amadeus
+gdc,ger000468,14381,14576,august,14469,14477,Lieschen,lieschen
+gdc,ger000468,14381,14576,august,14522,14530,Lieschen,lieschen
+gdc,ger000468,14608,14675,lieschen,14618,14621,Ich,lieschen
+gdc,ger000468,14825,14927,_stage,14865,14873,Lieschen,lieschen
+gdc,ger000468,14929,15037,amadeus,14938,14941,Ich,amadeus
+gdc,ger000468,14929,15037,amadeus,14962,14965,ich,amadeus
+gdc,ger000468,14929,15037,amadeus,14993,15008,Pendelfrederech,pendelfrederech
+gdc,ger000468,15042,15136,pendelfrederech,15078,15081,Ich,pendelfrederech
+gdc,ger000468,15042,15136,pendelfrederech,15115,15118,mir,pendelfrederech
+gdc,ger000468,15201,15350,pendelfrederech,15315,15318,mir,pendelfrederech
+gdc,ger000468,15355,15560,lange_anna,15465,15480,Pendelfrederech,pendelfrederech
+gdc,ger000468,15355,15560,lange_anna,15539,15542,ich,lange_anna
+gdc,ger000468,15565,15635,amadeus,15619,15634,Pendelfrederech,pendelfrederech
+gdc,ger000468,15805,15870,pendelfrederech,15830,15833,ich,pendelfrederech
+gdc,ger000468,15875,16351,amadeus,15887,15898,Mutter Pius,mutter_pius
+gdc,ger000468,15875,16351,amadeus,16023,16027,Carl,carl
+gdc,ger000468,15875,16351,amadeus,16105,16112,Amadeus,amadeus
+gdc,ger000468,15875,16351,amadeus,16145,16149,Carl,carl
+gdc,ger000468,15875,16351,amadeus,16164,16168,Mich,amadeus
+gdc,ger000468,15875,16351,amadeus,16266,16270,Carl,carl
+gdc,ger000468,16422,16560,amadeus,16555,16559,Carl,carl
+gdc,ger000468,16654,16700,pendelfrederech,16671,16674,Ich,pendelfrederech
+gdc,ger000468,16716,16726,_stage,16720,16724,Carl,carl
+gdc,ger000468,16758,16791,_stage,16758,16771,Kroatenjungen,kroatenjungen
+gdc,ger000468,16962,16972,_stage,16966,16970,Carl,carl
+gdc,ger000468,17013,17050,_stage,17013,17017,Carl,carl
+gdc,ger000468,17136,17146,_stage,17140,17144,Carl,carl
+gdc,ger000468,17284,17849,_stage,17284,17288,Carl,carl
+gdc,ger000468,17284,17849,_stage,17383,17390,Amadeus,amadeus
+gdc,ger000468,17284,17849,_stage,17411,17426,Pendelfrederech,pendelfrederech
+gdc,ger000468,17284,17849,_stage,17691,17701,Lange Anna,lange_anna
+gdc,ger000468,17284,17849,_stage,17790,17797,Amadeus,amadeus
+gdc,ger000468,17284,17849,_stage,17814,17825,Mutter Pius,mutter_pius
+gdc,ger000468,17872,17892,_stage,17883,17890,Amadeus,amadeus
+gdc,ger000468,17986,18039,_stage,17986,17997,Mutter Pius,mutter_pius
+gdc,ger000468,17986,18039,_stage,18002,18006,Carl,carl
+gdc,ger000468,17986,18039,_stage,18015,18022,Amadeus,amadeus
+gdc,ger000468,18052,18095,_stage,18089,18093,Carl,carl
+gdc,ger000468,18118,18289,_stage,18232,18254,Großvatter Wallbrecker,grossvatter_wallbrecker
+gdc,ger000468,18524,18791,grossvatter_wallbrecker,18558,18564,Amanda,amanda
+gdc,ger000468,18524,18791,grossvatter_wallbrecker,18574,18578,Carl,carl
+gdc,ger000468,18524,18791,grossvatter_wallbrecker,18583,18587,mich,grossvatter_wallbrecker
+gdc,ger000468,18524,18791,grossvatter_wallbrecker,18662,18667,Meine,grossvatter_wallbrecker
+gdc,ger000468,18524,18791,grossvatter_wallbrecker,18679,18682,ich,grossvatter_wallbrecker
+gdc,ger000468,18524,18791,grossvatter_wallbrecker,18770,18780,Lange Anna,lange_anna
+gdc,ger000468,18854,19417,_stage,18985,18993,Lieschen,lieschen
+gdc,ger000468,18854,19417,_stage,19158,19173,Pendelfrederech,pendelfrederech
+gdc,ger000468,20031,20186,_stage,20031,20043,Frau Sonntag,frau_sonntag
+gdc,ger000468,20031,20186,_stage,20045,20053,Heinrich,heinrich
+gdc,ger000468,20031,20186,_stage,20055,20061,Eduard,eduard
+gdc,ger000468,20031,20186,_stage,20063,20068,Marta,marta
+gdc,ger000468,20031,20186,_stage,20070,20074,Carl,carl
+gdc,ger000468,20031,20186,_stage,20081,20092,Mutter Pius,mutter_pius
+gdc,ger000468,20031,20186,_stage,20094,20101,Auguste,auguste
+gdc,ger000468,20031,20186,_stage,20106,20111,Berta,berta
+gdc,ger000468,20031,20186,_stage,20136,20151,Pendelfrederech,pendelfrederech
+gdc,ger000468,20031,20186,_stage,20153,20163,Lange Anna,lange_anna
+gdc,ger000468,20031,20186,_stage,20178,20185,Amadeus,amadeus
+gdc,ger000468,20188,20282,mutter_pius,20211,20214,mir,mutter_pius
+gdc,ger000468,20287,20396,berta,20389,20395,Eduard,eduard
+gdc,ger000468,20582,20624,berta,20619,20623,Carl,carl
+gdc,ger000468,20629,20839,mutter_pius,20662,20666,mein,mutter_pius
+gdc,ger000468,20629,20839,mutter_pius,20682,20687,Berta,berta
+gdc,ger000468,20629,20839,mutter_pius,20712,20723,Mutter Pius,mutter_pius
+gdc,ger000468,20845,20933,mutter_pius,20880,20885,Berta,berta
+gdc,ger000468,20845,20933,mutter_pius,20928,20932,mich,mutter_pius
+gdc,ger000468,20938,20965,berta,20945,20948,Ich,berta
+gdc,ger000468,21028,21077,berta,21055,21058,ich,berta
+gdc,ger000468,21081,21160,_stage,21081,21086,Berta,berta
+gdc,ger000468,21221,21382,_stage,21221,21226,Berta,berta
+gdc,ger000468,21221,21382,_stage,21269,21280,Mutter Pius,mutter_pius
+gdc,ger000468,21437,21509,berta,21497,21508,Mutter Pius,mutter_pius
+gdc,ger000468,21526,21559,_stage,21532,21537,Berta,berta
+gdc,ger000468,21602,21622,_stage,21602,21607,Berta,berta
+gdc,ger000468,21760,21860,berta,21811,21814,mir,berta
+gdc,ger000468,21894,22002,berta,21909,21916,Auguste,auguste
+gdc,ger000468,21894,22002,berta,21946,21950,mein,berta
+gdc,ger000468,22007,22064,mutter_pius,22020,22023,Ich,mutter_pius
+gdc,ger000468,22007,22064,mutter_pius,22044,22047,mir,mutter_pius
+gdc,ger000468,22457,22488,berta,22464,22467,Ich,berta
+gdc,ger000468,22618,22689,_stage,22682,22687,Berta,berta
+gdc,ger000468,22610,22749,auguste,22710,22721,Mutter Pius,mutter_pius
+gdc,ger000468,22766,22777,_stage,22770,22775,Berta,berta
+gdc,ger000468,22754,22819,mutter_pius,22778,22781,Ich,mutter_pius
+gdc,ger000468,22823,22953,_stage,22823,22828,Berta,berta
+gdc,ger000468,22823,22953,_stage,22852,22863,Mutter Pius,mutter_pius
+gdc,ger000468,22967,22980,_stage,22971,22978,Auguste,auguste
+gdc,ger000468,22955,23095,mutter_pius,22981,22984,Ich,mutter_pius
+gdc,ger000468,22955,23095,mutter_pius,23024,23027,ich,mutter_pius
+gdc,ger000468,22955,23095,mutter_pius,23032,23035,mir,mutter_pius
+gdc,ger000468,23100,23227,auguste,23161,23172,Mutter Pius,mutter_pius
+gdc,ger000468,23100,23227,auguste,23210,23217,Auguste,auguste
+gdc,ger000468,23507,23638,_stage,23507,23514,Auguste,auguste
+gdc,ger000468,23507,23638,_stage,23546,23557,Mutter Pius,mutter_pius
+gdc,ger000468,23507,23638,_stage,23624,23631,Auguste,auguste
+gdc,ger000468,23715,23785,auguste,23773,23784,Mutter Pius,mutter_pius
+gdc,ger000468,23790,23894,mutter_pius,23833,23837,mich,mutter_pius
+gdc,ger000468,23790,23894,mutter_pius,23886,23893,Auguste,auguste
+gdc,ger000468,23899,23936,auguste,23913,23916,ich,auguste
+gdc,ger000468,23899,23936,auguste,23917,23921,mich,auguste
+gdc,ger000468,24023,24120,auguste,24044,24050,Eduard,eduard
+gdc,ger000468,24023,24120,auguste,24067,24072,Marta,marta
+gdc,ger000468,24253,24301,mutter_pius,24296,24300,mich,mutter_pius
+gdc,ger000468,24306,24462,auguste,24367,24370,ich,auguste
+gdc,ger000468,24306,24462,auguste,24410,24415,Marta,marta
+gdc,ger000468,24466,24522,_stage,24466,24478,Frau Sonntag,frau_sonntag
+gdc,ger000468,24466,24522,_stage,24483,24491,Heinrich,heinrich
+gdc,ger000468,24524,24577,mutter_pius,24551,24562,Mutter Pius,mutter_pius
+gdc,ger000468,24666,24808,mutter_pius,24693,24700,Auguste,auguste
+gdc,ger000468,24666,24808,mutter_pius,24732,24743,Mutter Pius,mutter_pius
+gdc,ger000468,24666,24808,mutter_pius,24760,24763,Ich,mutter_pius
+gdc,ger000468,24666,24808,mutter_pius,24795,24802,Auguste,auguste
+gdc,ger000468,24812,25017,_stage,24812,24823,Mutter Pius,mutter_pius
+gdc,ger000468,24812,25017,_stage,24847,24855,Heinrich,heinrich
+gdc,ger000468,24812,25017,_stage,24985,24997,Frau Sonntag,frau_sonntag
+gdc,ger000468,25019,25136,mutter_pius,25074,25077,ich,mutter_pius
+gdc,ger000468,25019,25136,mutter_pius,25098,25101,ich,mutter_pius
+gdc,ger000468,25019,25136,mutter_pius,25108,25112,mein,mutter_pius
+gdc,ger000468,25140,25307,_stage,25140,25152,Frau Sonntag,frau_sonntag
+gdc,ger000468,25140,25307,_stage,25232,25243,Mutter Pius,mutter_pius
+gdc,ger000468,25140,25307,_stage,25254,25262,Heinrich,heinrich
+gdc,ger000468,25396,25450,mutter_pius,25441,25449,Heinrich,heinrich
+gdc,ger000468,25495,25541,_stage,25495,25500,Berta,berta
+gdc,ger000468,25648,25663,_stage,25648,25653,Berta,berta
+gdc,ger000468,25674,25691,_stage,25678,25689,Mutter Pius,mutter_pius
+gdc,ger000468,25756,25801,_stage,25756,25768,Frau Sonntag,frau_sonntag
+gdc,ger000468,25803,25850,mutter_pius,25846,25849,ich,mutter_pius
+gdc,ger000468,25855,25946,heinrich,25889,25893,mein,heinrich
+gdc,ger000468,25855,25946,heinrich,25936,25939,ich,heinrich
+gdc,ger000468,25951,26029,frau_sonntag,25993,25999,meinem,frau_sonntag
+gdc,ger000468,26034,26111,mutter_pius,26047,26050,Ich,mutter_pius
+gdc,ger000468,26034,26111,mutter_pius,26054,26057,mir,mutter_pius
+gdc,ger000468,26224,26441,mutter_pius,26307,26315,Heinrich,heinrich
+gdc,ger000468,26224,26441,mutter_pius,26364,26376,Frau Sonntag,frau_sonntag
+gdc,ger000468,26446,26498,frau_sonntag,26489,26497,Heinrich,heinrich
+gdc,ger000468,26503,26681,mutter_pius,26544,26547,mir,mutter_pius
+gdc,ger000468,26503,26681,mutter_pius,26575,26580,meine,mutter_pius
+gdc,ger000468,26503,26681,mutter_pius,26596,26599,Ich,mutter_pius
+gdc,ger000468,26503,26681,mutter_pius,26623,26631,Heinrich,heinrich
+gdc,ger000468,26693,26735,_stage,26708,26720,Frau Sonntag,frau_sonntag
+gdc,ger000468,26693,26735,_stage,26725,26733,Heinrich,heinrich
+gdc,ger000468,26783,26871,_stage,26800,26807,Auguste,auguste
+gdc,ger000468,26771,26915,mutter_pius,26891,26894,ich,mutter_pius
+gdc,ger000468,26771,26915,mutter_pius,26903,26908,meine,mutter_pius
+gdc,ger000468,26919,27007,_stage,26919,26931,Frau Sonntag,frau_sonntag
+gdc,ger000468,26919,27007,_stage,26974,26982,Heinrich,heinrich
+gdc,ger000468,27047,27169,_stage,27047,27058,Mutter Pius,mutter_pius
+gdc,ger000468,27047,27169,_stage,27068,27075,Auguste,auguste
+gdc,ger000468,27047,27169,_stage,27138,27145,Auguste,auguste
+gdc,ger000468,27171,27233,frau_sonntag,27224,27232,Heinrich,heinrich
+gdc,ger000468,27423,27464,frau_sonntag,27450,27453,ich,frau_sonntag
+gdc,ger000468,27557,27609,frau_sonntag,27594,27598,mich,frau_sonntag
+gdc,ger000468,27557,27609,frau_sonntag,27600,27608,Heinrich,heinrich
+gdc,ger000468,27614,27659,heinrich,27628,27634,meinem,heinrich
+gdc,ger000468,27773,27814,_stage,27773,27785,Frau Sonntag,frau_sonntag
+gdc,ger000468,27815,27856,_stage,27815,27827,Frau Sonntag,frau_sonntag
+gdc,ger000468,28046,28120,heinrich,28083,28089,meinem,heinrich
+gdc,ger000468,28046,28120,heinrich,28107,28110,ich,heinrich
+gdc,ger000468,28150,28175,heinrich,28170,28173,mir,heinrich
+gdc,ger000468,28180,28226,frau_sonntag,28217,28225,Heinrich,heinrich
+gdc,ger000468,28230,28245,_stage,28230,28238,Heinrich,heinrich
+gdc,ger000468,28247,28387,frau_sonntag,28298,28301,ich,frau_sonntag
+gdc,ger000468,28446,28491,_stage,28446,28451,Berta,berta
+gdc,ger000468,28524,28552,heinrich,28534,28537,Ich,heinrich
+gdc,ger000468,28556,28672,_stage,28585,28590,Marta,marta
+gdc,ger000468,28674,28705,marta,28689,28693,mich,marta
+gdc,ger000468,28803,29029,heinrich,28881,28884,Ich,heinrich
+gdc,ger000468,28803,29029,heinrich,28917,28920,ich,heinrich
+gdc,ger000468,28803,29029,heinrich,28944,28950,meiner,heinrich
+gdc,ger000468,28803,29029,heinrich,29025,29028,mir,heinrich
+gdc,ger000468,29034,29089,marta,29063,29066,Ich,marta
+gdc,ger000468,29094,29234,heinrich,29124,29128,mein,heinrich
+gdc,ger000468,29094,29234,heinrich,29143,29146,ich,heinrich
+gdc,ger000468,29239,29286,marta,29282,29285,mir,marta
+gdc,ger000468,29290,29329,_stage,29290,29296,Eduard,eduard
+gdc,ger000468,29331,29454,heinrich,29350,29353,ich,heinrich
+gdc,ger000468,29331,29454,heinrich,29368,29376,Heinrich,heinrich
+gdc,ger000468,29331,29454,heinrich,29384,29388,Carl,carl
+gdc,ger000468,29466,29496,_stage,29470,29474,Carl,carl
+gdc,ger000468,29466,29496,_stage,29476,29484,Heinrich,heinrich
+gdc,ger000468,29459,29584,eduard,29533,29537,Carl,carl
+gdc,ger000468,29588,29680,_stage,29588,29596,Heinrich,heinrich
+gdc,ger000468,29682,29816,marta,29726,29729,ich,marta
+gdc,ger000468,29821,29876,frau_sonntag,29835,29838,Ich,frau_sonntag
+gdc,ger000468,29880,29987,_stage,29906,29918,Frau Sonntag,frau_sonntag
+gdc,ger000468,29880,29987,_stage,29954,29966,Frau Sonntag,frau_sonntag
+gdc,ger000468,30101,30134,carl,30112,30115,ich,carl
+gdc,ger000468,30138,30310,_stage,30138,30143,Marta,marta
+gdc,ger000468,30138,30310,_stage,30180,30188,Heinrich,heinrich
+gdc,ger000468,30138,30310,_stage,30210,30215,Marta,marta
+gdc,ger000468,30138,30310,_stage,30218,30224,Eduard,eduard
+gdc,ger000468,30138,30310,_stage,30271,30276,Berta,berta
+gdc,ger000468,30426,30490,frau_sonntag,30440,30445,Marta,marta
+gdc,ger000468,30426,30490,frau_sonntag,30476,30480,Carl,carl
+gdc,ger000468,30495,30574,frau_sonntag,30509,30512,Ich,frau_sonntag
+gdc,ger000468,30602,30673,eduard,30634,30638,Carl,carl
+gdc,ger000468,30602,30673,eduard,30648,30651,Ich,eduard
+gdc,ger000468,30718,30830,heinrich,30771,30774,ich,heinrich
+gdc,ger000468,30718,30830,heinrich,30775,30778,mir,heinrich
+gdc,ger000468,30718,30830,heinrich,30800,30803,mir,heinrich
+gdc,ger000468,30834,30898,_stage,30834,30839,Berta,berta
+gdc,ger000468,30900,30988,heinrich,30924,30935,Mutter Pius,mutter_pius
+gdc,ger000468,30900,30988,heinrich,30937,30942,Berta,berta
+gdc,ger000468,30992,31006,_stage,30992,30996,Carl,carl
+gdc,ger000468,31008,31065,heinrich,31018,31021,Ich,heinrich
+gdc,ger000468,31077,31087,_stage,31081,31085,Carl,carl
+gdc,ger000468,31114,31158,marta,31121,31127,Eduard,eduard
+gdc,ger000468,31371,31447,frau_sonntag,31385,31389,Mein,frau_sonntag
+gdc,ger000468,31371,31447,frau_sonntag,31400,31403,mir,frau_sonntag
+gdc,ger000468,31451,31480,_stage,31451,31455,Carl,carl
+gdc,ger000468,31561,31669,_stage,31579,31585,Eduard,eduard
+gdc,ger000468,31561,31669,_stage,31620,31628,Heinrich,heinrich
+gdc,ger000468,31742,31803,heinrich,31752,31755,Ich,heinrich
+gdc,ger000468,31808,31852,marta,31843,31851,Heinrich,heinrich
+gdc,ger000468,31857,31896,heinrich,31873,31877,mein,heinrich
+gdc,ger000468,31901,31941,marta,31923,31926,mir,marta
+gdc,ger000468,32118,32182,heinrich,32164,32168,mein,heinrich
+gdc,ger000468,32407,32484,heinrich,32444,32447,ich,heinrich
+gdc,ger000468,32407,32484,heinrich,32448,32452,mich,heinrich
+gdc,ger000468,32407,32484,heinrich,32477,32483,Kinder,kinder
+gdc,ger000468,32538,32578,eduard,32573,32577,Carl,carl
+gdc,ger000468,32698,32828,heinrich,32708,32711,Ich,heinrich
+gdc,ger000468,32698,32828,heinrich,32718,32722,mich,heinrich
+gdc,ger000468,32698,32828,heinrich,32763,32766,ich,heinrich
+gdc,ger000468,32698,32828,heinrich,32774,32777,ich,heinrich
+gdc,ger000468,33131,33209,frau_sonntag,33180,33185,Marta,marta
+gdc,ger000468,33372,33454,carl,33432,33435,ich,carl
+gdc,ger000468,33459,33506,frau_sonntag,33497,33505,Heinrich,heinrich
+gdc,ger000468,33510,33564,_stage,33510,33518,Heinrich,heinrich
+gdc,ger000468,33510,33564,_stage,33527,33532,Marta,marta
+gdc,ger000468,33566,33625,frau_sonntag,33580,33583,Ich,frau_sonntag
+gdc,ger000468,33707,33760,frau_sonntag,33740,33744,mich,frau_sonntag
+gdc,ger000468,33839,33868,heinrich,33854,33857,ich,heinrich
+gdc,ger000468,33872,33904,_stage,33889,33894,Marta,marta
+gdc,ger000468,33906,33997,heinrich,33920,33926,Willem,willem
+gdc,ger000468,33906,33997,heinrich,33928,33934,meinen,heinrich
+gdc,ger000468,33906,33997,heinrich,33947,33955,Arbeiter,arbeiter_4a
+gdc,ger000468,33906,33997,heinrich,33961,33964,ich,heinrich
+gdc,ger000468,34075,34124,heinrich,34099,34102,mir,heinrich
+gdc,ger000468,34129,34186,frau_sonntag,34177,34185,Heinrich,heinrich
+gdc,ger000468,34191,34277,eduard,34253,34261,Arbeiter,arbeiter_4a
+gdc,ger000468,34191,34277,eduard,34272,34276,Carl,carl
+gdc,ger000468,34282,34333,carl,34288,34291,Ich,carl
+gdc,ger000468,34559,34613,carl,34589,34592,ich,carl
+gdc,ger000468,34718,34851,carl,34739,34742,Ich,carl
+gdc,ger000468,34718,34851,carl,34807,34819,Frau Sonntag,frau_sonntag
+gdc,ger000468,34718,34851,carl,34844,34850,Eduard,eduard
+gdc,ger000468,34899,34939,heinrich,34909,34912,Ich,heinrich
+gdc,ger000468,35095,35105,_stage,35099,35103,Carl,carl
+gdc,ger000468,35086,35131,heinrich,35113,35117,mein,heinrich
+gdc,ger000468,35136,35184,frau_sonntag,35168,35174,Kinder,kinder
+gdc,ger000468,35189,35241,heinrich,35199,35202,Ich,heinrich
+gdc,ger000468,35315,35437,marta,35384,35387,ich,marta
+gdc,ger000468,35315,35437,marta,35388,35394,Eduard,eduard
+gdc,ger000468,35315,35437,marta,35399,35403,Carl,carl
+gdc,ger000468,35442,35464,carl,35448,35451,Ich,carl
+gdc,ger000468,35493,35588,frau_sonntag,35513,35518,Marta,marta
+gdc,ger000468,35593,35678,carl,35599,35602,Ich,carl
+gdc,ger000468,35682,35726,_stage,35682,35694,Frau Sonntag,frau_sonntag
+gdc,ger000468,35728,35815,eduard,35754,35765,Mutter Pius,mutter_pius
+gdc,ger000468,35728,35815,eduard,35773,35776,mir,eduard
+gdc,ger000468,35819,35894,_stage,35819,35827,Heinrich,heinrich
+gdc,ger000468,35896,35921,heinrich,35914,35920,Kinder,kinder
+gdc,ger000468,35925,35969,_stage,35925,35930,Marta,marta
+gdc,ger000468,35925,35969,_stage,35935,35939,Carl,carl
+gdc,ger000468,35971,36039,marta,35978,35981,Ich,marta
+gdc,ger000468,36402,36504,frau_sonntag,36428,36431,ich,frau_sonntag
+gdc,ger000468,36402,36504,frau_sonntag,36437,36440,mir,frau_sonntag
+gdc,ger000468,36509,36642,eduard,36534,36537,ich,eduard
+gdc,ger000468,36687,36736,eduard,36698,36701,ich,eduard
+gdc,ger000468,36787,36934,frau_sonntag,36905,36908,Ich,frau_sonntag
+gdc,ger000468,36939,37113,eduard,36972,36975,mir,eduard
+gdc,ger000468,37118,37183,frau_sonntag,37160,37163,ich,frau_sonntag
+gdc,ger000468,37118,37183,frau_sonntag,37176,37182,Eduard,eduard
+gdc,ger000468,37248,37290,frau_sonntag,37283,37289,Eduard,eduard
+gdc,ger000468,37447,37517,frau_sonntag,37461,37464,Ich,frau_sonntag
+gdc,ger000468,37751,37782,_stage,37751,37756,Marta,marta
+gdc,ger000468,37751,37782,_stage,37761,37765,Carl,carl
+gdc,ger000468,37784,37963,frau_sonntag,37837,37841,mich,frau_sonntag
+gdc,ger000468,37784,37963,frau_sonntag,37856,37859,ich,frau_sonntag
+gdc,ger000468,37784,37963,frau_sonntag,37870,37875,Marta,marta
+gdc,ger000468,37784,37963,frau_sonntag,37883,37889,Eduard,eduard
+gdc,ger000468,37784,37963,frau_sonntag,37956,37962,Eduard,eduard
+gdc,ger000468,38094,38143,frau_sonntag,38118,38121,mir,frau_sonntag
+gdc,ger000468,38148,38254,eduard,38165,38168,ich,eduard
+gdc,ger000468,38148,38254,eduard,38199,38205,meines,eduard
+gdc,ger000468,38148,38254,eduard,38227,38230,ich,eduard
+gdc,ger000468,38258,38402,_stage,38258,38270,Frau Sonntag,frau_sonntag
+gdc,ger000468,38258,38402,_stage,38275,38281,Eduard,eduard
+gdc,ger000468,38258,38402,_stage,38316,38321,Marta,marta
+gdc,ger000468,38404,38479,carl,38475,38478,ich,carl
+gdc,ger000468,38638,38771,carl,38725,38728,mir,carl
+gdc,ger000468,39004,39046,carl,39010,39013,Ich,carl
+gdc,ger000468,39184,39276,carl,39230,39233,ich,carl
+gdc,ger000468,39280,39327,_stage,39280,39285,Marta,marta
+gdc,ger000468,39329,39381,carl,39346,39349,ich,carl
+gdc,ger000468,39386,39451,marta,39393,39396,Ich,marta
+gdc,ger000468,39535,39599,marta,39571,39577,Eduard,eduard
+gdc,ger000468,39699,39738,carl,39710,39713,ich,carl
+gdc,ger000468,39742,39780,_stage,39774,39779,Marta,marta
+gdc,ger000468,39888,39930,marta,39921,39924,ich,marta
+gdc,ger000468,39935,40035,carl,39954,39957,ich,carl
+gdc,ger000468,39935,40035,carl,40002,40005,mir,carl
+gdc,ger000468,40199,40283,_stage,40209,40221,Frau Sonntag,frau_sonntag
+gdc,ger000468,40199,40283,_stage,40226,40232,Eduard,eduard
+gdc,ger000468,40285,40325,marta,40299,40302,ich,marta
+gdc,ger000468,40331,40420,carl,40409,40412,mir,carl
+gdc,ger000468,40331,40420,carl,40414,40419,Marta,marta
+gdc,ger000468,40425,40490,marta,40453,40458,meine,marta
+gdc,ger000468,40425,40490,marta,40482,40485,ich,marta
+gdc,ger000468,40517,40611,_stage,40517,40522,Marta,marta
+gdc,ger000468,40646,40705,carl,40663,40666,ich,carl
+gdc,ger000468,40646,40705,carl,40667,40671,mich,carl
+gdc,ger000468,40779,40801,carl,40796,40800,mich,carl
+gdc,ger000468,40805,40918,_stage,40805,40810,Marta,marta
+gdc,ger000468,40805,40918,_stage,40832,40836,Carl,carl
+gdc,ger000468,40805,40918,_stage,40884,40889,Marta,marta
+gdc,ger000468,40805,40918,_stage,40905,40909,Carl,carl
+gdc,ger000468,41088,41137,carl,41094,41097,Ich,carl
+gdc,ger000468,41224,41246,carl,41230,41233,Ich,carl
+gdc,ger000468,41251,41376,marta,41303,41306,ich,marta
+gdc,ger000468,41423,41493,_stage,41423,41431,Heinrich,heinrich
+gdc,ger000468,41542,41684,heinrich,41676,41683,Amadeus,amadeus
+gdc,ger000468,41688,41710,_stage,41688,41692,Carl,carl
+gdc,ger000468,41740,41783,carl,41750,41757,Amadeus,amadeus
+gdc,ger000468,41829,41856,heinrich,41844,41847,ich,heinrich
+gdc,ger000468,41867,41877,_stage,41871,41875,Carl,carl
+gdc,ger000468,41861,41947,marta,41878,41885,Auguste,auguste
+gdc,ger000468,41952,41999,heinrich,41969,41972,mir,heinrich
+gdc,ger000468,42059,42197,heinrich,42098,42101,ich,heinrich
+gdc,ger000468,42059,42197,heinrich,42165,42169,mich,heinrich
+gdc,ger000468,42349,42437,_stage,42349,42357,Heinrich,heinrich
+gdc,ger000468,42439,42479,marta,42446,42449,Ich,marta
+gdc,ger000468,42561,42586,marta,42579,42585,Kinder,kinder
+gdc,ger000468,42590,42604,_stage,42590,42594,Carl,carl
+gdc,ger000468,42651,42743,_stage,42651,42656,Berta,berta
+gdc,ger000468,42651,42743,_stage,42661,42668,Auguste,auguste
+gdc,ger000468,42869,42924,marta,42876,42882,Eduard,eduard
+gdc,ger000468,42929,42959,carl,42935,42941,Eduard,eduard
+gdc,ger000468,43039,43076,carl,43045,43048,Ich,carl
+gdc,ger000468,43080,43110,_stage,43080,43085,Marta,marta
+gdc,ger000468,43252,43312,marta,43263,43269,meiner,marta
+gdc,ger000468,43317,43341,carl,43323,43326,Ich,carl
+gdc,ger000468,43376,43426,carl,43382,43385,Ich,carl
+gdc,ger000468,43431,43454,marta,43438,43443,Meine,marta
+gdc,ger000468,43458,43656,_stage,43545,43550,Marta,marta
+gdc,ger000468,43458,43656,_stage,43567,43579,Frau Sonntag,frau_sonntag
+gdc,ger000468,43676,43862,_stage,43685,43690,Marta,marta
+gdc,ger000468,43676,43862,_stage,43756,43760,Carl,carl
+gdc,ger000468,43676,43862,_stage,43789,43796,Amadeus,amadeus
+gdc,ger000468,43676,43862,_stage,43798,43813,Pendelfrederech,pendelfrederech
+gdc,ger000468,43676,43862,_stage,43815,43825,Lange Anna,lange_anna
+gdc,ger000468,44033,44103,pendelfrederech,44053,44056,mir,pendelfrederech
+gdc,ger000468,44108,44233,amadeus,44117,44120,Ich,amadeus
+gdc,ger000468,44108,44233,amadeus,44154,44158,mich,amadeus
+gdc,ger000468,44108,44233,amadeus,44198,44202,mich,amadeus
+gdc,ger000468,44250,44279,_stage,44270,44277,Amadeus,amadeus
+gdc,ger000468,44239,44441,lange_anna,44280,44283,Ich,lange_anna
+gdc,ger000468,44446,44512,amadeus,44500,44504,mich,amadeus
+gdc,ger000468,44516,44571,_stage,44516,44526,Lange Anna,lange_anna
+gdc,ger000468,44630,44672,lange_anna,44642,44645,Ich,lange_anna
+gdc,ger000468,44957,44992,_stage,44957,44961,Carl,carl
+gdc,ger000468,44994,45034,auguste,45019,45022,mir,auguste
+gdc,ger000468,45038,45123,_stage,45118,45122,Carl,carl
+gdc,ger000468,45164,45296,auguste,45173,45176,Ich,auguste
+gdc,ger000468,45164,45296,auguste,45193,45196,ich,auguste
+gdc,ger000468,45164,45296,auguste,45217,45220,ich,auguste
+gdc,ger000468,45164,45296,auguste,45238,45245,Amadeus,amadeus
+gdc,ger000468,45164,45296,auguste,45272,45276,mich,auguste
+gdc,ger000468,45164,45296,auguste,45291,45295,Carl,carl
+gdc,ger000468,45301,45351,carl,45320,45323,ich,carl
+gdc,ger000468,45355,45538,_stage,45355,45370,Pendelfrederech,pendelfrederech
+gdc,ger000468,45355,45538,_stage,45388,45398,Lange Anna,lange_anna
+gdc,ger000468,45540,45619,berta,45605,45611,Eduard,eduard
+gdc,ger000468,45625,45705,auguste,45661,45666,Berta,berta
+gdc,ger000468,45625,45705,auguste,45700,45704,Carl,carl
+gdc,ger000468,45833,45903,auguste,45849,45854,Berta,berta
+gdc,ger000468,45975,46135,_stage,46089,46099,Lange Anna,lange_anna
+gdc,ger000468,46153,47678,_stage,46466,46477,Mutter Pius,mutter_pius
+gdc,ger000468,46153,47678,_stage,46726,46738,Gassenkinder,gassenkinder
+gdc,ger000468,46153,47678,_stage,47050,47058,Arbeiter,arbeiter_4a
+gdc,ger000468,46153,47678,_stage,47367,47375,Heinrich,heinrich
+gdc,ger000468,46153,47678,_stage,47388,47396,Lieschen,lieschen
+gdc,ger000468,46153,47678,_stage,47489,47497,Heinrich,heinrich
+gdc,ger000468,47680,48028,_stage,47680,47688,Heinrich,heinrich
+gdc,ger000468,47680,48028,_stage,47720,47730,die Herren,die_herren
+gdc,ger000468,47680,48028,_stage,47753,47766,Dr. von Simon,dr_von_simon
+gdc,ger000468,47680,48028,_stage,47768,47773,Berta,berta
+gdc,ger000468,47680,48028,_stage,47775,47786,Mutter Pius,mutter_pius
+gdc,ger000468,47680,48028,_stage,47788,47796,Lieschen,lieschen
+gdc,ger000468,47680,48028,_stage,47815,47821,Willem,willem
+gdc,ger000468,47680,48028,_stage,47877,47892,Pendelfrederech,pendelfrederech
+gdc,ger000468,47680,48028,_stage,47894,47904,Lange Anna,lange_anna
+gdc,ger000468,47680,48028,_stage,47919,47926,Amadeus,amadeus
+gdc,ger000468,47680,48028,_stage,47928,47936,Arbeiter,arbeiter_4a
+gdc,ger000468,47680,48028,_stage,48015,48027,Gassenkinder,gassenkinder
+gdc,ger000468,48030,48149,lieschen,48040,48043,Ich,lieschen
+gdc,ger000468,48030,48149,lieschen,48053,48057,mein,lieschen
+gdc,ger000468,48030,48149,lieschen,48097,48100,ich,lieschen
+gdc,ger000468,48030,48149,lieschen,48106,48109,mir,lieschen
+gdc,ger000468,48252,48312,heinrich,48299,48302,mir,heinrich
+gdc,ger000468,48317,48357,lieschen,48336,48339,ich,lieschen
+gdc,ger000468,48411,48472,lieschen,48430,48433,ich,lieschen
+gdc,ger000468,48411,48472,lieschen,48440,48446,Eduard,eduard
+gdc,ger000468,48411,48472,lieschen,48454,48458,mein,lieschen
+gdc,ger000468,48476,48530,_stage,48476,48484,Heinrich,heinrich
+gdc,ger000468,48589,48628,heinrich,48624,48627,ich,heinrich
+gdc,ger000468,48633,48671,lieschen,48643,48647,Carl,carl
+gdc,ger000468,48772,48825,lieschen,48787,48793,Eduard,eduard
+gdc,ger000468,48830,48938,heinrich,48896,48899,Ich,heinrich
+gdc,ger000468,48986,49323,_stage,49122,49130,Heinrich,heinrich
+gdc,ger000468,48986,49323,_stage,49147,49155,Lieschen,lieschen
+gdc,ger000468,48986,49323,_stage,49179,49190,Mutter Pius,mutter_pius
+gdc,ger000468,48986,49323,_stage,49226,49234,Lieschen,lieschen
+gdc,ger000468,48986,49323,_stage,49289,49297,Heinrich,heinrich
+gdc,ger000468,49337,49351,_stage,49341,49349,Lieschen,lieschen
+gdc,ger000468,49325,49417,mutter_pius,49360,49363,ich,mutter_pius
+gdc,ger000468,49325,49417,mutter_pius,49364,49368,mich,mutter_pius
+gdc,ger000468,49325,49417,mutter_pius,49403,49407,mein,mutter_pius
+gdc,ger000468,49437,49451,_stage,49441,49449,Lieschen,lieschen
+gdc,ger000468,49422,49490,ein_weibsstueck,49456,49460,mich,ein_weibsstueck
+gdc,ger000468,49504,49518,_stage,49508,49516,Heinrich,heinrich
+gdc,ger000468,49672,49813,_stage,49672,49680,Arbeiter,arbeiter_4a
+gdc,ger000468,49672,49813,_stage,49738,49746,Heinrich,heinrich
+gdc,ger000468,49835,49849,_stage,49839,49847,Heinrich,heinrich
+gdc,ger000468,49962,50008,gassenkind_1,49984,49987,mir,gassenkind_1
+gdc,ger000468,50138,50569,_stage,50191,50201,die Herren,die_herren
+gdc,ger000468,50138,50569,_stage,50242,50250,Heinrich,heinrich
+gdc,ger000468,50138,50569,_stage,50328,50336,Arbeiter,arbeiter_4a
+gdc,ger000468,50138,50569,_stage,50471,50484,Dr. von Simon,dr_von_simon
+gdc,ger000468,50138,50569,_stage,50489,50494,Berta,berta
+gdc,ger000468,50572,50606,berta,50597,50605,Heinrich,heinrich
+gdc,ger000468,50692,50728,_stage,50692,50705,Dr. von Simon,dr_von_simon
+gdc,ger000468,50730,50773,berta,50752,50758,Eduard,eduard
+gdc,ger000468,50983,51074,berta,50990,50994,Mich,berta
+gdc,ger000468,50983,51074,berta,51017,51020,ich,berta
+gdc,ger000468,51079,51186,dr_von_simon,51139,51142,mir,dr_von_simon
+gdc,ger000468,51502,51559,weibsbild_1,51549,51553,mich,weibsbild_1
+gdc,ger000468,51632,51661,_stage,51639,51651,Gassenkinder,gassenkinder
+gdc,ger000468,51750,51904,_stage,51874,51882,Lieschen,lieschen
+gdc,ger000468,52001,52169,lieschen,52073,52076,ich,lieschen
+gdc,ger000468,52001,52169,lieschen,52120,52126,Kinder,kinder
+gdc,ger000468,52173,52318,_stage,52290,52298,Heinrich,heinrich
+gdc,ger000468,52173,52318,_stage,52304,52312,Lieschen,lieschen
+gdc,ger000468,52435,52492,lieschen,52480,52491,Mutter Pius,mutter_pius
+gdc,ger000468,52497,52570,heinrich,52558,52569,Mutter Pius,mutter_pius
+gdc,ger000468,52575,52625,mutter_pius,52614,52618,mich,mutter_pius
+gdc,ger000468,52749,52763,_stage,52753,52761,Heinrich,heinrich
+gdc,ger000468,52739,52820,weibsbild_2,52769,52773,mich,weibsbild_2
+gdc,ger000468,52880,52924,_stage,52880,52890,Die Herren,die_herren
+gdc,ger000468,52935,52949,_stage,52939,52947,Lieschen,lieschen
+gdc,ger000468,52926,53010,heinrich,52980,52988,Heinrich,heinrich
+gdc,ger000468,53194,53317,_stage,53279,53285,Kinder,kinder
+gdc,ger000468,53194,53317,_stage,53295,53303,Heinrich,heinrich
+gdc,ger000468,53194,53317,_stage,53308,53316,Lieschen,lieschen
+gdc,ger000468,53319,53394,heinrich,53363,53371,Lieschen,lieschen
+gdc,ger000468,53400,53487,lieschen,53442,53453,Mutter Pius,mutter_pius
+gdc,ger000468,53556,53964,_stage,53662,53670,Lieschen,lieschen
+gdc,ger000468,53556,53964,_stage,53788,53799,Mutter Pius,mutter_pius
+gdc,ger000468,53556,53964,_stage,53842,53852,Die Herren,die_herren
+gdc,ger000468,53978,54020,_stage,53997,54005,Heinrich,heinrich
+gdc,ger000468,53978,54020,_stage,54010,54018,Lieschen,lieschen
+gdc,ger000468,54040,54075,_stage,54066,54074,Arbeiter,arbeiter_4a
+gdc,ger000468,54077,54131,lieschen,54087,54090,Ich,lieschen
+gdc,ger000468,54077,54131,lieschen,54127,54130,mir,lieschen
+gdc,ger000468,54136,54189,heinrich,54146,54149,Ich,heinrich
+gdc,ger000468,54136,54189,heinrich,54167,54173,meinen,heinrich
+gdc,ger000468,54194,54250,lieschen,54204,54210,Meinen,lieschen
+gdc,ger000468,54194,54250,lieschen,54226,54230,mich,lieschen
+gdc,ger000468,54255,54308,heinrich,54277,54280,ich,heinrich
+gdc,ger000468,54343,54388,_stage,54343,54354,Mutter Pius,mutter_pius
+gdc,ger000468,54343,54388,_stage,54356,54364,Heinrich,heinrich
+gdc,ger000468,54343,54388,_stage,54366,54374,Lieschen,lieschen
+gdc,ger000468,54493,54551,mutter_pius,54541,54545,mich,mutter_pius
+gdc,ger000468,54555,54633,_stage,54582,54595,Dr. von Simon,dr_von_simon
+gdc,ger000468,54555,54633,_stage,54600,54605,Berta,berta
+gdc,ger000468,54635,54728,dr_von_simon,54678,54684,meinen,dr_von_simon
+gdc,ger000468,54733,54858,berta,54755,54758,ich,berta
+gdc,ger000468,54733,54858,berta,54764,54767,mir,berta
+gdc,ger000468,54733,54858,berta,54833,54836,mir,berta
+gdc,ger000468,54864,55057,dr_von_simon,54934,54938,mich,dr_von_simon
+gdc,ger000468,54864,55057,dr_von_simon,55014,55018,mich,dr_von_simon
+gdc,ger000468,54864,55057,dr_von_simon,55025,55031,meiner,dr_von_simon
+gdc,ger000468,54864,55057,dr_von_simon,55032,55040,Arbeiter,arbeiter_4a
+gdc,ger000468,55062,55119,berta,55075,55083,Heinrich,heinrich
+gdc,ger000468,55124,55208,dr_von_simon,55150,55162,Die Arbeiter,die_arbeiter_4
+gdc,ger000468,55124,55208,dr_von_simon,55154,55162,Arbeiter,arbeiter_4a
+gdc,ger000468,55340,55489,_stage,55379,55384,Berta,berta
+gdc,ger000468,55340,55489,_stage,55405,55418,Dr. von Simon,dr_von_simon
+gdc,ger000468,55546,55690,berta,55564,55567,Ich,berta
+gdc,ger000468,55546,55690,berta,55607,55610,ich,berta
+gdc,ger000468,55546,55690,berta,55635,55638,mir,berta
+gdc,ger000468,55546,55690,berta,55674,55677,ich,berta
+gdc,ger000468,55546,55690,berta,55678,55681,mir,berta
+gdc,ger000468,55822,55847,_stage,55822,55827,Berta,berta
+gdc,ger000468,55893,55988,berta,55900,55903,Ich,berta
+gdc,ger000468,55893,55988,berta,55948,55951,ich,berta
+gdc,ger000468,55993,56031,dr_von_simon,56019,56022,mir,dr_von_simon
+gdc,ger000468,56035,56357,_stage,56181,56197,August Puderbach,august
+gdc,ger000468,56035,56357,_stage,56260,56268,Arbeiter,arbeiter_4a
+gdc,ger000468,56035,56357,_stage,56313,56324,Mutter Pius,mutter_pius
+gdc,ger000468,56366,56383,_stage,56370,56381,Mutter Pius,mutter_pius
+gdc,ger000468,56400,56440,mutter_pius,56426,56431,meine,mutter_pius
+gdc,ger000468,56546,56615,mutter_pius,56570,56573,ich,mutter_pius
+gdc,ger000468,56619,56927,_stage,56864,56872,Heinrich,heinrich
+gdc,ger000468,56619,56927,_stage,56898,56907,Weibsbild,weibsbild_3
+gdc,ger000468,56619,56927,_stage,56898,56907,Weibsbild,weibsbild_2
+gdc,ger000468,56619,56927,_stage,56898,56907,Weibsbild,weibsbild_1
+gdc,ger000468,56929,57004,weibsbild_3,56950,56953,mir,weibsbild_3
+gdc,ger000468,56929,57004,weibsbild_3,56968,56971,ich,weibsbild_3
+gdc,ger000468,57009,57089,willem,57025,57028,ich,willem
+gdc,ger000468,57009,57089,willem,57064,57067,ich,willem
+gdc,ger000468,57094,57203,dr_von_simon,57166,57169,ich,dr_von_simon
+gdc,ger000468,57208,57302,willem,57248,57251,ich,willem
+gdc,ger000468,57307,57359,dr_von_simon,57352,57358,Willem,willem
+gdc,ger000468,57364,57384,willem,57380,57383,ich,willem
+gdc,ger000468,57494,57600,willem,57558,57561,ich,willem
+gdc,ger000468,57605,57659,dr_von_simon,57652,57658,Willem,willem
+gdc,ger000468,57664,57775,willem,57692,57695,Ich,willem
+gdc,ger000468,57664,57775,willem,57708,57714,meiner,willem
+gdc,ger000468,57664,57775,willem,57738,57741,ich,willem
+gdc,ger000468,57780,58024,august,57830,57833,Ich,august
+gdc,ger000468,57780,58024,august,57841,57846,meine,august
+gdc,ger000468,57780,58024,august,57989,57992,ich,august
+gdc,ger000468,58029,58090,willem,58037,58042,Meine,willem
+gdc,ger000468,58094,58212,_stage,58112,58125,Dr. von Simon,dr_von_simon
+gdc,ger000468,58094,58212,_stage,58163,58173,die Herren,die_herren
+gdc,ger000468,58214,58288,august,58222,58225,Ich,august
+gdc,ger000468,58292,58416,_stage,58292,58298,Willem,willem
+gdc,ger000468,58292,58416,_stage,58337,58347,die Herren,die_herren
+gdc,ger000468,58830,58853,_stage,58835,58843,Heinrich,heinrich
+gdc,ger000468,58901,59041,_stage,58901,58909,Heinrich,heinrich
+gdc,ger000468,59052,59066,_stage,59056,59064,Lieschen,lieschen
+gdc,ger000468,59043,59094,heinrich,59074,59078,mich,heinrich
+gdc,ger000468,59098,59162,_stage,59098,59106,Lieschen,lieschen
+gdc,ger000468,59264,59359,heinrich,59299,59307,Lieschen,lieschen
+gdc,ger000468,59264,59359,heinrich,59339,59343,mich,heinrich
+gdc,ger000468,59376,59417,_stage,59399,59407,Heinrich,heinrich
+gdc,ger000468,59364,59530,mutter_pius,59508,59512,mich,mutter_pius
+gdc,ger000468,59585,59642,lieschen,59617,59620,ich,lieschen
+gdc,ger000468,59795,59890,dr_von_simon,59873,59876,mir,dr_von_simon
+gdc,ger000468,59895,59988,heinrich,59975,59978,ich,heinrich
+gdc,ger000468,60074,60169,dr_von_simon,60156,60159,ich,dr_von_simon
+gdc,ger000468,60174,60261,heinrich,60257,60260,ich,heinrich
+gdc,ger000468,60265,60494,_stage,60313,60321,Heinrich,heinrich
+gdc,ger000468,60265,60494,_stage,60462,60470,Heinrich,heinrich
+gdc,ger000468,60942,61255,_stage,60942,60954,Die Arbeiter,die_arbeiter_4
+gdc,ger000468,60942,61255,_stage,60946,60954,Arbeiter,arbeiter_4a
+gdc,ger000468,61764,61898,_stage,61810,61818,Arbeiter,arbeiter_4a
+gdc,ger000468,61764,61898,_stage,61835,61843,Heinrich,heinrich
+gdc,ger000468,61900,61962,willem,61935,61938,ich,willem
+gdc,ger000468,62031,62283,_stage,62031,62039,Lieschen,lieschen
+gdc,ger000468,62031,62283,_stage,62052,62060,Heinrich,heinrich
+gdc,ger000468,62031,62283,_stage,62132,62144,Die Arbeiter,die_arbeiter_4
+gdc,ger000468,62031,62283,_stage,62136,62144,Arbeiter,arbeiter_4a
+gdc,ger000468,62285,62353,heinrich,62327,62330,ich,heinrich
+gdc,ger000468,62365,62605,_stage,62487,62497,Die Herren,die_herren
+gdc,ger000468,62741,62777,august,62770,62776,Kinder,kinder
+gdc,ger000468,62781,63083,_stage,62781,62787,Willem,willem
+gdc,ger000468,62781,63083,_stage,62830,62849,Der Geschäftsfreund,der_geschaeftsfreund
+gdc,ger000468,62781,63083,_stage,62897,62905,Heinrich,heinrich
+gdc,ger000468,62781,63083,_stage,62983,62991,Heinrich,heinrich
+gdc,ger000468,63085,63175,heinrich,63161,63164,ich,heinrich
+gdc,ger000468,63179,63248,_stage,63206,63214,Lieschen,lieschen
+gdc,ger000468,63179,63248,_stage,63226,63237,Mutter Pius,mutter_pius
+gdc,ger000468,63250,63306,lieschen,63293,63301,Heinrich,heinrich
+gdc,ger000468,63310,63434,_stage,63331,63339,Heinrich,heinrich
+gdc,ger000468,63310,63434,_stage,63410,63422,die Arbeiter,die_arbeiter_4
+gdc,ger000468,63310,63434,_stage,63414,63422,Arbeiter,arbeiter_4a
+gdc,ger000468,63436,63504,die_riesendame,63489,63493,mich,die_riesendame
+gdc,ger000468,63508,63729,_stage,63549,63561,die Arbeiter,die_arbeiter_4
+gdc,ger000468,63508,63729,_stage,63553,63561,Arbeiter,arbeiter_4a
+gdc,ger000468,63790,63877,_stage,63790,63800,Die Herren,die_herren
+gdc,ger000468,63790,63877,_stage,63831,63839,Heinrich,heinrich
+gdc,ger000468,63888,63921,_stage,63892,63900,Lieschen,lieschen
+gdc,ger000468,63888,63921,_stage,63908,63919,Mutter Pius,mutter_pius
+gdc,ger000468,64019,64241,_stage,64108,64116,Lieschen,lieschen
+gdc,ger000468,64367,64578,_stage,64367,64375,Heinrich,heinrich
+gdc,ger000468,64663,64852,_stage,64663,64673,Lange Anna,lange_anna
+gdc,ger000468,64862,64885,_stage,64867,64875,Heinrich,heinrich
+gdc,ger000468,64854,64916,amadeus,64897,64901,mein,amadeus
+gdc,ger000468,64920,65090,_stage,64920,64931,Mutter Pius,mutter_pius
+gdc,ger000468,65105,65119,_stage,65109,65117,Lieschen,lieschen
+gdc,ger000468,65093,65199,mutter_pius,65120,65123,Ich,mutter_pius
+gdc,ger000468,65093,65199,mutter_pius,65129,65132,mir,mutter_pius
+gdc,ger000468,65203,65306,_stage,65203,65211,Lieschen,lieschen
+gdc,ger000468,65203,65306,_stage,65266,65277,Mutter Pius,mutter_pius
+gdc,ger000468,65363,65453,_stage,65363,65374,Mutter Pius,mutter_pius
+gdc,ger000468,65363,65453,_stage,65415,65429,Die Riesendame,die_riesendame
+gdc,ger000468,65455,65593,mutter_pius,65499,65502,mir,mutter_pius
+gdc,ger000468,65455,65593,mutter_pius,65517,65531,die Riesendame,die_riesendame
+gdc,ger000468,65455,65593,mutter_pius,65559,65570,Mutter Pius,mutter_pius
+gdc,ger000468,65597,65702,_stage,65646,65654,Lieschen,lieschen
+gdc,ger000468,65597,65702,_stage,65673,65684,Mutter Pius,mutter_pius
+gdc,ger000468,65704,65770,lieschen,65714,65717,Ich,lieschen
+gdc,ger000468,65704,65770,lieschen,65758,65769,Mutter Pius,mutter_pius
+gdc,ger000468,65774,65937,_stage,65792,65806,die Riesendame,die_riesendame
+gdc,ger000468,65955,66313,_stage,66202,66208,Kinder,kinder
+gdc,ger000468,65955,66313,_stage,66306,66312,Eduard,eduard
+gdc,ger000468,66314,66427,_stage,66314,66320,Eduard,eduard
+gdc,ger000468,66314,66427,_stage,66322,66326,Carl,carl
+gdc,ger000468,66314,66427,_stage,66328,66336,Lieschen,lieschen
+gdc,ger000468,66314,66427,_stage,66338,66354,August Puderbach,august
+gdc,ger000468,66314,66427,_stage,66356,66367,Mutter Pius,mutter_pius
+gdc,ger000468,66314,66427,_stage,66374,66380,Amanda,amanda
+gdc,ger000468,66314,66427,_stage,66387,66409,Großvatter Wallbrecker,grossvatter_wallbrecker
+gdc,ger000468,66314,66427,_stage,66411,66426,Gretchen Stomms,gretchen_stomms
+gdc,ger000468,66436,66485,_stage,66446,66454,Lieschen,lieschen
+gdc,ger000468,66429,66495,eduard,66486,66494,Lieschen,lieschen
+gdc,ger000468,66500,66559,lieschen,66539,66545,Eduard,eduard
+gdc,ger000468,66500,66559,lieschen,66552,66558,Eduard,eduard
+gdc,ger000468,66604,66716,_stage,66604,66612,Lieschen,lieschen
+gdc,ger000468,66718,66760,eduard,66750,66754,mein,eduard
+gdc,ger000468,66891,66960,_stage,66936,66942,Eduard,eduard
+gdc,ger000468,66997,67010,_stage,66997,67003,Eduard,eduard
+gdc,ger000468,67066,67135,eduard,67126,67134,Lieschen,lieschen
+gdc,ger000468,67217,67298,eduard,67288,67292,mein,eduard
+gdc,ger000468,67425,67452,eduard,67438,67446,Lieschen,lieschen
+gdc,ger000468,67630,67729,lieschen,67655,67660,Meine,lieschen
+gdc,ger000468,67834,67969,eduard,67930,67938,Lieschen,lieschen
+gdc,ger000468,67834,67969,eduard,67952,67955,ich,eduard
+gdc,ger000468,67974,68174,lieschen,68036,68039,ich,lieschen
+gdc,ger000468,67974,68174,lieschen,68040,68044,mein,lieschen
+gdc,ger000468,68179,68256,eduard,68247,68255,Lieschen,lieschen
+gdc,ger000468,68261,68309,lieschen,68271,68274,Ich,lieschen
+gdc,ger000468,68313,68378,_stage,68343,68351,Arbeiter,arbeiter_4a
+gdc,ger000468,68313,68378,_stage,68359,68365,Eduard,eduard
+gdc,ger000468,68380,68541,eduard,68438,68441,mir,eduard
+gdc,ger000468,68380,68541,eduard,68480,68488,Lieschen,lieschen
+gdc,ger000468,68622,68647,_stage,68622,68628,Kinder,kinder
+gdc,ger000468,68622,68647,_stage,68635,68643,Lieschen,lieschen
+gdc,ger000468,68649,68671,erstes_kind,68662,68670,Lieschen,lieschen
+gdc,ger000468,68676,68699,zweites_kind,68690,68698,Lieschen,lieschen
+gdc,ger000468,68993,69116,eduard,69101,69105,mich,eduard
+gdc,ger000468,68993,69116,eduard,69107,69115,Lieschen,lieschen
+gdc,ger000468,69168,69227,kinder,69176,69184,Lieschen,lieschen
+gdc,ger000468,69231,69255,_stage,69231,69239,Lieschen,lieschen
+gdc,ger000468,69257,69298,lieschen,69267,69270,Ich,lieschen
+gdc,ger000468,69257,69298,lieschen,69291,69297,Eduard,eduard
+gdc,ger000468,69302,69400,_stage,69302,69317,Gretchen Stomms,gretchen_stomms
+gdc,ger000468,69302,69400,_stage,69377,69385,Lieschen,lieschen
+gdc,ger000468,69437,69490,_stage,69474,69489,Gretchen Stomms,gretchen_stomms
+gdc,ger000468,69492,69540,eduard,69520,69523,mir,eduard
+gdc,ger000468,69545,69592,lieschen,69580,69583,ich,lieschen
+gdc,ger000468,69658,69966,_stage,69658,69664,Eduard,eduard
+gdc,ger000468,69658,69966,_stage,69696,69704,Lieschen,lieschen
+gdc,ger000468,69658,69966,_stage,69738,69744,Kinder,kinder
+gdc,ger000468,69658,69966,_stage,69926,69934,Arbeiter,arbeiter_4a
+gdc,ger000468,69658,69966,_stage,69952,69958,Eduard,eduard
+gdc,ger000468,69988,70016,_stage,70000,70006,Eduard,eduard
+gdc,ger000468,70056,70251,grossvatter_wallbrecker,70189,70193,Carl,carl
+gdc,ger000468,70056,70251,grossvatter_wallbrecker,70244,70250,Amanda,amanda
+gdc,ger000468,70342,70440,grossvatter_wallbrecker,70391,70397,Eduard,eduard
+gdc,ger000468,70445,70520,eduard,70485,70488,ich,eduard
+gdc,ger000468,70445,70520,eduard,70489,70492,mir,eduard
+gdc,ger000468,70525,70809,grossvatter_wallbrecker,70707,70710,ich,grossvatter_wallbrecker
+gdc,ger000468,70879,71023,grossvatter_wallbrecker,71002,71007,meine,grossvatter_wallbrecker
+gdc,ger000468,70879,71023,grossvatter_wallbrecker,71016,71022,Amanda,amanda
+gdc,ger000468,71027,71120,_stage,71040,71046,Amanda,amanda
+gdc,ger000468,71122,71261,amanda,71167,71173,Eduard,eduard
+gdc,ger000468,71122,71261,amanda,71256,71260,Carl,carl
+gdc,ger000468,71310,71340,_stage,71315,71321,Amanda,amanda
+gdc,ger000468,71342,71426,grossvatter_wallbrecker,71419,71425,Eduard,eduard
+gdc,ger000468,71431,71643,_stage,71431,71437,Amanda,amanda
+gdc,ger000468,71431,71643,_stage,71515,71523,Arbeiter,arbeiter_4a
+gdc,ger000468,71785,71830,carl,71809,71812,Ich,carl
+gdc,ger000468,71938,72000,eduard,71954,71957,Ich,eduard
+gdc,ger000468,72005,72121,amanda,72021,72025,mich,amanda
+gdc,ger000468,72005,72121,amanda,72085,72088,ich,amanda
+gdc,ger000468,72126,72206,carl,72161,72167,Meinen,carl
+gdc,ger000468,72126,72206,carl,72185,72188,ich,carl
+gdc,ger000468,72211,72390,mutter_pius,72264,72267,ich,mutter_pius
+gdc,ger000468,72211,72390,mutter_pius,72327,72330,ich,mutter_pius
+gdc,ger000468,72414,72453,grossvatter_wallbrecker,72426,72430,Mich,grossvatter_wallbrecker
+gdc,ger000468,72501,72519,_stage,72501,72512,Mutter Pius,mutter_pius
+gdc,ger000468,72533,72545,_stage,72537,72543,Eduard,eduard
+gdc,ger000468,72608,72622,_stage,72608,72614,Eduard,eduard
+gdc,ger000468,72726,72951,mutter_pius,72784,72795,Mutter Pius,mutter_pius
+gdc,ger000468,72726,72951,mutter_pius,72811,72817,Eduard,eduard
+gdc,ger000468,72726,72951,mutter_pius,72918,72921,Ich,mutter_pius
+gdc,ger000468,72956,73014,eduard,73002,73013,Mutter Pius,mutter_pius
+gdc,ger000468,73102,73196,mutter_pius,73160,73164,mein,mutter_pius
+gdc,ger000468,73102,73196,mutter_pius,73173,73195,Großvatter Wallbrecker,grossvatter_wallbrecker
+gdc,ger000468,73392,73520,carl,73441,73444,Ich,carl
+gdc,ger000468,73525,73592,eduard,73580,73584,mein,eduard
+gdc,ger000468,73596,73713,_stage,73619,73625,Amanda,amanda
+gdc,ger000468,73596,73713,_stage,73646,73657,Mutter Pius,mutter_pius
+gdc,ger000468,73596,73713,_stage,73696,73700,Carl,carl
+gdc,ger000468,73722,73763,_stage,73728,73734,Amanda,amanda
+gdc,ger000468,73715,73782,eduard,73768,73774,meiner,eduard
+gdc,ger000468,74097,74284,_stage,74097,74101,Carl,carl
+gdc,ger000468,74097,74284,_stage,74106,74112,Eduard,eduard
+gdc,ger000468,74097,74284,_stage,74238,74244,Kinder,kinder
+gdc,ger000468,74286,74368,mutter_pius,74339,74345,Eduard,eduard
+gdc,ger000468,74400,74423,_stage,74412,74418,Amanda,amanda
+gdc,ger000468,74393,74504,eduard,74460,74463,ich,eduard
+gdc,ger000468,74393,74504,eduard,74490,74497,Auguste,auguste
+gdc,ger000468,74521,74550,_stage,74542,74548,Amanda,amanda
+gdc,ger000468,74509,74590,mutter_pius,74583,74589,Amanda,amanda
+gdc,ger000468,74706,74891,_stage,74811,74819,Arbeiter,arbeiter_4a
+gdc,ger000468,74893,75002,amanda,74921,74925,Carl,carl
+gdc,ger000468,75007,75039,carl,75024,75028,mich,carl
+gdc,ger000468,75043,75059,_stage,75043,75049,Eduard,eduard
+gdc,ger000468,75092,75220,_stage,75112,75134,Großvatter Wallbrecker,grossvatter_wallbrecker
+gdc,ger000468,75255,75278,_stage,75255,75259,Carl,carl
+gdc,ger000468,75255,75278,_stage,75264,75270,Eduard,eduard
+gdc,ger000468,75280,75313,mutter_pius,75293,75296,Ich,mutter_pius
+gdc,ger000468,75318,75434,grossvatter_wallbrecker,75339,75342,ich,grossvatter_wallbrecker
+gdc,ger000468,75318,75434,grossvatter_wallbrecker,75349,75352,Ich,grossvatter_wallbrecker
+gdc,ger000468,75318,75434,grossvatter_wallbrecker,75387,75393,Amanda,amanda
+gdc,ger000468,75318,75434,grossvatter_wallbrecker,75395,75398,ich,grossvatter_wallbrecker
+gdc,ger000468,75440,75514,carl,75465,75468,Ich,carl
+gdc,ger000468,75519,75601,amanda,75552,75558,Eduard,eduard
+gdc,ger000468,75606,75723,mutter_pius,75672,75675,ich,mutter_pius
+gdc,ger000468,75606,75723,mutter_pius,75681,75685,mich,mutter_pius
+gdc,ger000468,75606,75723,mutter_pius,75710,75714,mein,mutter_pius
+gdc,ger000468,75727,75770,_stage,75727,75733,Eduard,eduard
+gdc,ger000468,75727,75770,_stage,75741,75752,Mutter Pius,mutter_pius
+gdc,ger000468,75772,75831,grossvatter_wallbrecker,75784,75787,Ich,grossvatter_wallbrecker
+gdc,ger000468,75772,75831,grossvatter_wallbrecker,75792,75795,mir,grossvatter_wallbrecker
+gdc,ger000468,75927,75970,amanda,75956,75959,ich,amanda
+gdc,ger000468,76040,76135,grossvatter_wallbrecker,76080,76084,Carl,carl
+gdc,ger000468,76040,76135,grossvatter_wallbrecker,76089,76092,ich,grossvatter_wallbrecker
+gdc,ger000468,76301,76367,eduard,76343,76347,Carl,carl
+gdc,ger000468,76419,76492,mutter_pius,76477,76481,mich,mutter_pius
+gdc,ger000468,76497,76549,amanda,76544,76548,Carl,carl
+gdc,ger000468,76609,76665,_stage,76609,76613,Carl,carl
+gdc,ger000468,76609,76665,_stage,76619,76625,Eduard,eduard
+gdc,ger000468,76877,76964,grossvatter_wallbrecker,76889,76892,Ich,grossvatter_wallbrecker
+gdc,ger000468,76877,76964,grossvatter_wallbrecker,76957,76963,Eduard,eduard
+gdc,ger000468,76968,77024,_stage,76994,77000,Eduard,eduard
+gdc,ger000468,77092,77140,eduard,77111,77115,mich,eduard
+gdc,ger000468,77253,77351,mutter_pius,77316,77322,Eduard,eduard
+gdc,ger000468,77356,77410,eduard,77364,77369,Meine,eduard
+gdc,ger000468,77470,77528,eduard,77523,77527,Carl,carl
+gdc,ger000468,77532,77559,_stage,77532,77536,Carl,carl
+gdc,ger000468,77561,77646,mutter_pius,77587,77590,ich,mutter_pius
+gdc,ger000468,77735,77836,_stage,77794,77804,Lange Anna,lange_anna
+gdc,ger000468,77951,77988,grossvatter_wallbrecker,77963,77967,Carl,carl
+gdc,ger000468,78005,78047,_stage,78009,78013,Carl,carl
+gdc,ger000468,77993,78106,mutter_pius,78077,78081,Carl,carl
+gdc,ger000468,78111,78150,carl,78128,78131,Ich,carl
+gdc,ger000468,78155,78373,grossvatter_wallbrecker,78174,78178,mich,grossvatter_wallbrecker
+gdc,ger000468,78155,78373,grossvatter_wallbrecker,78218,78224,Eduard,eduard
+gdc,ger000468,78155,78373,grossvatter_wallbrecker,78250,78253,ich,grossvatter_wallbrecker
+gdc,ger000468,78379,78413,carl,78397,78400,mir,carl
+gdc,ger000468,78379,78413,carl,78401,78406,meine,carl
+gdc,ger000468,78576,78664,grossvatter_wallbrecker,78598,78601,ich,grossvatter_wallbrecker
+gdc,ger000468,78576,78664,grossvatter_wallbrecker,78615,78621,meiner,grossvatter_wallbrecker
+gdc,ger000468,78576,78664,grossvatter_wallbrecker,78651,78662,Mutter Pius,mutter_pius
+gdc,ger000468,78669,78716,mutter_pius,78682,78685,Ich,mutter_pius
+gdc,ger000468,78827,78895,_stage,78832,78838,Amanda,amanda
+gdc,ger000468,78958,78968,_stage,78962,78966,Carl,carl
+gdc,ger000468,78947,79106,grossvatter_wallbrecker,78988,78991,ich,grossvatter_wallbrecker
+gdc,ger000468,79596,79662,eduard,79657,79661,Carl,carl
+gdc,ger000468,79667,79746,carl,79726,79731,meine,carl
+gdc,ger000468,79752,79792,eduard,79780,79791,Mutter Pius,mutter_pius
+gdc,ger000468,79912,79922,_stage,79916,79920,Carl,carl
+gdc,ger000468,80006,80027,_stage,80019,80025,Eduard,eduard
+gdc,ger000468,80047,80071,_stage,80047,80053,Eduard,eduard
+gdc,ger000468,80085,80097,_stage,80089,80095,Eduard,eduard
+gdc,ger000468,80073,80162,mutter_pius,80137,80148,Mutter Pius,mutter_pius
+gdc,ger000468,80073,80162,mutter_pius,80155,80161,Eduard,eduard
+gdc,ger000468,80167,80244,eduard,80202,80205,ich,eduard
+gdc,ger000468,80249,80348,mutter_pius,80302,80308,meiner,mutter_pius
+gdc,ger000468,80427,80521,_stage,80443,80449,Amanda,amanda
+gdc,ger000468,80420,80572,eduard,80562,80565,mir,eduard
+gdc,ger000468,80420,80572,eduard,80567,80571,Carl,carl
+gdc,ger000468,80576,80587,_stage,80576,80580,Carl,carl
+gdc,ger000468,80641,80750,carl,80659,80662,Ich,carl
+gdc,ger000468,80641,80750,carl,80707,80713,Eduard,eduard
+gdc,ger000468,80641,80750,carl,80716,80719,Ich,carl
+gdc,ger000468,80767,80808,_stage,80771,80777,Eduard,eduard
+gdc,ger000468,80755,80859,mutter_pius,80851,80854,ich,mutter_pius
+gdc,ger000468,80863,80982,_stage,80863,80874,Mutter Pius,mutter_pius
+gdc,ger000468,80863,80982,_stage,80882,80888,Eduard,eduard
+gdc,ger000468,80863,80982,_stage,80909,80913,Carl,carl
+gdc,ger000468,80863,80982,_stage,80942,80948,Eduard,eduard
+gdc,ger000468,80863,80982,_stage,80967,80978,Mutter Pius,mutter_pius
+gdc,ger000468,80984,81137,mutter_pius,81023,81026,mir,mutter_pius
+gdc,ger000468,80984,81137,mutter_pius,81027,81032,meine,mutter_pius
+gdc,ger000468,81141,81366,_stage,81248,81263,Pendelfrederech,pendelfrederech
+gdc,ger000468,81141,81366,_stage,81265,81275,Lange Anna,lange_anna
+gdc,ger000468,81141,81366,_stage,81293,81300,Amadeus,amadeus
+gdc,ger000468,81459,81518,mutter_pius,81513,81517,Carl,carl
+gdc,ger000468,81522,81540,_stage,81522,81526,Carl,carl
+gdc,ger000468,81554,81564,_stage,81558,81562,Carl,carl
+gdc,ger000468,81670,81737,carl,81676,81679,Ich,carl
+gdc,ger000468,81670,81737,carl,81709,81715,meiner,carl
+gdc,ger000468,81749,81810,mutter_pius,81771,81775,Carl,carl
+gdc,ger000468,81749,81810,mutter_pius,81797,81800,mir,mutter_pius
+gdc,ger000468,81814,81869,_stage,81844,81850,Eduard,eduard
+gdc,ger000468,81871,81952,carl,81914,81917,ich,carl
+gdc,ger000468,81871,81952,carl,81931,81935,Carl,carl
+gdc,ger000468,81957,81994,mutter_pius,81970,81973,Mir,mutter_pius
+gdc,ger000468,82155,82284,_stage,82155,82166,Mutter Pius,mutter_pius
+gdc,ger000468,82330,82407,grossvatter_wallbrecker,82342,82345,Ich,grossvatter_wallbrecker
+gdc,ger000468,82330,82407,grossvatter_wallbrecker,82362,82373,Mutter Pius,mutter_pius
+gdc,ger000468,82460,82530,grossvatter_wallbrecker,82477,82480,ich,grossvatter_wallbrecker
+gdc,ger000468,82576,82619,carl,82602,82605,ich,carl
+gdc,ger000468,82624,82809,grossvatter_wallbrecker,82670,82673,ich,grossvatter_wallbrecker
+gdc,ger000468,82624,82809,grossvatter_wallbrecker,82692,82698,Amanda,amanda
+gdc,ger000468,82813,82968,_stage,82813,82817,Carl,carl
+gdc,ger000468,82813,82968,_stage,82904,82915,Mutter Pius,mutter_pius
+gdc,ger000468,82970,83044,carl,82993,82996,Ich,carl
+gdc,ger000468,83049,83077,mutter_pius,83062,83065,Ich,mutter_pius
+gdc,ger000468,83126,83357,mutter_pius,83211,83215,Carl,carl
+gdc,ger000468,83126,83357,mutter_pius,83322,83326,Carl,carl
+gdc,ger000468,83126,83357,mutter_pius,83333,83337,Carl,carl
+gdc,ger000468,83392,83438,_stage,83392,83396,Carl,carl
+gdc,ger000468,83491,83541,_stage,83491,83495,Carl,carl
+gdc,ger000468,83638,83655,mutter_pius,83651,83654,Ich,mutter_pius
+gdc,ger000468,83847,83919,mutter_pius,83914,83918,Carl,carl
+gdc,ger000468,84021,84116,mutter_pius,84044,84055,Mutter Pius,mutter_pius
+gdc,ger000468,84121,84176,carl,84154,84157,Ich,carl
+gdc,ger000468,84220,84307,carl,84226,84229,Ich,carl
+gdc,ger000468,84220,84307,carl,84241,84244,ich,carl
+gdc,ger000468,84220,84307,carl,84302,84306,mich,carl
+gdc,ger000468,84326,84404,mutter_pius,84339,84343,Carl,carl
+gdc,ger000468,84326,84404,mutter_pius,84345,84348,ich,mutter_pius
+gdc,ger000468,84409,84434,carl,84419,84423,mich,carl
+gdc,ger000468,84555,84568,_stage,84555,84559,Carl,carl
+gdc,ger000468,84570,84700,mutter_pius,84616,84627,Mutter Pius,mutter_pius
+gdc,ger000468,84570,84700,mutter_pius,84659,84662,mir,mutter_pius
+gdc,ger000468,84570,84700,mutter_pius,84676,84679,ich,mutter_pius
+gdc,ger000468,84704,84718,_stage,84704,84708,Carl,carl
+gdc,ger000468,84720,84861,mutter_pius,84767,84771,Carl,carl
+gdc,ger000468,84865,84885,_stage,84865,84869,Carl,carl
+gdc,ger000468,85039,85202,mutter_pius,85164,85169,Marta,marta
+gdc,ger000468,85267,85350,mutter_pius,85290,85293,ich,mutter_pius
+gdc,ger000468,85267,85350,mutter_pius,85304,85308,Carl,carl
+gdc,ger000468,85354,85513,_stage,85375,85391,August Puderbach,august
+gdc,ger000468,85657,85680,carl,85671,85674,ich,carl
+gdc,ger000468,85730,85806,_stage,85730,85736,Amanda,amanda
+gdc,ger000468,85808,85911,amanda,85832,85836,Carl,carl
+gdc,ger000468,85974,86062,august,86025,86029,Mich,august
+gdc,ger000468,86202,86212,_stage,86206,86210,Carl,carl
+gdc,ger000468,86195,86288,august,86250,86254,Carl,carl
+gdc,ger000468,86195,86288,august,86276,86279,ich,august
+gdc,ger000468,86315,86417,arbeiter_4c,86360,86371,Mutter Pius,mutter_pius
+gdc,ger000468,86685,86734,arbeiter_4d,86722,86733,Mutter Pius,mutter_pius
+gdc,ger000468,87065,87152,arbeiter_4f,87109,87117,Arbeiter,arbeiter_4a
+gdc,ger000468,87157,87254,mutter_pius,87170,87173,Ich,mutter_pius
+gdc,ger000468,87301,87428,arbeiter_4h,87323,87327,Mein,arbeiter_4h
+gdc,ger000468,87433,87491,arbeiter_4i,87479,87490,Mutter Pius,mutter_pius
+gdc,ger000468,87557,87683,mutter_pius,87570,87573,Ich,mutter_pius
+gdc,ger000468,87557,87683,mutter_pius,87617,87621,Carl,carl
+gdc,ger000468,87687,88026,_stage,87687,87695,Lieschen,lieschen
+gdc,ger000468,87687,88026,_stage,87755,87767,die Arbeiter,die_arbeiter_4
+gdc,ger000468,87687,88026,_stage,87759,87767,Arbeiter,arbeiter_4a
+gdc,ger000468,87687,88026,_stage,87803,87825,Großvatter Wallbrecker,grossvatter_wallbrecker
+gdc,ger000468,87687,88026,_stage,87989,87997,Arbeiter,arbeiter_4a
+gdc,ger000468,88028,88193,mutter_pius,88115,88119,Carl,carl
+gdc,ger000468,88028,88193,mutter_pius,88121,88124,ich,mutter_pius
+gdc,ger000468,88028,88193,mutter_pius,88129,88132,mir,mutter_pius
+gdc,ger000468,88028,88193,mutter_pius,88171,88174,mir,mutter_pius
+gdc,ger000468,88197,88265,_stage,88218,88226,Lieschen,lieschen
+gdc,ger000468,88267,88288,grossvatter_wallbrecker,88279,88287,Lieschen,lieschen
+gdc,ger000468,88302,88351,_stage,88338,88349,Mutter Pius,mutter_pius
+gdc,ger000468,88293,88393,lieschen,88357,88360,ich,lieschen
+gdc,ger000468,88293,88393,lieschen,88381,88392,Mutter Pius,mutter_pius
+gdc,ger000468,88397,88689,_stage,88397,88408,Mutter Pius,mutter_pius
+gdc,ger000468,88397,88689,_stage,88470,88482,Die Arbeiter,die_arbeiter_4
+gdc,ger000468,88397,88689,_stage,88474,88482,Arbeiter,arbeiter_4a
+gdc,ger000468,88397,88689,_stage,88499,88507,Lieschen,lieschen
+gdc,ger000468,88397,88689,_stage,88549,88557,Lieschen,lieschen
+gdc,ger000468,88397,88689,_stage,88613,88621,Lieschen,lieschen
+gdc,ger000468,88691,88771,grossvatter_wallbrecker,88740,88746,Amanda,amanda
+gdc,ger000468,88691,88771,grossvatter_wallbrecker,88748,88752,mein,grossvatter_wallbrecker
+gdc,ger000468,88824,89358,_stage,89120,89132,Frau Sonntag,frau_sonntag
+gdc,ger000468,88824,89358,_stage,89137,89143,Eduard,eduard
+gdc,ger000468,88824,89358,_stage,89152,89164,Frau Sonntag,frau_sonntag
+gdc,ger000468,88824,89358,_stage,89225,89230,Marta,marta
+gdc,ger000468,89359,89418,_stage,89359,89371,Frau Sonntag,frau_sonntag
+gdc,ger000468,89359,89418,_stage,89373,89379,Eduard,eduard
+gdc,ger000468,89359,89418,_stage,89381,89386,Marta,marta
+gdc,ger000468,89359,89418,_stage,89388,89401,Dr. von Simon,dr_von_simon
+gdc,ger000468,89359,89418,_stage,89403,89410,Auguste,auguste
+gdc,ger000468,89359,89418,_stage,89412,89417,Berta,berta
+gdc,ger000468,89420,89470,marta,89450,89457,Auguste,auguste
+gdc,ger000468,89517,89542,marta,89524,89530,Eduard,eduard
+gdc,ger000468,89547,89626,eduard,89567,89570,Ich,eduard
+gdc,ger000468,89637,89649,_stage,89641,89647,Eduard,eduard
+gdc,ger000468,89688,89709,_stage,89688,89694,Eduard,eduard
+gdc,ger000468,89711,89771,frau_sonntag,89741,89744,Ich,frau_sonntag
+gdc,ger000468,89775,89913,_stage,89775,89780,Marta,marta
+gdc,ger000468,89998,90079,marta,90005,90018,Dr. von Simon,dr_von_simon
+gdc,ger000468,90219,90271,_stage,90219,90231,Frau Sonntag,frau_sonntag
+gdc,ger000468,90219,90271,_stage,90238,90243,Marta,marta
+gdc,ger000468,90360,90424,frau_sonntag,90374,90377,Ich,frau_sonntag
+gdc,ger000468,90505,90562,frau_sonntag,90555,90561,Eduard,eduard
+gdc,ger000468,90638,90666,_stage,90639,90644,Marta,marta
+gdc,ger000468,90732,90830,frau_sonntag,90783,90786,ich,frau_sonntag
+gdc,ger000468,90732,90830,frau_sonntag,90787,90791,mich,frau_sonntag
+gdc,ger000468,90955,91039,eduard,90963,90966,Ich,eduard
+gdc,ger000468,90955,91039,eduard,91013,91016,ich,eduard
+gdc,ger000468,90955,91039,eduard,91017,91025,Heinrich,heinrich
+gdc,ger000468,91044,91185,frau_sonntag,91077,91080,ich,frau_sonntag
+gdc,ger000468,91044,91185,frau_sonntag,91081,91086,meine,frau_sonntag
+gdc,ger000468,91044,91185,frau_sonntag,91087,91093,Kinder,kinder
+gdc,ger000468,91290,91361,frau_sonntag,91320,91323,Ich,frau_sonntag
+gdc,ger000468,91366,91397,eduard,91388,91392,mich,eduard
+gdc,ger000468,91402,91494,frau_sonntag,91487,91493,Eduard,eduard
+gdc,ger000468,91619,91678,marta,91626,91629,Ich,marta
+gdc,ger000468,91751,91794,eduard,91759,91765,Kinder,kinder
+gdc,ger000468,91881,91913,_stage,91894,91899,Marta,marta
+gdc,ger000468,91868,91958,frau_sonntag,91951,91957,Eduard,eduard
+gdc,ger000468,91963,92045,eduard,92022,92026,mich,eduard
+gdc,ger000468,92050,92085,frau_sonntag,92064,92067,Ich,frau_sonntag
+gdc,ger000468,92152,92204,frau_sonntag,92182,92185,Ich,frau_sonntag
+gdc,ger000468,92209,92409,eduard,92305,92308,Ich,eduard
+gdc,ger000468,92209,92409,eduard,92329,92332,ich,eduard
+gdc,ger000468,92209,92409,eduard,92361,92369,Heinrich,heinrich
+gdc,ger000468,92456,92503,eduard,92469,92472,ich,eduard
+gdc,ger000468,92456,92503,eduard,92473,92476,mir,eduard
+gdc,ger000468,92564,92717,marta,92571,92574,Ich,marta
+gdc,ger000468,92722,92802,frau_sonntag,92795,92801,Eduard,eduard
+gdc,ger000468,92928,92940,_stage,92932,92938,Eduard,eduard
+gdc,ger000468,92915,92969,frau_sonntag,92962,92968,Eduard,eduard
+gdc,ger000468,93027,93066,_stage,93027,93039,Frau Sonntag,frau_sonntag
+gdc,ger000468,93076,93107,_stage,93086,93091,Marta,marta
+gdc,ger000468,93144,93327,_stage,93144,93149,Marta,marta
+gdc,ger000468,93144,93327,_stage,93171,93177,Eduard,eduard
+gdc,ger000468,93144,93327,_stage,93248,93255,Auguste,auguste
+gdc,ger000468,93144,93327,_stage,93262,93268,Eduard,eduard
+gdc,ger000468,93144,93327,_stage,93289,93301,Frau Sonntag,frau_sonntag
+gdc,ger000468,93329,93360,eduard,93352,93359,Auguste,auguste
+gdc,ger000468,93365,93444,auguste,93387,93393,Eduard,eduard
+gdc,ger000468,93365,93444,auguste,93412,93415,ich,auguste
+gdc,ger000468,93448,93467,_stage,93448,93454,Eduard,eduard
+gdc,ger000468,93469,93531,auguste,93478,93481,Ich,auguste
+gdc,ger000468,93469,93531,auguste,93490,93494,mein,auguste
+gdc,ger000468,93535,93630,_stage,93535,93541,Eduard,eduard
+gdc,ger000468,93535,93630,_stage,93549,93556,Auguste,auguste
+gdc,ger000468,93632,93711,auguste,93671,93679,Heinrich,heinrich
+gdc,ger000468,93716,93765,eduard,93743,93746,ich,eduard
+gdc,ger000468,93770,93883,auguste,93820,93826,Eduard,eduard
+gdc,ger000468,93887,93916,_stage,93887,93893,Eduard,eduard
+gdc,ger000468,93918,94019,auguste,93932,93936,mein,auguste
+gdc,ger000468,93918,94019,auguste,93937,93940,ich,auguste
+gdc,ger000468,94023,94038,_stage,94023,94029,Eduard,eduard
+gdc,ger000468,94040,94067,auguste,94052,94057,Marta,marta
+gdc,ger000468,94040,94067,auguste,94058,94062,mein,auguste
+gdc,ger000468,94040,94067,auguste,94063,94066,ich,auguste
+gdc,ger000468,94078,94178,_stage,94169,94176,Auguste,auguste
+gdc,ger000468,94072,94235,berta,94210,94213,ich,berta
+gdc,ger000468,94482,94554,auguste,94491,94494,Ich,auguste
+gdc,ger000468,94482,94554,auguste,94505,94516,Mutter Pius,mutter_pius
+gdc,ger000468,94559,94647,eduard,94567,94578,Mutter Pius,mutter_pius
+gdc,ger000468,94559,94647,eduard,94642,94646,mich,eduard
+gdc,ger000468,94828,94857,eduard,94844,94847,mir,eduard
+gdc,ger000468,94862,94929,auguste,94886,94889,Ich,auguste
+gdc,ger000468,94862,94929,auguste,94922,94928,Eduard,eduard
+gdc,ger000468,95002,95031,eduard,95023,95030,Auguste,auguste
+gdc,ger000468,95036,95095,auguste,95045,95048,Ich,auguste
+gdc,ger000468,95100,95154,eduard,95146,95153,Auguste,auguste
+gdc,ger000468,95159,95277,auguste,95168,95171,Ich,auguste
+gdc,ger000468,95159,95277,auguste,95176,95180,mich,auguste
+gdc,ger000468,95159,95277,auguste,95223,95226,ich,auguste
+gdc,ger000468,95159,95277,auguste,95228,95231,Ich,auguste
+gdc,ger000468,95159,95277,auguste,95255,95263,Heinrich,heinrich
+gdc,ger000468,95282,95346,eduard,95306,95311,meine,eduard
+gdc,ger000468,95282,95346,eduard,95338,95345,Auguste,auguste
+gdc,ger000468,95444,95763,auguste,95500,95503,ich,auguste
+gdc,ger000468,95768,95805,eduard,95797,95804,Auguste,auguste
+gdc,ger000468,95810,95970,auguste,95851,95855,Carl,carl
+gdc,ger000468,95810,95970,auguste,95900,95904,mich,auguste
+gdc,ger000468,95810,95970,auguste,95916,95927,Mutter Pius,mutter_pius
+gdc,ger000468,95974,96164,_stage,95974,95986,Frau Sonntag,frau_sonntag
+gdc,ger000468,95974,96164,_stage,96051,96062,Die Jungens,die_jungens
+gdc,ger000468,96166,96209,auguste,96193,96196,mir,auguste
+gdc,ger000468,96213,96303,_stage,96218,96230,Frau Sonntag,frau_sonntag
+gdc,ger000468,96383,96436,_stage,96383,96389,Eduard,eduard
+gdc,ger000468,96542,96591,frau_sonntag,96584,96590,Eduard,eduard
+gdc,ger000468,96596,96646,eduard,96617,96620,mir,eduard
+gdc,ger000468,96731,96760,frau_sonntag,96754,96759,Marta,marta
+gdc,ger000468,96779,96855,eduard,96787,96790,Ich,eduard
+gdc,ger000468,96779,96855,eduard,96797,96801,mich,eduard
+gdc,ger000468,96860,97003,frau_sonntag,96967,96970,ich,frau_sonntag
+gdc,ger000468,96860,97003,frau_sonntag,96976,96982,Eduard,eduard
+gdc,ger000468,97009,97162,eduard,97032,97035,Ich,eduard
+gdc,ger000468,97009,97162,eduard,97044,97047,mir,eduard
+gdc,ger000468,97009,97162,eduard,97113,97116,Ich,eduard
+gdc,ger000468,97009,97162,eduard,97145,97151,meiner,eduard
+gdc,ger000468,97167,97258,frau_sonntag,97186,97192,Eduard,eduard
+gdc,ger000468,97397,97488,frau_sonntag,97427,97434,Auguste,auguste
+gdc,ger000468,97397,97488,frau_sonntag,97444,97450,Kinder,kinder
+gdc,ger000468,97493,97564,eduard,97539,97543,Carl,carl
+gdc,ger000468,97702,97757,frau_sonntag,97716,97719,Ich,frau_sonntag
+gdc,ger000468,97779,97915,frau_sonntag,97814,97819,Marta,marta
+gdc,ger000468,97779,97915,frau_sonntag,97899,97902,ich,frau_sonntag
+gdc,ger000468,97919,97941,_stage,97919,97925,Eduard,eduard
+gdc,ger000468,97943,98118,auguste,98095,98107,Frau Sonntag,frau_sonntag
+gdc,ger000468,98177,98210,_stage,98177,98188,Die Jungens,die_jungens
+gdc,ger000468,98295,98505,_stage,98385,98390,Marta,marta
+gdc,ger000468,98295,98505,_stage,98437,98443,Eduard,eduard
+gdc,ger000468,98295,98505,_stage,98477,98489,Frau Sonntag,frau_sonntag
+gdc,ger000468,98507,98571,frau_sonntag,98564,98570,Eduard,eduard
+gdc,ger000468,98590,98754,eduard,98633,98641,Heinrich,heinrich
+gdc,ger000468,98590,98754,eduard,98677,98681,Mein,eduard
+gdc,ger000468,98812,98885,eduard,98848,98852,mich,eduard
+gdc,ger000468,98890,98967,frau_sonntag,98904,98907,Ich,frau_sonntag
+gdc,ger000468,98890,98967,frau_sonntag,98948,98961,Dr. von Simon,dr_von_simon
+gdc,ger000468,98972,99102,eduard,99050,99053,mir,eduard
+gdc,ger000468,99107,99209,frau_sonntag,99137,99140,Ich,frau_sonntag
+gdc,ger000468,99107,99209,frau_sonntag,99149,99153,mich,frau_sonntag
+gdc,ger000468,99107,99209,frau_sonntag,99158,99164,meinen,frau_sonntag
+gdc,ger000468,99107,99209,frau_sonntag,99202,99208,Eduard,eduard
+gdc,ger000468,99316,99397,frau_sonntag,99342,99345,Ich,frau_sonntag
+gdc,ger000468,99316,99397,frau_sonntag,99354,99357,mir,frau_sonntag
+gdc,ger000468,99483,99557,frau_sonntag,99510,99513,Ich,frau_sonntag
+gdc,ger000468,99483,99557,frau_sonntag,99521,99527,Eduard,eduard
+gdc,ger000468,99483,99557,frau_sonntag,99529,99532,ich,frau_sonntag
+gdc,ger000468,99657,99743,frau_sonntag,99675,99683,Heinrich,heinrich
+gdc,ger000468,99806,99933,frau_sonntag,99832,99835,Ich,frau_sonntag
+gdc,ger000468,99806,99933,frau_sonntag,99869,99882,Dr. von Simon,dr_von_simon
+gdc,ger000468,99938,99993,eduard,99968,99974,meiner,eduard
+gdc,ger000468,99998,100098,frau_sonntag,100091,100097,Eduard,eduard
+gdc,ger000468,100197,100430,frau_sonntag,100231,100239,Heinrich,heinrich
+gdc,ger000468,100197,100430,frau_sonntag,100324,100337,Dr. von Simon,dr_von_simon
+gdc,ger000468,100197,100430,frau_sonntag,100418,100423,Marta,marta
+gdc,ger000468,100485,100673,_stage,100485,100492,Auguste,auguste
+gdc,ger000468,100485,100673,_stage,100633,100645,Frau Sonntag,frau_sonntag
+gdc,ger000468,100675,100773,frau_sonntag,100701,100708,Auguste,auguste
+gdc,ger000468,100675,100773,frau_sonntag,100715,100728,Dr. von Simon,dr_von_simon
+gdc,ger000468,100777,100849,_stage,100777,100784,Auguste,auguste
+gdc,ger000468,101056,101196,auguste,101111,101114,ich,auguste
+gdc,ger000468,101201,101301,_stage,101201,101213,Frau Sonntag,frau_sonntag
+gdc,ger000468,101311,101323,_stage,101315,101321,Eduard,eduard
+gdc,ger000468,101303,101468,auguste,101324,101327,Ich,auguste
+gdc,ger000468,101472,101537,_stage,101472,101479,Auguste,auguste
+gdc,ger000468,101642,101698,frau_sonntag,101661,101666,Marta,marta
+gdc,ger000468,101770,101851,frau_sonntag,101800,101806,Eduard,eduard
+gdc,ger000468,101770,101851,frau_sonntag,101808,101811,ich,frau_sonntag
+gdc,ger000468,101856,101933,eduard,101887,101890,Ich,eduard
+gdc,ger000468,101970,102026,frau_sonntag,102016,102020,Carl,carl
+gdc,ger000468,102183,102292,auguste,102192,102195,Ich,auguste
+gdc,ger000468,102296,102444,_stage,102296,102302,Eduard,eduard
+gdc,ger000468,102296,102444,_stage,102320,102325,Marta,marta
+gdc,ger000468,102296,102444,_stage,102396,102402,Eduard,eduard
+gdc,ger000468,102446,102504,frau_sonntag,102460,102465,Marta,marta
+gdc,ger000468,102508,102626,_stage,102508,102513,Marta,marta
+gdc,ger000468,102629,102691,eduard,102667,102670,mir,eduard
+gdc,ger000468,102704,102722,_stage,102708,102720,Frau Sonntag,frau_sonntag
+gdc,ger000468,102799,102836,_stage,102799,102811,Frau Sonntag,frau_sonntag
+gdc,ger000468,102888,102918,_stage,102888,102900,Frau Sonntag,frau_sonntag
+gdc,ger000468,103038,103071,eduard,103054,103062,Lieschen,lieschen
+gdc,ger000468,103076,103107,frau_sonntag,103095,103101,Eduard,eduard
+gdc,ger000468,103112,103228,auguste,103198,103206,Heinrich,heinrich
+gdc,ger000468,103232,103268,_stage,103232,103238,Eduard,eduard
+gdc,ger000468,103270,103362,auguste,103296,103299,mir,auguste
+gdc,ger000468,103270,103362,auguste,103331,103337,Eduard,eduard
+gdc,ger000468,103270,103362,auguste,103342,103350,Lieschen,lieschen
+gdc,ger000468,103435,103493,frau_sonntag,103464,103467,Ich,frau_sonntag
+gdc,ger000468,103435,103493,frau_sonntag,103485,103491,Eduard,eduard
+gdc,ger000468,103497,103759,_stage,103497,103503,Eduard,eduard
+gdc,ger000468,103497,103759,_stage,103575,103587,Frau Sonntag,frau_sonntag
+gdc,ger000468,103497,103759,_stage,103708,103713,Marta,marta
+gdc,ger000468,103761,103936,marta,103786,103798,Frau Sonntag,frau_sonntag
+gdc,ger000468,103761,103936,marta,103824,103829,Berta,berta
+gdc,ger000468,103761,103936,marta,103862,103868,meinem,marta
+gdc,ger000468,103761,103936,marta,103912,103918,meinem,marta
+gdc,ger000468,103941,104000,dr_von_simon,103961,103964,ich,dr_von_simon
+gdc,ger000468,104050,104129,frau_sonntag,104075,104078,Ich,frau_sonntag
+gdc,ger000468,104050,104129,frau_sonntag,104084,104088,mich,frau_sonntag
+gdc,ger000468,104133,104332,_stage,104133,104140,Auguste,auguste
+gdc,ger000468,104133,104332,_stage,104231,104236,Marta,marta
+gdc,ger000468,104334,104398,dr_von_simon,104358,104362,mich,dr_von_simon
+gdc,ger000468,104402,104640,_stage,104402,104414,Frau Sonntag,frau_sonntag
+gdc,ger000468,104402,104640,_stage,104566,104571,Marta,marta
+gdc,ger000468,104642,104689,frau_sonntag,104656,104661,Marta,marta
+gdc,ger000468,104749,104851,auguste,104796,104802,Eduard,eduard
+gdc,ger000468,104917,104970,_stage,104917,104929,Frau Sonntag,frau_sonntag
+gdc,ger000468,104986,105003,_stage,104996,105001,Marta,marta
+gdc,ger000468,105079,105232,frau_sonntag,105192,105195,Ich,frau_sonntag
+gdc,ger000468,105315,105467,_stage,105315,105322,Auguste,auguste
+gdc,ger000468,105315,105467,_stage,105403,105415,Frau Sonntag,frau_sonntag
+gdc,ger000468,105534,105627,_stage,105534,105549,Pendelfrederech,pendelfrederech
+gdc,ger000468,105534,105627,_stage,105551,105561,Lange Anna,lange_anna
+gdc,ger000468,105534,105627,_stage,105563,105570,Amadeus,amadeus
+gdc,ger000468,105534,105627,_stage,105572,105578,Eduard,eduard
+gdc,ger000468,105534,105627,_stage,105580,105584,Carl,carl
+gdc,ger000468,105534,105627,_stage,105586,105602,August Puderbach,august
+gdc,ger000468,105534,105627,_stage,105604,105626,Großvatter Wallbrecker,grossvatter_wallbrecker
+gdc,ger000468,105836,105860,_stage,105843,105849,Eduard,eduard
+gdc,ger000468,105820,105892,pendelfrederech,105861,105864,Ich,pendelfrederech
+gdc,ger000468,105977,105989,_stage,105981,105987,Eduard,eduard
+gdc,ger000468,106035,106085,_stage,106055,106061,Eduard,eduard
+gdc,ger000468,106087,106171,lange_anna,106142,106146,mich,lange_anna
+gdc,ger000468,106211,106422,amadeus,106232,106236,Carl,carl
+gdc,ger000468,106211,106422,amadeus,106318,106324,Eduard,eduard
+gdc,ger000468,106426,106475,_stage,106426,106432,Eduard,eduard
+gdc,ger000468,106477,106553,amadeus,106499,106502,Ich,amadeus
+gdc,ger000468,106590,106710,_stage,106590,106596,Eduard,eduard
+gdc,ger000468,106590,106710,_stage,106602,106609,Amadeus,amadeus
+gdc,ger000468,106590,106710,_stage,106618,106628,Lange Anna,lange_anna
+gdc,ger000468,106590,106710,_stage,106679,106683,Carl,carl
+gdc,ger000468,106712,106745,amadeus,106734,106744,Lange Anna,lange_anna
+gdc,ger000468,106750,106812,_stage,106750,106760,Lange Anna,lange_anna
+gdc,ger000468,106750,106812,_stage,106783,106798,Pendelfrederech,pendelfrederech
+gdc,ger000468,106900,106945,_stage,106900,106910,Lange Anna,lange_anna
+gdc,ger000468,106990,107006,_stage,106994,107004,lange Anna,lange_anna
+gdc,ger000468,107058,107074,lange_anna,107070,107073,Ich,lange_anna
+gdc,ger000468,107172,107241,amadeus,107189,107193,mich,amadeus
+gdc,ger000468,107172,107241,amadeus,107209,107213,mich,amadeus
+gdc,ger000468,107422,107476,amadeus,107431,107434,Ich,amadeus
+gdc,ger000468,107557,107615,_stage,107564,107570,Eduard,eduard
+gdc,ger000468,107650,107682,_stage,107650,107665,Pendelfrederech,pendelfrederech
+gdc,ger000468,107823,107837,_stage,107823,107829,Eduard,eduard
+gdc,ger000468,107839,107977,lange_anna,107935,107939,Mich,lange_anna
+gdc,ger000468,107982,108195,pendelfrederech,108018,108024,Eduard,eduard
+gdc,ger000468,107982,108195,pendelfrederech,108132,108135,Ich,pendelfrederech
+gdc,ger000468,108208,108230,_stage,108212,108218,Eduard,eduard
+gdc,ger000468,108200,108265,amadeus,108242,108245,ich,amadeus
+gdc,ger000468,108270,108381,lange_anna,108286,108289,mir,lange_anna
+gdc,ger000468,108386,108423,amadeus,108395,108398,Ich,amadeus
+gdc,ger000468,108428,108545,lange_anna,108463,108466,Ich,lange_anna
+gdc,ger000468,108428,108545,lange_anna,108510,108514,Carl,carl
+gdc,ger000468,108550,108636,pendelfrederech,108613,108617,Carl,carl
+gdc,ger000468,108689,108915,_stage,108689,108693,Carl,carl
+gdc,ger000468,108689,108915,_stage,108753,108757,Carl,carl
+gdc,ger000468,108689,108915,_stage,108894,108898,Carl,carl
+gdc,ger000468,108689,108915,_stage,108908,108914,Eduard,eduard
+gdc,ger000468,108917,109178,carl,108935,108941,Eduard,eduard
+gdc,ger000468,108917,109178,carl,108955,108959,mein,carl
+gdc,ger000468,108917,109178,carl,108989,108993,mich,carl
+gdc,ger000468,108917,109178,carl,109071,109075,Carl,carl
+gdc,ger000468,108917,109178,carl,109146,109149,Ich,carl
+gdc,ger000468,108917,109178,carl,109171,109177,Eduard,eduard
+gdc,ger000468,109183,109303,august,109258,109262,Carl,carl
+gdc,ger000468,109308,109405,amadeus,109334,109339,meine,amadeus
+gdc,ger000468,109606,109635,_stage,109617,109621,Carl,carl
+gdc,ger000468,109599,109665,eduard,109647,109650,mir,eduard
+gdc,ger000468,109599,109665,eduard,109657,109664,Amadeus,amadeus
+gdc,ger000468,109670,109785,amadeus,109679,109682,Ich,amadeus
+gdc,ger000468,109670,109785,amadeus,109711,109715,mein,amadeus
+gdc,ger000468,109790,109843,lange_anna,109808,109811,mir,lange_anna
+gdc,ger000468,109847,109959,_stage,109856,109862,Eduard,eduard
+gdc,ger000468,109847,109959,_stage,109911,109921,Lange Anna,lange_anna
+gdc,ger000468,109847,109959,_stage,109943,109947,Carl,carl
+gdc,ger000468,110016,110195,_stage,110016,110020,Carl,carl
+gdc,ger000468,110016,110195,_stage,110022,110032,Lange Anna,lange_anna
+gdc,ger000468,110016,110195,_stage,110116,110122,Eduard,eduard
+gdc,ger000468,110344,110410,pendelfrederech,110376,110379,Ich,pendelfrederech
+gdc,ger000468,110344,110410,pendelfrederech,110384,110387,mir,pendelfrederech
+gdc,ger000468,110414,110461,_stage,110414,110420,Eduard,eduard

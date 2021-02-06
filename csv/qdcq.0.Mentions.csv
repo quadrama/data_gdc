@@ -1,0 +1,679 @@
+corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+gdc,qdcq.0,506,769,die_amme,679,682,mir,die_amme
+gdc,qdcq.0,506,769,die_amme,712,715,ich,die_amme
+gdc,qdcq.0,775,1050,der_bote,907,911,Bote,der_bote
+gdc,qdcq.0,775,1050,der_bote,1031,1035,Bote,der_bote
+gdc,qdcq.0,1056,1100,die_amme,1085,1088,ich,die_amme
+gdc,qdcq.0,1105,1213,der_bote,1130,1133,ich,der_bote
+gdc,qdcq.0,1582,1814,die_amme,1737,1740,ich,die_amme
+gdc,qdcq.0,1582,1814,die_amme,1779,1782,ich,die_amme
+gdc,qdcq.0,1820,1848,der_bote,1834,1838,mich,der_bote
+gdc,qdcq.0,2350,2427,die_amme,2386,2389,ich,die_amme
+gdc,qdcq.0,2465,2537,die_amme,2508,2511,ich,die_amme
+gdc,qdcq.0,2465,2537,die_amme,2532,2536,mich,die_amme
+gdc,qdcq.0,2743,4011,der_kaiser,2879,2882,Ich,der_kaiser
+gdc,qdcq.0,2743,4011,der_kaiser,2911,2914,ich,der_kaiser
+gdc,qdcq.0,2743,4011,der_kaiser,2950,2955,meine,der_kaiser
+gdc,qdcq.0,2743,4011,der_kaiser,2993,2996,ich,der_kaiser
+gdc,qdcq.0,2743,4011,der_kaiser,2997,3002,meine,der_kaiser
+gdc,qdcq.0,2743,4011,der_kaiser,3105,3108,mir,der_kaiser
+gdc,qdcq.0,2743,4011,der_kaiser,3137,3140,ich,der_kaiser
+gdc,qdcq.0,2743,4011,der_kaiser,3186,3189,mir,der_kaiser
+gdc,qdcq.0,2743,4011,der_kaiser,3198,3203,meine,der_kaiser
+gdc,qdcq.0,2743,4011,der_kaiser,3232,3235,mir,der_kaiser
+gdc,qdcq.0,2743,4011,der_kaiser,3275,3281,meiner,der_kaiser
+gdc,qdcq.0,2743,4011,der_kaiser,3313,3317,mein,der_kaiser
+gdc,qdcq.0,2743,4011,der_kaiser,3456,3459,ich,der_kaiser
+gdc,qdcq.0,2743,4011,der_kaiser,3543,3549,meinen,der_kaiser
+gdc,qdcq.0,2743,4011,der_kaiser,3585,3588,ich,der_kaiser
+gdc,qdcq.0,2743,4011,der_kaiser,3617,3620,ich,der_kaiser
+gdc,qdcq.0,2743,4011,der_kaiser,3659,3662,ich,der_kaiser
+gdc,qdcq.0,2743,4011,der_kaiser,3668,3672,mich,der_kaiser
+gdc,qdcq.0,2743,4011,der_kaiser,3747,3751,mein,der_kaiser
+gdc,qdcq.0,2743,4011,der_kaiser,3789,3792,mir,der_kaiser
+gdc,qdcq.0,2743,4011,der_kaiser,3929,3932,ich,der_kaiser
+gdc,qdcq.0,4127,4555,der_kaiser,4167,4170,ich,der_kaiser
+gdc,qdcq.0,4127,4555,der_kaiser,4192,4195,mir,der_kaiser
+gdc,qdcq.0,4127,4555,der_kaiser,4226,4229,ich,der_kaiser
+gdc,qdcq.0,4127,4555,der_kaiser,4279,4282,ich,der_kaiser
+gdc,qdcq.0,4127,4555,der_kaiser,4320,4323,mir,der_kaiser
+gdc,qdcq.0,4127,4555,der_kaiser,4381,4387,meiner,der_kaiser
+gdc,qdcq.0,4127,4555,der_kaiser,4399,4405,meinen,der_kaiser
+gdc,qdcq.0,4127,4555,der_kaiser,4417,4423,meinen,der_kaiser
+gdc,qdcq.0,4127,4555,der_kaiser,4436,4442,meinem,der_kaiser
+gdc,qdcq.0,4559,4749,die_amme,4659,4662,Ich,die_amme
+gdc,qdcq.0,4753,5694,die_kaiserin,4793,4797,mein,die_kaiserin
+gdc,qdcq.0,4753,5694,die_kaiserin,4829,4833,mich,die_kaiserin
+gdc,qdcq.0,4753,5694,die_kaiserin,4845,4849,mich,die_kaiserin
+gdc,qdcq.0,4753,5694,die_kaiserin,4881,4884,ich,die_kaiserin
+gdc,qdcq.0,4753,5694,die_kaiserin,4886,4890,mich,die_kaiserin
+gdc,qdcq.0,4753,5694,die_kaiserin,4974,4977,ich,die_kaiserin
+gdc,qdcq.0,4753,5694,die_kaiserin,4978,4982,mich,die_kaiserin
+gdc,qdcq.0,4753,5694,die_kaiserin,5016,5019,ich,die_kaiserin
+gdc,qdcq.0,4753,5694,die_kaiserin,5292,5296,mich,die_kaiserin
+gdc,qdcq.0,4753,5694,die_kaiserin,5358,5364,meinen,die_kaiserin
+gdc,qdcq.0,4753,5694,die_kaiserin,5383,5387,mich,die_kaiserin
+gdc,qdcq.0,4753,5694,die_kaiserin,5423,5426,mir,die_kaiserin
+gdc,qdcq.0,4753,5694,die_kaiserin,5573,5577,mich,die_kaiserin
+gdc,qdcq.0,5700,5853,des_falken_stimme,5737,5740,ich,des_falken_stimme
+gdc,qdcq.0,5700,5853,des_falken_stimme,5770,5773,ich,des_falken_stimme
+gdc,qdcq.0,5700,5853,des_falken_stimme,5827,5837,der Kaiser,der_kaiser
+gdc,qdcq.0,5859,6031,die_kaiserin,5893,5896,ich,die_kaiserin
+gdc,qdcq.0,6037,6147,des_falken_stimme,6090,6100,der Kaiser,der_kaiser
+gdc,qdcq.0,6037,6147,des_falken_stimme,6127,6130,ich,des_falken_stimme
+gdc,qdcq.0,6218,6316,die_kaiserin,6232,6242,Der Kaiser,der_kaiser
+gdc,qdcq.0,6218,6316,die_kaiserin,6299,6302,ich,die_kaiserin
+gdc,qdcq.0,6602,6920,die_kaiserin,6622,6626,mein,die_kaiserin
+gdc,qdcq.0,6602,6920,die_kaiserin,6711,6714,ich,die_kaiserin
+gdc,qdcq.0,6602,6920,die_kaiserin,6856,6859,mir,die_kaiserin
+gdc,qdcq.0,6924,7280,die_amme,7158,7161,ich,die_amme
+gdc,qdcq.0,7286,7358,die_kaiserin,7324,7327,mir,die_kaiserin
+gdc,qdcq.0,7286,7358,die_kaiserin,7354,7357,mir,die_kaiserin
+gdc,qdcq.0,7942,8097,die_kaiserin,7979,7982,Ich,die_kaiserin
+gdc,qdcq.0,7942,8097,die_kaiserin,8049,8053,mich,die_kaiserin
+gdc,qdcq.0,7942,8097,die_kaiserin,8066,8069,ich,die_kaiserin
+gdc,qdcq.0,8101,9127,die_amme,8781,8784,ich,die_amme
+gdc,qdcq.0,8101,9127,die_amme,8794,8798,mich,die_amme
+gdc,qdcq.0,8101,9127,die_amme,8865,8869,mein,die_amme
+gdc,qdcq.0,8101,9127,die_amme,8924,8927,ich,die_amme
+gdc,qdcq.0,8101,9127,die_amme,8966,8969,ich,die_amme
+gdc,qdcq.0,8101,9127,die_amme,9004,9008,mich,die_amme
+gdc,qdcq.0,8101,9127,die_amme,9041,9044,ich,die_amme
+gdc,qdcq.0,8101,9127,die_amme,9095,9098,mir,die_amme
+gdc,qdcq.0,9146,9174,_stage,9155,9163,die Amme,die_amme
+gdc,qdcq.0,9133,9249,die_kaiserin,9190,9194,mich,die_kaiserin
+gdc,qdcq.0,9133,9249,die_kaiserin,9238,9242,mich,die_kaiserin
+gdc,qdcq.0,9374,9610,die_kaiserin,9389,9393,Mich,die_kaiserin
+gdc,qdcq.0,9374,9610,die_kaiserin,9436,9439,mir,die_kaiserin
+gdc,qdcq.0,9374,9610,die_kaiserin,9452,9456,mich,die_kaiserin
+gdc,qdcq.0,9374,9610,die_kaiserin,9469,9473,mich,die_kaiserin
+gdc,qdcq.0,9374,9610,die_kaiserin,9530,9533,mir,die_kaiserin
+gdc,qdcq.0,9614,10838,die_amme,9754,9757,ich,die_amme
+gdc,qdcq.0,9614,10838,die_amme,9798,9801,ich,die_amme
+gdc,qdcq.0,9614,10838,die_amme,9885,9888,ich,die_amme
+gdc,qdcq.0,10596,10838,_stage,10630,10643,der Einäugige,der_einaeugige
+gdc,qdcq.0,11681,11797,die_frau_die_faerberin,11705,11708,mir,die_frau_die_faerberin
+gdc,qdcq.0,11681,11797,die_frau_die_faerberin,11737,11740,mir,die_frau_die_faerberin
+gdc,qdcq.0,11681,11797,die_frau_die_faerberin,11760,11766,meines,die_frau_die_faerberin
+gdc,qdcq.0,12011,12121,die_frau_die_faerberin,12068,12071,ich,die_frau_die_faerberin
+gdc,qdcq.0,12011,12121,die_frau_die_faerberin,12085,12088,ich,die_frau_die_faerberin
+gdc,qdcq.0,12011,12121,die_frau_die_faerberin,12104,12107,ich,die_frau_die_faerberin
+gdc,qdcq.0,12290,12454,barak,12425,12428,ich,barak
+gdc,qdcq.0,12625,13107,barak,12739,12742,ich,barak
+gdc,qdcq.0,12625,13107,barak,12827,12830,mir,barak
+gdc,qdcq.0,12625,13107,barak,12847,12850,mir,barak
+gdc,qdcq.0,12625,13107,barak,12895,12898,mir,barak
+gdc,qdcq.0,12625,13107,barak,12929,12932,ich,barak
+gdc,qdcq.0,12625,13107,barak,12991,12994,ich,barak
+gdc,qdcq.0,12625,13107,barak,13017,13020,ich,barak
+gdc,qdcq.0,12625,13107,barak,13086,13089,mir,barak
+gdc,qdcq.0,13296,13594,die_frau_die_faerberin,13326,13330,Mein,die_frau_die_faerberin
+gdc,qdcq.0,13296,13594,die_frau_die_faerberin,13346,13349,mir,die_frau_die_faerberin
+gdc,qdcq.0,13296,13594,die_frau_die_faerberin,13358,13362,mein,die_frau_die_faerberin
+gdc,qdcq.0,13296,13594,die_frau_die_faerberin,13370,13373,ich,die_frau_die_faerberin
+gdc,qdcq.0,13296,13594,die_frau_die_faerberin,13387,13390,ich,die_frau_die_faerberin
+gdc,qdcq.0,13296,13594,die_frau_die_faerberin,13508,13511,ich,die_frau_die_faerberin
+gdc,qdcq.0,13600,13984,barak,13711,13714,ich,barak
+gdc,qdcq.0,13600,13984,barak,13824,13827,ich,barak
+gdc,qdcq.0,13600,13984,barak,13862,13866,mich,barak
+gdc,qdcq.0,13600,13984,barak,13913,13916,mir,barak
+gdc,qdcq.0,13988,14405,die_frau_die_faerberin,14071,14077,meinem,die_frau_die_faerberin
+gdc,qdcq.0,13988,14405,die_frau_die_faerberin,14144,14149,meine,die_frau_die_faerberin
+gdc,qdcq.0,13988,14405,die_frau_die_faerberin,14187,14190,ich,die_frau_die_faerberin
+gdc,qdcq.0,13988,14405,die_frau_die_faerberin,14244,14247,mir,die_frau_die_faerberin
+gdc,qdcq.0,13988,14405,die_frau_die_faerberin,14253,14257,mich,die_frau_die_faerberin
+gdc,qdcq.0,13988,14405,die_frau_die_faerberin,14312,14315,ich,die_frau_die_faerberin
+gdc,qdcq.0,13988,14405,die_frau_die_faerberin,14334,14340,meiner,die_frau_die_faerberin
+gdc,qdcq.0,14411,14915,barak,14603,14606,Ich,barak
+gdc,qdcq.0,14411,14915,barak,14656,14659,ich,barak
+gdc,qdcq.0,14715,14915,_stage,14715,14720,Barak,barak
+gdc,qdcq.0,15124,15665,barak,15281,15284,ich,barak
+gdc,qdcq.0,15124,15665,barak,15294,15297,mir,barak
+gdc,qdcq.0,15124,15665,barak,15322,15325,ich,barak
+gdc,qdcq.0,15124,15665,barak,15344,15347,mir,barak
+gdc,qdcq.0,15453,15665,_stage,15513,15521,Die Amme,die_amme
+gdc,qdcq.0,15453,15665,_stage,15573,15585,die Kaiserin,die_kaiserin
+gdc,qdcq.0,15746,16278,die_amme,15861,15866,Meine,die_amme
+gdc,qdcq.0,15746,16278,die_amme,16063,16068,meine,die_amme
+gdc,qdcq.0,16284,16501,die_frau_die_faerberin,16314,16317,ich,die_frau_die_faerberin
+gdc,qdcq.0,16284,16501,die_frau_die_faerberin,16393,16396,ich,die_frau_die_faerberin
+gdc,qdcq.0,16284,16501,die_frau_die_faerberin,16453,16457,mein,die_frau_die_faerberin
+gdc,qdcq.0,16284,16501,die_frau_die_faerberin,16477,16480,ich,die_frau_die_faerberin
+gdc,qdcq.0,16507,16820,die_amme,16570,16575,meine,die_amme
+gdc,qdcq.0,16507,16820,die_amme,16635,16640,Barak,barak
+gdc,qdcq.0,16507,16820,die_amme,16650,16655,meine,die_amme
+gdc,qdcq.0,16826,16884,die_kaiserin,16840,16843,Ich,die_kaiserin
+gdc,qdcq.0,17035,17247,die_frau_die_faerberin,17103,17109,meiner,die_frau_die_faerberin
+gdc,qdcq.0,17035,17247,die_frau_die_faerberin,17162,17166,mich,die_frau_die_faerberin
+gdc,qdcq.0,17035,17247,die_frau_die_faerberin,17179,17183,mich,die_frau_die_faerberin
+gdc,qdcq.0,17260,17319,_stage,17296,17308,die Kaiserin,die_kaiserin
+gdc,qdcq.0,17251,17474,die_amme,17327,17331,mein,die_amme
+gdc,qdcq.0,17480,17591,die_frau_die_faerberin,17547,17553,meiner,die_frau_die_faerberin
+gdc,qdcq.0,17716,17819,die_frau_die_faerberin,17731,17737,meiner,die_frau_die_faerberin
+gdc,qdcq.0,17716,17819,die_frau_die_faerberin,17767,17770,ich,die_frau_die_faerberin
+gdc,qdcq.0,17716,17819,die_frau_die_faerberin,17793,17796,ich,die_frau_die_faerberin
+gdc,qdcq.0,17825,18078,die_amme,17840,17845,meine,die_amme
+gdc,qdcq.0,17825,18078,die_amme,17859,17862,ich,die_amme
+gdc,qdcq.0,18085,18232,die_frau_die_faerberin,18172,18175,ich,die_frau_die_faerberin
+gdc,qdcq.0,18890,19021,die_frau_die_faerberin,18909,18913,mein,die_frau_die_faerberin
+gdc,qdcq.0,18890,19021,die_frau_die_faerberin,18943,18946,ich,die_frau_die_faerberin
+gdc,qdcq.0,18890,19021,die_frau_die_faerberin,18960,18963,ich,die_frau_die_faerberin
+gdc,qdcq.0,18890,19021,die_frau_die_faerberin,19007,19010,ich,die_frau_die_faerberin
+gdc,qdcq.0,18890,19021,die_frau_die_faerberin,19011,19015,mein,die_frau_die_faerberin
+gdc,qdcq.0,19027,19544,die_amme,19055,19058,ich,die_amme
+gdc,qdcq.0,20076,20179,der_juengling,20124,20127,ich,der_juengling
+gdc,qdcq.0,20076,20179,der_juengling,20168,20172,mein,der_juengling
+gdc,qdcq.0,20365,20596,_stage,20397,20405,die Amme,die_amme
+gdc,qdcq.0,20365,20596,_stage,20418,20430,die Kaiserin,die_kaiserin
+gdc,qdcq.0,20365,20596,_stage,20539,20547,die Amme,die_amme
+gdc,qdcq.0,20365,20596,_stage,20549,20557,Die Amme,die_amme
+gdc,qdcq.0,20365,20596,_stage,20562,20574,die Kaiserin,die_kaiserin
+gdc,qdcq.0,20600,20964,die_frau_die_faerberin,20635,20638,ich,die_frau_die_faerberin
+gdc,qdcq.0,20600,20964,die_frau_die_faerberin,20674,20677,ich,die_frau_die_faerberin
+gdc,qdcq.0,20600,20964,die_frau_die_faerberin,20730,20736,meinen,die_frau_die_faerberin
+gdc,qdcq.0,20849,20919,_stage,20849,20857,Die Amme,die_amme
+gdc,qdcq.0,21349,21556,die_frau_die_faerberin,21366,21371,Meine,die_frau_die_faerberin
+gdc,qdcq.0,21349,21556,die_frau_die_faerberin,21442,21445,Ich,die_frau_die_faerberin
+gdc,qdcq.0,21349,21556,die_frau_die_faerberin,21485,21488,mir,die_frau_die_faerberin
+gdc,qdcq.0,21349,21556,die_frau_die_faerberin,21542,21548,meinem,die_frau_die_faerberin
+gdc,qdcq.0,21562,22352,die_amme,22031,22034,ich,die_amme
+gdc,qdcq.0,22358,22604,die_frau_die_faerberin,22414,22417,ich,die_frau_die_faerberin
+gdc,qdcq.0,22358,22604,die_frau_die_faerberin,22423,22429,meinen,die_frau_die_faerberin
+gdc,qdcq.0,22358,22604,die_frau_die_faerberin,22576,22579,ich,die_frau_die_faerberin
+gdc,qdcq.0,22609,23023,die_amme,22650,22661,Dienerinnen,dienerinnen
+gdc,qdcq.0,22609,23023,die_amme,22682,22686,mich,die_amme
+gdc,qdcq.0,23027,23907,die_amme,23177,23182,Barak,barak
+gdc,qdcq.0,23230,23907,_stage,23230,23238,Die Amme,die_amme
+gdc,qdcq.0,23230,23907,_stage,23656,23664,die Amme,die_amme
+gdc,qdcq.0,23230,23907,_stage,23676,23688,die Kaiserin,die_kaiserin
+gdc,qdcq.0,24361,24480,die_frau_die_faerberin,24394,24397,ich,die_frau_die_faerberin
+gdc,qdcq.0,24634,24896,barak,24727,24730,ich,barak
+gdc,qdcq.0,24634,24896,barak,24740,24743,mir,barak
+gdc,qdcq.0,24634,24896,barak,24767,24770,ich,barak
+gdc,qdcq.0,24634,24896,barak,24789,24792,mir,barak
+gdc,qdcq.0,25000,25090,die_frau_die_faerberin,25046,25049,Ich,die_frau_die_faerberin
+gdc,qdcq.0,25096,25170,barak,25135,25139,Mein,barak
+gdc,qdcq.0,25175,25379,die_frau_die_faerberin,25257,25260,ich,die_frau_die_faerberin
+gdc,qdcq.0,25175,25379,die_frau_die_faerberin,25274,25280,meinen,die_frau_die_faerberin
+gdc,qdcq.0,25175,25379,die_frau_die_faerberin,25292,25298,meinen,die_frau_die_faerberin
+gdc,qdcq.0,25383,25657,barak,25504,25507,mir,barak
+gdc,qdcq.0,25383,25657,barak,25598,25601,ich,barak
+gdc,qdcq.0,25383,25657,barak,25637,25640,mir,barak
+gdc,qdcq.0,26439,26503,_stage,26463,26475,die Kaiserin,die_kaiserin
+gdc,qdcq.0,26505,26701,die_amme,26601,26605,mein,die_amme
+gdc,qdcq.0,26505,26701,die_amme,26622,26627,meine,die_amme
+gdc,qdcq.0,26690,26701,_stage,26690,26695,Barak,barak
+gdc,qdcq.0,26705,27000,die_amme,26795,26798,ich,die_amme
+gdc,qdcq.0,26827,27000,_stage,26951,26963,Die Kaiserin,die_kaiserin
+gdc,qdcq.0,27004,27191,die_amme,27020,27025,meine,die_amme
+gdc,qdcq.0,27004,27191,die_amme,27056,27059,mir,die_amme
+gdc,qdcq.0,27004,27191,die_amme,27129,27132,ich,die_amme
+gdc,qdcq.0,27335,27430,die_frau_die_faerberin,27404,27407,ich,die_frau_die_faerberin
+gdc,qdcq.0,27335,27430,die_frau_die_faerberin,27408,27412,mich,die_frau_die_faerberin
+gdc,qdcq.0,27437,27736,die_amme,27484,27489,meine,die_amme
+gdc,qdcq.0,27437,27736,die_amme,27509,27512,ich,die_amme
+gdc,qdcq.0,27437,27736,die_amme,27675,27678,ich,die_amme
+gdc,qdcq.0,27742,27823,die_frau_die_faerberin,27763,27766,Ich,die_frau_die_faerberin
+gdc,qdcq.0,27829,28052,die_amme,27867,27873,meiner,die_amme
+gdc,qdcq.0,28058,28131,die_frau_die_faerberin,28121,28125,mich,die_frau_die_faerberin
+gdc,qdcq.0,28261,28435,die_frau_die_faerberin,28283,28286,ich,die_frau_die_faerberin
+gdc,qdcq.0,28261,28435,die_frau_die_faerberin,28328,28331,ich,die_frau_die_faerberin
+gdc,qdcq.0,28261,28435,die_frau_die_faerberin,28343,28346,ich,die_frau_die_faerberin
+gdc,qdcq.0,28261,28435,die_frau_die_faerberin,28372,28375,ich,die_frau_die_faerberin
+gdc,qdcq.0,28545,28714,die_frau_die_faerberin,28592,28595,ich,die_frau_die_faerberin
+gdc,qdcq.0,28545,28714,die_frau_die_faerberin,28653,28656,mir,die_frau_die_faerberin
+gdc,qdcq.0,28545,28714,die_frau_die_faerberin,28692,28698,meiner,die_frau_die_faerberin
+gdc,qdcq.0,28720,28849,die_amme,28794,28797,mir,die_amme
+gdc,qdcq.0,28720,28849,die_amme,28832,28835,mir,die_amme
+gdc,qdcq.0,28720,28849,die_amme,28842,28848,Stimme,stimme_von_oben
+gdc,qdcq.0,28855,28921,die_kaiserin,28908,28914,meinen,die_kaiserin
+gdc,qdcq.0,29399,29597,die_frau_die_faerberin,29465,29471,meiner,die_frau_die_faerberin
+gdc,qdcq.0,29399,29597,die_frau_die_faerberin,29543,29546,ich,die_frau_die_faerberin
+gdc,qdcq.0,29604,29808,die_amme,29656,29660,mein,die_amme
+gdc,qdcq.0,30090,30225,die_frau_die_faerberin,30101,30104,Ich,die_frau_die_faerberin
+gdc,qdcq.0,30090,30225,die_frau_die_faerberin,30122,30126,mich,die_frau_die_faerberin
+gdc,qdcq.0,30140,30176,_stage,30140,30152,Der Jüngling,der_juengling
+gdc,qdcq.0,30229,30344,die_amme,30269,30273,mein,die_amme
+gdc,qdcq.0,30350,30518,stimmen_aus_der_luft,30386,30390,mein,stimmen_aus_der_luft
+gdc,qdcq.0,30460,30518,_stage,30460,30468,Die Amme,die_amme
+gdc,qdcq.0,31046,31350,_stage,31064,31069,Barak,barak
+gdc,qdcq.0,31046,31350,_stage,31150,31163,der Einäugige,der_einaeugige
+gdc,qdcq.0,31046,31350,_stage,31189,31201,der Bucklige,der_bucklige
+gdc,qdcq.0,31046,31350,_stage,31248,31261,der Einarmige,der_einarmige
+gdc,qdcq.0,31992,32018,_stage,31997,32002,Barak,barak
+gdc,qdcq.0,31983,32481,die_frau_die_faerberin,32352,32357,meine,die_frau_die_faerberin
+gdc,qdcq.0,31983,32481,die_frau_die_faerberin,32381,32386,Barak,barak
+gdc,qdcq.0,32805,33045,_stage,32907,32912,Barak,barak
+gdc,qdcq.0,33227,33284,_stage,33227,33239,Die Kaiserin,die_kaiserin
+gdc,qdcq.0,33288,33539,die_frau_die_faerberin,33309,33315,Meinen,die_frau_die_faerberin
+gdc,qdcq.0,33288,33539,die_frau_die_faerberin,33377,33380,ich,die_frau_die_faerberin
+gdc,qdcq.0,33288,33539,die_frau_die_faerberin,33435,33438,ich,die_frau_die_faerberin
+gdc,qdcq.0,33288,33539,die_frau_die_faerberin,33469,33473,mich,die_frau_die_faerberin
+gdc,qdcq.0,33796,33848,_stage,33842,33847,Barak,barak
+gdc,qdcq.0,33852,34077,barak,33970,33975,meine,barak
+gdc,qdcq.0,33852,34077,barak,34053,34056,mir,barak
+gdc,qdcq.0,34102,34124,_stage,34118,34123,Barak,barak
+gdc,qdcq.0,34205,34493,_stage,34282,34292,Der Kaiser,der_kaiser
+gdc,qdcq.0,34497,35574,der_kaiser,34560,34564,mich,der_kaiser
+gdc,qdcq.0,34497,35574,der_kaiser,34641,34644,mir,der_kaiser
+gdc,qdcq.0,34497,35574,der_kaiser,34672,34676,mich,der_kaiser
+gdc,qdcq.0,34497,35574,der_kaiser,34681,34689,die Amme,die_amme
+gdc,qdcq.0,34497,35574,der_kaiser,34752,34757,meine,der_kaiser
+gdc,qdcq.0,34497,35574,der_kaiser,34844,34848,mich,der_kaiser
+gdc,qdcq.0,34497,35574,der_kaiser,34907,34910,ich,der_kaiser
+gdc,qdcq.0,34497,35574,der_kaiser,34911,34915,mich,der_kaiser
+gdc,qdcq.0,34497,35574,der_kaiser,34980,34984,mich,der_kaiser
+gdc,qdcq.0,34497,35574,der_kaiser,35011,35015,Mich,der_kaiser
+gdc,qdcq.0,34497,35574,der_kaiser,35050,35054,mein,der_kaiser
+gdc,qdcq.0,34497,35574,der_kaiser,35070,35073,mir,der_kaiser
+gdc,qdcq.0,34497,35574,der_kaiser,35127,35130,mir,der_kaiser
+gdc,qdcq.0,34497,35574,der_kaiser,35166,35170,mich,der_kaiser
+gdc,qdcq.0,34497,35574,der_kaiser,35210,35214,mein,der_kaiser
+gdc,qdcq.0,34497,35574,der_kaiser,35236,35239,mir,der_kaiser
+gdc,qdcq.0,34497,35574,der_kaiser,35309,35312,mir,der_kaiser
+gdc,qdcq.0,35335,35574,_stage,35335,35343,Die Amme,die_amme
+gdc,qdcq.0,35335,35574,_stage,35356,35368,die Kaiserin,die_kaiserin
+gdc,qdcq.0,35335,35574,_stage,35503,35511,die Amme,die_amme
+gdc,qdcq.0,35578,36635,der_kaiser,35718,35721,mir,der_kaiser
+gdc,qdcq.0,35578,36635,der_kaiser,35814,35818,mein,der_kaiser
+gdc,qdcq.0,35578,36635,der_kaiser,35850,35855,meine,der_kaiser
+gdc,qdcq.0,35578,36635,der_kaiser,36052,36056,mein,der_kaiser
+gdc,qdcq.0,35578,36635,der_kaiser,36208,36213,meine,der_kaiser
+gdc,qdcq.0,35578,36635,der_kaiser,36235,36240,Meine,der_kaiser
+gdc,qdcq.0,35578,36635,der_kaiser,36286,36290,mein,der_kaiser
+gdc,qdcq.0,35578,36635,der_kaiser,36330,36334,mich,der_kaiser
+gdc,qdcq.0,35578,36635,der_kaiser,36404,36408,mich,der_kaiser
+gdc,qdcq.0,35578,36635,der_kaiser,36460,36465,meine,der_kaiser
+gdc,qdcq.0,36545,36635,_stage,36568,36573,Barak,barak
+gdc,qdcq.0,36545,36635,_stage,36598,36606,die Amme,die_amme
+gdc,qdcq.0,36775,36943,barak,36818,36821,ich,barak
+gdc,qdcq.0,36775,36943,barak,36836,36839,Ich,barak
+gdc,qdcq.0,36775,36943,barak,36902,36906,mich,barak
+gdc,qdcq.0,36775,36943,barak,36922,36925,mir,barak
+gdc,qdcq.0,36995,37054,_stage,36995,37003,Die Amme,die_amme
+gdc,qdcq.0,37058,37236,barak,37090,37093,mir,barak
+gdc,qdcq.0,37102,37139,_stage,37102,37110,Die Amme,die_amme
+gdc,qdcq.0,37140,37236,_stage,37209,37221,Die Kaiserin,die_kaiserin
+gdc,qdcq.0,37240,37282,barak,37254,37258,Mich,barak
+gdc,qdcq.0,37287,37503,die_frau_die_faerberin,37345,37348,ich,die_frau_die_faerberin
+gdc,qdcq.0,37287,37503,die_frau_die_faerberin,37380,37383,ich,die_frau_die_faerberin
+gdc,qdcq.0,37287,37503,die_frau_die_faerberin,37412,37415,ich,die_frau_die_faerberin
+gdc,qdcq.0,37509,37663,barak,37527,37531,Mich,barak
+gdc,qdcq.0,37509,37663,barak,37548,37551,Ich,barak
+gdc,qdcq.0,37509,37663,barak,37601,37604,ich,barak
+gdc,qdcq.0,37788,37907,die_amme,37863,37866,Ich,die_amme
+gdc,qdcq.0,37913,38016,die_frau_die_faerberin,37958,37963,Barak,barak
+gdc,qdcq.0,37913,38016,die_frau_die_faerberin,37965,37970,Barak,barak
+gdc,qdcq.0,38138,38371,die_frau_die_faerberin,38185,38188,mir,die_frau_die_faerberin
+gdc,qdcq.0,38138,38371,die_frau_die_faerberin,38203,38206,Ich,die_frau_die_faerberin
+gdc,qdcq.0,38138,38371,die_frau_die_faerberin,38242,38245,Ich,die_frau_die_faerberin
+gdc,qdcq.0,38138,38371,die_frau_die_faerberin,38308,38312,mein,die_frau_die_faerberin
+gdc,qdcq.0,38377,38544,die_amme,38479,38482,ich,die_amme
+gdc,qdcq.0,38550,39050,die_frau_die_faerberin,38585,38588,ich,die_frau_die_faerberin
+gdc,qdcq.0,38550,39050,die_frau_die_faerberin,38692,38695,ich,die_frau_die_faerberin
+gdc,qdcq.0,38550,39050,die_frau_die_faerberin,38696,38701,meine,die_frau_die_faerberin
+gdc,qdcq.0,38550,39050,die_frau_die_faerberin,38874,38877,mir,die_frau_die_faerberin
+gdc,qdcq.0,39056,39182,die_amme,39074,39077,Ich,die_amme
+gdc,qdcq.0,39088,39182,_stage,39117,39125,Die Amme,die_amme
+gdc,qdcq.0,39186,39272,die_frau_die_faerberin,39215,39218,ich,die_frau_die_faerberin
+gdc,qdcq.0,39291,39321,_stage,39314,39320,Stimme,stimme_von_oben
+gdc,qdcq.0,39278,39458,der_juengling,39331,39334,mir,der_juengling
+gdc,qdcq.0,39278,39458,der_juengling,39345,39348,ich,der_juengling
+gdc,qdcq.0,39278,39458,der_juengling,39369,39375,meiner,der_juengling
+gdc,qdcq.0,39462,39808,die_frau_die_faerberin,39698,39703,Meine,die_frau_die_faerberin
+gdc,qdcq.0,39462,39808,die_frau_die_faerberin,39716,39719,Ich,die_frau_die_faerberin
+gdc,qdcq.0,40223,40424,der_juengling,40242,40245,ich,der_juengling
+gdc,qdcq.0,40223,40424,der_juengling,40282,40286,mich,der_juengling
+gdc,qdcq.0,40223,40424,der_juengling,40303,40306,ich,der_juengling
+gdc,qdcq.0,40223,40424,der_juengling,40365,40369,mich,der_juengling
+gdc,qdcq.0,40428,40829,die_frau_die_faerberin,40452,40455,Ich,die_frau_die_faerberin
+gdc,qdcq.0,40428,40829,die_frau_die_faerberin,40475,40478,ich,die_frau_die_faerberin
+gdc,qdcq.0,40428,40829,die_frau_die_faerberin,40565,40569,mein,die_frau_die_faerberin
+gdc,qdcq.0,40596,40829,_stage,40769,40777,Die Amme,die_amme
+gdc,qdcq.0,40596,40829,_stage,40783,40795,die Kaiserin,die_kaiserin
+gdc,qdcq.0,40833,41145,die_frau_die_faerberin,40863,40866,mir,die_frau_die_faerberin
+gdc,qdcq.0,40833,41145,die_frau_die_faerberin,40904,40907,mir,die_frau_die_faerberin
+gdc,qdcq.0,40833,41145,die_frau_die_faerberin,40981,40985,mein,die_frau_die_faerberin
+gdc,qdcq.0,40833,41145,die_frau_die_faerberin,41017,41020,Ich,die_frau_die_faerberin
+gdc,qdcq.0,40833,41145,die_frau_die_faerberin,41040,41043,mir,die_frau_die_faerberin
+gdc,qdcq.0,41047,41145,_stage,41059,41064,Barak,barak
+gdc,qdcq.0,41047,41145,_stage,41109,41121,die Kaiserin,die_kaiserin
+gdc,qdcq.0,41318,41417,barak,41381,41384,ich,barak
+gdc,qdcq.0,41318,41417,barak,41408,41412,mich,barak
+gdc,qdcq.0,41422,41654,die_frau_die_faerberin,41527,41533,meiner,die_frau_die_faerberin
+gdc,qdcq.0,41422,41654,die_frau_die_faerberin,41553,41556,mir,die_frau_die_faerberin
+gdc,qdcq.0,41422,41654,die_frau_die_faerberin,41599,41605,meines,die_frau_die_faerberin
+gdc,qdcq.0,41422,41654,die_frau_die_faerberin,41649,41653,mich,die_frau_die_faerberin
+gdc,qdcq.0,41777,42030,die_frau_die_faerberin,41896,41899,mir,die_frau_die_faerberin
+gdc,qdcq.0,41777,42030,die_frau_die_faerberin,41913,41916,mir,die_frau_die_faerberin
+gdc,qdcq.0,41777,42030,die_frau_die_faerberin,41993,41997,mich,die_frau_die_faerberin
+gdc,qdcq.0,42134,42206,barak,42167,42171,mich,barak
+gdc,qdcq.0,42213,42331,die_frau_die_faerberin,42245,42248,mir,die_frau_die_faerberin
+gdc,qdcq.0,42213,42331,die_frau_die_faerberin,42292,42295,mir,die_frau_die_faerberin
+gdc,qdcq.0,42213,42331,die_frau_die_faerberin,42327,42330,mir,die_frau_die_faerberin
+gdc,qdcq.0,42337,42563,barak,42391,42394,mir,barak
+gdc,qdcq.0,42337,42563,barak,42400,42403,ich,barak
+gdc,qdcq.0,42337,42563,barak,42443,42446,mir,barak
+gdc,qdcq.0,42337,42563,barak,42484,42488,Mein,barak
+gdc,qdcq.0,42337,42563,barak,42507,42510,mir,barak
+gdc,qdcq.0,42337,42563,barak,42534,42537,ich,barak
+gdc,qdcq.0,42337,42563,barak,42538,42542,mein,barak
+gdc,qdcq.0,43076,43372,barak,43171,43174,Ich,barak
+gdc,qdcq.0,43076,43372,barak,43246,43249,ich,barak
+gdc,qdcq.0,43076,43372,barak,43265,43268,mir,barak
+gdc,qdcq.0,43076,43372,barak,43282,43286,mein,barak
+gdc,qdcq.0,43076,43372,barak,43306,43309,ich,barak
+gdc,qdcq.0,43076,43372,barak,43342,43348,meinen,barak
+gdc,qdcq.0,43378,44292,die_frau_die_faerberin,43404,43408,mich,die_frau_die_faerberin
+gdc,qdcq.0,43378,44292,die_frau_die_faerberin,43441,43445,mich,die_frau_die_faerberin
+gdc,qdcq.0,43378,44292,die_frau_die_faerberin,43454,43459,meine,die_frau_die_faerberin
+gdc,qdcq.0,43378,44292,die_frau_die_faerberin,43629,43633,mich,die_frau_die_faerberin
+gdc,qdcq.0,43378,44292,die_frau_die_faerberin,43671,43674,ich,die_frau_die_faerberin
+gdc,qdcq.0,43378,44292,die_frau_die_faerberin,43752,43757,meine,die_frau_die_faerberin
+gdc,qdcq.0,43378,44292,die_frau_die_faerberin,43758,43764,Stimme,stimme_von_oben
+gdc,qdcq.0,44107,44151,_stage,44107,44112,Barak,barak
+gdc,qdcq.0,44152,44195,_stage,44165,44173,die Amme,die_amme
+gdc,qdcq.0,44196,44292,_stage,44196,44208,Die Kaiserin,die_kaiserin
+gdc,qdcq.0,44363,44621,die_kaiserin,44394,44397,Ich,die_kaiserin
+gdc,qdcq.0,44363,44621,die_kaiserin,44399,44403,mein,die_kaiserin
+gdc,qdcq.0,44458,44621,_stage,44500,44512,Die Kaiserin,die_kaiserin
+gdc,qdcq.0,44458,44621,_stage,44553,44561,Die Amme,die_amme
+gdc,qdcq.0,44625,45642,die_kaiserin,44910,44915,Barak,barak
+gdc,qdcq.0,44625,45642,die_kaiserin,44922,44925,ich,die_kaiserin
+gdc,qdcq.0,44625,45642,die_kaiserin,44926,44930,mich,die_kaiserin
+gdc,qdcq.0,44943,45416,_stage,45307,45317,der Kaiser,der_kaiser
+gdc,qdcq.0,45417,45477,_stage,45417,45429,Die Kaiserin,die_kaiserin
+gdc,qdcq.0,45478,45642,_stage,45478,45488,Der Kaiser,der_kaiser
+gdc,qdcq.0,45812,45990,_stage,45812,45822,Der Kaiser,der_kaiser
+gdc,qdcq.0,45812,45990,_stage,45907,45917,Der Kaiser,der_kaiser
+gdc,qdcq.0,45994,46148,des_falken_stimme,46047,46057,der Kaiser,der_kaiser
+gdc,qdcq.0,46152,46770,die_kaiserin,46220,46224,mein,die_kaiserin
+gdc,qdcq.0,46152,46770,die_kaiserin,46260,46265,meine,die_kaiserin
+gdc,qdcq.0,46152,46770,die_kaiserin,46398,46404,Stimme,stimme_von_oben
+gdc,qdcq.0,46152,46770,die_kaiserin,46506,46511,meine,die_kaiserin
+gdc,qdcq.0,46152,46770,die_kaiserin,46564,46569,Barak,barak
+gdc,qdcq.0,46152,46770,die_kaiserin,46582,46585,ich,die_kaiserin
+gdc,qdcq.0,46152,46770,die_kaiserin,46601,46604,ich,die_kaiserin
+gdc,qdcq.0,46152,46770,die_kaiserin,46611,46614,mir,die_kaiserin
+gdc,qdcq.0,46152,46770,die_kaiserin,46623,46626,ich,die_kaiserin
+gdc,qdcq.0,46774,46948,barak,46816,46819,ich,barak
+gdc,qdcq.0,47249,47464,die_amme,47320,47325,meine,die_amme
+gdc,qdcq.0,47470,47846,die_kaiserin,47559,47562,ich,die_kaiserin
+gdc,qdcq.0,47470,47846,die_kaiserin,47650,47654,mich,die_kaiserin
+gdc,qdcq.0,47470,47846,die_kaiserin,47713,47716,mir,die_kaiserin
+gdc,qdcq.0,47470,47846,die_kaiserin,47764,47767,ich,die_kaiserin
+gdc,qdcq.0,47852,48103,barak,47869,47874,Meine,barak
+gdc,qdcq.0,47852,48103,barak,47919,47923,mein,barak
+gdc,qdcq.0,47852,48103,barak,47966,47972,meiner,barak
+gdc,qdcq.0,48109,48311,die_frau_die_faerberin,48163,48166,ich,die_frau_die_faerberin
+gdc,qdcq.0,48324,48435,_stage,48379,48384,Barak,barak
+gdc,qdcq.0,48783,49732,die_frau_die_faerberin,48926,48929,ich,die_frau_die_faerberin
+gdc,qdcq.0,48783,49732,die_frau_die_faerberin,48966,48970,mich,die_frau_die_faerberin
+gdc,qdcq.0,48783,49732,die_frau_die_faerberin,48972,48977,Barak,barak
+gdc,qdcq.0,48783,49732,die_frau_die_faerberin,49062,49065,ich,die_frau_die_faerberin
+gdc,qdcq.0,48783,49732,die_frau_die_faerberin,49066,49072,meinen,die_frau_die_faerberin
+gdc,qdcq.0,48783,49732,die_frau_die_faerberin,49141,49144,ich,die_frau_die_faerberin
+gdc,qdcq.0,48783,49732,die_frau_die_faerberin,49184,49187,ich,die_frau_die_faerberin
+gdc,qdcq.0,48783,49732,die_frau_die_faerberin,49251,49255,mich,die_frau_die_faerberin
+gdc,qdcq.0,48783,49732,die_frau_die_faerberin,49257,49262,Barak,barak
+gdc,qdcq.0,48783,49732,die_frau_die_faerberin,49296,49300,mich,die_frau_die_faerberin
+gdc,qdcq.0,48783,49732,die_frau_die_faerberin,49320,49323,Ich,die_frau_die_faerberin
+gdc,qdcq.0,48783,49732,die_frau_die_faerberin,49432,49435,ich,die_frau_die_faerberin
+gdc,qdcq.0,48783,49732,die_frau_die_faerberin,49488,49491,mir,die_frau_die_faerberin
+gdc,qdcq.0,48783,49732,die_frau_die_faerberin,49508,49511,ich,die_frau_die_faerberin
+gdc,qdcq.0,48783,49732,die_frau_die_faerberin,49535,49538,ich,die_frau_die_faerberin
+gdc,qdcq.0,48783,49732,die_frau_die_faerberin,49639,49642,mir,die_frau_die_faerberin
+gdc,qdcq.0,48783,49732,die_frau_die_faerberin,49660,49663,ich,die_frau_die_faerberin
+gdc,qdcq.0,48783,49732,die_frau_die_faerberin,49699,49702,mir,die_frau_die_faerberin
+gdc,qdcq.0,48783,49732,die_frau_die_faerberin,49720,49723,ich,die_frau_die_faerberin
+gdc,qdcq.0,49793,50173,die_frau_die_faerberin,49821,49824,ich,die_frau_die_faerberin
+gdc,qdcq.0,49793,50173,die_frau_die_faerberin,49829,49835,meinem,die_frau_die_faerberin
+gdc,qdcq.0,49793,50173,die_frau_die_faerberin,49880,49884,mein,die_frau_die_faerberin
+gdc,qdcq.0,49793,50173,die_frau_die_faerberin,49945,49948,ich,die_frau_die_faerberin
+gdc,qdcq.0,49793,50173,die_frau_die_faerberin,49954,49958,mich,die_frau_die_faerberin
+gdc,qdcq.0,49793,50173,die_frau_die_faerberin,50059,50062,ich,die_frau_die_faerberin
+gdc,qdcq.0,49793,50173,die_frau_die_faerberin,50063,50069,meinen,die_frau_die_faerberin
+gdc,qdcq.0,50179,50301,barak,50256,50259,ich,barak
+gdc,qdcq.0,50725,50983,barak,50907,50910,ich,barak
+gdc,qdcq.0,50725,50983,barak,50944,50950,meinen,barak
+gdc,qdcq.0,50998,51019,_stage,51013,51018,Barak,barak
+gdc,qdcq.0,51153,51322,barak,51193,51197,Mein,barak
+gdc,qdcq.0,51153,51322,barak,51225,51228,mir,barak
+gdc,qdcq.0,51153,51322,barak,51286,51289,ich,barak
+gdc,qdcq.0,51153,51322,barak,51308,51314,meinen,barak
+gdc,qdcq.0,51339,51360,_stage,51354,51359,Barak,barak
+gdc,qdcq.0,51440,51759,barak,51467,51470,mir,barak
+gdc,qdcq.0,51440,51759,barak,51484,51487,ich,barak
+gdc,qdcq.0,51440,51759,barak,51502,51505,Ich,barak
+gdc,qdcq.0,51440,51759,barak,51526,51532,meiner,barak
+gdc,qdcq.0,51440,51759,barak,51568,51574,meinen,barak
+gdc,qdcq.0,51772,51902,_stage,51880,51885,Barak,barak
+gdc,qdcq.0,52075,52399,die_kaiserin,52180,52183,Ich,die_kaiserin
+gdc,qdcq.0,52075,52399,die_kaiserin,52229,52232,ich,die_kaiserin
+gdc,qdcq.0,52075,52399,die_kaiserin,52252,52257,Meine,die_kaiserin
+gdc,qdcq.0,52075,52399,die_kaiserin,52269,52272,ich,die_kaiserin
+gdc,qdcq.0,52075,52399,die_kaiserin,52342,52345,ich,die_kaiserin
+gdc,qdcq.0,52075,52399,die_kaiserin,52356,52360,mich,die_kaiserin
+gdc,qdcq.0,52414,52751,_stage,52667,52672,Barak,barak
+gdc,qdcq.0,52405,53254,die_frau_die_faerberin,52753,52758,Barak,barak
+gdc,qdcq.0,52405,53254,die_frau_die_faerberin,52760,52763,ich,die_frau_die_faerberin
+gdc,qdcq.0,52405,53254,die_frau_die_faerberin,52810,52814,mich,die_frau_die_faerberin
+gdc,qdcq.0,52405,53254,die_frau_die_faerberin,52816,52821,Barak,barak
+gdc,qdcq.0,52405,53254,die_frau_die_faerberin,52839,52843,mein,die_frau_die_faerberin
+gdc,qdcq.0,52405,53254,die_frau_die_faerberin,52852,52855,mir,die_frau_die_faerberin
+gdc,qdcq.0,52405,53254,die_frau_die_faerberin,52895,52898,ich,die_frau_die_faerberin
+gdc,qdcq.0,52405,53254,die_frau_die_faerberin,52935,52938,ich,die_frau_die_faerberin
+gdc,qdcq.0,52405,53254,die_frau_die_faerberin,52989,52992,ich,die_frau_die_faerberin
+gdc,qdcq.0,52405,53254,die_frau_die_faerberin,53017,53022,Barak,barak
+gdc,qdcq.0,52405,53254,die_frau_die_faerberin,53059,53064,Barak,barak
+gdc,qdcq.0,52405,53254,die_frau_die_faerberin,53074,53078,mich,die_frau_die_faerberin
+gdc,qdcq.0,53092,53254,_stage,53092,53097,Barak,barak
+gdc,qdcq.0,53443,54029,_stage,53449,53454,Barak,barak
+gdc,qdcq.0,53443,54029,_stage,53761,53766,Barak,barak
+gdc,qdcq.0,53443,54029,_stage,53840,53848,Die Amme,die_amme
+gdc,qdcq.0,53443,54029,_stage,53853,53865,die Kaiserin,die_kaiserin
+gdc,qdcq.0,53443,54029,_stage,54022,54028,Stimme,stimme_von_oben
+gdc,qdcq.0,54033,54111,die_amme,54078,54081,mir,die_amme
+gdc,qdcq.0,54134,54433,_stage,54238,54243,Barak,barak
+gdc,qdcq.0,54514,55228,die_frau_die_faerberin,54555,54558,Ich,die_frau_die_faerberin
+gdc,qdcq.0,54514,55228,die_frau_die_faerberin,54604,54609,Barak,barak
+gdc,qdcq.0,54514,55228,die_frau_die_faerberin,54611,54615,mein,die_frau_die_faerberin
+gdc,qdcq.0,54514,55228,die_frau_die_faerberin,54632,54636,mich,die_frau_die_faerberin
+gdc,qdcq.0,54514,55228,die_frau_die_faerberin,54654,54657,mir,die_frau_die_faerberin
+gdc,qdcq.0,54514,55228,die_frau_die_faerberin,54673,54679,meinem,die_frau_die_faerberin
+gdc,qdcq.0,54514,55228,die_frau_die_faerberin,54721,54724,ich,die_frau_die_faerberin
+gdc,qdcq.0,54514,55228,die_frau_die_faerberin,54762,54765,ich,die_frau_die_faerberin
+gdc,qdcq.0,54514,55228,die_frau_die_faerberin,54783,54786,ich,die_frau_die_faerberin
+gdc,qdcq.0,54514,55228,die_frau_die_faerberin,54864,54867,mir,die_frau_die_faerberin
+gdc,qdcq.0,54514,55228,die_frau_die_faerberin,54880,54884,mich,die_frau_die_faerberin
+gdc,qdcq.0,54514,55228,die_frau_die_faerberin,54904,54907,mir,die_frau_die_faerberin
+gdc,qdcq.0,54514,55228,die_frau_die_faerberin,54933,54936,ich,die_frau_die_faerberin
+gdc,qdcq.0,54514,55228,die_frau_die_faerberin,54959,54962,ich,die_frau_die_faerberin
+gdc,qdcq.0,54514,55228,die_frau_die_faerberin,54984,54987,ich,die_frau_die_faerberin
+gdc,qdcq.0,54514,55228,die_frau_die_faerberin,55041,55044,mir,die_frau_die_faerberin
+gdc,qdcq.0,54514,55228,die_frau_die_faerberin,55058,55062,mich,die_frau_die_faerberin
+gdc,qdcq.0,54514,55228,die_frau_die_faerberin,55116,55119,ich,die_frau_die_faerberin
+gdc,qdcq.0,54514,55228,die_frau_die_faerberin,55141,55144,mir,die_frau_die_faerberin
+gdc,qdcq.0,54514,55228,die_frau_die_faerberin,55173,55178,Barak,barak
+gdc,qdcq.0,54514,55228,die_frau_die_faerberin,55180,55185,Barak,barak
+gdc,qdcq.0,54514,55228,die_frau_die_faerberin,55199,55202,ich,die_frau_die_faerberin
+gdc,qdcq.0,55234,55395,barak,55255,55258,Mir,barak
+gdc,qdcq.0,55234,55395,barak,55276,55279,ich,barak
+gdc,qdcq.0,55234,55395,barak,55295,55298,ich,barak
+gdc,qdcq.0,55401,55535,die_frau_die_faerberin,55460,55464,mich,die_frau_die_faerberin
+gdc,qdcq.0,55541,55721,barak,55607,55613,meiner,barak
+gdc,qdcq.0,55541,55721,barak,55625,55628,mir,barak
+gdc,qdcq.0,55541,55721,barak,55634,55637,ich,barak
+gdc,qdcq.0,55808,55953,_stage,55834,55840,Stimme,stimme_von_oben
+gdc,qdcq.0,55954,56005,_stage,55954,55959,Barak,barak
+gdc,qdcq.0,56010,56264,die_frau_die_faerberin,56021,56026,Barak,barak
+gdc,qdcq.0,56010,56264,die_frau_die_faerberin,56028,56032,mein,die_frau_die_faerberin
+gdc,qdcq.0,56010,56264,die_frau_die_faerberin,56111,56114,mir,die_frau_die_faerberin
+gdc,qdcq.0,56010,56264,die_frau_die_faerberin,56156,56159,ich,die_frau_die_faerberin
+gdc,qdcq.0,56705,56818,_stage,56765,56773,der Bote,der_bote
+gdc,qdcq.0,56705,56818,_stage,56769,56773,Bote,der_bote
+gdc,qdcq.0,56705,56818,_stage,56784,56800,Dienende Geister,dienende_geister
+gdc,qdcq.0,56819,57009,_stage,56875,56887,Die Kaiserin,die_kaiserin
+gdc,qdcq.0,56819,57009,_stage,56914,56922,die Amme,die_amme
+gdc,qdcq.0,57010,57079,_stage,57010,57018,Der Bote,der_bote
+gdc,qdcq.0,57010,57079,_stage,57014,57018,Bote,der_bote
+gdc,qdcq.0,57229,57250,_stage,57229,57241,Die Kaiserin,die_kaiserin
+gdc,qdcq.0,57251,57349,_stage,57251,57259,Die Amme,die_amme
+gdc,qdcq.0,57376,57432,_stage,57376,57388,Die Kaiserin,die_kaiserin
+gdc,qdcq.0,57436,57692,die_amme,57505,57508,mir,die_amme
+gdc,qdcq.0,57436,57692,die_amme,57652,57655,ich,die_amme
+gdc,qdcq.0,57785,58092,die_amme,57910,57913,Ich,die_amme
+gdc,qdcq.0,57785,58092,die_amme,58050,58053,ich,die_amme
+gdc,qdcq.0,57785,58092,die_amme,58075,58078,ich,die_amme
+gdc,qdcq.0,58098,58262,die_kaiserin,58203,58206,ich,die_kaiserin
+gdc,qdcq.0,58267,58725,die_kaiserin,58348,58352,Mein,die_kaiserin
+gdc,qdcq.0,58267,58725,die_kaiserin,58390,58393,ich,die_kaiserin
+gdc,qdcq.0,58267,58725,die_kaiserin,58416,58419,ich,die_kaiserin
+gdc,qdcq.0,58267,58725,die_kaiserin,58568,58571,ich,die_kaiserin
+gdc,qdcq.0,58267,58725,die_kaiserin,58588,58591,ich,die_kaiserin
+gdc,qdcq.0,58267,58725,die_kaiserin,58600,58604,mich,die_kaiserin
+gdc,qdcq.0,58614,58689,_stage,58614,58622,Die Amme,die_amme
+gdc,qdcq.0,58729,59009,die_kaiserin,58773,58777,Mein,die_kaiserin
+gdc,qdcq.0,58729,59009,die_kaiserin,58870,58874,mich,die_kaiserin
+gdc,qdcq.0,58729,59009,die_kaiserin,58897,58900,ich,die_kaiserin
+gdc,qdcq.0,58729,59009,die_kaiserin,58910,58913,ich,die_kaiserin
+gdc,qdcq.0,58729,59009,die_kaiserin,58937,58940,mir,die_kaiserin
+gdc,qdcq.0,58729,59009,die_kaiserin,58959,58962,ich,die_kaiserin
+gdc,qdcq.0,59013,59711,die_amme,59049,59052,ich,die_amme
+gdc,qdcq.0,59013,59711,die_amme,59432,59435,Ich,die_amme
+gdc,qdcq.0,59013,59711,die_amme,59458,59461,ich,die_amme
+gdc,qdcq.0,59013,59711,die_amme,59483,59486,ich,die_amme
+gdc,qdcq.0,59013,59711,die_amme,59614,59617,mir,die_amme
+gdc,qdcq.0,59717,59816,die_kaiserin,59812,59815,mir,die_kaiserin
+gdc,qdcq.0,59866,60063,die_kaiserin,59889,59892,mir,die_kaiserin
+gdc,qdcq.0,59866,60063,die_kaiserin,59968,59971,mir,die_kaiserin
+gdc,qdcq.0,59866,60063,die_kaiserin,60038,60041,mir,die_kaiserin
+gdc,qdcq.0,60045,60063,_stage,60045,60053,Die Amme,die_amme
+gdc,qdcq.0,60067,60424,die_kaiserin,60136,60139,mir,die_kaiserin
+gdc,qdcq.0,60067,60424,die_kaiserin,60165,60168,mir,die_kaiserin
+gdc,qdcq.0,60067,60424,die_kaiserin,60184,60187,mir,die_kaiserin
+gdc,qdcq.0,60067,60424,die_kaiserin,60210,60213,Ich,die_kaiserin
+gdc,qdcq.0,60067,60424,die_kaiserin,60247,60250,ich,die_kaiserin
+gdc,qdcq.0,60067,60424,die_kaiserin,60364,60367,ich,die_kaiserin
+gdc,qdcq.0,60428,60978,die_amme,60614,60617,ich,die_amme
+gdc,qdcq.0,60428,60978,die_amme,60627,60631,mein,die_amme
+gdc,qdcq.0,60428,60978,die_amme,60655,60658,ich,die_amme
+gdc,qdcq.0,61036,61525,die_amme,61074,61078,mich,die_amme
+gdc,qdcq.0,61531,62250,die_kaiserin,61746,61749,ich,die_kaiserin
+gdc,qdcq.0,61531,62250,die_kaiserin,61750,61754,mich,die_kaiserin
+gdc,qdcq.0,61531,62250,die_kaiserin,62109,62112,Ich,die_kaiserin
+gdc,qdcq.0,61531,62250,die_kaiserin,62160,62163,mir,die_kaiserin
+gdc,qdcq.0,62254,62649,die_amme,62555,62561,meines,die_amme
+gdc,qdcq.0,62731,62765,barak,62750,62753,ich,barak
+gdc,qdcq.0,62770,62812,die_frau_die_faerberin,62797,62801,mein,die_frau_die_faerberin
+gdc,qdcq.0,62870,62920,die_frau_die_faerberin,62903,62907,mich,die_frau_die_faerberin
+gdc,qdcq.0,62870,62920,die_frau_die_faerberin,62915,62919,mich,die_frau_die_faerberin
+gdc,qdcq.0,62954,63082,die_amme,62990,62993,ich,die_amme
+gdc,qdcq.0,63088,63263,barak,63123,63126,Ich,barak
+gdc,qdcq.0,63088,63263,barak,63133,63138,meine,barak
+gdc,qdcq.0,63088,63263,barak,63153,63156,mir,barak
+gdc,qdcq.0,63166,63218,_stage,63174,63182,die Amme,die_amme
+gdc,qdcq.0,63088,63263,barak,63251,63256,meine,barak
+gdc,qdcq.0,63460,63560,die_frau_die_faerberin,63525,63529,mein,die_frau_die_faerberin
+gdc,qdcq.0,63460,63560,die_frau_die_faerberin,63544,63547,ich,die_frau_die_faerberin
+gdc,qdcq.0,63671,63832,die_frau_die_faerberin,63740,63745,Barak,barak
+gdc,qdcq.0,63671,63832,die_frau_die_faerberin,63783,63787,mich,die_frau_die_faerberin
+gdc,qdcq.0,63836,64205,die_amme,63853,63857,mein,die_amme
+gdc,qdcq.0,63836,64205,die_amme,64162,64165,ich,die_amme
+gdc,qdcq.0,64209,64355,der_bote,64292,64298,Stimme,stimme_von_oben
+gdc,qdcq.0,64361,64602,die_amme,64400,64403,Mir,die_amme
+gdc,qdcq.0,64361,64602,die_amme,64429,64433,Bote,der_bote
+gdc,qdcq.0,64361,64602,die_amme,64453,64456,ich,die_amme
+gdc,qdcq.0,64361,64602,die_amme,64475,64478,ich,die_amme
+gdc,qdcq.0,64361,64602,die_amme,64505,64509,mich,die_amme
+gdc,qdcq.0,64361,64602,die_amme,64532,64536,mich,die_amme
+gdc,qdcq.0,64361,64602,die_amme,64569,64573,mich,die_amme
+gdc,qdcq.0,64712,65075,die_amme,64817,64820,Mir,die_amme
+gdc,qdcq.0,64712,65075,die_amme,64833,64836,ich,die_amme
+gdc,qdcq.0,65581,65602,die_frau_die_faerberin,65597,65601,mich,die_frau_die_faerberin
+gdc,qdcq.0,65608,65627,barak,65623,65626,mir,barak
+gdc,qdcq.0,65632,65654,die_frau_die_faerberin,65650,65653,mir,die_frau_die_faerberin
+gdc,qdcq.0,65891,65934,die_frau_die_faerberin,65922,65926,mich,die_frau_die_faerberin
+gdc,qdcq.0,66052,66131,barak,66060,66063,Mir,barak
+gdc,qdcq.0,66052,66131,barak,66081,66084,ich,barak
+gdc,qdcq.0,66137,66199,die_amme,66159,66163,mich,die_amme
+gdc,qdcq.0,66137,66199,die_amme,66183,66186,Ich,die_amme
+gdc,qdcq.0,66293,66410,die_amme,66309,66313,mein,die_amme
+gdc,qdcq.0,66293,66410,die_amme,66321,66324,Mir,die_amme
+gdc,qdcq.0,66574,66743,die_amme,66604,66607,ich,die_amme
+gdc,qdcq.0,66574,66743,die_amme,66650,66654,mich,die_amme
+gdc,qdcq.0,66920,67031,_stage,66920,66928,Die Amme,die_amme
+gdc,qdcq.0,67363,67408,_stage,67363,67375,Die Kaiserin,die_kaiserin
+gdc,qdcq.0,67409,67471,_stage,67409,67425,Dienende Geister,dienende_geister
+gdc,qdcq.0,67749,68103,die_kaiserin,67821,67824,mir,die_kaiserin
+gdc,qdcq.0,67749,68103,die_kaiserin,67870,67874,Mich,die_kaiserin
+gdc,qdcq.0,67749,68103,die_kaiserin,67891,67894,ich,die_kaiserin
+gdc,qdcq.0,67749,68103,die_kaiserin,67925,67928,ich,die_kaiserin
+gdc,qdcq.0,67749,68103,die_kaiserin,67937,67940,mir,die_kaiserin
+gdc,qdcq.0,67749,68103,die_kaiserin,67962,67965,mir,die_kaiserin
+gdc,qdcq.0,67749,68103,die_kaiserin,67982,67985,mir,die_kaiserin
+gdc,qdcq.0,68107,68255,die_kaiserin,68186,68190,mich,die_kaiserin
+gdc,qdcq.0,68107,68255,die_kaiserin,68211,68214,ich,die_kaiserin
+gdc,qdcq.0,68107,68255,die_kaiserin,68236,68239,mir,die_kaiserin
+gdc,qdcq.0,68461,68496,die_frau_die_faerberin,68490,68495,Barak,barak
+gdc,qdcq.0,68575,68601,barak,68597,68600,mir,barak
+gdc,qdcq.0,68681,69494,die_kaiserin,68696,68709,Baraks Stimme,barak
+gdc,qdcq.0,68681,69494,die_kaiserin,68703,68709,Stimme,stimme_von_oben
+gdc,qdcq.0,68681,69494,die_kaiserin,68727,68732,Meine,die_kaiserin
+gdc,qdcq.0,68681,69494,die_kaiserin,68833,68836,ich,die_kaiserin
+gdc,qdcq.0,68681,69494,die_kaiserin,68905,68908,ich,die_kaiserin
+gdc,qdcq.0,68681,69494,die_kaiserin,68967,68970,ich,die_kaiserin
+gdc,qdcq.0,68681,69494,die_kaiserin,68979,68983,Mein,die_kaiserin
+gdc,qdcq.0,68681,69494,die_kaiserin,69027,69030,ich,die_kaiserin
+gdc,qdcq.0,68681,69494,die_kaiserin,69056,69059,ich,die_kaiserin
+gdc,qdcq.0,68681,69494,die_kaiserin,69103,69109,meinem,die_kaiserin
+gdc,qdcq.0,68681,69494,die_kaiserin,69154,69157,Ich,die_kaiserin
+gdc,qdcq.0,68681,69494,die_kaiserin,69163,69167,mein,die_kaiserin
+gdc,qdcq.0,68681,69494,die_kaiserin,69198,69202,Mein,die_kaiserin
+gdc,qdcq.0,69222,69494,_stage,69421,69431,der Kaiser,der_kaiser
+gdc,qdcq.0,69498,70394,die_kaiserin,69533,69536,mir,die_kaiserin
+gdc,qdcq.0,69498,70394,die_kaiserin,69539,69543,Mein,die_kaiserin
+gdc,qdcq.0,69498,70394,die_kaiserin,69618,69624,Meines,die_kaiserin
+gdc,qdcq.0,69498,70394,die_kaiserin,69689,69693,mein,die_kaiserin
+gdc,qdcq.0,69498,70394,die_kaiserin,69724,69728,mich,die_kaiserin
+gdc,qdcq.0,69498,70394,die_kaiserin,69769,69775,meinem,die_kaiserin
+gdc,qdcq.0,69498,70394,die_kaiserin,69819,69825,meiner,die_kaiserin
+gdc,qdcq.0,69498,70394,die_kaiserin,69931,69937,meiner,die_kaiserin
+gdc,qdcq.0,69498,70394,die_kaiserin,69946,69950,Mein,die_kaiserin
+gdc,qdcq.0,69498,70394,die_kaiserin,69976,69981,Meine,die_kaiserin
+gdc,qdcq.0,69498,70394,die_kaiserin,70192,70196,mich,die_kaiserin
+gdc,qdcq.0,70398,70639,die_kaiserin,70451,70454,Ich,die_kaiserin
+gdc,qdcq.0,70398,70639,die_kaiserin,70475,70478,ich,die_kaiserin
+gdc,qdcq.0,70493,70639,_stage,70616,70628,die Kaiserin,die_kaiserin
+gdc,qdcq.0,70644,70868,unirdische_stimmen,70730,70740,der Kaiser,der_kaiser
+gdc,qdcq.0,70872,71052,stimme_von_oben,70902,70905,Ich,stimme_von_oben
+gdc,qdcq.0,71058,71215,die_kaiserin,71137,71141,mich,die_kaiserin
+gdc,qdcq.0,71058,71215,die_kaiserin,71161,71164,Ich,die_kaiserin
+gdc,qdcq.0,71058,71215,die_kaiserin,71185,71189,mich,die_kaiserin
+gdc,qdcq.0,71058,71215,die_kaiserin,71203,71206,ich,die_kaiserin
+gdc,qdcq.0,71299,71813,die_kaiserin,71432,71435,Ich,die_kaiserin
+gdc,qdcq.0,71453,71813,_stage,71726,71736,Der Kaiser,der_kaiser
+gdc,qdcq.0,71817,72401,der_kaiser,72140,72143,mir,der_kaiser
+gdc,qdcq.0,71817,72401,der_kaiser,72160,72163,ich,der_kaiser
+gdc,qdcq.0,71817,72401,der_kaiser,72190,72193,ich,der_kaiser
+gdc,qdcq.0,73019,73418,_stage,73066,73078,Die Kaiserin,die_kaiserin
+gdc,qdcq.0,73019,73418,_stage,73245,73255,Der Kaiser,der_kaiser
+gdc,qdcq.0,73019,73418,_stage,73350,73362,Die Kaiserin,die_kaiserin
+gdc,qdcq.0,73019,73418,_stage,73367,73377,der Kaiser,der_kaiser
+gdc,qdcq.0,73630,73711,_stage,73630,73640,Der Kaiser,der_kaiser
+gdc,qdcq.0,73630,73711,_stage,73645,73657,die Kaiserin,die_kaiserin
+gdc,qdcq.0,73715,73953,die_kaiserin,73928,73931,ich,die_kaiserin
+gdc,qdcq.0,73715,73953,die_kaiserin,73937,73940,ich,die_kaiserin
+gdc,qdcq.0,73959,74444,der_kaiser,74144,74147,mir,der_kaiser
+gdc,qdcq.0,74448,74603,die_frau_die_faerberin,74501,74505,mich,die_frau_die_faerberin
+gdc,qdcq.0,74448,74603,die_frau_die_faerberin,74533,74537,mich,die_frau_die_faerberin
+gdc,qdcq.0,74607,74815,barak,74658,74661,ich,barak
+gdc,qdcq.0,74819,74882,barak,74870,74874,mich,barak
+gdc,qdcq.0,74888,74932,die_frau_die_faerberin,74928,74931,mir,die_frau_die_faerberin
+gdc,qdcq.0,75128,75197,_stage,75128,75133,Barak,barak
+gdc,qdcq.0,75198,75283,_stage,75198,75208,Der Kaiser,der_kaiser
+gdc,qdcq.0,75198,75283,_stage,75213,75225,die Kaiserin,die_kaiserin
+gdc,qdcq.0,75360,75576,barak,75377,75380,ich,barak
+gdc,qdcq.0,75360,75576,barak,75421,75424,ich,barak
+gdc,qdcq.0,75360,75576,barak,75469,75473,mich,barak
+gdc,qdcq.0,75360,75576,barak,75540,75543,ich,barak

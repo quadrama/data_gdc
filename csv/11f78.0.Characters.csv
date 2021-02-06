@@ -1,6 +1,6 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,11f78.0,IPHIGENIE,iphigenie,,
-gdc,11f78.0,ARKAS,arkas,,
-gdc,11f78.0,THOAS,thoas,,
-gdc,11f78.0,OREST,orest,,
-gdc,11f78.0,PYLADES,pylades,,
+gdc,11f78.0,Iphigenie,iphigenie,FEMALE,
+gdc,11f78.0,Thoas,thoas,MALE,
+gdc,11f78.0,Pylades,pylades,MALE,
+gdc,11f78.0,Arkas,arkas,MALE,
+gdc,11f78.0,Orest,orest,MALE,

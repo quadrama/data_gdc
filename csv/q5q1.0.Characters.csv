@@ -1,7 +1,7 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,q5q1.0,WILHELMINE,wilhelmine,,
-gdc,q5q1.0,LISETTE,lisette,,
-gdc,q5q1.0,JOHANN,johann,,
-gdc,q5q1.0,VALER,valer,,
-gdc,q5q1.0,HERR ORBIL,herr_orbil,,
-gdc,q5q1.0,DER MAGISTER,der_magister,,
+gdc,q5q1.0,Herr Orbil,orbil,MALE,
+gdc,q5q1.0,Valer,valer,MALE,
+gdc,q5q1.0,Wilhelmine,wilhelmine,FEMALE,
+gdc,q5q1.0,Der Magister,der_magister,MALE,
+gdc,q5q1.0,Johann,johann,MALE,
+gdc,q5q1.0,Lisette,lisette,FEMALE,

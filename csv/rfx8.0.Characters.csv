@@ -1,4 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,rfx8.0,DER FÜRST,der_fürst,,
-gdc,rfx8.0,DER KAMMERHERR,der_kammerherr,,
-gdc,rfx8.0,DER GEIST,der_geist,,
+gdc,rfx8.0,Der Fürst,der_fuerst,MALE,
+gdc,rfx8.0,Der Kammerherr,der_kammerherr,MALE,
+gdc,rfx8.0,Der Geist,der_geist,UNKNOWN,

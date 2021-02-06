@@ -1,0 +1,784 @@
+corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+gdc,pkhm.0,1344,1942,_stage,1485,1493,Rapunzel,rapunzel
+gdc,pkhm.0,1943,3101,_stage,2496,2512,die alte Raschke,die_alte_raschke
+gdc,pkhm.0,1943,3101,_stage,2835,2843,Rapunzel,rapunzel
+gdc,pkhm.0,3117,3609,_stage,3550,3566,Prinzessin Trull,prinzessin_trull
+gdc,pkhm.0,3611,4691,prinzessin_trull,3764,3767,ich,prinzessin_trull
+gdc,pkhm.0,3611,4691,prinzessin_trull,3816,3821,meine,prinzessin_trull
+gdc,pkhm.0,3611,4691,prinzessin_trull,3887,3890,ich,prinzessin_trull
+gdc,pkhm.0,3611,4691,prinzessin_trull,3910,3916,meinem,prinzessin_trull
+gdc,pkhm.0,3611,4691,prinzessin_trull,4108,4112,mein,prinzessin_trull
+gdc,pkhm.0,3611,4691,prinzessin_trull,4145,4150,meine,prinzessin_trull
+gdc,pkhm.0,3611,4691,prinzessin_trull,4180,4183,ich,prinzessin_trull
+gdc,pkhm.0,3611,4691,prinzessin_trull,4197,4213,Prinzessin Trull,prinzessin_trull
+gdc,pkhm.0,3611,4691,prinzessin_trull,4218,4221,ich,prinzessin_trull
+gdc,pkhm.0,3611,4691,prinzessin_trull,4273,4289,Die alte Raschke,die_alte_raschke
+gdc,pkhm.0,3611,4691,prinzessin_trull,4343,4359,Prinzessin Trull,prinzessin_trull
+gdc,pkhm.0,3611,4691,prinzessin_trull,4361,4365,Mein,prinzessin_trull
+gdc,pkhm.0,3611,4691,prinzessin_trull,4415,4419,mein,prinzessin_trull
+gdc,pkhm.0,3611,4691,prinzessin_trull,4460,4463,ich,prinzessin_trull
+gdc,pkhm.0,3611,4691,prinzessin_trull,4486,4489,ich,prinzessin_trull
+gdc,pkhm.0,3611,4691,prinzessin_trull,4608,4613,meine,prinzessin_trull
+gdc,pkhm.0,3611,4691,prinzessin_trull,4647,4650,ich,prinzessin_trull
+gdc,pkhm.0,3611,4691,prinzessin_trull,4671,4687,Prinzessin Trull,prinzessin_trull
+gdc,pkhm.0,5080,5622,prinzessin_trull,5113,5116,mir,prinzessin_trull
+gdc,pkhm.0,5080,5622,prinzessin_trull,5122,5127,meine,prinzessin_trull
+gdc,pkhm.0,5080,5622,prinzessin_trull,5143,5146,ich,prinzessin_trull
+gdc,pkhm.0,5080,5622,prinzessin_trull,5156,5162,meinem,prinzessin_trull
+gdc,pkhm.0,5080,5622,prinzessin_trull,5257,5261,mich,prinzessin_trull
+gdc,pkhm.0,5080,5622,prinzessin_trull,5277,5280,ich,prinzessin_trull
+gdc,pkhm.0,5080,5622,prinzessin_trull,5297,5300,ich,prinzessin_trull
+gdc,pkhm.0,5080,5622,prinzessin_trull,5384,5387,ich,prinzessin_trull
+gdc,pkhm.0,5080,5622,prinzessin_trull,5401,5417,Prinzessin Trull,prinzessin_trull
+gdc,pkhm.0,5080,5622,prinzessin_trull,5576,5579,Ich,prinzessin_trull
+gdc,pkhm.0,5904,5985,prinzessin_trull,5925,5929,mein,prinzessin_trull
+gdc,pkhm.0,5990,6433,die_alte_raschke,6014,6017,mir,die_alte_raschke
+gdc,pkhm.0,5990,6433,die_alte_raschke,6315,6323,Rapunzel,rapunzel
+gdc,pkhm.0,5990,6433,die_alte_raschke,6363,6371,Rapunzel,rapunzel
+gdc,pkhm.0,5990,6433,die_alte_raschke,6392,6400,Christel,christel
+gdc,pkhm.0,6438,6514,rapunzel,6471,6479,Christel,christel
+gdc,pkhm.0,6519,6674,prinzessin_trull,6614,6618,mein,prinzessin_trull
+gdc,pkhm.0,7162,7296,rapunzel,7183,7186,Ich,rapunzel
+gdc,pkhm.0,7162,7296,rapunzel,7209,7212,ich,rapunzel
+gdc,pkhm.0,7162,7296,rapunzel,7235,7238,ich,rapunzel
+gdc,pkhm.0,7162,7296,rapunzel,7244,7248,mich,rapunzel
+gdc,pkhm.0,7162,7296,rapunzel,7266,7269,ich,rapunzel
+gdc,pkhm.0,7162,7296,rapunzel,7275,7279,mich,rapunzel
+gdc,pkhm.0,7352,7462,rapunzel,7400,7403,Ich,rapunzel
+gdc,pkhm.0,7352,7462,rapunzel,7414,7417,ich,rapunzel
+gdc,pkhm.0,7774,8434,rapunzel,8302,8306,mein,rapunzel
+gdc,pkhm.0,8666,9465,rapunzel,8874,8877,ich,rapunzel
+gdc,pkhm.0,8666,9465,rapunzel,9109,9113,mein,rapunzel
+gdc,pkhm.0,9511,10223,rapunzel,9761,9764,mir,rapunzel
+gdc,pkhm.0,9511,10223,rapunzel,9855,9863,Christel,christel
+gdc,pkhm.0,9511,10223,rapunzel,9868,9876,Christel,christel
+gdc,pkhm.0,9511,10223,rapunzel,9954,9957,ich,rapunzel
+gdc,pkhm.0,9511,10223,rapunzel,9965,9969,mich,rapunzel
+gdc,pkhm.0,9511,10223,rapunzel,10198,10201,ich,rapunzel
+gdc,pkhm.0,10304,10416,rapunzel,10350,10353,ich,rapunzel
+gdc,pkhm.0,10437,10745,_stage,10470,10486,die alte Raschke,die_alte_raschke
+gdc,pkhm.0,10747,11620,die_alte_raschke,10814,10817,ich,die_alte_raschke
+gdc,pkhm.0,10747,11620,die_alte_raschke,11029,11045,Prinzessin Trull,prinzessin_trull
+gdc,pkhm.0,11625,11799,der_alte_raschke,11780,11788,Rapunzel,rapunzel
+gdc,pkhm.0,11804,11911,die_alte_raschke,11873,11881,Rapunzel,rapunzel
+gdc,pkhm.0,11917,11964,der_alte_raschke,11935,11938,Ich,der_alte_raschke
+gdc,pkhm.0,12912,13089,die_junge_raschke,12931,12934,Ich,die_junge_raschke
+gdc,pkhm.0,12912,13089,die_junge_raschke,13032,13041,die Leute,die_leute
+gdc,pkhm.0,13112,13786,der_alte_raschke,13409,13413,mein,der_alte_raschke
+gdc,pkhm.0,13892,14415,der_alte_raschke,13973,13976,ich,der_alte_raschke
+gdc,pkhm.0,13892,14415,der_alte_raschke,14267,14270,Ich,der_alte_raschke
+gdc,pkhm.0,13892,14415,der_alte_raschke,14290,14293,ich,der_alte_raschke
+gdc,pkhm.0,13892,14415,der_alte_raschke,14299,14304,meine,der_alte_raschke
+gdc,pkhm.0,13892,14415,der_alte_raschke,14333,14336,ich,der_alte_raschke
+gdc,pkhm.0,14420,14634,die_junge_raschke,14471,14476,meine,die_junge_raschke
+gdc,pkhm.0,14420,14634,die_junge_raschke,14496,14500,mein,die_junge_raschke
+gdc,pkhm.0,14420,14634,die_junge_raschke,14552,14555,ich,die_junge_raschke
+gdc,pkhm.0,14420,14634,die_junge_raschke,14626,14630,mich,die_junge_raschke
+gdc,pkhm.0,14656,14841,_stage,14705,14721,der alte Raschke,der_alte_raschke
+gdc,pkhm.0,15009,15289,die_junge_raschke,15090,15095,meine,die_junge_raschke
+gdc,pkhm.0,15009,15289,die_junge_raschke,15182,15185,ich,die_junge_raschke
+gdc,pkhm.0,15441,16046,die_alte_raschke,15669,15672,ich,die_alte_raschke
+gdc,pkhm.0,15871,16046,_stage,15871,15887,Der alte Raschke,der_alte_raschke
+gdc,pkhm.0,16050,16366,der_gendarm,16121,16124,ich,der_gendarm
+gdc,pkhm.0,16482,16686,die_alte_raschke,16620,16623,ich,die_alte_raschke
+gdc,pkhm.0,16798,16957,der_gendarm,16816,16820,mich,der_gendarm
+gdc,pkhm.0,16962,17139,der_alte_raschke,17032,17036,mich,der_alte_raschke
+gdc,pkhm.0,17211,17653,der_alte_raschke,17576,17579,ich,der_alte_raschke
+gdc,pkhm.0,17211,17653,der_alte_raschke,17615,17618,ich,der_alte_raschke
+gdc,pkhm.0,17885,17929,der_alte_raschke,17912,17916,mich,der_alte_raschke
+gdc,pkhm.0,18272,18373,_stage,18277,18293,der alte Raschke,der_alte_raschke
+gdc,pkhm.0,18260,18928,der_gendarm,18396,18399,ich,der_gendarm
+gdc,pkhm.0,18260,18928,der_gendarm,18595,18599,mich,der_gendarm
+gdc,pkhm.0,18260,18928,der_gendarm,18874,18877,ich,der_gendarm
+gdc,pkhm.0,19053,19373,die_junge_raschke,19072,19075,Ich,die_junge_raschke
+gdc,pkhm.0,19295,19373,_stage,19295,19311,Der alte Raschke,der_alte_raschke
+gdc,pkhm.0,19428,19499,die_alte_raschke,19449,19454,meine,die_alte_raschke
+gdc,pkhm.0,20068,20192,die_junge_raschke,20157,20160,ich,die_junge_raschke
+gdc,pkhm.0,20197,20325,der_gendarm,20238,20241,ich,der_gendarm
+gdc,pkhm.0,20331,20554,die_junge_raschke,20510,20519,die Leute,die_leute
+gdc,pkhm.0,20559,20760,der_gendarm,20588,20591,mir,der_gendarm
+gdc,pkhm.0,20765,20883,die_junge_raschke,20868,20871,ich,die_junge_raschke
+gdc,pkhm.0,20941,21220,die_junge_raschke,21054,21057,ich,die_junge_raschke
+gdc,pkhm.0,21122,21220,_stage,21147,21164,die junge Raschke,die_junge_raschke
+gdc,pkhm.0,21463,21693,der_alte_raschke,21500,21511,der Gendarm,der_gendarm
+gdc,pkhm.0,21648,21693,_stage,21648,21665,Der junge Raschke,der_junge_raschke
+gdc,pkhm.0,21821,21886,der_alte_raschke,21839,21843,Mein,der_alte_raschke
+gdc,pkhm.0,21821,21886,der_alte_raschke,21853,21857,mein,der_alte_raschke
+gdc,pkhm.0,22212,22640,der_gendarm,22239,22242,ich,der_gendarm
+gdc,pkhm.0,22212,22640,der_gendarm,22442,22445,ich,der_gendarm
+gdc,pkhm.0,22212,22640,der_gendarm,22503,22506,ich,der_gendarm
+gdc,pkhm.0,22516,22585,_stage,22516,22533,Der junge Raschke,der_junge_raschke
+gdc,pkhm.0,22586,22640,_stage,22586,22597,Der Gendarm,der_gendarm
+gdc,pkhm.0,22991,23061,_stage,22991,23002,Der Gendarm,der_gendarm
+gdc,pkhm.0,23397,23501,die_junge_raschke,23433,23436,ich,die_junge_raschke
+gdc,pkhm.0,23507,23903,der_alte_raschke,23627,23630,ich,der_alte_raschke
+gdc,pkhm.0,23507,23903,der_alte_raschke,23888,23891,ich,der_alte_raschke
+gdc,pkhm.0,23908,24122,der_junge_raschke,24007,24010,ich,der_junge_raschke
+gdc,pkhm.0,23908,24122,der_junge_raschke,24068,24071,ich,der_junge_raschke
+gdc,pkhm.0,23908,24122,der_junge_raschke,24078,24082,mich,der_junge_raschke
+gdc,pkhm.0,23908,24122,der_junge_raschke,24098,24101,ich,der_junge_raschke
+gdc,pkhm.0,24597,24687,_stage,24621,24638,die junge Raschke,die_junge_raschke
+gdc,pkhm.0,24848,25209,die_junge_raschke,25031,25035,mich,die_junge_raschke
+gdc,pkhm.0,25082,25209,_stage,25082,25099,Der junge Raschke,der_junge_raschke
+gdc,pkhm.0,25082,25209,_stage,25131,25147,Der alte Raschke,der_alte_raschke
+gdc,pkhm.0,25367,25551,_stage,25367,25384,Der junge Raschke,der_junge_raschke
+gdc,pkhm.0,25367,25551,_stage,25517,25533,Die alte Raschke,die_alte_raschke
+gdc,pkhm.0,25830,25927,der_junge_raschke,25862,25865,ich,der_junge_raschke
+gdc,pkhm.0,26055,26249,der_alte_raschke,26209,26212,ich,der_alte_raschke
+gdc,pkhm.0,27638,27781,der_junge_raschke,27661,27664,mir,der_junge_raschke
+gdc,pkhm.0,27638,27781,der_junge_raschke,27722,27725,ich,der_junge_raschke
+gdc,pkhm.0,27638,27781,der_junge_raschke,27755,27758,mir,der_junge_raschke
+gdc,pkhm.0,28244,28420,der_alte_raschke,28302,28305,Ich,der_alte_raschke
+gdc,pkhm.0,28244,28420,der_alte_raschke,28311,28315,mich,der_alte_raschke
+gdc,pkhm.0,28244,28420,der_alte_raschke,28333,28336,ich,der_alte_raschke
+gdc,pkhm.0,28244,28420,der_alte_raschke,28342,28346,mich,der_alte_raschke
+gdc,pkhm.0,28564,28605,_stage,28564,28580,Der alte Raschke,der_alte_raschke
+gdc,pkhm.0,29054,29113,die_alte_raschke,29072,29075,Ich,die_alte_raschke
+gdc,pkhm.0,29314,29928,prinzessin_trull,29584,29588,mein,prinzessin_trull
+gdc,pkhm.0,29314,29928,prinzessin_trull,29630,29633,ich,prinzessin_trull
+gdc,pkhm.0,29314,29928,prinzessin_trull,29656,29659,ich,prinzessin_trull
+gdc,pkhm.0,29314,29928,prinzessin_trull,29703,29706,ich,prinzessin_trull
+gdc,pkhm.0,29314,29928,prinzessin_trull,29758,29761,ich,prinzessin_trull
+gdc,pkhm.0,29314,29928,prinzessin_trull,29782,29798,Prinzessin Trull,prinzessin_trull
+gdc,pkhm.0,30120,31146,_stage,30691,30707,der Amtssekretär,der_amtssekretaer
+gdc,pkhm.0,30120,31146,_stage,30709,30723,der Dorfpastor,der_dorfpastor
+gdc,pkhm.0,31500,31768,_stage,31500,31516,Der alte Raschke,der_alte_raschke
+gdc,pkhm.0,31500,31768,_stage,31657,31667,Die Gräfin,die_graefin
+gdc,pkhm.0,31500,31768,_stage,31672,31689,die Frau Pastorin,die_frau_pastorin
+gdc,pkhm.0,31770,32134,der_alte_raschke,31946,31949,ich,der_alte_raschke
+gdc,pkhm.0,31770,32134,der_alte_raschke,31961,31967,meinem,der_alte_raschke
+gdc,pkhm.0,32211,32297,die_graefin,32253,32258,meine,die_graefin
+gdc,pkhm.0,32301,32986,der_alte_raschke,32480,32488,Rapunzel,rapunzel
+gdc,pkhm.0,32301,32986,der_alte_raschke,32529,32532,ich,der_alte_raschke
+gdc,pkhm.0,32301,32986,der_alte_raschke,32539,32543,mich,der_alte_raschke
+gdc,pkhm.0,32301,32986,der_alte_raschke,32608,32611,ich,der_alte_raschke
+gdc,pkhm.0,32301,32986,der_alte_raschke,32671,32674,ich,der_alte_raschke
+gdc,pkhm.0,32301,32986,der_alte_raschke,32733,32736,ich,der_alte_raschke
+gdc,pkhm.0,32301,32986,der_alte_raschke,32789,32792,ich,der_alte_raschke
+gdc,pkhm.0,32301,32986,der_alte_raschke,32895,32898,mir,der_alte_raschke
+gdc,pkhm.0,32301,32986,der_alte_raschke,32949,32963,Der Dorfpastor,der_dorfpastor
+gdc,pkhm.0,33215,33765,der_alte_raschke,33238,33241,ich,der_alte_raschke
+gdc,pkhm.0,33215,33765,der_alte_raschke,33279,33285,meiner,der_alte_raschke
+gdc,pkhm.0,33215,33765,der_alte_raschke,33360,33363,mir,der_alte_raschke
+gdc,pkhm.0,33215,33765,der_alte_raschke,33496,33499,ich,der_alte_raschke
+gdc,pkhm.0,33215,33765,der_alte_raschke,33525,33530,meine,der_alte_raschke
+gdc,pkhm.0,33576,33765,_stage,33629,33639,Der Diener,der_galonierte_diener
+gdc,pkhm.0,33769,34399,der_alte_raschke,33855,33864,die Leute,die_leute
+gdc,pkhm.0,33769,34399,der_alte_raschke,34084,34087,mir,der_alte_raschke
+gdc,pkhm.0,33769,34399,der_alte_raschke,34204,34210,meinen,der_alte_raschke
+gdc,pkhm.0,33769,34399,der_alte_raschke,34237,34240,ich,der_alte_raschke
+gdc,pkhm.0,33769,34399,der_alte_raschke,34241,34247,meinen,der_alte_raschke
+gdc,pkhm.0,33769,34399,der_alte_raschke,34279,34282,ich,der_alte_raschke
+gdc,pkhm.0,33769,34399,der_alte_raschke,34291,34294,ich,der_alte_raschke
+gdc,pkhm.0,33769,34399,der_alte_raschke,34352,34356,mich,der_alte_raschke
+gdc,pkhm.0,34807,34993,rapunzel,34964,34967,mir,rapunzel
+gdc,pkhm.0,34998,35826,der_alte_raschke,35052,35056,mein,der_alte_raschke
+gdc,pkhm.0,34998,35826,der_alte_raschke,35265,35268,mir,der_alte_raschke
+gdc,pkhm.0,34998,35826,der_alte_raschke,35335,35343,Rapunzel,rapunzel
+gdc,pkhm.0,34998,35826,der_alte_raschke,35602,35605,ich,der_alte_raschke
+gdc,pkhm.0,34998,35826,der_alte_raschke,35689,35693,mein,der_alte_raschke
+gdc,pkhm.0,34998,35826,der_alte_raschke,35727,35730,ich,der_alte_raschke
+gdc,pkhm.0,34998,35826,der_alte_raschke,35794,35802,Rapunzel,rapunzel
+gdc,pkhm.0,35832,35926,rapunzel,35897,35900,mir,rapunzel
+gdc,pkhm.0,35931,37212,der_alte_raschke,36023,36028,meine,der_alte_raschke
+gdc,pkhm.0,35931,37212,der_alte_raschke,36063,36067,mein,der_alte_raschke
+gdc,pkhm.0,35931,37212,der_alte_raschke,37044,37048,mich,der_alte_raschke
+gdc,pkhm.0,35931,37212,der_alte_raschke,37053,37057,mein,der_alte_raschke
+gdc,pkhm.0,35931,37212,der_alte_raschke,37082,37085,ich,der_alte_raschke
+gdc,pkhm.0,35931,37212,der_alte_raschke,37106,37109,ich,der_alte_raschke
+gdc,pkhm.0,35931,37212,der_alte_raschke,37138,37141,ich,der_alte_raschke
+gdc,pkhm.0,35931,37212,der_alte_raschke,37183,37187,mich,der_alte_raschke
+gdc,pkhm.0,35931,37212,der_alte_raschke,37192,37195,ich,der_alte_raschke
+gdc,pkhm.0,37217,37292,rapunzel,37235,37238,mir,rapunzel
+gdc,pkhm.0,37217,37292,rapunzel,37258,37261,mir,rapunzel
+gdc,pkhm.0,37217,37292,rapunzel,37279,37282,mir,rapunzel
+gdc,pkhm.0,37297,37664,der_alte_raschke,37328,37332,mein,der_alte_raschke
+gdc,pkhm.0,37297,37664,der_alte_raschke,37415,37418,mir,der_alte_raschke
+gdc,pkhm.0,37297,37664,der_alte_raschke,37513,37517,mich,der_alte_raschke
+gdc,pkhm.0,37297,37664,der_alte_raschke,37522,37525,ich,der_alte_raschke
+gdc,pkhm.0,37544,37664,_stage,37572,37589,der junge Raschke,der_junge_raschke
+gdc,pkhm.0,37544,37664,_stage,37591,37607,Prinzessin Trull,prinzessin_trull
+gdc,pkhm.0,37544,37664,_stage,37612,37623,der Gendarm,der_gendarm
+gdc,pkhm.0,37668,37903,rapunzel,37845,37849,mein,rapunzel
+gdc,pkhm.0,37908,38653,der_alte_raschke,38149,38153,mein,der_alte_raschke
+gdc,pkhm.0,37908,38653,der_alte_raschke,38172,38177,meine,der_alte_raschke
+gdc,pkhm.0,37908,38653,der_alte_raschke,38196,38200,mein,der_alte_raschke
+gdc,pkhm.0,37908,38653,der_alte_raschke,38256,38264,Rapunzel,rapunzel
+gdc,pkhm.0,37908,38653,der_alte_raschke,38284,38292,Rapunzel,rapunzel
+gdc,pkhm.0,37908,38653,der_alte_raschke,38452,38456,mich,der_alte_raschke
+gdc,pkhm.0,37908,38653,der_alte_raschke,38472,38475,mir,der_alte_raschke
+gdc,pkhm.0,37908,38653,der_alte_raschke,38537,38541,mich,der_alte_raschke
+gdc,pkhm.0,37908,38653,der_alte_raschke,38562,38566,mich,der_alte_raschke
+gdc,pkhm.0,37908,38653,der_alte_raschke,38578,38581,ich,der_alte_raschke
+gdc,pkhm.0,38657,39096,der_alte_raschke,38848,38851,ich,der_alte_raschke
+gdc,pkhm.0,38657,39096,der_alte_raschke,38966,38969,ich,der_alte_raschke
+gdc,pkhm.0,39100,39801,der_alte_raschke,39171,39177,meinen,der_alte_raschke
+gdc,pkhm.0,39221,39801,_stage,39429,39445,die alte Raschke,die_alte_raschke
+gdc,pkhm.0,39805,40338,der_alte_raschke,39969,39978,die Leute,die_leute
+gdc,pkhm.0,39805,40338,der_alte_raschke,40011,40020,die Leute,die_leute
+gdc,pkhm.0,40099,40338,_stage,40266,40282,Die alte Raschke,die_alte_raschke
+gdc,pkhm.0,40591,40768,_stage,40684,40700,die alte Raschke,die_alte_raschke
+gdc,pkhm.0,40956,41038,_stage,40956,40972,Der alte Raschke,der_alte_raschke
+gdc,pkhm.0,41042,41443,einer_aus_dem_gesindel,41071,41087,Der Amtssekretär,der_amtssekretaer
+gdc,pkhm.0,41042,41443,einer_aus_dem_gesindel,41109,41125,der Amtssekretär,der_amtssekretaer
+gdc,pkhm.0,41391,41443,_stage,41391,41407,Der Amtssekretär,der_amtssekretaer
+gdc,pkhm.0,41447,41801,der_alte_raschke,41561,41577,Der Amtssekretär,der_amtssekretaer
+gdc,pkhm.0,41447,41801,der_alte_raschke,41722,41725,ich,der_alte_raschke
+gdc,pkhm.0,41447,41801,der_alte_raschke,41764,41767,ich,der_alte_raschke
+gdc,pkhm.0,41969,42098,der_alte_raschke,42004,42007,ich,der_alte_raschke
+gdc,pkhm.0,41969,42098,der_alte_raschke,42030,42033,ich,der_alte_raschke
+gdc,pkhm.0,41969,42098,der_alte_raschke,42048,42051,ich,der_alte_raschke
+gdc,pkhm.0,42295,42810,der_alte_raschke,42396,42399,Ich,der_alte_raschke
+gdc,pkhm.0,42295,42810,der_alte_raschke,42634,42643,Die Leute,die_leute
+gdc,pkhm.0,42705,42810,_stage,42736,42744,Rapunzel,rapunzel
+gdc,pkhm.0,42705,42810,_stage,42746,42763,der junge Raschke,der_junge_raschke
+gdc,pkhm.0,42705,42810,_stage,42765,42782,die junge Raschke,die_junge_raschke
+gdc,pkhm.0,42705,42810,_stage,42787,42803,die alte Raschke,die_alte_raschke
+gdc,pkhm.0,43157,43399,der_alte_raschke,43315,43333,der Apostel Petrus,der_apostel_petrus
+gdc,pkhm.0,43157,43399,der_alte_raschke,43385,43388,ich,der_alte_raschke
+gdc,pkhm.0,43867,44064,_stage,43913,43939,Das kichernde Dorfgesindel,das_armselige_dorfgesindel
+gdc,pkhm.0,44254,44469,_stage,44315,44326,der Gendarm,der_gendarm
+gdc,pkhm.0,44254,44469,_stage,44328,44338,der Kaplan,der_kaplan
+gdc,pkhm.0,44254,44469,_stage,44355,44367,der Polizist,der_polizist
+gdc,pkhm.0,44742,44876,_stage,44769,44786,die junge Raschke,die_junge_raschke
+gdc,pkhm.0,45469,45556,der_alte_raschke,45515,45521,meinem,der_alte_raschke
+gdc,pkhm.0,45723,46028,der_alte_raschke,45798,45802,mich,der_alte_raschke
+gdc,pkhm.0,45723,46028,der_alte_raschke,45834,45838,mich,der_alte_raschke
+gdc,pkhm.0,45723,46028,der_alte_raschke,45843,45847,mein,der_alte_raschke
+gdc,pkhm.0,45723,46028,der_alte_raschke,45885,45889,mein,der_alte_raschke
+gdc,pkhm.0,45723,46028,der_alte_raschke,45959,45962,mir,der_alte_raschke
+gdc,pkhm.0,45723,46028,der_alte_raschke,45995,45998,ich,der_alte_raschke
+gdc,pkhm.0,46132,46381,der_alte_raschke,46207,46211,mich,der_alte_raschke
+gdc,pkhm.0,46132,46381,der_alte_raschke,46216,46219,ich,der_alte_raschke
+gdc,pkhm.0,46132,46381,der_alte_raschke,46226,46229,mir,der_alte_raschke
+gdc,pkhm.0,46132,46381,der_alte_raschke,46264,46267,ich,der_alte_raschke
+gdc,pkhm.0,46132,46381,der_alte_raschke,46320,46324,mich,der_alte_raschke
+gdc,pkhm.0,46132,46381,der_alte_raschke,46345,46349,mich,der_alte_raschke
+gdc,pkhm.0,46132,46381,der_alte_raschke,46361,46364,ich,der_alte_raschke
+gdc,pkhm.0,46501,46650,der_alte_raschke,46597,46600,ich,der_alte_raschke
+gdc,pkhm.0,46501,46650,der_alte_raschke,46624,46627,ich,der_alte_raschke
+gdc,pkhm.0,46782,47380,der_alte_raschke,46838,46841,ich,der_alte_raschke
+gdc,pkhm.0,46782,47380,der_alte_raschke,46860,46863,ich,der_alte_raschke
+gdc,pkhm.0,46782,47380,der_alte_raschke,46899,46902,ich,der_alte_raschke
+gdc,pkhm.0,46782,47380,der_alte_raschke,46921,46924,ich,der_alte_raschke
+gdc,pkhm.0,46782,47380,der_alte_raschke,46930,46936,meinen,der_alte_raschke
+gdc,pkhm.0,46782,47380,der_alte_raschke,46958,46961,ich,der_alte_raschke
+gdc,pkhm.0,47384,47844,prinzessin_trull,47656,47659,ich,prinzessin_trull
+gdc,pkhm.0,47866,48232,_stage,48012,48020,der Wirt,der_wirt
+gdc,pkhm.0,47866,48232,_stage,48034,48044,Die Wirtin,die_wirtin
+gdc,pkhm.0,47866,48232,_stage,48094,48105,der Gendarm,der_gendarm
+gdc,pkhm.0,47866,48232,_stage,48219,48231,der Polizist,der_polizist
+gdc,pkhm.0,48249,48467,der_wirt,48273,48276,ich,der_wirt
+gdc,pkhm.0,48249,48467,der_wirt,48389,48392,mir,der_wirt
+gdc,pkhm.0,49527,50508,der_wirt,50115,50125,der Diener,der_galonierte_diener
+gdc,pkhm.0,50832,51079,der_wirt,50936,50939,ich,der_wirt
+gdc,pkhm.0,50832,51079,der_wirt,50945,50949,mich,der_wirt
+gdc,pkhm.0,50832,51079,der_wirt,51023,51026,ich,der_wirt
+gdc,pkhm.0,51084,51188,der_fremde-die_stimme-johannes_habundus,51148,51151,Ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,52629,52714,_stage,52692,52702,der Diener,der_galonierte_diener
+gdc,pkhm.0,52898,53202,der_fremde-die_stimme-johannes_habundus,52967,52970,ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,52898,53202,der_fremde-die_stimme-johannes_habundus,52983,52987,mein,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,52898,53202,der_fremde-die_stimme-johannes_habundus,53100,53103,ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,52898,53202,der_fremde-die_stimme-johannes_habundus,53171,53174,mir,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,53207,53518,der_gendarm,53309,53318,die Leute,die_leute
+gdc,pkhm.0,53523,53575,der_fremde-die_stimme-johannes_habundus,53549,53552,mir,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,53816,53876,der_gendarm,53859,53862,ich,der_gendarm
+gdc,pkhm.0,53882,54331,der_fremde-die_stimme-johannes_habundus,53929,53932,mir,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,53882,54331,der_fremde-die_stimme-johannes_habundus,54066,54069,mir,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,53882,54331,der_fremde-die_stimme-johannes_habundus,54160,54163,ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,53882,54331,der_fremde-die_stimme-johannes_habundus,54203,54206,ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,53882,54331,der_fremde-die_stimme-johannes_habundus,54232,54235,ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,53882,54331,der_fremde-die_stimme-johannes_habundus,54266,54269,ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,54440,54829,der_fremde-die_stimme-johannes_habundus,54472,54475,ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,54440,54829,der_fremde-die_stimme-johannes_habundus,54500,54506,meinen,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,54440,54829,der_fremde-die_stimme-johannes_habundus,54531,54534,ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,54440,54829,der_fremde-die_stimme-johannes_habundus,54611,54614,ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,54440,54829,der_fremde-die_stimme-johannes_habundus,54630,54639,die Leute,die_leute
+gdc,pkhm.0,54440,54829,der_fremde-die_stimme-johannes_habundus,54646,54650,mein,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,54440,54829,der_fremde-die_stimme-johannes_habundus,54711,54714,ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,54440,54829,der_fremde-die_stimme-johannes_habundus,54806,54810,mich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,54932,56039,der_fremde-die_stimme-johannes_habundus,54968,54971,ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,54932,56039,der_fremde-die_stimme-johannes_habundus,55076,55079,ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,54932,56039,der_fremde-die_stimme-johannes_habundus,55107,55110,ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,54932,56039,der_fremde-die_stimme-johannes_habundus,55280,55283,ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,54932,56039,der_fremde-die_stimme-johannes_habundus,55299,55302,ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,54932,56039,der_fremde-die_stimme-johannes_habundus,55329,55332,ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,54932,56039,der_fremde-die_stimme-johannes_habundus,55386,55389,ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,54932,56039,der_fremde-die_stimme-johannes_habundus,55460,55463,ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,54932,56039,der_fremde-die_stimme-johannes_habundus,55552,55557,meine,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,54932,56039,der_fremde-die_stimme-johannes_habundus,55623,55626,mir,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,54932,56039,der_fremde-die_stimme-johannes_habundus,55759,55763,mein,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,54932,56039,der_fremde-die_stimme-johannes_habundus,55806,55809,mir,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,54932,56039,der_fremde-die_stimme-johannes_habundus,55952,55955,ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,56468,56657,der_gendarm,56593,56596,mir,der_gendarm
+gdc,pkhm.0,56679,56830,_stage,56679,56687,Rapunzel,rapunzel
+gdc,pkhm.0,56679,56830,_stage,56692,56700,Christel,christel
+gdc,pkhm.0,56832,57681,der_fremde-die_stimme-johannes_habundus,56945,56948,ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,56832,57681,der_fremde-die_stimme-johannes_habundus,56949,56952,mir,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,56832,57681,der_fremde-die_stimme-johannes_habundus,57094,57097,ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,56832,57681,der_fremde-die_stimme-johannes_habundus,57157,57161,mich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,56832,57681,der_fremde-die_stimme-johannes_habundus,57291,57294,ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,56832,57681,der_fremde-die_stimme-johannes_habundus,57334,57337,ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,56832,57681,der_fremde-die_stimme-johannes_habundus,57424,57427,ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,56832,57681,der_fremde-die_stimme-johannes_habundus,57586,57589,ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,57772,58012,der_fremde-die_stimme-johannes_habundus,57791,57794,ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,57772,58012,der_fremde-die_stimme-johannes_habundus,57842,57845,ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,57772,58012,der_fremde-die_stimme-johannes_habundus,57864,57867,mir,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,57772,58012,der_fremde-die_stimme-johannes_habundus,57909,57912,ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,57772,58012,der_fremde-die_stimme-johannes_habundus,57975,57978,ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,57772,58012,der_fremde-die_stimme-johannes_habundus,57993,57996,ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,58017,58098,der_gendarm,58052,58056,mein,der_gendarm
+gdc,pkhm.0,58103,58183,der_fremde-die_stimme-johannes_habundus,58131,58134,ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,58103,58183,der_fremde-die_stimme-johannes_habundus,58172,58176,mich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,58284,59432,der_fremde-die_stimme-johannes_habundus,58388,58391,ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,58284,59432,der_fremde-die_stimme-johannes_habundus,59014,59017,ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,58284,59432,der_fremde-die_stimme-johannes_habundus,59097,59101,mein,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,58284,59432,der_fremde-die_stimme-johannes_habundus,59166,59169,ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,59534,59602,_stage,59534,59545,Der Gendarm,der_gendarm
+gdc,pkhm.0,59645,60068,der_gendarm,59844,59847,ich,der_gendarm
+gdc,pkhm.0,59645,60068,der_gendarm,59879,59887,Rapunzel,rapunzel
+gdc,pkhm.0,59645,60068,der_gendarm,59918,59921,mir,der_gendarm
+gdc,pkhm.0,60564,60650,rapunzel,60590,60593,ich,rapunzel
+gdc,pkhm.0,60564,60650,rapunzel,60609,60612,ich,rapunzel
+gdc,pkhm.0,60564,60650,rapunzel,60613,60617,mich,rapunzel
+gdc,pkhm.0,60758,60817,rapunzel,60790,60793,ich,rapunzel
+gdc,pkhm.0,60909,60998,rapunzel,60951,60954,ich,rapunzel
+gdc,pkhm.0,61116,61213,rapunzel,61137,61141,Mein,rapunzel
+gdc,pkhm.0,61116,61213,rapunzel,61186,61189,ich,rapunzel
+gdc,pkhm.0,61219,61435,der_gendarm,61322,61333,der Gendarm,der_gendarm
+gdc,pkhm.0,61554,61631,_stage,61574,61582,Rapunzel,rapunzel
+gdc,pkhm.0,61697,61787,_stage,61697,61705,Rapunzel,rapunzel
+gdc,pkhm.0,62276,62360,die_wirtin,62308,62311,ich,die_wirtin
+gdc,pkhm.0,62276,62360,die_wirtin,62339,62343,mein,die_wirtin
+gdc,pkhm.0,62699,62902,rapunzel,62724,62727,ich,rapunzel
+gdc,pkhm.0,62699,62902,rapunzel,62743,62746,mir,rapunzel
+gdc,pkhm.0,62772,62902,_stage,62824,62832,Rapunzel,rapunzel
+gdc,pkhm.0,62772,62902,_stage,62855,62865,der Diener,der_galonierte_diener
+gdc,pkhm.0,62906,64206,der_wirt,62967,62970,ich,der_wirt
+gdc,pkhm.0,62906,64206,der_wirt,63003,63006,ich,der_wirt
+gdc,pkhm.0,62906,64206,der_wirt,63103,63107,mein,der_wirt
+gdc,pkhm.0,62906,64206,der_wirt,63127,63136,die Leute,die_leute
+gdc,pkhm.0,62906,64206,der_wirt,63779,63788,die Leute,die_leute
+gdc,pkhm.0,64158,64206,_stage,64158,64166,Rapunzel,rapunzel
+gdc,pkhm.0,64289,64464,rapunzel,64351,64354,ich,rapunzel
+gdc,pkhm.0,64289,64464,rapunzel,64374,64378,mein,rapunzel
+gdc,pkhm.0,64289,64464,rapunzel,64394,64397,ich,rapunzel
+gdc,pkhm.0,64289,64464,rapunzel,64419,64423,mein,rapunzel
+gdc,pkhm.0,64289,64464,rapunzel,64439,64442,ich,rapunzel
+gdc,pkhm.0,64650,64821,rapunzel,64745,64748,ich,rapunzel
+gdc,pkhm.0,64650,64821,rapunzel,64754,64758,mich,rapunzel
+gdc,pkhm.0,64837,64853,_stage,64844,64852,Rapunzel,rapunzel
+gdc,pkhm.0,64825,65109,der_gendarm,64868,64876,Rapunzel,rapunzel
+gdc,pkhm.0,64825,65109,der_gendarm,64881,64884,ich,der_gendarm
+gdc,pkhm.0,65482,65619,der_wirt,65492,65496,Mein,der_wirt
+gdc,pkhm.0,65511,65619,_stage,65511,65519,Rapunzel,rapunzel
+gdc,pkhm.0,65684,65734,die_wirtin,65696,65699,Ich,die_wirtin
+gdc,pkhm.0,65739,66103,der_wirt,65749,65752,Ich,der_wirt
+gdc,pkhm.0,65739,66103,der_wirt,65801,65804,mir,der_wirt
+gdc,pkhm.0,66126,66425,_stage,66126,66134,Rapunzel,rapunzel
+gdc,pkhm.0,66427,66738,der_fremde-die_stimme-johannes_habundus,66499,66502,ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,66427,66738,der_fremde-die_stimme-johannes_habundus,66687,66690,ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,66427,66738,der_fremde-die_stimme-johannes_habundus,66713,66719,meiner,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,66950,67025,ein_bauer_3-7,67004,67007,ich,ein_bauer_3-7
+gdc,pkhm.0,67031,67169,der_fremde-die_stimme-johannes_habundus,67043,67046,Ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,67031,67169,der_fremde-die_stimme-johannes_habundus,67094,67097,ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,67174,67268,ein_bauernmaedchen,67193,67196,Ich,ein_bauernmaedchen
+gdc,pkhm.0,67174,67268,ein_bauernmaedchen,67244,67252,Rapunzel,rapunzel
+gdc,pkhm.0,67273,68089,der_fremde-die_stimme-johannes_habundus,67395,67403,Rapunzel,rapunzel
+gdc,pkhm.0,67273,68089,der_fremde-die_stimme-johannes_habundus,67671,67674,ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,67273,68089,der_fremde-die_stimme-johannes_habundus,67696,67699,ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,67273,68089,der_fremde-die_stimme-johannes_habundus,67706,67712,meinen,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,67273,68089,der_fremde-die_stimme-johannes_habundus,68054,68062,Rapunzel,rapunzel
+gdc,pkhm.0,68094,68731,der_gendarm,68153,68156,mir,der_gendarm
+gdc,pkhm.0,68094,68731,der_gendarm,68212,68215,mir,der_gendarm
+gdc,pkhm.0,68094,68731,der_gendarm,68449,68452,ich,der_gendarm
+gdc,pkhm.0,68094,68731,der_gendarm,68491,68495,mich,der_gendarm
+gdc,pkhm.0,69009,69619,der_fremde-die_stimme-johannes_habundus,69182,69190,Rapunzel,rapunzel
+gdc,pkhm.0,69009,69619,der_fremde-die_stimme-johannes_habundus,69254,69257,ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,69009,69619,der_fremde-die_stimme-johannes_habundus,69301,69304,ich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,69640,69774,_stage,69679,69687,Rapunzel,rapunzel
+gdc,pkhm.0,69776,69841,die_leute,69810,69818,Rapunzel,rapunzel
+gdc,pkhm.0,69776,69841,die_leute,69829,69837,Rapunzel,rapunzel
+gdc,pkhm.0,69846,69881,rapunzel,69856,69859,Ich,rapunzel
+gdc,pkhm.0,69931,70200,rapunzel,69974,69977,ich,rapunzel
+gdc,pkhm.0,69931,70200,rapunzel,70020,70030,die Wirtin,die_wirtin
+gdc,pkhm.0,69931,70200,rapunzel,70088,70091,ich,rapunzel
+gdc,pkhm.0,69931,70200,rapunzel,70107,70110,ich,rapunzel
+gdc,pkhm.0,69931,70200,rapunzel,70180,70183,ich,rapunzel
+gdc,pkhm.0,70258,70310,rapunzel,70268,70271,Mir,rapunzel
+gdc,pkhm.0,70258,70310,rapunzel,70291,70300,die Leute,die_leute
+gdc,pkhm.0,70601,70649,rapunzel,70622,70626,mich,rapunzel
+gdc,pkhm.0,70759,71604,rapunzel,70788,70792,mich,rapunzel
+gdc,pkhm.0,70759,71604,rapunzel,70858,70861,mir,rapunzel
+gdc,pkhm.0,70759,71604,rapunzel,70889,70892,ich,rapunzel
+gdc,pkhm.0,70759,71604,rapunzel,70893,70896,mir,rapunzel
+gdc,pkhm.0,70759,71604,rapunzel,71113,71116,ich,rapunzel
+gdc,pkhm.0,70759,71604,rapunzel,71187,71190,ich,rapunzel
+gdc,pkhm.0,70759,71604,rapunzel,71202,71208,meinem,rapunzel
+gdc,pkhm.0,70759,71604,rapunzel,71234,71237,ich,rapunzel
+gdc,pkhm.0,70759,71604,rapunzel,71292,71295,mir,rapunzel
+gdc,pkhm.0,70759,71604,rapunzel,71455,71459,mich,rapunzel
+gdc,pkhm.0,70759,71604,rapunzel,71566,71569,ich,rapunzel
+gdc,pkhm.0,72437,72604,der_polizist,72591,72600,die Leute,die_leute
+gdc,pkhm.0,72609,72735,der_amtssekretaer,72649,72658,die Leute,die_leute
+gdc,pkhm.0,73460,73516,der_polizist,73494,73497,ich,der_polizist
+gdc,pkhm.0,73869,74064,der_polizist,73990,73993,ich,der_polizist
+gdc,pkhm.0,75119,75170,der_amtssekretaer,75137,75140,Ich,der_amtssekretaer
+gdc,pkhm.0,75175,75350,der_polizist,75199,75202,ich,der_polizist
+gdc,pkhm.0,75355,75432,der_amtssekretaer,75402,75405,mir,der_amtssekretaer
+gdc,pkhm.0,75738,76116,der_amtssekretaer,75794,75806,Der Polizist,der_polizist
+gdc,pkhm.0,77415,77458,der_amtssekretaer,77437,77453,die alte Raschke,die_alte_raschke
+gdc,pkhm.0,77659,77705,der_amtssekretaer,77688,77704,die alte Raschke,die_alte_raschke
+gdc,pkhm.0,78127,78522,der_amtssekretaer,78154,78157,ich,der_amtssekretaer
+gdc,pkhm.0,78127,78522,der_amtssekretaer,78212,78215,ich,der_amtssekretaer
+gdc,pkhm.0,78840,79148,der_alte_raschke,78858,78861,Ich,der_alte_raschke
+gdc,pkhm.0,78840,79148,der_alte_raschke,78940,78943,ich,der_alte_raschke
+gdc,pkhm.0,78840,79148,der_alte_raschke,78976,78979,ich,der_alte_raschke
+gdc,pkhm.0,78840,79148,der_alte_raschke,78989,78992,mir,der_alte_raschke
+gdc,pkhm.0,78840,79148,der_alte_raschke,78993,78997,mein,der_alte_raschke
+gdc,pkhm.0,78840,79148,der_alte_raschke,79107,79110,mir,der_alte_raschke
+gdc,pkhm.0,78840,79148,der_alte_raschke,79131,79134,ich,der_alte_raschke
+gdc,pkhm.0,79209,79389,der_polizist,79223,79226,Ich,der_polizist
+gdc,pkhm.0,79209,79389,der_polizist,79299,79302,ich,der_polizist
+gdc,pkhm.0,79641,79748,der_alte_raschke,79718,79721,ich,der_alte_raschke
+gdc,pkhm.0,79753,79865,der_amtssekretaer,79816,79819,ich,der_amtssekretaer
+gdc,pkhm.0,79870,80011,der_alte_raschke,79897,79901,mich,der_alte_raschke
+gdc,pkhm.0,79870,80011,der_alte_raschke,79929,79932,ich,der_alte_raschke
+gdc,pkhm.0,80016,80135,der_amtssekretaer,80059,80062,ich,der_amtssekretaer
+gdc,pkhm.0,80364,80413,der_polizist,80378,80386,Rapunzel,rapunzel
+gdc,pkhm.0,80364,80413,der_polizist,80401,80409,Rapunzel,rapunzel
+gdc,pkhm.0,80418,81133,der_alte_raschke,80436,80441,Meine,der_alte_raschke
+gdc,pkhm.0,80418,81133,der_alte_raschke,80466,80474,Rapunzel,rapunzel
+gdc,pkhm.0,80418,81133,der_alte_raschke,80479,80484,meine,der_alte_raschke
+gdc,pkhm.0,80418,81133,der_alte_raschke,80610,80613,ich,der_alte_raschke
+gdc,pkhm.0,80418,81133,der_alte_raschke,80633,80636,ich,der_alte_raschke
+gdc,pkhm.0,80418,81133,der_alte_raschke,80652,80655,ich,der_alte_raschke
+gdc,pkhm.0,80418,81133,der_alte_raschke,80699,80703,mich,der_alte_raschke
+gdc,pkhm.0,80418,81133,der_alte_raschke,80730,80734,mich,der_alte_raschke
+gdc,pkhm.0,80418,81133,der_alte_raschke,80744,80753,die Leute,die_leute
+gdc,pkhm.0,80418,81133,der_alte_raschke,80801,80804,ich,der_alte_raschke
+gdc,pkhm.0,80418,81133,der_alte_raschke,80805,80808,mir,der_alte_raschke
+gdc,pkhm.0,80418,81133,der_alte_raschke,80891,80894,ich,der_alte_raschke
+gdc,pkhm.0,80418,81133,der_alte_raschke,80895,80898,mir,der_alte_raschke
+gdc,pkhm.0,80418,81133,der_alte_raschke,80945,80949,mein,der_alte_raschke
+gdc,pkhm.0,80418,81133,der_alte_raschke,81017,81020,ich,der_alte_raschke
+gdc,pkhm.0,80418,81133,der_alte_raschke,81021,81024,mir,der_alte_raschke
+gdc,pkhm.0,80418,81133,der_alte_raschke,81082,81093,der Gendarm,der_gendarm
+gdc,pkhm.0,80418,81133,der_alte_raschke,81098,81104,meiner,der_alte_raschke
+gdc,pkhm.0,81182,81456,der_alte_raschke,81200,81203,Ich,der_alte_raschke
+gdc,pkhm.0,81418,81456,_stage,81418,81429,Der Gendarm,der_gendarm
+gdc,pkhm.0,81418,81456,_stage,81447,81455,Rapunzel,rapunzel
+gdc,pkhm.0,81460,81628,der_amtssekretaer,81563,81574,Der Gendarm,der_gendarm
+gdc,pkhm.0,81460,81628,der_amtssekretaer,81579,81587,Rapunzel,rapunzel
+gdc,pkhm.0,81633,81726,der_alte_raschke,81665,81669,mein,der_alte_raschke
+gdc,pkhm.0,81633,81726,der_alte_raschke,81700,81703,ich,der_alte_raschke
+gdc,pkhm.0,82098,82151,der_alte_raschke,82116,82119,Ich,der_alte_raschke
+gdc,pkhm.0,82230,83860,der_alte_raschke,82314,82318,mich,der_alte_raschke
+gdc,pkhm.0,82230,83860,der_alte_raschke,82334,82340,meinen,der_alte_raschke
+gdc,pkhm.0,82230,83860,der_alte_raschke,82711,82714,ich,der_alte_raschke
+gdc,pkhm.0,82230,83860,der_alte_raschke,82741,82747,meinen,der_alte_raschke
+gdc,pkhm.0,82230,83860,der_alte_raschke,82762,82765,ich,der_alte_raschke
+gdc,pkhm.0,82230,83860,der_alte_raschke,82785,82794,die Leute,die_leute
+gdc,pkhm.0,82230,83860,der_alte_raschke,82823,82826,ich,der_alte_raschke
+gdc,pkhm.0,82230,83860,der_alte_raschke,82854,82857,mir,der_alte_raschke
+gdc,pkhm.0,82230,83860,der_alte_raschke,82858,82867,die Leute,die_leute
+gdc,pkhm.0,82230,83860,der_alte_raschke,83103,83106,ich,der_alte_raschke
+gdc,pkhm.0,82230,83860,der_alte_raschke,83117,83123,meinen,der_alte_raschke
+gdc,pkhm.0,82230,83860,der_alte_raschke,83183,83186,mir,der_alte_raschke
+gdc,pkhm.0,82230,83860,der_alte_raschke,83354,83357,ich,der_alte_raschke
+gdc,pkhm.0,82230,83860,der_alte_raschke,83608,83611,ich,der_alte_raschke
+gdc,pkhm.0,82230,83860,der_alte_raschke,83797,83801,mich,der_alte_raschke
+gdc,pkhm.0,82230,83860,der_alte_raschke,83845,83848,ich,der_alte_raschke
+gdc,pkhm.0,83865,84086,der_amtssekretaer,83998,84001,ich,der_amtssekretaer
+gdc,pkhm.0,84091,84422,der_alte_raschke,84209,84212,ich,der_alte_raschke
+gdc,pkhm.0,84484,85228,der_alte_raschke,84523,84529,meinen,der_alte_raschke
+gdc,pkhm.0,84484,85228,der_alte_raschke,84634,84637,Ich,der_alte_raschke
+gdc,pkhm.0,84484,85228,der_alte_raschke,84941,84944,ich,der_alte_raschke
+gdc,pkhm.0,84484,85228,der_alte_raschke,85040,85043,ich,der_alte_raschke
+gdc,pkhm.0,85273,86170,der_alte_raschke,85337,85341,mich,der_alte_raschke
+gdc,pkhm.0,85273,86170,der_alte_raschke,85346,85352,meinen,der_alte_raschke
+gdc,pkhm.0,85273,86170,der_alte_raschke,85380,85383,ich,der_alte_raschke
+gdc,pkhm.0,85273,86170,der_alte_raschke,85443,85452,die Leute,die_leute
+gdc,pkhm.0,85273,86170,der_alte_raschke,85500,85503,ich,der_alte_raschke
+gdc,pkhm.0,85273,86170,der_alte_raschke,85569,85578,die Leute,die_leute
+gdc,pkhm.0,85273,86170,der_alte_raschke,86040,86043,ich,der_alte_raschke
+gdc,pkhm.0,85273,86170,der_alte_raschke,86107,86110,ich,der_alte_raschke
+gdc,pkhm.0,86234,86336,der_gendarm,86273,86276,ich,der_gendarm
+gdc,pkhm.0,86395,86493,der_gendarm,86408,86416,Der Wirt,der_wirt
+gdc,pkhm.0,86395,86493,der_gendarm,86455,86458,mir,der_gendarm
+gdc,pkhm.0,86395,86493,der_gendarm,86486,86489,mir,der_gendarm
+gdc,pkhm.0,86498,86655,der_alte_raschke,86623,86634,der Gendarm,der_gendarm
+gdc,pkhm.0,86806,87104,der_junge_raschke,86866,86869,mir,der_junge_raschke
+gdc,pkhm.0,86806,87104,der_junge_raschke,86878,86881,mir,der_junge_raschke
+gdc,pkhm.0,86806,87104,der_junge_raschke,86920,86923,ich,der_junge_raschke
+gdc,pkhm.0,86806,87104,der_junge_raschke,87065,87068,ich,der_junge_raschke
+gdc,pkhm.0,87199,87437,der_junge_raschke,87252,87256,mein,der_junge_raschke
+gdc,pkhm.0,87199,87437,der_junge_raschke,87300,87304,mein,der_junge_raschke
+gdc,pkhm.0,88010,88121,der_junge_raschke,88037,88040,ich,der_junge_raschke
+gdc,pkhm.0,88126,88654,der_alte_raschke,88162,88165,ich,der_alte_raschke
+gdc,pkhm.0,88126,88654,der_alte_raschke,88314,88317,ich,der_alte_raschke
+gdc,pkhm.0,88126,88654,der_alte_raschke,88318,88324,meinen,der_alte_raschke
+gdc,pkhm.0,88126,88654,der_alte_raschke,88432,88435,ich,der_alte_raschke
+gdc,pkhm.0,88126,88654,der_alte_raschke,88490,88493,ich,der_alte_raschke
+gdc,pkhm.0,88126,88654,der_alte_raschke,88573,88576,ich,der_alte_raschke
+gdc,pkhm.0,88126,88654,der_alte_raschke,88621,88624,ich,der_alte_raschke
+gdc,pkhm.0,88126,88654,der_alte_raschke,88642,88645,ich,der_alte_raschke
+gdc,pkhm.0,88659,88721,der_amtssekretaer,88693,88705,Der Polizist,der_polizist
+gdc,pkhm.0,88743,88826,_stage,88756,88773,die junge Raschke,die_junge_raschke
+gdc,pkhm.0,88828,89151,die_alte_raschke,88850,88853,mir,die_alte_raschke
+gdc,pkhm.0,88828,89151,die_alte_raschke,88889,88892,ich,die_alte_raschke
+gdc,pkhm.0,88828,89151,die_alte_raschke,88923,88927,mein,die_alte_raschke
+gdc,pkhm.0,89156,89341,die_junge_raschke,89312,89315,ich,die_junge_raschke
+gdc,pkhm.0,89346,89513,der_amtssekretaer,89402,89405,ich,der_amtssekretaer
+gdc,pkhm.0,89346,89513,der_amtssekretaer,89478,89481,mir,der_amtssekretaer
+gdc,pkhm.0,89518,89853,die_junge_raschke,89619,89623,mein,die_junge_raschke
+gdc,pkhm.0,89518,89853,die_junge_raschke,89676,89687,der Gendarm,der_gendarm
+gdc,pkhm.0,89518,89853,die_junge_raschke,89790,89795,meine,die_junge_raschke
+gdc,pkhm.0,89858,90305,der_alte_raschke,90253,90256,ich,der_alte_raschke
+gdc,pkhm.0,90399,91326,der_alte_raschke,90435,90443,Rapunzel,rapunzel
+gdc,pkhm.0,90399,91326,der_alte_raschke,90506,90509,ich,der_alte_raschke
+gdc,pkhm.0,90399,91326,der_alte_raschke,90842,90845,ich,der_alte_raschke
+gdc,pkhm.0,90399,91326,der_alte_raschke,91052,91055,ich,der_alte_raschke
+gdc,pkhm.0,90399,91326,der_alte_raschke,91183,91186,ich,der_alte_raschke
+gdc,pkhm.0,90399,91326,der_alte_raschke,91210,91213,ich,der_alte_raschke
+gdc,pkhm.0,91396,91727,der_alte_raschke,91455,91459,mein,der_alte_raschke
+gdc,pkhm.0,91396,91727,der_alte_raschke,91490,91494,mich,der_alte_raschke
+gdc,pkhm.0,91396,91727,der_alte_raschke,91526,91530,mich,der_alte_raschke
+gdc,pkhm.0,91396,91727,der_alte_raschke,91535,91539,mein,der_alte_raschke
+gdc,pkhm.0,91396,91727,der_alte_raschke,91564,91567,ich,der_alte_raschke
+gdc,pkhm.0,91396,91727,der_alte_raschke,91607,91610,mir,der_alte_raschke
+gdc,pkhm.0,91396,91727,der_alte_raschke,91653,91656,ich,der_alte_raschke
+gdc,pkhm.0,91396,91727,der_alte_raschke,91698,91702,mich,der_alte_raschke
+gdc,pkhm.0,91396,91727,der_alte_raschke,91707,91710,ich,der_alte_raschke
+gdc,pkhm.0,91732,91771,der_amtssekretaer,91762,91770,Rapunzel,rapunzel
+gdc,pkhm.0,91776,91993,der_alte_raschke,91802,91806,mein,der_alte_raschke
+gdc,pkhm.0,92015,92055,_stage,92015,92023,Rapunzel,rapunzel
+gdc,pkhm.0,92168,92774,der_gendarm,92276,92279,mir,der_gendarm
+gdc,pkhm.0,92168,92774,der_gendarm,92352,92361,die Leute,die_leute
+gdc,pkhm.0,92168,92774,der_gendarm,92363,92371,Rapunzel,rapunzel
+gdc,pkhm.0,92168,92774,der_gendarm,92458,92461,ich,der_gendarm
+gdc,pkhm.0,92168,92774,der_gendarm,92495,92498,ich,der_gendarm
+gdc,pkhm.0,92168,92774,der_gendarm,92725,92728,ich,der_gendarm
+gdc,pkhm.0,92866,92923,rapunzel,92897,92900,mir,rapunzel
+gdc,pkhm.0,92866,92923,rapunzel,92901,92905,mein,rapunzel
+gdc,pkhm.0,92970,93107,rapunzel,92995,92998,Ich,rapunzel
+gdc,pkhm.0,93273,93484,der_alte_raschke,93291,93294,Ich,der_alte_raschke
+gdc,pkhm.0,93489,93594,rapunzel,93526,93529,ich,rapunzel
+gdc,pkhm.0,93489,93594,rapunzel,93580,93584,mein,rapunzel
+gdc,pkhm.0,93703,93751,rapunzel,93733,93736,ich,rapunzel
+gdc,pkhm.0,93898,93916,_stage,93898,93906,Rapunzel,rapunzel
+gdc,pkhm.0,93948,93984,rapunzel,93970,93973,ich,rapunzel
+gdc,pkhm.0,94048,94577,rapunzel,94058,94061,Ich,rapunzel
+gdc,pkhm.0,94048,94577,rapunzel,94085,94088,ich,rapunzel
+gdc,pkhm.0,94048,94577,rapunzel,94333,94336,mir,rapunzel
+gdc,pkhm.0,94048,94577,rapunzel,94432,94435,ich,rapunzel
+gdc,pkhm.0,94048,94577,rapunzel,94556,94559,ich,rapunzel
+gdc,pkhm.0,94582,94686,der_amtssekretaer,94609,94612,ich,der_amtssekretaer
+gdc,pkhm.0,94691,94788,rapunzel,94767,94770,ich,rapunzel
+gdc,pkhm.0,94793,94872,der_gendarm,94806,94809,Ich,der_gendarm
+gdc,pkhm.0,94921,95164,der_gendarm,95073,95082,die Leute,die_leute
+gdc,pkhm.0,94921,95164,der_gendarm,95106,95116,die Gräfin,die_graefin
+gdc,pkhm.0,94921,95164,der_gendarm,95151,95160,die Leute,die_leute
+gdc,pkhm.0,95250,95647,der_gendarm,95611,95614,ich,der_gendarm
+gdc,pkhm.0,95706,95809,der_gendarm,95726,95729,ich,der_gendarm
+gdc,pkhm.0,95909,96362,die_alte_raschke,96009,96012,ich,die_alte_raschke
+gdc,pkhm.0,95909,96362,die_alte_raschke,96135,96138,ich,die_alte_raschke
+gdc,pkhm.0,95909,96362,die_alte_raschke,96144,96147,mir,die_alte_raschke
+gdc,pkhm.0,96317,96362,_stage,96317,96333,Der Amtssekretär,der_amtssekretaer
+gdc,pkhm.0,96378,96437,_stage,96383,96391,Rapunzel,rapunzel
+gdc,pkhm.0,96497,96738,der_alte_raschke,96533,96536,mir,der_alte_raschke
+gdc,pkhm.0,96497,96738,der_alte_raschke,96692,96695,ich,der_alte_raschke
+gdc,pkhm.0,96743,96803,rapunzel,96761,96765,mich,rapunzel
+gdc,pkhm.0,96809,97082,der_alte_raschke,96885,96889,mich,der_alte_raschke
+gdc,pkhm.0,96809,97082,der_alte_raschke,97022,97025,ich,der_alte_raschke
+gdc,pkhm.0,97275,97942,der_alte_raschke,97369,97373,mich,der_alte_raschke
+gdc,pkhm.0,97275,97942,der_alte_raschke,97418,97421,ich,der_alte_raschke
+gdc,pkhm.0,97275,97942,der_alte_raschke,97446,97449,ich,der_alte_raschke
+gdc,pkhm.0,97275,97942,der_alte_raschke,97742,97745,ich,der_alte_raschke
+gdc,pkhm.0,97275,97942,der_alte_raschke,97793,97801,Rapunzel,rapunzel
+gdc,pkhm.0,98115,98200,_stage,98115,98136,Der galonierte Diener,der_galonierte_diener
+gdc,pkhm.0,98115,98200,_stage,98148,98164,Der Amtssekretär,der_amtssekretaer
+gdc,pkhm.0,98653,98667,_stage,98653,98663,Der Diener,der_galonierte_diener
+gdc,pkhm.0,98883,98926,_stage,98905,98917,der Polizist,der_polizist
+gdc,pkhm.0,98980,99448,der_amtssekretaer,99065,99069,mich,der_amtssekretaer
+gdc,pkhm.0,98980,99448,der_amtssekretaer,99149,99152,mir,der_amtssekretaer
+gdc,pkhm.0,98980,99448,der_amtssekretaer,99153,99159,meinen,der_amtssekretaer
+gdc,pkhm.0,98980,99448,der_amtssekretaer,99224,99228,mich,der_amtssekretaer
+gdc,pkhm.0,98980,99448,der_amtssekretaer,99401,99404,mir,der_amtssekretaer
+gdc,pkhm.0,98980,99448,der_amtssekretaer,99409,99412,ich,der_amtssekretaer
+gdc,pkhm.0,99453,99516,der_polizist,99474,99477,ich,der_polizist
+gdc,pkhm.0,99521,99713,der_amtssekretaer,99571,99574,ich,der_amtssekretaer
+gdc,pkhm.0,99717,99892,der_polizist,99781,99784,ich,der_polizist
+gdc,pkhm.0,99848,99892,_stage,99848,99864,Der Amtssekretär,der_amtssekretaer
+gdc,pkhm.0,100149,101013,prinzessin_trull,100566,100570,mein,prinzessin_trull
+gdc,pkhm.0,100149,101013,prinzessin_trull,100609,100614,meine,prinzessin_trull
+gdc,pkhm.0,100149,101013,prinzessin_trull,100654,100657,ich,prinzessin_trull
+gdc,pkhm.0,100149,101013,prinzessin_trull,100671,100687,Prinzessin Trull,prinzessin_trull
+gdc,pkhm.0,100149,101013,prinzessin_trull,100692,100695,ich,prinzessin_trull
+gdc,pkhm.0,100149,101013,prinzessin_trull,100863,100867,mein,prinzessin_trull
+gdc,pkhm.0,101097,103046,prinzessin_trull,101418,101421,ich,prinzessin_trull
+gdc,pkhm.0,101097,103046,prinzessin_trull,101427,101430,mir,prinzessin_trull
+gdc,pkhm.0,101097,103046,prinzessin_trull,101431,101437,meinen,prinzessin_trull
+gdc,pkhm.0,101097,103046,prinzessin_trull,101494,101497,ich,prinzessin_trull
+gdc,pkhm.0,101097,103046,prinzessin_trull,101577,101580,ich,prinzessin_trull
+gdc,pkhm.0,101097,103046,prinzessin_trull,101710,101715,meine,prinzessin_trull
+gdc,pkhm.0,101097,103046,prinzessin_trull,101762,101768,meiner,prinzessin_trull
+gdc,pkhm.0,101097,103046,prinzessin_trull,101900,101903,ich,prinzessin_trull
+gdc,pkhm.0,101097,103046,prinzessin_trull,101925,101928,ich,prinzessin_trull
+gdc,pkhm.0,101097,103046,prinzessin_trull,102239,102242,ich,prinzessin_trull
+gdc,pkhm.0,101097,103046,prinzessin_trull,102243,102247,mich,prinzessin_trull
+gdc,pkhm.0,101097,103046,prinzessin_trull,102292,102295,ich,prinzessin_trull
+gdc,pkhm.0,101097,103046,prinzessin_trull,102637,102640,Ich,prinzessin_trull
+gdc,pkhm.0,101097,103046,prinzessin_trull,102646,102650,mich,prinzessin_trull
+gdc,pkhm.0,101097,103046,prinzessin_trull,102728,102731,Ich,prinzessin_trull
+gdc,pkhm.0,101097,103046,prinzessin_trull,102790,102793,ich,prinzessin_trull
+gdc,pkhm.0,101097,103046,prinzessin_trull,102832,102835,ich,prinzessin_trull
+gdc,pkhm.0,101097,103046,prinzessin_trull,102877,102883,meinem,prinzessin_trull
+gdc,pkhm.0,101097,103046,prinzessin_trull,102943,102947,mein,prinzessin_trull
+gdc,pkhm.0,103115,103492,prinzessin_trull,103264,103273,die Leute,die_leute
+gdc,pkhm.0,103749,103810,_stage,103749,103757,Rapunzel,rapunzel
+gdc,pkhm.0,103749,103810,_stage,103765,103781,Prinzessin Trull,prinzessin_trull
+gdc,pkhm.0,103812,105082,rapunzel,103931,103935,mich,rapunzel
+gdc,pkhm.0,103812,105082,rapunzel,104050,104053,ich,rapunzel
+gdc,pkhm.0,103812,105082,rapunzel,104054,104057,mir,rapunzel
+gdc,pkhm.0,103812,105082,rapunzel,104106,104109,ich,rapunzel
+gdc,pkhm.0,103812,105082,rapunzel,104174,104177,ich,rapunzel
+gdc,pkhm.0,103812,105082,rapunzel,104470,104473,ich,rapunzel
+gdc,pkhm.0,103812,105082,rapunzel,104595,104599,mich,rapunzel
+gdc,pkhm.0,103812,105082,rapunzel,104638,104642,mich,rapunzel
+gdc,pkhm.0,103812,105082,rapunzel,104757,104760,ich,rapunzel
+gdc,pkhm.0,103812,105082,rapunzel,104907,104910,ich,rapunzel
+gdc,pkhm.0,105234,105319,rapunzel,105279,105282,ich,rapunzel
+gdc,pkhm.0,105234,105319,rapunzel,105299,105302,ich,rapunzel
+gdc,pkhm.0,105234,105319,rapunzel,105311,105315,mich,rapunzel
+gdc,pkhm.0,105391,105496,rapunzel,105477,105486,die Leute,die_leute
+gdc,pkhm.0,105518,105637,_stage,105518,105534,Die alte Raschke,die_alte_raschke
+gdc,pkhm.0,105518,105637,_stage,105571,105579,Rapunzel,rapunzel
+gdc,pkhm.0,105640,105782,prinzessin_trull,105763,105767,mein,prinzessin_trull
+gdc,pkhm.0,106443,106537,die_alte_raschke,106461,106464,Ich,die_alte_raschke
+gdc,pkhm.0,106443,106537,die_alte_raschke,106473,106476,mir,die_alte_raschke
+gdc,pkhm.0,106542,106621,prinzessin_trull,106606,106611,meine,prinzessin_trull
+gdc,pkhm.0,106626,107482,die_alte_raschke,106845,106848,ich,die_alte_raschke
+gdc,pkhm.0,106626,107482,die_alte_raschke,107160,107165,meine,die_alte_raschke
+gdc,pkhm.0,106626,107482,die_alte_raschke,107244,107252,Rapunzel,rapunzel
+gdc,pkhm.0,106626,107482,die_alte_raschke,107298,107301,ich,die_alte_raschke
+gdc,pkhm.0,106626,107482,die_alte_raschke,107440,107443,ich,die_alte_raschke
+gdc,pkhm.0,107561,107759,rapunzel,107605,107608,ich,rapunzel
+gdc,pkhm.0,107561,107759,rapunzel,107625,107628,ich,rapunzel
+gdc,pkhm.0,107561,107759,rapunzel,107646,107649,ich,rapunzel
+gdc,pkhm.0,107561,107759,rapunzel,107670,107674,mich,rapunzel
+gdc,pkhm.0,107781,107824,_stage,107785,107793,Rapunzel,rapunzel
+gdc,pkhm.0,107764,108012,die_alte_raschke,107941,107957,der Amtssekretär,der_amtssekretaer
+gdc,pkhm.0,107764,108012,die_alte_raschke,107962,107974,der Polizist,der_polizist
+gdc,pkhm.0,108035,108784,die_junge_raschke,108184,108193,die Leute,die_leute
+gdc,pkhm.0,108035,108784,die_junge_raschke,108230,108233,ich,die_junge_raschke
+gdc,pkhm.0,108035,108784,die_junge_raschke,108594,108602,Rapunzel,rapunzel
+gdc,pkhm.0,108035,108784,die_junge_raschke,108633,108636,ich,die_junge_raschke
+gdc,pkhm.0,108789,109021,der_junge_raschke,108956,108960,mich,der_junge_raschke
+gdc,pkhm.0,108789,109021,der_junge_raschke,108996,108999,ich,der_junge_raschke
+gdc,pkhm.0,109148,109431,der_junge_raschke,109424,109427,ich,der_junge_raschke
+gdc,pkhm.0,109454,109491,_stage,109474,109490,Prinzessin Trull,prinzessin_trull
+gdc,pkhm.0,109436,109685,die_junge_raschke,109514,109517,ich,die_junge_raschke
+gdc,pkhm.0,109603,109685,_stage,109603,109619,Prinzessin Trull,prinzessin_trull
+gdc,pkhm.0,110148,110192,_stage,110148,110165,Der junge Raschke,der_junge_raschke
+gdc,pkhm.0,110213,110253,_stage,110229,110245,Prinzessin Trull,prinzessin_trull
+gdc,pkhm.0,110196,110685,die_alte_raschke,110287,110290,ich,die_alte_raschke
+gdc,pkhm.0,110196,110685,die_alte_raschke,110335,110338,ich,die_alte_raschke
+gdc,pkhm.0,110196,110685,die_alte_raschke,110551,110554,ich,die_alte_raschke
+gdc,pkhm.0,110777,110947,_stage,110838,110855,der junge Raschke,der_junge_raschke
+gdc,pkhm.0,110759,111325,die_junge_raschke,110970,110975,meine,die_junge_raschke
+gdc,pkhm.0,110759,111325,die_junge_raschke,111001,111004,ich,die_junge_raschke
+gdc,pkhm.0,110759,111325,die_junge_raschke,111065,111073,Rapunzel,rapunzel
+gdc,pkhm.0,110759,111325,die_junge_raschke,111104,111107,mir,die_junge_raschke
+gdc,pkhm.0,110759,111325,die_junge_raschke,111149,111152,ich,die_junge_raschke
+gdc,pkhm.0,110759,111325,die_junge_raschke,111306,111309,ich,die_junge_raschke
+gdc,pkhm.0,111348,111644,_stage,111565,111581,Der alte Raschke,der_alte_raschke
+gdc,pkhm.0,111708,113326,der_alte_raschke,111944,111947,ich,der_alte_raschke
+gdc,pkhm.0,111708,113326,der_alte_raschke,111965,111968,ich,der_alte_raschke
+gdc,pkhm.0,111708,113326,der_alte_raschke,111999,112002,ich,der_alte_raschke
+gdc,pkhm.0,111708,113326,der_alte_raschke,112951,112954,mir,der_alte_raschke
+gdc,pkhm.0,111708,113326,der_alte_raschke,113005,113008,ich,der_alte_raschke
+gdc,pkhm.0,111708,113326,der_alte_raschke,113198,113201,ich,der_alte_raschke
+gdc,pkhm.0,113779,113859,der_alte_raschke,113823,113826,ich,der_alte_raschke
+gdc,pkhm.0,114189,114515,der_alte_raschke,114341,114357,Der alte Raschke,der_alte_raschke
+gdc,pkhm.0,114189,114515,der_alte_raschke,114439,114442,ich,der_alte_raschke
+gdc,pkhm.0,114608,114750,der_alte_raschke,114635,114638,ich,der_alte_raschke
+gdc,pkhm.0,114608,114750,der_alte_raschke,114700,114703,ich,der_alte_raschke
+gdc,pkhm.0,114828,115240,der_alte_raschke,114905,114908,ich,der_alte_raschke
+gdc,pkhm.0,114828,115240,der_alte_raschke,114932,114935,ich,der_alte_raschke
+gdc,pkhm.0,114828,115240,der_alte_raschke,114963,114966,ich,der_alte_raschke
+gdc,pkhm.0,114828,115240,der_alte_raschke,114987,114990,Ich,der_alte_raschke
+gdc,pkhm.0,114828,115240,der_alte_raschke,114999,115003,mich,der_alte_raschke
+gdc,pkhm.0,115352,115406,_stage,115366,115374,Rapunzel,rapunzel
+gdc,pkhm.0,115440,115548,der_alte_raschke,115535,115543,Rapunzel,rapunzel
+gdc,pkhm.0,115553,115634,rapunzel,115581,115584,mir,rapunzel
+gdc,pkhm.0,115553,115634,rapunzel,115622,115625,ich,rapunzel
+gdc,pkhm.0,115639,116320,der_alte_raschke,115799,115802,ich,der_alte_raschke
+gdc,pkhm.0,115639,116320,der_alte_raschke,115907,115910,ich,der_alte_raschke
+gdc,pkhm.0,115639,116320,der_alte_raschke,115957,115960,ich,der_alte_raschke
+gdc,pkhm.0,115639,116320,der_alte_raschke,115972,115978,meinem,der_alte_raschke
+gdc,pkhm.0,115639,116320,der_alte_raschke,116169,116172,ich,der_alte_raschke
+gdc,pkhm.0,116324,116378,der_alte_raschke,116353,116361,Rapunzel,rapunzel
+gdc,pkhm.0,116324,116378,der_alte_raschke,116366,116374,Rapunzel,rapunzel
+gdc,pkhm.0,116383,116469,rapunzel,116411,116414,mir,rapunzel
+gdc,pkhm.0,116383,116469,rapunzel,116457,116460,ich,rapunzel
+gdc,pkhm.0,116474,118398,der_alte_raschke,116513,116521,Rapunzel,rapunzel
+gdc,pkhm.0,116474,118398,der_alte_raschke,116653,116656,ich,der_alte_raschke
+gdc,pkhm.0,116474,118398,der_alte_raschke,116693,116696,ich,der_alte_raschke
+gdc,pkhm.0,116474,118398,der_alte_raschke,116767,116771,mich,der_alte_raschke
+gdc,pkhm.0,116474,118398,der_alte_raschke,116848,116851,mir,der_alte_raschke
+gdc,pkhm.0,116474,118398,der_alte_raschke,116936,116939,ich,der_alte_raschke
+gdc,pkhm.0,116474,118398,der_alte_raschke,116940,116944,mich,der_alte_raschke
+gdc,pkhm.0,116474,118398,der_alte_raschke,116990,116993,ich,der_alte_raschke
+gdc,pkhm.0,116474,118398,der_alte_raschke,117330,117338,Rapunzel,rapunzel
+gdc,pkhm.0,116474,118398,der_alte_raschke,117451,117456,meine,der_alte_raschke
+gdc,pkhm.0,116474,118398,der_alte_raschke,117608,117611,ich,der_alte_raschke
+gdc,pkhm.0,116474,118398,der_alte_raschke,117922,117925,ich,der_alte_raschke
+gdc,pkhm.0,116474,118398,der_alte_raschke,117926,117930,mich,der_alte_raschke
+gdc,pkhm.0,116474,118398,der_alte_raschke,118046,118049,mir,der_alte_raschke
+gdc,pkhm.0,116474,118398,der_alte_raschke,118158,118161,ich,der_alte_raschke
+gdc,pkhm.0,116474,118398,der_alte_raschke,118182,118188,meinem,der_alte_raschke
+gdc,pkhm.0,116474,118398,der_alte_raschke,118221,118225,mich,der_alte_raschke
+gdc,pkhm.0,116474,118398,der_alte_raschke,118257,118260,ich,der_alte_raschke
+gdc,pkhm.0,116474,118398,der_alte_raschke,118280,118283,ich,der_alte_raschke
+gdc,pkhm.0,116474,118398,der_alte_raschke,118305,118310,meine,der_alte_raschke
+gdc,pkhm.0,118402,120779,der_alte_raschke,118497,118500,Ich,der_alte_raschke
+gdc,pkhm.0,118402,120779,der_alte_raschke,118524,118527,mir,der_alte_raschke
+gdc,pkhm.0,118402,120779,der_alte_raschke,118560,118563,mir,der_alte_raschke
+gdc,pkhm.0,118402,120779,der_alte_raschke,118673,118676,ich,der_alte_raschke
+gdc,pkhm.0,118402,120779,der_alte_raschke,118766,118769,ich,der_alte_raschke
+gdc,pkhm.0,118402,120779,der_alte_raschke,119023,119026,ich,der_alte_raschke
+gdc,pkhm.0,118402,120779,der_alte_raschke,119054,119060,meinem,der_alte_raschke
+gdc,pkhm.0,118402,120779,der_alte_raschke,119373,119376,mir,der_alte_raschke
+gdc,pkhm.0,118402,120779,der_alte_raschke,119619,119622,ich,der_alte_raschke
+gdc,pkhm.0,118402,120779,der_alte_raschke,119657,119660,ich,der_alte_raschke
+gdc,pkhm.0,118402,120779,der_alte_raschke,119729,119732,ich,der_alte_raschke
+gdc,pkhm.0,118402,120779,der_alte_raschke,119765,119768,ich,der_alte_raschke
+gdc,pkhm.0,118402,120779,der_alte_raschke,119769,119773,mich,der_alte_raschke
+gdc,pkhm.0,118402,120779,der_alte_raschke,119812,119815,ich,der_alte_raschke
+gdc,pkhm.0,118402,120779,der_alte_raschke,119846,119849,ich,der_alte_raschke
+gdc,pkhm.0,118402,120779,der_alte_raschke,119907,119911,mein,der_alte_raschke
+gdc,pkhm.0,118402,120779,der_alte_raschke,119991,119994,ich,der_alte_raschke
+gdc,pkhm.0,118402,120779,der_alte_raschke,120049,120052,ich,der_alte_raschke
+gdc,pkhm.0,118402,120779,der_alte_raschke,120096,120100,mich,der_alte_raschke
+gdc,pkhm.0,118402,120779,der_alte_raschke,120192,120195,ich,der_alte_raschke
+gdc,pkhm.0,118402,120779,der_alte_raschke,120366,120369,ich,der_alte_raschke
+gdc,pkhm.0,118402,120779,der_alte_raschke,120433,120436,ich,der_alte_raschke
+gdc,pkhm.0,118402,120779,der_alte_raschke,120473,120478,meine,der_alte_raschke
+gdc,pkhm.0,118402,120779,der_alte_raschke,120716,120719,ich,der_alte_raschke
+gdc,pkhm.0,118402,120779,der_alte_raschke,120748,120751,ich,der_alte_raschke
+gdc,pkhm.0,121070,121197,_stage,121070,121086,Der alte Raschke,der_alte_raschke
+gdc,pkhm.0,120896,121256,der_fremde-die_stimme-johannes_habundus,121198,121206,Rapunzel,rapunzel
+gdc,pkhm.0,120896,121256,der_fremde-die_stimme-johannes_habundus,121211,121219,Rapunzel,rapunzel
+gdc,pkhm.0,120896,121256,der_fremde-die_stimme-johannes_habundus,121247,121255,Rapunzel,rapunzel
+gdc,pkhm.0,121279,121326,rapunzel,121310,121313,Ich,rapunzel
+gdc,pkhm.0,121332,121368,der_fremde-die_stimme-johannes_habundus,121363,121367,mich,der_fremde-die_stimme-johannes_habundus
+gdc,pkhm.0,121397,121439,der_fremde-die_stimme-johannes_habundus,121427,121435,Rapunzel,rapunzel
+gdc,pkhm.0,121567,121722,rapunzel,121659,121662,ich,rapunzel
+gdc,pkhm.0,121757,122056,rapunzel,121785,121789,Mein,rapunzel
+gdc,pkhm.0,121757,122056,rapunzel,121875,121878,mir,rapunzel
+gdc,pkhm.0,122062,122207,der_fremde-die_stimme-johannes_habundus,122090,122098,Rapunzel,rapunzel
+gdc,pkhm.0,122775,122991,_stage,122859,122875,Die alte Raschke,die_alte_raschke
+gdc,pkhm.0,122775,122991,_stage,122913,122929,Prinzessin Trull,prinzessin_trull
+gdc,pkhm.0,123100,123511,_stage,123104,123112,Rapunzel,rapunzel
+gdc,pkhm.0,123100,123511,_stage,123486,123494,Rapunzel,rapunzel

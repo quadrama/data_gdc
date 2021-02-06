@@ -1,5 +1,5 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,x3cv.0,BURIDAN,buridan,,
-gdc,x3cv.0,KADIDJA,kadidja,,
-gdc,x3cv.0,DIE ZOFE,die_zofe,,
-gdc,x3cv.0,DR,dr,,
+gdc,x3cv.0,Dr. Cajetan Prantl,dr_prantl,MALE,
+gdc,x3cv.0,Die Zofe,die_zofe,FEMALE,
+gdc,x3cv.0,Kadidja,kadidja,FEMALE,
+gdc,x3cv.0,Buridan,buridan,MALE,

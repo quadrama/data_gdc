@@ -1,7 +1,7 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,v1sm.0,JON,jon,,
-gdc,v1sm.0,PYTHIA,pythia,,
-gdc,v1sm.0,PHORBAS,phorbas,,
-gdc,v1sm.0,KREUSA,kreusa,,
-gdc,v1sm.0,XUTHUS,xuthus,,
-gdc,v1sm.0,APOLLO,apollo,,
+gdc,v1sm.0,Apollo,apollo,MALE,
+gdc,v1sm.0,Jon,jon,MALE,
+gdc,v1sm.0,Kreusa,kreusa,FEMALE,
+gdc,v1sm.0,Pythia,pythia,FEMALE,
+gdc,v1sm.0,Phorbas,phorbas,MALE,
+gdc,v1sm.0,Xuthus,xuthus,MALE,

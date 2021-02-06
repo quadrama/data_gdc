@@ -1,0 +1,1506 @@
+corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+gdc,11g5f.0,465,1046,_stage,598,609,der Domherr,domherr
+gdc,11g5f.0,465,1046,_stage,633,645,die Marquise,die_marquise
+gdc,11g5f.0,465,1046,_stage,717,727,der Ritter,der_ritter
+gdc,11g5f.0,465,1046,_stage,793,804,Der Domherr,domherr
+gdc,11g5f.0,465,1046,_stage,933,945,die Marquise,die_marquise
+gdc,11g5f.0,1693,2056,domherr,1718,1722,mich,domherr
+gdc,11g5f.0,1693,2056,domherr,1744,1749,meine,domherr
+gdc,11g5f.0,1693,2056,domherr,1800,1803,ich,domherr
+gdc,11g5f.0,1693,2056,domherr,1958,1961,ich,domherr
+gdc,11g5f.0,1693,2056,domherr,2011,2015,mich,domherr
+gdc,11g5f.0,1693,2056,domherr,2051,2055,mich,domherr
+gdc,11g5f.0,2062,2167,die_marquise,2101,2104,ich,die_marquise
+gdc,11g5f.0,2225,2605,die_marquise,2287,2295,der Graf,der_graf
+gdc,11g5f.0,2610,3480,domherr,2896,2899,ich,domherr
+gdc,11g5f.0,2610,3480,domherr,3039,3042,ich,domherr
+gdc,11g5f.0,2610,3480,domherr,3043,3047,mich,domherr
+gdc,11g5f.0,2610,3480,domherr,3115,3119,mein,domherr
+gdc,11g5f.0,2610,3480,domherr,3139,3143,mich,domherr
+gdc,11g5f.0,2610,3480,domherr,3185,3188,ich,domherr
+gdc,11g5f.0,2610,3480,domherr,3345,3348,Ich,domherr
+gdc,11g5f.0,2610,3480,domherr,3414,3417,mir,domherr
+gdc,11g5f.0,2610,3480,domherr,3419,3422,ich,domherr
+gdc,11g5f.0,2610,3480,domherr,3433,3436,ich,domherr
+gdc,11g5f.0,3485,4796,die_marquise,3588,3591,ich,die_marquise
+gdc,11g5f.0,3485,4796,die_marquise,3623,3626,ich,die_marquise
+gdc,11g5f.0,3842,3867,_stage,3842,3853,Der Domherr,domherr
+gdc,11g5f.0,3485,4796,die_marquise,3895,3903,Der Graf,der_graf
+gdc,11g5f.0,3485,4796,die_marquise,4008,4011,ich,die_marquise
+gdc,11g5f.0,3485,4796,die_marquise,4022,4025,ich,die_marquise
+gdc,11g5f.0,3485,4796,die_marquise,4060,4064,mich,die_marquise
+gdc,11g5f.0,3485,4796,die_marquise,4354,4357,ich,die_marquise
+gdc,11g5f.0,3485,4796,die_marquise,4427,4430,mir,die_marquise
+gdc,11g5f.0,3485,4796,die_marquise,4510,4513,mir,die_marquise
+gdc,11g5f.0,3485,4796,die_marquise,4532,4537,meine,die_marquise
+gdc,11g5f.0,3485,4796,die_marquise,4556,4562,meinem,die_marquise
+gdc,11g5f.0,3485,4796,die_marquise,4634,4637,ich,die_marquise
+gdc,11g5f.0,3485,4796,die_marquise,4756,4759,ich,die_marquise
+gdc,11g5f.0,4845,5516,die_marquise,4884,4892,Der Graf,der_graf
+gdc,11g5f.0,4845,5516,die_marquise,5370,5373,mir,die_marquise
+gdc,11g5f.0,5521,6117,domherr,5530,5533,Ich,domherr
+gdc,11g5f.0,5521,6117,domherr,5597,5600,ich,domherr
+gdc,11g5f.0,5521,6117,domherr,5614,5617,ich,domherr
+gdc,11g5f.0,5521,6117,domherr,5827,5832,Meine,domherr
+gdc,11g5f.0,6122,6196,die_marquise,6132,6135,Ich,die_marquise
+gdc,11g5f.0,6201,6278,domherr,6218,6221,Ich,domherr
+gdc,11g5f.0,6201,6278,domherr,6245,6248,ich,domherr
+gdc,11g5f.0,6201,6278,domherr,6249,6253,mich,domherr
+gdc,11g5f.0,6418,6790,domherr,6451,6455,mich,domherr
+gdc,11g5f.0,6418,6790,domherr,6555,6558,mir,domherr
+gdc,11g5f.0,6418,6790,domherr,6614,6620,meiner,domherr
+gdc,11g5f.0,6418,6790,domherr,6680,6683,ich,domherr
+gdc,11g5f.0,6418,6790,domherr,6684,6688,mich,domherr
+gdc,11g5f.0,6418,6790,domherr,6720,6725,meine,domherr
+gdc,11g5f.0,6795,7044,die_marquise,6805,6809,Mein,die_marquise
+gdc,11g5f.0,6795,7044,die_marquise,6879,6883,mein,die_marquise
+gdc,11g5f.0,6795,7044,die_marquise,6929,6932,ich,die_marquise
+gdc,11g5f.0,6795,7044,die_marquise,6968,6971,ich,die_marquise
+gdc,11g5f.0,7049,7391,domherr,7058,7061,Ich,domherr
+gdc,11g5f.0,7049,7391,domherr,7152,7156,mich,domherr
+gdc,11g5f.0,7049,7391,domherr,7185,7191,meinen,domherr
+gdc,11g5f.0,7049,7391,domherr,7315,7319,mich,domherr
+gdc,11g5f.0,7049,7391,domherr,7356,7359,mir,domherr
+gdc,11g5f.0,7049,7391,domherr,7369,7373,mein,domherr
+gdc,11g5f.0,7396,7836,die_marquise,7779,7782,ich,die_marquise
+gdc,11g5f.0,7841,7949,domherr,7884,7887,ich,domherr
+gdc,11g5f.0,7841,7949,domherr,7926,7929,ich,domherr
+gdc,11g5f.0,8180,8439,die_marquise,8276,8279,ich,die_marquise
+gdc,11g5f.0,8493,8670,ein_bedienter_1-1a,8607,8610,Ich,ein_bedienter_1-1a
+gdc,11g5f.0,8914,8961,bediente,8942,8950,Der Graf,der_graf
+gdc,11g5f.0,8914,8961,bediente,8952,8960,Der Graf,der_graf
+gdc,11g5f.0,9073,9098,domherr,9090,9093,ich,domherr
+gdc,11g5f.0,9222,9239,_stage,9222,9230,Der Graf,der_graf
+gdc,11g5f.0,9241,9457,der_graf,9438,9441,mir,der_graf
+gdc,11g5f.0,9524,9671,der_graf,9543,9549,meiner,der_graf
+gdc,11g5f.0,9524,9671,der_graf,9576,9582,meiner,der_graf
+gdc,11g5f.0,9524,9671,der_graf,9638,9641,ich,der_graf
+gdc,11g5f.0,9676,9713,die_frauen,9704,9707,ich,die_frauen
+gdc,11g5f.0,9676,9713,die_frauen,9708,9712,mich,die_frauen
+gdc,11g5f.0,9754,10092,der_graf,9826,9829,ich,der_graf
+gdc,11g5f.0,10097,10165,die_frauen,10124,10128,mich,die_frauen
+gdc,11g5f.0,10246,10310,der_graf,10284,10287,ich,der_graf
+gdc,11g5f.0,10246,10310,der_graf,10288,10292,mich,der_graf
+gdc,11g5f.0,10416,10637,der_graf,10472,10475,mir,der_graf
+gdc,11g5f.0,10416,10637,der_graf,10517,10520,mir,der_graf
+gdc,11g5f.0,10830,10938,der_graf,10836,10839,Ich,der_graf
+gdc,11g5f.0,10830,10938,der_graf,10916,10921,meine,der_graf
+gdc,11g5f.0,10943,10974,domherr,10952,10956,Mein,domherr
+gdc,11g5f.0,11655,11684,der_ritter,11676,11679,ich,der_ritter
+gdc,11g5f.0,11723,11752,die_marquise,11742,11745,ich,die_marquise
+gdc,11g5f.0,11757,12236,der_graf,11774,11777,ich,der_graf
+gdc,11g5f.0,11757,12236,der_graf,11818,11823,Meine,der_graf
+gdc,11g5f.0,11757,12236,der_graf,11846,11849,ich,der_graf
+gdc,11g5f.0,11757,12236,der_graf,11899,11902,ich,der_graf
+gdc,11g5f.0,11947,11985,_stage,11947,11957,Die Männer,die_maenner
+gdc,11g5f.0,11757,12236,der_graf,12161,12167,meiner,der_graf
+gdc,11g5f.0,12351,12370,_stage,12357,12369,die Marquise,die_marquise
+gdc,11g5f.0,12498,13637,der_graf,13378,13384,meiner,der_graf
+gdc,11g5f.0,13642,13834,die_marquise,13730,13733,ich,die_marquise
+gdc,11g5f.0,13642,13834,die_marquise,13743,13746,ich,die_marquise
+gdc,11g5f.0,13642,13834,die_marquise,13786,13789,mir,die_marquise
+gdc,11g5f.0,13889,14053,der_graf,13938,13941,Ich,der_graf
+gdc,11g5f.0,13889,14053,der_graf,13961,13964,ich,der_graf
+gdc,11g5f.0,13889,14053,der_graf,13988,13993,meine,der_graf
+gdc,11g5f.0,14116,14494,der_graf,14149,14154,meine,der_graf
+gdc,11g5f.0,14116,14494,der_graf,14417,14420,ich,der_graf
+gdc,11g5f.0,15419,15467,der_graf,15430,15433,mir,der_graf
+gdc,11g5f.0,15554,15586,der_graf,15568,15571,mir,der_graf
+gdc,11g5f.0,16332,16382,_stage,16332,16342,Der Ritter,der_ritter
+gdc,11g5f.0,16406,16428,_stage,16406,16414,Der Graf,der_graf
+gdc,11g5f.0,16406,16428,_stage,16416,16427,Der Domherr,domherr
+gdc,11g5f.0,16430,17271,der_graf,16524,16527,ich,der_graf
+gdc,11g5f.0,16430,17271,der_graf,16565,16568,ich,der_graf
+gdc,11g5f.0,16430,17271,der_graf,16612,16615,ich,der_graf
+gdc,11g5f.0,16430,17271,der_graf,16630,16633,mir,der_graf
+gdc,11g5f.0,16430,17271,der_graf,16651,16654,ich,der_graf
+gdc,11g5f.0,17276,17551,domherr,17306,17310,mich,domherr
+gdc,11g5f.0,17276,17551,domherr,17350,17353,ich,domherr
+gdc,11g5f.0,17276,17551,domherr,17369,17372,mir,domherr
+gdc,11g5f.0,17276,17551,domherr,17383,17386,mir,domherr
+gdc,11g5f.0,17276,17551,domherr,17483,17487,mich,domherr
+gdc,11g5f.0,17276,17551,domherr,17528,17531,mir,domherr
+gdc,11g5f.0,17556,17757,der_graf,17571,17574,ich,der_graf
+gdc,11g5f.0,17556,17757,der_graf,17594,17598,mein,der_graf
+gdc,11g5f.0,17556,17757,der_graf,17618,17621,ich,der_graf
+gdc,11g5f.0,17556,17757,der_graf,17685,17690,meine,der_graf
+gdc,11g5f.0,17762,17939,domherr,17788,17792,mich,domherr
+gdc,11g5f.0,17762,17939,domherr,17806,17809,ich,domherr
+gdc,11g5f.0,17762,17939,domherr,17836,17839,ich,domherr
+gdc,11g5f.0,17762,17939,domherr,17871,17874,ich,domherr
+gdc,11g5f.0,17762,17939,domherr,17906,17909,mir,domherr
+gdc,11g5f.0,17944,17970,der_graf,17958,17962,mein,der_graf
+gdc,11g5f.0,17975,18357,domherr,17988,17992,mich,domherr
+gdc,11g5f.0,17975,18357,domherr,18026,18029,mir,domherr
+gdc,11g5f.0,17975,18357,domherr,18169,18172,mir,domherr
+gdc,11g5f.0,17975,18357,domherr,18220,18223,ich,domherr
+gdc,11g5f.0,17975,18357,domherr,18243,18247,mich,domherr
+gdc,11g5f.0,17975,18357,domherr,18266,18270,mich,domherr
+gdc,11g5f.0,17975,18357,domherr,18290,18293,mir,domherr
+gdc,11g5f.0,17975,18357,domherr,18329,18333,mein,domherr
+gdc,11g5f.0,18362,18748,der_graf,18382,18386,mein,der_graf
+gdc,11g5f.0,18362,18748,der_graf,18398,18401,ich,der_graf
+gdc,11g5f.0,18362,18748,der_graf,18454,18459,meine,der_graf
+gdc,11g5f.0,18362,18748,der_graf,18571,18574,ich,der_graf
+gdc,11g5f.0,18362,18748,der_graf,18594,18597,ich,der_graf
+gdc,11g5f.0,18362,18748,der_graf,18598,18602,mich,der_graf
+gdc,11g5f.0,18362,18748,der_graf,18688,18693,meine,der_graf
+gdc,11g5f.0,18362,18748,der_graf,18709,18712,ich,der_graf
+gdc,11g5f.0,18753,19357,domherr,18785,18788,ich,domherr
+gdc,11g5f.0,18753,19357,domherr,18816,18819,ich,domherr
+gdc,11g5f.0,18753,19357,domherr,18820,18824,mich,domherr
+gdc,11g5f.0,18753,19357,domherr,18860,18865,Meine,domherr
+gdc,11g5f.0,18753,19357,domherr,19053,19056,ich,domherr
+gdc,11g5f.0,18753,19357,domherr,19072,19075,mir,domherr
+gdc,11g5f.0,18753,19357,domherr,19113,19117,mich,domherr
+gdc,11g5f.0,18753,19357,domherr,19193,19196,ich,domherr
+gdc,11g5f.0,18753,19357,domherr,19197,19201,mich,domherr
+gdc,11g5f.0,18753,19357,domherr,19224,19228,mich,domherr
+gdc,11g5f.0,18753,19357,domherr,19239,19242,ich,domherr
+gdc,11g5f.0,18753,19357,domherr,19267,19270,ich,domherr
+gdc,11g5f.0,19362,20062,der_graf,19459,19462,ich,der_graf
+gdc,11g5f.0,19362,20062,der_graf,19522,19525,ich,der_graf
+gdc,11g5f.0,20067,20174,domherr,20126,20129,mir,domherr
+gdc,11g5f.0,20179,20273,der_graf,20223,20226,ich,der_graf
+gdc,11g5f.0,20305,20382,der_graf,20361,20364,ich,der_graf
+gdc,11g5f.0,20387,20570,domherr,20396,20399,Ich,domherr
+gdc,11g5f.0,20387,20570,domherr,20442,20446,mich,domherr
+gdc,11g5f.0,20387,20570,domherr,20529,20532,mir,domherr
+gdc,11g5f.0,20631,20737,der_graf,20642,20645,ich,der_graf
+gdc,11g5f.0,20742,20771,domherr,20757,20761,mich,domherr
+gdc,11g5f.0,21025,21386,der_graf,21288,21291,ich,der_graf
+gdc,11g5f.0,21391,21472,domherr,21400,21403,Ich,domherr
+gdc,11g5f.0,21497,21518,_stage,21497,21505,Der Graf,der_graf
+gdc,11g5f.0,21497,21518,_stage,21507,21517,Saint Jean,saint_jean
+gdc,11g5f.0,21520,21600,saint_jean,21563,21566,ich,saint_jean
+gdc,11g5f.0,21520,21600,saint_jean,21567,21572,meine,saint_jean
+gdc,11g5f.0,21646,21808,saint_jean,21730,21735,Meine,saint_jean
+gdc,11g5f.0,21813,22220,der_graf,21836,21839,Ich,der_graf
+gdc,11g5f.0,21813,22220,der_graf,21928,21931,Ich,der_graf
+gdc,11g5f.0,21813,22220,der_graf,21971,21976,meine,der_graf
+gdc,11g5f.0,22226,22271,saint_jean,22250,22253,ich,saint_jean
+gdc,11g5f.0,22424,22459,der_graf,22430,22433,Ich,der_graf
+gdc,11g5f.0,22504,22536,der_graf,22515,22518,ich,der_graf
+gdc,11g5f.0,22541,22594,saint_jean,22553,22556,Ich,saint_jean
+gdc,11g5f.0,22811,22820,_stage,22811,22819,Der Graf,der_graf
+gdc,11g5f.0,22822,23167,der_graf,22854,22857,ich,der_graf
+gdc,11g5f.0,22822,23167,der_graf,22926,22937,Der Domherr,domherr
+gdc,11g5f.0,22822,23167,der_graf,22975,22978,ich,der_graf
+gdc,11g5f.0,22822,23167,der_graf,22979,22985,meinen,der_graf
+gdc,11g5f.0,22822,23167,der_graf,23034,23037,ich,der_graf
+gdc,11g5f.0,22822,23167,der_graf,23044,23049,meine,der_graf
+gdc,11g5f.0,22822,23167,der_graf,23073,23076,Ich,der_graf
+gdc,11g5f.0,22822,23167,der_graf,23121,23124,ich,der_graf
+gdc,11g5f.0,22822,23167,der_graf,23131,23136,meine,der_graf
+gdc,11g5f.0,23231,23261,_stage,23231,23242,Der Marquis,der_marquis
+gdc,11g5f.0,23231,23261,_stage,23252,23260,La Fleur,la_fleur
+gdc,11g5f.0,23263,23608,der_marquis,23388,23391,ich,der_marquis
+gdc,11g5f.0,23263,23608,der_marquis,23413,23419,meiner,der_marquis
+gdc,11g5f.0,23263,23608,der_marquis,23434,23437,mir,der_marquis
+gdc,11g5f.0,23263,23608,der_marquis,23473,23476,ich,der_marquis
+gdc,11g5f.0,23263,23608,der_marquis,23485,23488,ich,der_marquis
+gdc,11g5f.0,23263,23608,der_marquis,23511,23517,meinem,der_marquis
+gdc,11g5f.0,23263,23608,der_marquis,23540,23543,Ich,der_marquis
+gdc,11g5f.0,23263,23608,der_marquis,23569,23572,ich,der_marquis
+gdc,11g5f.0,23263,23608,der_marquis,23573,23577,mich,der_marquis
+gdc,11g5f.0,23660,23691,der_marquis,23673,23676,mir,der_marquis
+gdc,11g5f.0,23696,23759,la_fleur,23731,23734,ich,la_fleur
+gdc,11g5f.0,23764,23877,der_marquis,23858,23861,ich,der_marquis
+gdc,11g5f.0,24032,24152,der_marquis,24111,24115,mich,der_marquis
+gdc,11g5f.0,24236,24479,der_marquis,24254,24257,mir,der_marquis
+gdc,11g5f.0,24236,24479,der_marquis,24390,24393,Ich,der_marquis
+gdc,11g5f.0,24236,24479,der_marquis,24449,24459,die Nichte,nichte
+gdc,11g5f.0,24484,24661,la_fleur,24494,24497,Ich,la_fleur
+gdc,11g5f.0,24484,24661,la_fleur,24577,24580,mir,la_fleur
+gdc,11g5f.0,24704,24754,la_fleur,24729,24732,ich,la_fleur
+gdc,11g5f.0,24759,24823,der_marquis,24790,24796,meiner,der_marquis
+gdc,11g5f.0,24828,24892,la_fleur,24861,24864,ich,la_fleur
+gdc,11g5f.0,24828,24892,la_fleur,24875,24880,meine,la_fleur
+gdc,11g5f.0,24897,25082,der_marquis,24916,24928,die Marquise,die_marquise
+gdc,11g5f.0,24897,25082,der_marquis,24965,24975,die Nichte,nichte
+gdc,11g5f.0,24897,25082,der_marquis,25036,25039,ich,der_marquis
+gdc,11g5f.0,25087,25433,la_fleur,25213,25216,ich,la_fleur
+gdc,11g5f.0,25087,25433,la_fleur,25217,25221,mich,la_fleur
+gdc,11g5f.0,25438,25513,der_marquis,25467,25470,ich,der_marquis
+gdc,11g5f.0,25438,25513,der_marquis,25501,25507,meiner,der_marquis
+gdc,11g5f.0,25698,25771,la_fleur,25755,25758,ich,la_fleur
+gdc,11g5f.0,25844,25856,_stage,25844,25852,La Fleur,la_fleur
+gdc,11g5f.0,25860,26107,der_marquis,25874,25879,meine,der_marquis
+gdc,11g5f.0,25860,26107,der_marquis,25885,25889,mein,der_marquis
+gdc,11g5f.0,25860,26107,der_marquis,26019,26022,ich,der_marquis
+gdc,11g5f.0,25860,26107,der_marquis,26056,26060,mich,der_marquis
+gdc,11g5f.0,25860,26107,der_marquis,26084,26087,ich,der_marquis
+gdc,11g5f.0,26132,26158,_stage,26132,26143,Der Marquis,der_marquis
+gdc,11g5f.0,26132,26158,_stage,26145,26157,Die Marquise,die_marquise
+gdc,11g5f.0,26160,26203,die_marquise,26170,26173,Ich,die_marquise
+gdc,11g5f.0,26160,26203,die_marquise,26192,26195,ich,die_marquise
+gdc,11g5f.0,26208,26260,der_marquis,26217,26220,Ich,der_marquis
+gdc,11g5f.0,26208,26260,der_marquis,26227,26231,mich,der_marquis
+gdc,11g5f.0,26265,26349,die_marquise,26290,26293,mir,die_marquise
+gdc,11g5f.0,26265,26349,die_marquise,26315,26326,Der Domherr,domherr
+gdc,11g5f.0,26354,26491,der_marquis,26371,26374,mir,der_marquis
+gdc,11g5f.0,26354,26491,der_marquis,26376,26379,Ich,der_marquis
+gdc,11g5f.0,26354,26491,der_marquis,26436,26439,mir,der_marquis
+gdc,11g5f.0,26354,26491,der_marquis,26448,26451,ich,der_marquis
+gdc,11g5f.0,26354,26491,der_marquis,26452,26456,mich,der_marquis
+gdc,11g5f.0,26496,26730,die_marquise,26535,26546,Der Domherr,domherr
+gdc,11g5f.0,26496,26730,die_marquise,26623,26631,der Graf,der_graf
+gdc,11g5f.0,26856,27558,die_marquise,26937,26940,ich,die_marquise
+gdc,11g5f.0,26856,27558,die_marquise,27040,27043,ich,die_marquise
+gdc,11g5f.0,26856,27558,die_marquise,27044,27047,mir,die_marquise
+gdc,11g5f.0,26856,27558,die_marquise,27123,27134,der Domherr,domherr
+gdc,11g5f.0,26856,27558,die_marquise,27147,27150,ich,die_marquise
+gdc,11g5f.0,26856,27558,die_marquise,27180,27183,Ich,die_marquise
+gdc,11g5f.0,26856,27558,die_marquise,27204,27207,ich,die_marquise
+gdc,11g5f.0,26856,27558,die_marquise,27461,27464,Ich,die_marquise
+gdc,11g5f.0,26856,27558,die_marquise,27511,27514,ich,die_marquise
+gdc,11g5f.0,26856,27558,die_marquise,27534,27537,ich,die_marquise
+gdc,11g5f.0,27629,27817,die_marquise,27649,27653,mich,die_marquise
+gdc,11g5f.0,27629,27817,die_marquise,27734,27738,mich,die_marquise
+gdc,11g5f.0,27629,27817,die_marquise,27777,27780,ich,die_marquise
+gdc,11g5f.0,27855,27985,die_marquise,27869,27872,ich,die_marquise
+gdc,11g5f.0,28015,28193,die_marquise,28025,28028,Ich,die_marquise
+gdc,11g5f.0,28015,28193,die_marquise,28071,28074,ich,die_marquise
+gdc,11g5f.0,28417,28632,die_marquise,28439,28442,ich,die_marquise
+gdc,11g5f.0,28417,28632,die_marquise,28486,28489,mir,die_marquise
+gdc,11g5f.0,28636,28968,die_marquise,28692,28695,mir,die_marquise
+gdc,11g5f.0,28636,28968,die_marquise,28696,28700,mein,die_marquise
+gdc,11g5f.0,28636,28968,die_marquise,28843,28854,der Domherr,domherr
+gdc,11g5f.0,28636,28968,die_marquise,28963,28966,ich,die_marquise
+gdc,11g5f.0,29119,29288,der_marquis,29159,29164,meine,der_marquis
+gdc,11g5f.0,29119,29288,der_marquis,29210,29213,ich,der_marquis
+gdc,11g5f.0,29119,29288,der_marquis,29214,29218,mich,der_marquis
+gdc,11g5f.0,29406,29599,die_marquise,29504,29507,ich,die_marquise
+gdc,11g5f.0,29814,30303,der_marquis,29835,29838,Ich,der_marquis
+gdc,11g5f.0,29814,30303,der_marquis,29893,29896,ich,der_marquis
+gdc,11g5f.0,29814,30303,der_marquis,30117,30120,Ich,der_marquis
+gdc,11g5f.0,29814,30303,der_marquis,30128,30132,mich,der_marquis
+gdc,11g5f.0,29814,30303,der_marquis,30203,30206,ich,der_marquis
+gdc,11g5f.0,29814,30303,der_marquis,30245,30248,mir,der_marquis
+gdc,11g5f.0,30361,30444,der_marquis,30409,30413,mich,der_marquis
+gdc,11g5f.0,30449,30851,die_marquise,30475,30478,ich,die_marquise
+gdc,11g5f.0,30449,30851,die_marquise,30558,30561,Ich,die_marquise
+gdc,11g5f.0,30449,30851,die_marquise,30706,30712,meiner,die_marquise
+gdc,11g5f.0,30449,30851,die_marquise,30792,30795,ich,die_marquise
+gdc,11g5f.0,30951,31549,die_marquise,30966,30970,mich,die_marquise
+gdc,11g5f.0,30951,31549,die_marquise,30990,30993,ich,die_marquise
+gdc,11g5f.0,30951,31549,die_marquise,31067,31070,ich,die_marquise
+gdc,11g5f.0,30951,31549,die_marquise,31186,31189,Ich,die_marquise
+gdc,11g5f.0,31614,31766,die_marquise,31666,31669,ich,die_marquise
+gdc,11g5f.0,31817,32311,die_marquise,31844,31847,mir,die_marquise
+gdc,11g5f.0,31817,32311,die_marquise,31871,31874,Ich,die_marquise
+gdc,11g5f.0,31817,32311,die_marquise,31880,31884,mich,die_marquise
+gdc,11g5f.0,31817,32311,die_marquise,32002,32005,ich,die_marquise
+gdc,11g5f.0,31817,32311,die_marquise,32090,32101,Der Domherr,domherr
+gdc,11g5f.0,32377,32808,die_marquise,32628,32631,ich,die_marquise
+gdc,11g5f.0,32377,32808,die_marquise,32651,32654,mir,die_marquise
+gdc,11g5f.0,32377,32808,die_marquise,32655,32660,meine,die_marquise
+gdc,11g5f.0,32377,32808,die_marquise,32723,32726,ich,die_marquise
+gdc,11g5f.0,32377,32808,die_marquise,32775,32786,der Domherr,domherr
+gdc,11g5f.0,32813,32972,der_marquis,32863,32866,mir,der_marquis
+gdc,11g5f.0,32977,33243,die_marquise,33102,33105,ich,die_marquise
+gdc,11g5f.0,34491,34499,_stage,34491,34495,Jäck,jaeck
+gdc,11g5f.0,34503,34679,die_marquise,34513,34516,Ich,die_marquise
+gdc,11g5f.0,34684,34804,der_marquis,34758,34761,ich,der_marquis
+gdc,11g5f.0,34950,34974,_stage,34963,34973,Die Nichte,nichte
+gdc,11g5f.0,34976,35040,nichte,35002,35005,ich,nichte
+gdc,11g5f.0,35045,35102,die_marquise,35078,35081,mir,die_marquise
+gdc,11g5f.0,35203,35272,die_marquise,35245,35248,ich,die_marquise
+gdc,11g5f.0,35494,35690,der_marquis,35641,35644,ich,der_marquis
+gdc,11g5f.0,35746,35783,nichte,35758,35761,ich,nichte
+gdc,11g5f.0,35834,35879,nichte,35842,35845,Ich,nichte
+gdc,11g5f.0,35884,35919,der_marquis,35915,35918,ich,der_marquis
+gdc,11g5f.0,36019,36079,jaeck,36025,36035,Der Ritter,der_ritter
+gdc,11g5f.0,36114,36122,_stage,36114,36118,Jäck,jaeck
+gdc,11g5f.0,36204,36276,der_marquis,36213,36216,Ich,der_marquis
+gdc,11g5f.0,36301,36325,_stage,36314,36324,Der Ritter,der_ritter
+gdc,11g5f.0,36327,36386,die_marquise,36382,36385,ich,die_marquise
+gdc,11g5f.0,36391,36633,der_ritter,36418,36426,der Graf,der_graf
+gdc,11g5f.0,36391,36633,der_ritter,36469,36474,meine,der_ritter
+gdc,11g5f.0,36813,36854,der_ritter,36821,36824,Ich,der_ritter
+gdc,11g5f.0,36813,36854,der_ritter,36832,36836,mich,der_ritter
+gdc,11g5f.0,36859,36918,die_marquise,36878,36888,der Ritter,der_ritter
+gdc,11g5f.0,36859,36918,die_marquise,36899,36903,mein,die_marquise
+gdc,11g5f.0,36923,36989,nichte,36931,36934,Ich,nichte
+gdc,11g5f.0,36923,36989,nichte,36941,36945,mich,nichte
+gdc,11g5f.0,37157,37408,nichte,37165,37168,Ich,nichte
+gdc,11g5f.0,37157,37408,nichte,37270,37273,Ich,nichte
+gdc,11g5f.0,37157,37408,nichte,37280,37285,meine,nichte
+gdc,11g5f.0,37157,37408,nichte,37356,37360,mich,nichte
+gdc,11g5f.0,37446,37535,die_marquise,37472,37475,ich,die_marquise
+gdc,11g5f.0,37592,37805,_stage,37621,37631,die Nichte,nichte
+gdc,11g5f.0,37592,37805,_stage,37771,37782,Der Marquis,der_marquis
+gdc,11g5f.0,37861,38011,der_ritter,37906,37909,ich,der_ritter
+gdc,11g5f.0,37861,38011,der_ritter,37932,37940,Der Graf,der_graf
+gdc,11g5f.0,37861,38011,der_ritter,37962,37965,ich,der_ritter
+gdc,11g5f.0,38098,38604,der_ritter,38106,38109,Ich,der_ritter
+gdc,11g5f.0,38098,38604,der_ritter,38143,38146,mir,der_ritter
+gdc,11g5f.0,38098,38604,der_ritter,38185,38188,ich,der_ritter
+gdc,11g5f.0,38098,38604,der_ritter,38348,38352,mich,der_ritter
+gdc,11g5f.0,38098,38604,der_ritter,38353,38356,mir,der_ritter
+gdc,11g5f.0,38098,38604,der_ritter,38399,38402,Ich,der_ritter
+gdc,11g5f.0,38098,38604,der_ritter,38431,38434,mir,der_ritter
+gdc,11g5f.0,38098,38604,der_ritter,38465,38468,mir,der_ritter
+gdc,11g5f.0,38098,38604,der_ritter,38518,38521,ich,der_ritter
+gdc,11g5f.0,38669,38688,die_marquise,38684,38687,mir,die_marquise
+gdc,11g5f.0,38738,38912,die_marquise,38824,38827,ich,die_marquise
+gdc,11g5f.0,38738,38912,die_marquise,38890,38894,mein,die_marquise
+gdc,11g5f.0,38917,39530,der_ritter,38925,38928,Ich,der_ritter
+gdc,11g5f.0,38917,39530,der_ritter,38961,38966,meine,der_ritter
+gdc,11g5f.0,38917,39530,der_ritter,39051,39054,ich,der_ritter
+gdc,11g5f.0,38917,39530,der_ritter,39153,39156,ich,der_ritter
+gdc,11g5f.0,38917,39530,der_ritter,39278,39281,mir,der_ritter
+gdc,11g5f.0,38917,39530,der_ritter,39408,39411,Ich,der_ritter
+gdc,11g5f.0,38917,39530,der_ritter,39446,39449,Ich,der_ritter
+gdc,11g5f.0,39756,39832,die_marquise,39766,39769,Ich,die_marquise
+gdc,11g5f.0,39837,39870,der_ritter,39852,39855,mir,der_ritter
+gdc,11g5f.0,39875,39955,die_marquise,39896,39907,der Domherr,domherr
+gdc,11g5f.0,39960,40111,der_ritter,39968,39971,Ich,der_ritter
+gdc,11g5f.0,39960,40111,der_ritter,39988,39991,ich,der_ritter
+gdc,11g5f.0,39960,40111,der_ritter,40038,40041,ich,der_ritter
+gdc,11g5f.0,39960,40111,der_ritter,40094,40097,ich,der_ritter
+gdc,11g5f.0,40116,40237,die_marquise,40144,40147,ich,die_marquise
+gdc,11g5f.0,40593,41345,die_marquise,40886,40889,Ich,die_marquise
+gdc,11g5f.0,40593,41345,die_marquise,41247,41250,ich,die_marquise
+gdc,11g5f.0,40593,41345,die_marquise,41290,41295,meine,die_marquise
+gdc,11g5f.0,40593,41345,die_marquise,41321,41325,mein,die_marquise
+gdc,11g5f.0,41350,41422,der_ritter,41372,41377,meine,der_ritter
+gdc,11g5f.0,41609,41699,nichte,41617,41620,Ich,nichte
+gdc,11g5f.0,41609,41699,nichte,41625,41630,meine,nichte
+gdc,11g5f.0,41609,41699,nichte,41678,41681,ich,nichte
+gdc,11g5f.0,41704,41783,der_marquis,41739,41742,ich,der_marquis
+gdc,11g5f.0,41704,41783,der_marquis,41756,41766,der Ritter,der_ritter
+gdc,11g5f.0,42035,42080,der_ritter,42048,42051,ich,der_ritter
+gdc,11g5f.0,42035,42080,der_ritter,42052,42056,mich,der_ritter
+gdc,11g5f.0,42351,42379,_stage,42364,42368,Jäck,jaeck
+gdc,11g5f.0,42351,42379,_stage,42370,42378,Der Graf,der_graf
+gdc,11g5f.0,42381,42398,jaeck,42387,42395,Der Graf,der_graf
+gdc,11g5f.0,42408,42443,_stage,42426,42430,Jäck,jaeck
+gdc,11g5f.0,42742,42853,_stage,42742,42746,Jäck,jaeck
+gdc,11g5f.0,42857,43201,der_graf,43040,43043,ich,der_graf
+gdc,11g5f.0,43206,43271,der_ritter,43214,43217,Ich,der_ritter
+gdc,11g5f.0,43206,43271,der_ritter,43258,43261,ich,der_ritter
+gdc,11g5f.0,43206,43271,der_ritter,43262,43266,mich,der_ritter
+gdc,11g5f.0,43309,43381,der_marquis,43318,43326,Der Graf,der_graf
+gdc,11g5f.0,43386,43475,der_graf,43417,43420,ich,der_graf
+gdc,11g5f.0,43514,43918,der_graf,43525,43528,ich,der_graf
+gdc,11g5f.0,43514,43918,der_graf,43628,43632,mich,der_graf
+gdc,11g5f.0,43514,43918,der_graf,43662,43665,ich,der_graf
+gdc,11g5f.0,43514,43918,der_graf,43780,43783,ich,der_graf
+gdc,11g5f.0,43514,43918,der_graf,43817,43820,ich,der_graf
+gdc,11g5f.0,43996,44526,der_graf,44002,44005,Ich,der_graf
+gdc,11g5f.0,43996,44526,der_graf,44012,44016,mich,der_graf
+gdc,11g5f.0,43996,44526,der_graf,44053,44056,Ich,der_graf
+gdc,11g5f.0,43996,44526,der_graf,44068,44071,ich,der_graf
+gdc,11g5f.0,43996,44526,der_graf,44173,44179,meiner,der_graf
+gdc,11g5f.0,43996,44526,der_graf,44353,44356,Ich,der_graf
+gdc,11g5f.0,43996,44526,der_graf,44385,44390,meine,der_graf
+gdc,11g5f.0,43996,44526,der_graf,44430,44433,ich,der_graf
+gdc,11g5f.0,44531,44801,die_marquise,44647,44650,ich,die_marquise
+gdc,11g5f.0,44531,44801,die_marquise,44651,44655,mich,die_marquise
+gdc,11g5f.0,44531,44801,die_marquise,44723,44727,mich,die_marquise
+gdc,11g5f.0,44531,44801,die_marquise,44764,44767,mir,die_marquise
+gdc,11g5f.0,44806,44923,der_graf,44893,44896,mir,der_graf
+gdc,11g5f.0,44928,45002,die_marquise,44954,44957,Ich,die_marquise
+gdc,11g5f.0,45007,45602,der_graf,45136,45146,die Männer,die_maenner
+gdc,11g5f.0,45007,45602,der_graf,45212,45215,mir,der_graf
+gdc,11g5f.0,45007,45602,der_graf,45237,45240,mir,der_graf
+gdc,11g5f.0,45007,45602,der_graf,45269,45273,mich,der_graf
+gdc,11g5f.0,45007,45602,der_graf,45314,45320,meiner,der_graf
+gdc,11g5f.0,45007,45602,der_graf,45339,45343,mich,der_graf
+gdc,11g5f.0,45007,45602,der_graf,45376,45382,meinem,der_graf
+gdc,11g5f.0,45007,45602,der_graf,45394,45397,ich,der_graf
+gdc,11g5f.0,45007,45602,der_graf,45443,45446,ich,der_graf
+gdc,11g5f.0,45007,45602,der_graf,45513,45516,mir,der_graf
+gdc,11g5f.0,45007,45602,der_graf,45521,45525,mich,der_graf
+gdc,11g5f.0,45007,45602,der_graf,45555,45558,ich,der_graf
+gdc,11g5f.0,45607,45797,nichte,45654,45657,mir,nichte
+gdc,11g5f.0,45607,45797,nichte,45689,45692,ich,nichte
+gdc,11g5f.0,45607,45797,nichte,45733,45736,ich,nichte
+gdc,11g5f.0,45607,45797,nichte,45777,45780,ich,nichte
+gdc,11g5f.0,45908,46023,nichte,45935,45938,mir,nichte
+gdc,11g5f.0,45961,46023,_stage,45961,45969,Der Graf,der_graf
+gdc,11g5f.0,46027,46189,die_marquise,46179,46183,mich,die_marquise
+gdc,11g5f.0,46195,46333,der_marquis,46319,46323,mich,der_marquis
+gdc,11g5f.0,46648,46694,_stage,46648,46659,Der Marquis,der_marquis
+gdc,11g5f.0,46648,46694,_stage,46664,46674,die Nichte,nichte
+gdc,11g5f.0,46698,46806,der_graf,46791,46794,ich,der_graf
+gdc,11g5f.0,46844,47702,der_graf,46906,46909,mir,der_graf
+gdc,11g5f.0,46844,47702,der_graf,46965,46968,Ich,der_graf
+gdc,11g5f.0,46844,47702,der_graf,47109,47112,ich,der_graf
+gdc,11g5f.0,46844,47702,der_graf,47145,47148,ich,der_graf
+gdc,11g5f.0,46844,47702,der_graf,47183,47186,mir,der_graf
+gdc,11g5f.0,46844,47702,der_graf,47214,47217,ich,der_graf
+gdc,11g5f.0,46844,47702,der_graf,47272,47275,mir,der_graf
+gdc,11g5f.0,46844,47702,der_graf,47291,47294,ich,der_graf
+gdc,11g5f.0,46844,47702,der_graf,47328,47332,mein,der_graf
+gdc,11g5f.0,46844,47702,der_graf,47535,47538,mir,der_graf
+gdc,11g5f.0,46844,47702,der_graf,47549,47552,ich,der_graf
+gdc,11g5f.0,46844,47702,der_graf,47585,47590,meine,der_graf
+gdc,11g5f.0,46844,47702,der_graf,47674,47677,ich,der_graf
+gdc,11g5f.0,47809,48040,der_graf,47850,47853,ich,der_graf
+gdc,11g5f.0,47809,48040,der_graf,47867,47870,Mir,der_graf
+gdc,11g5f.0,47809,48040,der_graf,47906,47909,ich,der_graf
+gdc,11g5f.0,47809,48040,der_graf,47930,47934,mich,der_graf
+gdc,11g5f.0,48130,48197,nichte,48162,48165,mir,nichte
+gdc,11g5f.0,48406,48433,_stage,48406,48416,die Nichte,nichte
+gdc,11g5f.0,48401,48472,der_graf,48441,48445,mich,der_graf
+gdc,11g5f.0,48477,48532,die_marquise,48507,48513,meiner,die_marquise
+gdc,11g5f.0,48537,48595,der_graf,48566,48570,mich,der_graf
+gdc,11g5f.0,48745,49433,der_graf,48751,48754,Ich,der_graf
+gdc,11g5f.0,48745,49433,der_graf,48789,48792,ich,der_graf
+gdc,11g5f.0,48745,49433,der_graf,49017,49020,ich,der_graf
+gdc,11g5f.0,48745,49433,der_graf,49034,49037,Ich,der_graf
+gdc,11g5f.0,48745,49433,der_graf,49063,49066,ich,der_graf
+gdc,11g5f.0,48745,49433,der_graf,49083,49086,ich,der_graf
+gdc,11g5f.0,48745,49433,der_graf,49326,49329,ich,der_graf
+gdc,11g5f.0,48745,49433,der_graf,49330,49333,mir,der_graf
+gdc,11g5f.0,48745,49433,der_graf,49361,49364,Ich,der_graf
+gdc,11g5f.0,48745,49433,der_graf,49429,49432,mir,der_graf
+gdc,11g5f.0,49499,49533,nichte,49513,49516,Ich,nichte
+gdc,11g5f.0,49581,49703,die_marquise,49686,49689,Ich,die_marquise
+gdc,11g5f.0,49708,50427,der_graf,49837,49841,mein,der_graf
+gdc,11g5f.0,50481,50606,nichte,50554,50558,mich,nichte
+gdc,11g5f.0,50481,50606,nichte,50571,50574,Ich,nichte
+gdc,11g5f.0,50481,50606,nichte,50601,50605,mich,nichte
+gdc,11g5f.0,50688,50781,nichte,50722,50725,Ich,nichte
+gdc,11g5f.0,50688,50781,nichte,50756,50759,ich,nichte
+gdc,11g5f.0,50950,50995,_stage,50950,50962,Die Marquise,die_marquise
+gdc,11g5f.0,50999,51057,der_marquis,51013,51016,ich,der_marquis
+gdc,11g5f.0,51184,51228,der_marquis,51208,51211,ich,der_marquis
+gdc,11g5f.0,51334,51580,der_graf,51362,51365,ich,der_graf
+gdc,11g5f.0,51334,51580,der_graf,51395,51399,mich,der_graf
+gdc,11g5f.0,51334,51580,der_graf,51506,51509,ich,der_graf
+gdc,11g5f.0,51585,51648,nichte,51619,51622,Ich,nichte
+gdc,11g5f.0,51585,51648,nichte,51630,51633,ich,nichte
+gdc,11g5f.0,51653,52272,der_graf,51672,51676,mein,der_graf
+gdc,11g5f.0,51653,52272,der_graf,51706,51710,mich,der_graf
+gdc,11g5f.0,51653,52272,der_graf,51927,51938,der Domherr,domherr
+gdc,11g5f.0,51653,52272,der_graf,52011,52014,ich,der_graf
+gdc,11g5f.0,51653,52272,der_graf,52146,52151,meine,der_graf
+gdc,11g5f.0,52354,52379,_stage,52354,52366,Die Marquise,die_marquise
+gdc,11g5f.0,52354,52379,_stage,52368,52378,Die Nichte,nichte
+gdc,11g5f.0,52380,52496,_stage,52391,52399,der Graf,der_graf
+gdc,11g5f.0,52380,52496,_stage,52404,52415,der Marquis,der_marquis
+gdc,11g5f.0,52498,53268,die_marquise,52551,52554,Ich,die_marquise
+gdc,11g5f.0,52498,53268,die_marquise,52577,52580,ich,die_marquise
+gdc,11g5f.0,52498,53268,die_marquise,52605,52609,mich,die_marquise
+gdc,11g5f.0,52498,53268,die_marquise,52677,52680,mir,die_marquise
+gdc,11g5f.0,52498,53268,die_marquise,52718,52721,ich,die_marquise
+gdc,11g5f.0,52498,53268,die_marquise,52804,52810,meinem,die_marquise
+gdc,11g5f.0,52498,53268,die_marquise,52904,52907,mir,die_marquise
+gdc,11g5f.0,52498,53268,die_marquise,52928,52932,mich,die_marquise
+gdc,11g5f.0,52498,53268,die_marquise,52950,52953,mir,die_marquise
+gdc,11g5f.0,52498,53268,die_marquise,52986,52991,meine,die_marquise
+gdc,11g5f.0,52498,53268,die_marquise,53018,53021,ich,die_marquise
+gdc,11g5f.0,52498,53268,die_marquise,53032,53035,ich,die_marquise
+gdc,11g5f.0,53273,53380,nichte,53281,53284,Ich,nichte
+gdc,11g5f.0,53385,53424,die_marquise,53412,53417,meine,die_marquise
+gdc,11g5f.0,53429,53482,nichte,53437,53440,Ich,nichte
+gdc,11g5f.0,53429,53482,nichte,53448,53451,ich,nichte
+gdc,11g5f.0,53487,53585,die_marquise,53526,53530,mich,die_marquise
+gdc,11g5f.0,53487,53585,die_marquise,53539,53542,Ich,die_marquise
+gdc,11g5f.0,53590,53805,nichte,53641,53645,mich,nichte
+gdc,11g5f.0,53590,53805,nichte,53720,53724,mich,nichte
+gdc,11g5f.0,53590,53805,nichte,53736,53739,ich,nichte
+gdc,11g5f.0,53590,53805,nichte,53767,53770,Ich,nichte
+gdc,11g5f.0,53856,54107,nichte,53868,53874,meinen,nichte
+gdc,11g5f.0,53856,54107,nichte,53882,53885,ich,nichte
+gdc,11g5f.0,53856,54107,nichte,53893,53896,Ich,nichte
+gdc,11g5f.0,53856,54107,nichte,53917,53921,mich,nichte
+gdc,11g5f.0,53856,54107,nichte,53934,53937,ich,nichte
+gdc,11g5f.0,53856,54107,nichte,53981,53984,ich,nichte
+gdc,11g5f.0,53856,54107,nichte,54070,54074,mich,nichte
+gdc,11g5f.0,53856,54107,nichte,54096,54100,mich,nichte
+gdc,11g5f.0,54112,54192,die_marquise,54155,54165,die Nichte,nichte
+gdc,11g5f.0,54112,54192,die_marquise,54182,54186,mein,die_marquise
+gdc,11g5f.0,54197,54470,nichte,54205,54208,Ich,nichte
+gdc,11g5f.0,54197,54470,nichte,54231,54234,ich,nichte
+gdc,11g5f.0,54197,54470,nichte,54248,54253,Meine,nichte
+gdc,11g5f.0,54197,54470,nichte,54266,54270,mich,nichte
+gdc,11g5f.0,54197,54470,nichte,54285,54288,mir,nichte
+gdc,11g5f.0,54197,54470,nichte,54347,54350,ich,nichte
+gdc,11g5f.0,54197,54470,nichte,54373,54376,ich,nichte
+gdc,11g5f.0,54197,54470,nichte,54395,54400,Meine,nichte
+gdc,11g5f.0,54197,54470,nichte,54409,54414,Meine,nichte
+gdc,11g5f.0,54197,54470,nichte,54431,54435,Mein,nichte
+gdc,11g5f.0,54197,54470,nichte,54445,54450,Meine,nichte
+gdc,11g5f.0,54475,54600,die_marquise,54521,54524,ich,die_marquise
+gdc,11g5f.0,54475,54600,die_marquise,54585,54595,die Nichte,nichte
+gdc,11g5f.0,54605,54651,nichte,54623,54626,ich,nichte
+gdc,11g5f.0,54605,54651,nichte,54639,54642,ich,nichte
+gdc,11g5f.0,54676,54767,nichte,54703,54709,meiner,nichte
+gdc,11g5f.0,54676,54767,nichte,54754,54757,mir,nichte
+gdc,11g5f.0,54850,54978,nichte,54871,54875,mich,nichte
+gdc,11g5f.0,54850,54978,nichte,54895,54899,mich,nichte
+gdc,11g5f.0,54850,54978,nichte,54955,54959,mich,nichte
+gdc,11g5f.0,55016,55987,nichte,55145,55148,ich,nichte
+gdc,11g5f.0,55016,55987,nichte,55219,55222,mir,nichte
+gdc,11g5f.0,55016,55987,nichte,55254,55257,mir,nichte
+gdc,11g5f.0,55016,55987,nichte,55296,55300,mich,nichte
+gdc,11g5f.0,55016,55987,nichte,55347,55351,mein,nichte
+gdc,11g5f.0,55016,55987,nichte,55487,55490,ich,nichte
+gdc,11g5f.0,55016,55987,nichte,55511,55515,mich,nichte
+gdc,11g5f.0,55016,55987,nichte,55598,55601,mir,nichte
+gdc,11g5f.0,55016,55987,nichte,55634,55637,ich,nichte
+gdc,11g5f.0,55016,55987,nichte,55647,55653,meiner,nichte
+gdc,11g5f.0,55016,55987,nichte,55691,55695,mein,nichte
+gdc,11g5f.0,55016,55987,nichte,55744,55747,Ich,nichte
+gdc,11g5f.0,55016,55987,nichte,55868,55871,mir,nichte
+gdc,11g5f.0,55016,55987,nichte,55888,55892,mich,nichte
+gdc,11g5f.0,55016,55987,nichte,55894,55897,ich,nichte
+gdc,11g5f.0,55016,55987,nichte,55925,55929,mich,nichte
+gdc,11g5f.0,55016,55987,nichte,55942,55946,mich,nichte
+gdc,11g5f.0,55992,56657,die_marquise,56028,56034,meinen,die_marquise
+gdc,11g5f.0,55992,56657,die_marquise,56063,56067,mich,die_marquise
+gdc,11g5f.0,55992,56657,die_marquise,56082,56085,mir,die_marquise
+gdc,11g5f.0,55992,56657,die_marquise,56290,56293,mir,die_marquise
+gdc,11g5f.0,55992,56657,die_marquise,56328,56334,meinen,die_marquise
+gdc,11g5f.0,55992,56657,die_marquise,56345,56348,mir,die_marquise
+gdc,11g5f.0,55992,56657,die_marquise,56393,56396,ich,die_marquise
+gdc,11g5f.0,55992,56657,die_marquise,56397,56402,meine,die_marquise
+gdc,11g5f.0,55992,56657,die_marquise,56430,56433,mir,die_marquise
+gdc,11g5f.0,55992,56657,die_marquise,56559,56562,ich,die_marquise
+gdc,11g5f.0,56662,56769,nichte,56764,56768,mich,nichte
+gdc,11g5f.0,56774,56932,die_marquise,56828,56831,mir,die_marquise
+gdc,11g5f.0,56774,56932,die_marquise,56844,56855,der Marquis,der_marquis
+gdc,11g5f.0,56774,56932,die_marquise,56879,56882,ich,die_marquise
+gdc,11g5f.0,56965,57059,die_marquise,57027,57030,ich,die_marquise
+gdc,11g5f.0,57064,57101,nichte,57072,57075,Ich,nichte
+gdc,11g5f.0,57106,57298,die_marquise,57151,57154,ich,die_marquise
+gdc,11g5f.0,57482,59310,domherr,57528,57531,ich,domherr
+gdc,11g5f.0,57482,59310,domherr,57745,57748,ich,domherr
+gdc,11g5f.0,57482,59310,domherr,57791,57794,ich,domherr
+gdc,11g5f.0,57482,59310,domherr,57799,57802,mir,domherr
+gdc,11g5f.0,57482,59310,domherr,57830,57833,ich,domherr
+gdc,11g5f.0,57482,59310,domherr,57854,57857,ich,domherr
+gdc,11g5f.0,57482,59310,domherr,57965,57968,ich,domherr
+gdc,11g5f.0,57482,59310,domherr,58271,58275,mich,domherr
+gdc,11g5f.0,57482,59310,domherr,58310,58313,mir,domherr
+gdc,11g5f.0,57482,59310,domherr,58345,58349,mich,domherr
+gdc,11g5f.0,57482,59310,domherr,58409,58413,mich,domherr
+gdc,11g5f.0,57482,59310,domherr,58483,58486,mir,domherr
+gdc,11g5f.0,57482,59310,domherr,58574,58577,mir,domherr
+gdc,11g5f.0,57482,59310,domherr,58646,58649,mir,domherr
+gdc,11g5f.0,57482,59310,domherr,58670,58673,ich,domherr
+gdc,11g5f.0,57482,59310,domherr,58719,58723,mich,domherr
+gdc,11g5f.0,57482,59310,domherr,58769,58772,ich,domherr
+gdc,11g5f.0,57482,59310,domherr,58831,58835,mein,domherr
+gdc,11g5f.0,57482,59310,domherr,58926,58930,mein,domherr
+gdc,11g5f.0,57482,59310,domherr,58989,58992,mir,domherr
+gdc,11g5f.0,57482,59310,domherr,59005,59008,mir,domherr
+gdc,11g5f.0,57482,59310,domherr,59110,59114,mich,domherr
+gdc,11g5f.0,57482,59310,domherr,59146,59149,mir,domherr
+gdc,11g5f.0,57482,59310,domherr,59245,59249,mich,domherr
+gdc,11g5f.0,57482,59310,domherr,59270,59273,ich,domherr
+gdc,11g5f.0,59335,59388,_stage,59335,59346,Der Domherr,domherr
+gdc,11g5f.0,59473,59615,domherr,59588,59591,ich,domherr
+gdc,11g5f.0,59697,59843,domherr,59706,59709,Ich,domherr
+gdc,11g5f.0,60297,60552,domherr,60306,60309,Ich,domherr
+gdc,11g5f.0,60297,60552,domherr,60340,60343,mir,domherr
+gdc,11g5f.0,60297,60552,domherr,60399,60402,Ich,domherr
+gdc,11g5f.0,60297,60552,domherr,60437,60440,ich,domherr
+gdc,11g5f.0,60297,60552,domherr,60464,60468,mich,domherr
+gdc,11g5f.0,60672,61305,domherr,60681,60684,Ich,domherr
+gdc,11g5f.0,60672,61305,domherr,60775,60778,ich,domherr
+gdc,11g5f.0,60672,61305,domherr,60843,60846,ich,domherr
+gdc,11g5f.0,60672,61305,domherr,60880,60884,mich,domherr
+gdc,11g5f.0,60672,61305,domherr,60999,61011,die Marquise,die_marquise
+gdc,11g5f.0,60672,61305,domherr,61035,61038,ich,domherr
+gdc,11g5f.0,60672,61305,domherr,61087,61093,meiner,domherr
+gdc,11g5f.0,60672,61305,domherr,61221,61224,mir,domherr
+gdc,11g5f.0,60672,61305,domherr,61292,61297,meine,domherr
+gdc,11g5f.0,61536,61800,domherr,61644,61649,meine,domherr
+gdc,11g5f.0,61824,61866,_stage,61861,61865,Jäck,jaeck
+gdc,11g5f.0,61868,62500,domherr,62225,62228,ich,domherr
+gdc,11g5f.0,61868,62500,domherr,62289,62292,ich,domherr
+gdc,11g5f.0,61868,62500,domherr,62432,62436,mich,domherr
+gdc,11g5f.0,61868,62500,domherr,62453,62457,mich,domherr
+gdc,11g5f.0,61868,62500,domherr,62463,62466,ich,domherr
+gdc,11g5f.0,62611,63677,domherr,62706,62709,Ich,domherr
+gdc,11g5f.0,62611,63677,domherr,62797,62800,ich,domherr
+gdc,11g5f.0,62611,63677,domherr,62971,62974,ich,domherr
+gdc,11g5f.0,62611,63677,domherr,63154,63157,ich,domherr
+gdc,11g5f.0,62611,63677,domherr,63158,63164,meinen,domherr
+gdc,11g5f.0,62611,63677,domherr,63410,63414,mich,domherr
+gdc,11g5f.0,62611,63677,domherr,63523,63529,meines,domherr
+gdc,11g5f.0,62611,63677,domherr,63545,63549,mich,domherr
+gdc,11g5f.0,62611,63677,domherr,63609,63613,mich,domherr
+gdc,11g5f.0,63723,63743,bedienter_3-3,63738,63742,Jäck,jaeck
+gdc,11g5f.0,63797,63868,domherr,63806,63809,Ich,domherr
+gdc,11g5f.0,63797,63868,domherr,63831,63834,ich,domherr
+gdc,11g5f.0,64029,64059,jaeck,64047,64053,meinen,jaeck
+gdc,11g5f.0,64207,64275,domherr,64216,64219,Ich,domherr
+gdc,11g5f.0,64280,64516,jaeck,64286,64289,Ich,jaeck
+gdc,11g5f.0,64280,64516,jaeck,64315,64318,ich,jaeck
+gdc,11g5f.0,64280,64516,jaeck,64338,64341,Ich,jaeck
+gdc,11g5f.0,64280,64516,jaeck,64412,64423,der Domherr,domherr
+gdc,11g5f.0,64521,64877,domherr,64567,64570,ich,domherr
+gdc,11g5f.0,64521,64877,domherr,64655,64658,ich,domherr
+gdc,11g5f.0,64521,64877,domherr,64764,64767,mir,domherr
+gdc,11g5f.0,64521,64877,domherr,64803,64809,meiner,domherr
+gdc,11g5f.0,64931,64952,saint_jean,64941,64951,Der Ritter,der_ritter
+gdc,11g5f.0,64980,65007,_stage,64980,64988,St. Jean,saint_jean
+gdc,11g5f.0,65011,65191,der_ritter,65028,65031,ich,der_ritter
+gdc,11g5f.0,65011,65191,der_ritter,65043,65046,ich,der_ritter
+gdc,11g5f.0,65011,65191,der_ritter,65098,65101,ich,der_ritter
+gdc,11g5f.0,65011,65191,der_ritter,65173,65176,ich,der_ritter
+gdc,11g5f.0,65196,65229,domherr,65214,65217,mir,domherr
+gdc,11g5f.0,65234,65390,der_ritter,65258,65261,ich,der_ritter
+gdc,11g5f.0,65234,65390,der_ritter,65288,65292,mich,der_ritter
+gdc,11g5f.0,65234,65390,der_ritter,65335,65338,ich,der_ritter
+gdc,11g5f.0,65449,65473,der_ritter,65467,65470,mir,der_ritter
+gdc,11g5f.0,65478,65650,domherr,65583,65587,mich,domherr
+gdc,11g5f.0,65655,65810,der_ritter,65735,65739,mich,der_ritter
+gdc,11g5f.0,65836,65858,_stage,65849,65857,Der Graf,der_graf
+gdc,11g5f.0,65860,65963,der_graf,65921,65924,Ich,der_graf
+gdc,11g5f.0,65997,66034,der_ritter,66015,66019,mich,der_ritter
+gdc,11g5f.0,66039,66128,der_graf,66049,66052,ich,der_graf
+gdc,11g5f.0,66177,66256,der_graf,66183,66186,Ich,der_graf
+gdc,11g5f.0,66177,66256,der_graf,66234,66237,ich,der_graf
+gdc,11g5f.0,66261,66406,der_ritter,66337,66340,Ich,der_ritter
+gdc,11g5f.0,66411,66471,der_graf,66429,66434,meine,der_graf
+gdc,11g5f.0,66411,66471,der_graf,66456,66461,meine,der_graf
+gdc,11g5f.0,66724,66785,der_graf,66755,66765,die Männer,die_maenner
+gdc,11g5f.0,66790,66834,der_ritter,66803,66806,ich,der_ritter
+gdc,11g5f.0,67090,67335,der_ritter,67098,67101,Ich,der_ritter
+gdc,11g5f.0,67090,67335,der_ritter,67107,67110,mir,der_ritter
+gdc,11g5f.0,67639,68472,der_ritter,67667,67670,ich,der_ritter
+gdc,11g5f.0,67639,68472,der_ritter,67683,67686,ich,der_ritter
+gdc,11g5f.0,68477,68518,der_graf,68508,68512,mein,der_graf
+gdc,11g5f.0,69951,70002,domherr,69965,69968,mir,domherr
+gdc,11g5f.0,70229,70333,der_ritter,70265,70269,mich,der_ritter
+gdc,11g5f.0,70846,70959,der_ritter,70884,70888,mich,der_ritter
+gdc,11g5f.0,70846,70959,der_ritter,70897,70900,mir,der_ritter
+gdc,11g5f.0,70846,70959,der_ritter,70919,70922,mir,der_ritter
+gdc,11g5f.0,70964,71554,domherr,70994,70997,mir,domherr
+gdc,11g5f.0,71559,71650,der_ritter,71567,71572,Meine,der_ritter
+gdc,11g5f.0,71559,71650,der_ritter,71599,71602,ich,der_ritter
+gdc,11g5f.0,71559,71650,der_ritter,71613,71616,ich,der_ritter
+gdc,11g5f.0,71559,71650,der_ritter,71617,71621,mich,der_ritter
+gdc,11g5f.0,71559,71650,der_ritter,71626,71632,meinem,der_ritter
+gdc,11g5f.0,72278,72308,der_ritter,72296,72299,ich,der_ritter
+gdc,11g5f.0,73278,73379,der_graf,73334,73337,ich,der_graf
+gdc,11g5f.0,73384,73475,domherr,73393,73396,Ich,domherr
+gdc,11g5f.0,73384,73475,domherr,73416,73421,meine,domherr
+gdc,11g5f.0,73384,73475,domherr,73442,73446,mich,domherr
+gdc,11g5f.0,73480,73613,der_graf,73486,73489,Ich,der_graf
+gdc,11g5f.0,73639,73660,_stage,73639,73647,Der Graf,der_graf
+gdc,11g5f.0,73639,73660,_stage,73649,73659,Der Ritter,der_ritter
+gdc,11g5f.0,73776,73825,der_graf,73801,73804,Ich,der_graf
+gdc,11g5f.0,73831,73890,der_ritter,73850,73854,mich,der_ritter
+gdc,11g5f.0,73831,73890,der_ritter,73862,73865,Ich,der_ritter
+gdc,11g5f.0,73831,73890,der_ritter,73872,73876,mich,der_ritter
+gdc,11g5f.0,73918,74353,der_ritter,73948,73951,ich,der_ritter
+gdc,11g5f.0,73918,74353,der_ritter,73992,73995,mir,der_ritter
+gdc,11g5f.0,73918,74353,der_ritter,74038,74041,mir,der_ritter
+gdc,11g5f.0,73918,74353,der_ritter,74081,74084,mir,der_ritter
+gdc,11g5f.0,73918,74353,der_ritter,74141,74144,ich,der_ritter
+gdc,11g5f.0,73918,74353,der_ritter,74152,74156,mich,der_ritter
+gdc,11g5f.0,73918,74353,der_ritter,74186,74192,meinen,der_ritter
+gdc,11g5f.0,73918,74353,der_ritter,74231,74235,mich,der_ritter
+gdc,11g5f.0,73918,74353,der_ritter,74282,74286,mich,der_ritter
+gdc,11g5f.0,73918,74353,der_ritter,74299,74302,ich,der_ritter
+gdc,11g5f.0,74437,74637,der_ritter,74536,74540,mein,der_ritter
+gdc,11g5f.0,74437,74637,der_ritter,74548,74553,meine,der_ritter
+gdc,11g5f.0,74437,74637,der_ritter,74587,74591,mich,der_ritter
+gdc,11g5f.0,74642,74923,der_graf,74658,74661,ich,der_graf
+gdc,11g5f.0,74642,74923,der_graf,74662,74666,mich,der_graf
+gdc,11g5f.0,74642,74923,der_graf,74690,74693,Ich,der_graf
+gdc,11g5f.0,74928,75232,der_ritter,74954,74957,ich,der_ritter
+gdc,11g5f.0,74928,75232,der_ritter,74958,74962,mich,der_ritter
+gdc,11g5f.0,74928,75232,der_ritter,75048,75051,ich,der_ritter
+gdc,11g5f.0,74928,75232,der_ritter,75058,75063,meine,der_ritter
+gdc,11g5f.0,74928,75232,der_ritter,75085,75091,meiner,der_ritter
+gdc,11g5f.0,74928,75232,der_ritter,75105,75111,meiner,der_ritter
+gdc,11g5f.0,74928,75232,der_ritter,75128,75134,meiner,der_ritter
+gdc,11g5f.0,75337,76502,der_ritter,75363,75366,ich,der_ritter
+gdc,11g5f.0,75337,76502,der_ritter,75437,75440,ich,der_ritter
+gdc,11g5f.0,75337,76502,der_ritter,75445,75451,meinen,der_ritter
+gdc,11g5f.0,75337,76502,der_ritter,75470,75473,ich,der_ritter
+gdc,11g5f.0,75337,76502,der_ritter,75508,75511,mir,der_ritter
+gdc,11g5f.0,75337,76502,der_ritter,75578,75581,mir,der_ritter
+gdc,11g5f.0,75337,76502,der_ritter,75781,75784,mir,der_ritter
+gdc,11g5f.0,75337,76502,der_ritter,75839,75842,ich,der_ritter
+gdc,11g5f.0,75337,76502,der_ritter,75990,75993,mir,der_ritter
+gdc,11g5f.0,75337,76502,der_ritter,76046,76049,Ich,der_ritter
+gdc,11g5f.0,75337,76502,der_ritter,76130,76135,meine,der_ritter
+gdc,11g5f.0,75337,76502,der_ritter,76181,76184,ich,der_ritter
+gdc,11g5f.0,75337,76502,der_ritter,76235,76238,ich,der_ritter
+gdc,11g5f.0,75337,76502,der_ritter,76315,76319,mich,der_ritter
+gdc,11g5f.0,75337,76502,der_ritter,76425,76429,mich,der_ritter
+gdc,11g5f.0,75337,76502,der_ritter,76457,76460,Ich,der_ritter
+gdc,11g5f.0,75337,76502,der_ritter,76479,76482,mir,der_ritter
+gdc,11g5f.0,76507,76539,der_graf,76531,76535,mich,der_graf
+gdc,11g5f.0,76544,76578,der_ritter,76574,76577,mir,der_ritter
+gdc,11g5f.0,76583,76646,der_graf,76597,76601,mich,der_graf
+gdc,11g5f.0,76759,76829,der_ritter,76814,76817,ich,der_ritter
+gdc,11g5f.0,76759,76829,der_ritter,76818,76822,mich,der_ritter
+gdc,11g5f.0,76907,76950,der_graf,76913,76916,Ich,der_graf
+gdc,11g5f.0,76907,76950,der_graf,76935,76938,mir,der_graf
+gdc,11g5f.0,77067,77265,der_graf,77150,77154,mich,der_graf
+gdc,11g5f.0,77067,77265,der_graf,77205,77210,meine,der_graf
+gdc,11g5f.0,77067,77265,der_graf,77234,77239,meine,der_graf
+gdc,11g5f.0,77270,77312,der_ritter,77303,77307,mich,der_ritter
+gdc,11g5f.0,77317,77447,der_graf,77337,77340,ich,der_graf
+gdc,11g5f.0,77317,77447,der_graf,77381,77386,meine,der_graf
+gdc,11g5f.0,77317,77447,der_graf,77406,77412,meinen,der_graf
+gdc,11g5f.0,77452,77498,der_ritter,77484,77488,mich,der_ritter
+gdc,11g5f.0,77503,77568,der_graf,77539,77550,der Domherr,domherr
+gdc,11g5f.0,77573,77605,der_ritter,77581,77585,Mich,der_ritter
+gdc,11g5f.0,77677,77754,der_graf,77687,77691,mich,der_graf
+gdc,11g5f.0,77677,77754,der_graf,77697,77702,meine,der_graf
+gdc,11g5f.0,77759,77781,der_ritter,77767,77770,Ich,der_ritter
+gdc,11g5f.0,77786,77856,der_graf,77807,77810,ich,der_graf
+gdc,11g5f.0,77786,77856,der_graf,77825,77828,Ich,der_graf
+gdc,11g5f.0,77786,77856,der_graf,77852,77855,mir,der_graf
+gdc,11g5f.0,77861,77906,der_ritter,77873,77877,mich,der_ritter
+gdc,11g5f.0,78099,78153,der_ritter,78122,78125,ich,der_ritter
+gdc,11g5f.0,78158,78347,der_graf,78164,78167,Ich,der_graf
+gdc,11g5f.0,78352,78464,der_ritter,78382,78385,ich,der_ritter
+gdc,11g5f.0,78352,78464,der_ritter,78428,78431,ich,der_ritter
+gdc,11g5f.0,78579,79204,der_ritter,78587,78590,Ich,der_ritter
+gdc,11g5f.0,78579,79204,der_ritter,78601,78607,meinem,der_ritter
+gdc,11g5f.0,78579,79204,der_ritter,78951,78954,ich,der_ritter
+gdc,11g5f.0,78579,79204,der_ritter,79086,79089,ich,der_ritter
+gdc,11g5f.0,78579,79204,der_ritter,79126,79129,ich,der_ritter
+gdc,11g5f.0,78579,79204,der_ritter,79147,79150,ich,der_ritter
+gdc,11g5f.0,78579,79204,der_ritter,79161,79166,meine,der_ritter
+gdc,11g5f.0,78579,79204,der_ritter,79199,79203,mich,der_ritter
+gdc,11g5f.0,79209,80079,der_graf,79237,79240,ich,der_graf
+gdc,11g5f.0,79209,80079,der_graf,79249,79253,mein,der_graf
+gdc,11g5f.0,79209,80079,der_graf,79266,79272,meinen,der_graf
+gdc,11g5f.0,79209,80079,der_graf,79425,79428,ich,der_graf
+gdc,11g5f.0,80084,80251,der_ritter,80092,80095,Ich,der_ritter
+gdc,11g5f.0,80084,80251,der_ritter,80112,80115,ich,der_ritter
+gdc,11g5f.0,80084,80251,der_ritter,80140,80151,der Domherr,domherr
+gdc,11g5f.0,80084,80251,der_ritter,80180,80183,mir,der_ritter
+gdc,11g5f.0,80380,80657,der_graf,80386,80389,Ich,der_graf
+gdc,11g5f.0,80732,80841,der_graf,80794,80797,mir,der_graf
+gdc,11g5f.0,80847,81111,der_ritter,80898,80901,ich,der_ritter
+gdc,11g5f.0,80847,81111,der_ritter,80902,80906,mich,der_ritter
+gdc,11g5f.0,80847,81111,der_ritter,80938,80941,ich,der_ritter
+gdc,11g5f.0,80847,81111,der_ritter,80960,80963,ich,der_ritter
+gdc,11g5f.0,80847,81111,der_ritter,81035,81040,Meine,der_ritter
+gdc,11g5f.0,80847,81111,der_ritter,81069,81074,meine,der_ritter
+gdc,11g5f.0,81116,81481,der_graf,81132,81136,mein,der_graf
+gdc,11g5f.0,81486,81526,der_ritter,81494,81497,Ich,der_ritter
+gdc,11g5f.0,81486,81526,der_ritter,81508,81511,ich,der_ritter
+gdc,11g5f.0,81554,82177,der_graf,81940,81943,ich,der_graf
+gdc,11g5f.0,81554,82177,der_graf,81989,81992,ich,der_graf
+gdc,11g5f.0,81554,82177,der_graf,82028,82032,mein,der_graf
+gdc,11g5f.0,81554,82177,der_graf,82098,82110,die Marquise,die_marquise
+gdc,11g5f.0,81554,82177,der_graf,82115,82119,mich,der_graf
+gdc,11g5f.0,82182,82385,ein_bedienter_3-7,82261,82272,Der Domherr,domherr
+gdc,11g5f.0,82182,82385,ein_bedienter_3-7,82274,82284,der Ritter,der_ritter
+gdc,11g5f.0,82182,82385,ein_bedienter_3-7,82353,82356,ich,ein_bedienter_3-7
+gdc,11g5f.0,82390,82440,der_graf,82402,82405,ich,der_graf
+gdc,11g5f.0,82390,82440,der_graf,82419,82422,mir,der_graf
+gdc,11g5f.0,83676,84090,_stage,83848,83859,der Domherr,domherr
+gdc,11g5f.0,83676,84090,_stage,83864,83874,die Nichte,nichte
+gdc,11g5f.0,84114,84531,_stage,84382,84393,der Domherr,domherr
+gdc,11g5f.0,84114,84531,_stage,84406,84416,der Ritter,der_ritter
+gdc,11g5f.0,84114,84531,_stage,84446,84458,die Marquise,die_marquise
+gdc,11g5f.0,84114,84531,_stage,84477,84488,der Marquis,der_marquis
+gdc,11g5f.0,84114,84531,_stage,84495,84505,die Nichte,nichte
+gdc,11g5f.0,86172,86266,domherr,86230,86238,Der Graf,der_graf
+gdc,11g5f.0,86270,87222,der_graf,86296,86304,der Graf,der_graf
+gdc,11g5f.0,86270,87222,der_graf,86471,86474,ich,der_graf
+gdc,11g5f.0,86270,87222,der_graf,86488,86491,ich,der_graf
+gdc,11g5f.0,86270,87222,der_graf,86523,86526,ich,der_graf
+gdc,11g5f.0,86270,87222,der_graf,86552,86555,ich,der_graf
+gdc,11g5f.0,86270,87222,der_graf,86587,86590,ich,der_graf
+gdc,11g5f.0,86270,87222,der_graf,86865,86868,ich,der_graf
+gdc,11g5f.0,86270,87222,der_graf,86910,86913,ich,der_graf
+gdc,11g5f.0,86270,87222,der_graf,86920,86924,mich,der_graf
+gdc,11g5f.0,86270,87222,der_graf,86955,86959,mich,der_graf
+gdc,11g5f.0,86270,87222,der_graf,86968,86974,meiner,der_graf
+gdc,11g5f.0,86270,87222,der_graf,87006,87010,mich,der_graf
+gdc,11g5f.0,86270,87222,der_graf,87036,87040,mich,der_graf
+gdc,11g5f.0,86270,87222,der_graf,87081,87084,ich,der_graf
+gdc,11g5f.0,86270,87222,der_graf,87173,87176,ich,der_graf
+gdc,11g5f.0,87227,87258,domherr,87245,87248,Ich,domherr
+gdc,11g5f.0,87263,87294,der_ritter,87280,87283,Ich,der_ritter
+gdc,11g5f.0,87299,87367,die_marquise,87351,87356,meine,die_marquise
+gdc,11g5f.0,87372,87437,der_marquis,87390,87393,Ich,der_marquis
+gdc,11g5f.0,87442,88210,der_graf,87517,87521,mich,der_graf
+gdc,11g5f.0,87442,88210,der_graf,87572,87575,mir,der_graf
+gdc,11g5f.0,87442,88210,der_graf,87582,87585,mir,der_graf
+gdc,11g5f.0,88487,89174,der_graf,88630,88633,ich,der_graf
+gdc,11g5f.0,88487,89174,der_graf,88765,88768,mir,der_graf
+gdc,11g5f.0,88487,89174,der_graf,88772,88778,meinen,der_graf
+gdc,11g5f.0,88487,89174,der_graf,88829,88832,ich,der_graf
+gdc,11g5f.0,88487,89174,der_graf,88888,88892,mich,der_graf
+gdc,11g5f.0,88487,89174,der_graf,88898,88901,ich,der_graf
+gdc,11g5f.0,88487,89174,der_graf,88983,88988,meine,der_graf
+gdc,11g5f.0,88487,89174,der_graf,89041,89045,mich,der_graf
+gdc,11g5f.0,88487,89174,der_graf,89077,89080,ich,der_graf
+gdc,11g5f.0,88487,89174,der_graf,89106,89109,ich,der_graf
+gdc,11g5f.0,88487,89174,der_graf,89120,89126,meiner,der_graf
+gdc,11g5f.0,89761,90019,der_graf,89775,89779,mein,der_graf
+gdc,11g5f.0,89761,90019,der_graf,89859,89862,ich,der_graf
+gdc,11g5f.0,89761,90019,der_graf,89900,89903,ich,der_graf
+gdc,11g5f.0,90024,90050,domherr,90033,90036,Ich,domherr
+gdc,11g5f.0,90055,90117,der_ritter,90063,90068,Meine,der_ritter
+gdc,11g5f.0,90122,90166,der_marquis,90140,90143,Ich,der_marquis
+gdc,11g5f.0,90218,90758,der_graf,90635,90638,ich,der_graf
+gdc,11g5f.0,90828,90933,die_marquise,90882,90885,ich,die_marquise
+gdc,11g5f.0,91278,91613,domherr,91308,91311,ich,domherr
+gdc,11g5f.0,92092,92289,nichte,92131,92135,mich,nichte
+gdc,11g5f.0,92092,92289,nichte,92146,92149,ich,nichte
+gdc,11g5f.0,92092,92289,nichte,92186,92189,ich,nichte
+gdc,11g5f.0,92092,92289,nichte,92190,92195,meine,nichte
+gdc,11g5f.0,92092,92289,nichte,92211,92214,Ich,nichte
+gdc,11g5f.0,92092,92289,nichte,92223,92226,ich,nichte
+gdc,11g5f.0,92092,92289,nichte,92247,92250,ich,nichte
+gdc,11g5f.0,92570,93440,_stage,92577,92585,Der Graf,der_graf
+gdc,11g5f.0,92570,93440,_stage,92688,92696,Der Graf,der_graf
+gdc,11g5f.0,92570,93440,_stage,92869,92877,der Graf,der_graf
+gdc,11g5f.0,92570,93440,_stage,93042,93050,Der Graf,der_graf
+gdc,11g5f.0,92570,93440,_stage,93152,93162,Die Nichte,nichte
+gdc,11g5f.0,93444,93540,der_graf,93530,93534,mein,der_graf
+gdc,11g5f.0,93705,93766,der_graf,93717,93722,meine,der_graf
+gdc,11g5f.0,93771,93963,nichte,93779,93782,Ich,nichte
+gdc,11g5f.0,93771,93963,nichte,93866,93869,ich,nichte
+gdc,11g5f.0,93771,93963,nichte,93958,93962,mich,nichte
+gdc,11g5f.0,94058,94199,nichte,94079,94082,mir,nichte
+gdc,11g5f.0,94058,94199,nichte,94160,94163,ich,nichte
+gdc,11g5f.0,94296,94415,nichte,94321,94324,ich,nichte
+gdc,11g5f.0,94296,94415,nichte,94369,94375,meinen,nichte
+gdc,11g5f.0,94504,94591,der_marquis,94522,94525,Ich,der_marquis
+gdc,11g5f.0,94596,94746,nichte,94633,94636,ich,nichte
+gdc,11g5f.0,94751,94947,domherr,94783,94786,ich,domherr
+gdc,11g5f.0,94751,94947,domherr,94842,94845,mir,domherr
+gdc,11g5f.0,94952,95049,nichte,94968,94971,ich,nichte
+gdc,11g5f.0,94952,95049,nichte,95014,95018,mich,nichte
+gdc,11g5f.0,94952,95049,nichte,95020,95023,Ich,nichte
+gdc,11g5f.0,95106,95200,nichte,95114,95117,Ich,nichte
+gdc,11g5f.0,95233,95287,nichte,95270,95274,mich,nichte
+gdc,11g5f.0,95417,95490,domherr,95460,95466,meiner,domherr
+gdc,11g5f.0,95495,95696,nichte,95674,95678,mich,nichte
+gdc,11g5f.0,95701,95805,der_graf,95721,95726,meine,der_graf
+gdc,11g5f.0,95811,96201,der_ritter,95896,95900,mich,der_ritter
+gdc,11g5f.0,95811,96201,der_ritter,95901,95912,ein Mädchen,erstes_maedchen
+gdc,11g5f.0,95811,96201,der_ritter,95901,95912,ein Mädchen,ein_maedchen
+gdc,11g5f.0,95811,96201,der_ritter,95933,95936,ich,der_ritter
+gdc,11g5f.0,95811,96201,der_ritter,95978,95981,ich,der_ritter
+gdc,11g5f.0,95811,96201,der_ritter,96008,96019,der Domherr,domherr
+gdc,11g5f.0,95811,96201,der_ritter,96115,96118,ich,der_ritter
+gdc,11g5f.0,95811,96201,der_ritter,96159,96162,ich,der_ritter
+gdc,11g5f.0,95811,96201,der_ritter,96163,96167,mich,der_ritter
+gdc,11g5f.0,96206,96298,der_graf,96232,96237,meine,der_graf
+gdc,11g5f.0,96458,96504,nichte,96492,96503,der Domherr,domherr
+gdc,11g5f.0,96509,96609,domherr,96551,96554,ich,domherr
+gdc,11g5f.0,96509,96609,domherr,96566,96569,ich,domherr
+gdc,11g5f.0,96509,96609,domherr,96604,96608,mich,domherr
+gdc,11g5f.0,96614,96696,nichte,96661,96672,der Domherr,domherr
+gdc,11g5f.0,96747,96973,nichte,96807,96810,Ich,nichte
+gdc,11g5f.0,96747,96973,nichte,96836,96839,ich,nichte
+gdc,11g5f.0,97861,97959,der_graf,97880,97883,mir,der_graf
+gdc,11g5f.0,98020,98044,_stage,98020,98030,Die Nichte,nichte
+gdc,11g5f.0,98020,98044,_stage,98032,98043,Ein Mädchen,erstes_maedchen
+gdc,11g5f.0,98020,98044,_stage,98032,98043,Ein Mädchen,ein_maedchen
+gdc,11g5f.0,98053,98202,_stage,98071,98082,Ein Mädchen,erstes_maedchen
+gdc,11g5f.0,98053,98202,_stage,98071,98082,Ein Mädchen,ein_maedchen
+gdc,11g5f.0,98248,98322,ein_maedchen,98283,98286,mir,ein_maedchen
+gdc,11g5f.0,98327,98416,nichte,98344,98347,ich,nichte
+gdc,11g5f.0,98420,100696,nichte,98436,98439,ich,nichte
+gdc,11g5f.0,98420,100696,nichte,98458,98463,meine,nichte
+gdc,11g5f.0,98420,100696,nichte,98532,98535,ich,nichte
+gdc,11g5f.0,98420,100696,nichte,98549,98552,mir,nichte
+gdc,11g5f.0,98420,100696,nichte,98581,98584,ich,nichte
+gdc,11g5f.0,98420,100696,nichte,98618,98621,ich,nichte
+gdc,11g5f.0,98420,100696,nichte,98622,98626,mich,nichte
+gdc,11g5f.0,98420,100696,nichte,98672,98675,mir,nichte
+gdc,11g5f.0,98420,100696,nichte,98680,98684,mich,nichte
+gdc,11g5f.0,98420,100696,nichte,98707,98710,ich,nichte
+gdc,11g5f.0,98420,100696,nichte,98711,98715,mich,nichte
+gdc,11g5f.0,98420,100696,nichte,98755,98758,ich,nichte
+gdc,11g5f.0,98420,100696,nichte,98792,98803,Der Domherr,domherr
+gdc,11g5f.0,98420,100696,nichte,98827,98830,ich,nichte
+gdc,11g5f.0,98420,100696,nichte,98881,98884,ich,nichte
+gdc,11g5f.0,98420,100696,nichte,98902,98905,ich,nichte
+gdc,11g5f.0,98420,100696,nichte,98952,98957,meine,nichte
+gdc,11g5f.0,98420,100696,nichte,98987,98990,ich,nichte
+gdc,11g5f.0,98420,100696,nichte,99020,99023,mir,nichte
+gdc,11g5f.0,98420,100696,nichte,99025,99028,Ich,nichte
+gdc,11g5f.0,98420,100696,nichte,99052,99055,ich,nichte
+gdc,11g5f.0,98420,100696,nichte,99056,99060,mich,nichte
+gdc,11g5f.0,98420,100696,nichte,99111,99114,mir,nichte
+gdc,11g5f.0,98420,100696,nichte,99184,99188,mich,nichte
+gdc,11g5f.0,98420,100696,nichte,99225,99229,mein,nichte
+gdc,11g5f.0,98420,100696,nichte,99258,99262,mich,nichte
+gdc,11g5f.0,98420,100696,nichte,99280,99291,Der Domherr,domherr
+gdc,11g5f.0,98420,100696,nichte,99315,99323,Der Graf,der_graf
+gdc,11g5f.0,98420,100696,nichte,99351,99361,der Ritter,der_ritter
+gdc,11g5f.0,98420,100696,nichte,99384,99387,ich,nichte
+gdc,11g5f.0,98420,100696,nichte,99388,99392,mich,nichte
+gdc,11g5f.0,98420,100696,nichte,99467,99470,mir,nichte
+gdc,11g5f.0,98420,100696,nichte,99571,99574,ich,nichte
+gdc,11g5f.0,98420,100696,nichte,99575,99579,mich,nichte
+gdc,11g5f.0,98420,100696,nichte,99596,99599,ich,nichte
+gdc,11g5f.0,98420,100696,nichte,99703,99707,mich,nichte
+gdc,11g5f.0,98420,100696,nichte,99771,99774,ich,nichte
+gdc,11g5f.0,98420,100696,nichte,99798,99801,ich,nichte
+gdc,11g5f.0,98420,100696,nichte,99845,99848,ich,nichte
+gdc,11g5f.0,98420,100696,nichte,99872,99875,ich,nichte
+gdc,11g5f.0,98420,100696,nichte,99898,99901,ich,nichte
+gdc,11g5f.0,98420,100696,nichte,99998,100001,ich,nichte
+gdc,11g5f.0,98420,100696,nichte,100021,100024,Ich,nichte
+gdc,11g5f.0,98420,100696,nichte,100042,100046,mich,nichte
+gdc,11g5f.0,98420,100696,nichte,100081,100085,mich,nichte
+gdc,11g5f.0,98420,100696,nichte,100147,100151,mich,nichte
+gdc,11g5f.0,98420,100696,nichte,100193,100196,mir,nichte
+gdc,11g5f.0,98420,100696,nichte,100459,100462,ich,nichte
+gdc,11g5f.0,98420,100696,nichte,100487,100490,ich,nichte
+gdc,11g5f.0,98420,100696,nichte,100529,100532,ich,nichte
+gdc,11g5f.0,98420,100696,nichte,100533,100537,mich,nichte
+gdc,11g5f.0,98420,100696,nichte,100554,100558,mich,nichte
+gdc,11g5f.0,98420,100696,nichte,100624,100628,Jäck,jaeck
+gdc,11g5f.0,98420,100696,nichte,100633,100636,mir,nichte
+gdc,11g5f.0,98420,100696,nichte,100691,100695,Jäck,jaeck
+gdc,11g5f.0,100721,100734,_stage,100729,100733,Jäck,jaeck
+gdc,11g5f.0,100796,100827,jaeck,100802,100805,Ich,jaeck
+gdc,11g5f.0,100832,100924,nichte,100850,100853,mir,nichte
+gdc,11g5f.0,100929,100965,jaeck,100955,100958,ich,jaeck
+gdc,11g5f.0,101025,101091,jaeck,101075,101078,Ich,jaeck
+gdc,11g5f.0,101333,101382,jaeck,101377,101381,mich,jaeck
+gdc,11g5f.0,101434,101481,jaeck,101440,101443,Ich,jaeck
+gdc,11g5f.0,101507,101979,nichte,101576,101579,ich,nichte
+gdc,11g5f.0,101507,101979,nichte,101645,101649,mich,nichte
+gdc,11g5f.0,101507,101979,nichte,101715,101718,ich,nichte
+gdc,11g5f.0,101507,101979,nichte,101758,101762,mich,nichte
+gdc,11g5f.0,101507,101979,nichte,101781,101787,meiner,nichte
+gdc,11g5f.0,101507,101979,nichte,101801,101804,mir,nichte
+gdc,11g5f.0,101507,101979,nichte,101825,101829,mich,nichte
+gdc,11g5f.0,101507,101979,nichte,101874,101877,ich,nichte
+gdc,11g5f.0,102102,102158,nichte,102142,102146,mein,nichte
+gdc,11g5f.0,102594,102738,nichte,102657,102660,mir,nichte
+gdc,11g5f.0,102594,102738,nichte,102698,102702,mich,nichte
+gdc,11g5f.0,102743,102863,die_marquise,102768,102772,mein,die_marquise
+gdc,11g5f.0,102868,102942,nichte,102876,102879,Ich,nichte
+gdc,11g5f.0,102868,102942,nichte,102900,102904,mich,nichte
+gdc,11g5f.0,103098,103189,die_marquise,103132,103135,ich,die_marquise
+gdc,11g5f.0,103229,104160,die_marquise,103239,103242,Ich,die_marquise
+gdc,11g5f.0,103229,104160,die_marquise,103494,103498,Mein,die_marquise
+gdc,11g5f.0,104165,104388,nichte,104200,104203,mir,nichte
+gdc,11g5f.0,104165,104388,nichte,104279,104282,ich,nichte
+gdc,11g5f.0,104165,104388,nichte,104370,104374,mich,nichte
+gdc,11g5f.0,104393,104566,die_marquise,104419,104423,mein,die_marquise
+gdc,11g5f.0,104393,104566,die_marquise,104430,104433,Ich,die_marquise
+gdc,11g5f.0,104393,104566,die_marquise,104499,104502,ich,die_marquise
+gdc,11g5f.0,104393,104566,die_marquise,104529,104532,Ich,die_marquise
+gdc,11g5f.0,104571,104656,nichte,104588,104591,ich,nichte
+gdc,11g5f.0,104571,104656,nichte,104592,104597,meine,nichte
+gdc,11g5f.0,104571,104656,nichte,104622,104625,ich,nichte
+gdc,11g5f.0,104571,104656,nichte,104642,104645,ich,nichte
+gdc,11g5f.0,104750,104830,nichte,104785,104788,mir,nichte
+gdc,11g5f.0,104835,104973,die_marquise,104956,104967,der Domherr,domherr
+gdc,11g5f.0,104979,105956,nichte,105099,105102,Ich,nichte
+gdc,11g5f.0,104979,105956,nichte,105136,105139,ich,nichte
+gdc,11g5f.0,104979,105956,nichte,105399,105402,ich,nichte
+gdc,11g5f.0,104979,105956,nichte,105422,105426,mein,nichte
+gdc,11g5f.0,104979,105956,nichte,105603,105607,mein,nichte
+gdc,11g5f.0,104979,105956,nichte,105718,105721,Ich,nichte
+gdc,11g5f.0,104979,105956,nichte,105730,105734,mich,nichte
+gdc,11g5f.0,104979,105956,nichte,105743,105746,ich,nichte
+gdc,11g5f.0,104979,105956,nichte,105805,105808,mir,nichte
+gdc,11g5f.0,104979,105956,nichte,105826,105830,mich,nichte
+gdc,11g5f.0,104979,105956,nichte,105854,105858,mich,nichte
+gdc,11g5f.0,104979,105956,nichte,105882,105886,mich,nichte
+gdc,11g5f.0,104979,105956,nichte,105922,105925,ich,nichte
+gdc,11g5f.0,105999,106027,nichte,106015,106020,Meine,nichte
+gdc,11g5f.0,106032,106164,die_marquise,106055,106060,Meine,die_marquise
+gdc,11g5f.0,106032,106164,die_marquise,106160,106163,mir,die_marquise
+gdc,11g5f.0,106169,106191,nichte,106177,106180,Ich,nichte
+gdc,11g5f.0,106292,106313,_stage,106308,106312,Jäck,jaeck
+gdc,11g5f.0,106315,106743,nichte,106330,106334,mein,nichte
+gdc,11g5f.0,106315,106743,nichte,106383,106386,ich,nichte
+gdc,11g5f.0,106315,106743,nichte,106407,106411,mich,nichte
+gdc,11g5f.0,106315,106743,nichte,106497,106508,der Marquis,der_marquis
+gdc,11g5f.0,106315,106743,nichte,106600,106603,ich,nichte
+gdc,11g5f.0,106315,106743,nichte,106611,106615,mich,nichte
+gdc,11g5f.0,106315,106743,nichte,106641,106644,Ich,nichte
+gdc,11g5f.0,106315,106743,nichte,106652,106656,mich,nichte
+gdc,11g5f.0,106315,106743,nichte,106706,106709,ich,nichte
+gdc,11g5f.0,106315,106743,nichte,106710,106714,mich,nichte
+gdc,11g5f.0,106867,107048,jaeck,107000,107005,meine,jaeck
+gdc,11g5f.0,106867,107048,jaeck,107025,107029,mich,jaeck
+gdc,11g5f.0,107093,107139,jaeck,107129,107132,ich,jaeck
+gdc,11g5f.0,107177,107299,jaeck,107234,107237,Ich,jaeck
+gdc,11g5f.0,107177,107299,jaeck,107262,107265,ich,jaeck
+gdc,11g5f.0,107325,107352,_stage,107341,107351,der Ritter,der_ritter
+gdc,11g5f.0,107354,107971,nichte,107382,107385,Ich,nichte
+gdc,11g5f.0,107354,107971,nichte,107427,107431,mich,nichte
+gdc,11g5f.0,107354,107971,nichte,107462,107465,ich,nichte
+gdc,11g5f.0,107354,107971,nichte,107511,107514,ich,nichte
+gdc,11g5f.0,107354,107971,nichte,107581,107584,ich,nichte
+gdc,11g5f.0,107354,107971,nichte,107585,107591,meiner,nichte
+gdc,11g5f.0,107354,107971,nichte,107639,107642,ich,nichte
+gdc,11g5f.0,107354,107971,nichte,107721,107724,Ich,nichte
+gdc,11g5f.0,107354,107971,nichte,107782,107786,mich,nichte
+gdc,11g5f.0,107354,107971,nichte,107847,107852,meine,nichte
+gdc,11g5f.0,107354,107971,nichte,107867,107870,Ich,nichte
+gdc,11g5f.0,107354,107971,nichte,107920,107924,mich,nichte
+gdc,11g5f.0,107354,107971,nichte,107961,107964,ich,nichte
+gdc,11g5f.0,107976,108088,der_ritter,108031,108034,ich,der_ritter
+gdc,11g5f.0,107976,108088,der_ritter,108050,108053,ich,der_ritter
+gdc,11g5f.0,108093,108112,nichte,108101,108105,Mein,nichte
+gdc,11g5f.0,108118,108243,der_ritter,108155,108158,ich,der_ritter
+gdc,11g5f.0,108118,108243,der_ritter,108228,108231,ich,der_ritter
+gdc,11g5f.0,108248,108394,nichte,108258,108262,mein,nichte
+gdc,11g5f.0,108248,108394,nichte,108269,108272,ich,nichte
+gdc,11g5f.0,108248,108394,nichte,108336,108341,Meine,nichte
+gdc,11g5f.0,108248,108394,nichte,108357,108361,mich,nichte
+gdc,11g5f.0,108399,108461,der_ritter,108430,108433,mir,der_ritter
+gdc,11g5f.0,108466,108518,nichte,108474,108477,Ich,nichte
+gdc,11g5f.0,108466,108518,nichte,108507,108511,mich,nichte
+gdc,11g5f.0,108523,108581,der_ritter,108531,108534,Ich,der_ritter
+gdc,11g5f.0,108606,108695,der_ritter,108660,108663,mir,der_ritter
+gdc,11g5f.0,108700,108792,nichte,108728,108731,ich,nichte
+gdc,11g5f.0,108700,108792,nichte,108762,108766,mein,nichte
+gdc,11g5f.0,108797,109013,der_ritter,108822,108825,mir,der_ritter
+gdc,11g5f.0,108797,109013,der_ritter,109004,109007,ich,der_ritter
+gdc,11g5f.0,109018,109067,nichte,109038,109041,mir,nichte
+gdc,11g5f.0,109252,109413,der_ritter,109262,109265,ich,der_ritter
+gdc,11g5f.0,109252,109413,der_ritter,109294,109297,mir,der_ritter
+gdc,11g5f.0,109252,109413,der_ritter,109327,109330,mir,der_ritter
+gdc,11g5f.0,109252,109413,der_ritter,109373,109376,mir,der_ritter
+gdc,11g5f.0,109252,109413,der_ritter,109399,109405,meines,der_ritter
+gdc,11g5f.0,109418,109705,nichte,109426,109429,Ich,nichte
+gdc,11g5f.0,109710,110445,der_ritter,109718,109721,Ich,der_ritter
+gdc,11g5f.0,109710,110445,der_ritter,109806,109809,mir,der_ritter
+gdc,11g5f.0,109710,110445,der_ritter,109859,109863,mich,der_ritter
+gdc,11g5f.0,109710,110445,der_ritter,109890,109893,Ich,der_ritter
+gdc,11g5f.0,109710,110445,der_ritter,109933,109937,mich,der_ritter
+gdc,11g5f.0,109710,110445,der_ritter,110026,110029,mir,der_ritter
+gdc,11g5f.0,109710,110445,der_ritter,110041,110044,Ich,der_ritter
+gdc,11g5f.0,109710,110445,der_ritter,110094,110097,ich,der_ritter
+gdc,11g5f.0,109710,110445,der_ritter,110123,110128,Meine,der_ritter
+gdc,11g5f.0,109710,110445,der_ritter,110209,110212,ich,der_ritter
+gdc,11g5f.0,109710,110445,der_ritter,110304,110307,ich,der_ritter
+gdc,11g5f.0,109710,110445,der_ritter,110417,110421,mich,der_ritter
+gdc,11g5f.0,110450,110525,nichte,110458,110461,Ich,nichte
+gdc,11g5f.0,110530,110570,der_ritter,110538,110541,Ich,der_ritter
+gdc,11g5f.0,110597,110621,_stage,110597,110607,Die Nichte,nichte
+gdc,11g5f.0,110597,110621,_stage,110609,110620,Der Marquis,der_marquis
+gdc,11g5f.0,110699,110786,_stage,110705,110716,der Marquis,der_marquis
+gdc,11g5f.0,110692,110840,nichte,110787,110790,Ich,nichte
+gdc,11g5f.0,110692,110840,nichte,110830,110833,ich,nichte
+gdc,11g5f.0,111029,111128,nichte,111061,111073,Die Marquise,die_marquise
+gdc,11g5f.0,111029,111128,nichte,111083,111087,mich,nichte
+gdc,11g5f.0,111029,111128,nichte,111104,111114,der Ritter,der_ritter
+gdc,11g5f.0,111191,111238,nichte,111224,111230,meiner,nichte
+gdc,11g5f.0,111243,111308,der_marquis,111263,111267,mich,der_marquis
+gdc,11g5f.0,111243,111308,der_marquis,111287,111290,ich,der_marquis
+gdc,11g5f.0,111313,111488,nichte,111355,111358,ich,nichte
+gdc,11g5f.0,111493,111629,der_marquis,111546,111549,ich,der_marquis
+gdc,11g5f.0,111671,111715,der_marquis,111691,111694,ich,der_marquis
+gdc,11g5f.0,111848,111901,nichte,111865,111868,Ich,nichte
+gdc,11g5f.0,111999,112038,nichte,112033,112037,mich,nichte
+gdc,11g5f.0,112043,112085,der_marquis,112064,112067,mir,der_marquis
+gdc,11g5f.0,112175,112218,nichte,112183,112186,Ich,nichte
+gdc,11g5f.0,112175,112218,nichte,112203,112206,ich,nichte
+gdc,11g5f.0,112223,112502,der_marquis,112232,112235,Ich,der_marquis
+gdc,11g5f.0,112223,112502,der_marquis,112335,112340,Meine,der_marquis
+gdc,11g5f.0,112507,112569,nichte,112540,112543,Ich,nichte
+gdc,11g5f.0,112921,112990,der_marquis,112944,112947,ich,der_marquis
+gdc,11g5f.0,113055,113757,der_marquis,113120,113124,mein,der_marquis
+gdc,11g5f.0,113055,113757,der_marquis,113131,113142,Der Domherr,domherr
+gdc,11g5f.0,113055,113757,der_marquis,113205,113211,meiner,der_marquis
+gdc,11g5f.0,113055,113757,der_marquis,113325,113328,ich,der_marquis
+gdc,11g5f.0,113055,113757,der_marquis,113405,113408,mir,der_marquis
+gdc,11g5f.0,113055,113757,der_marquis,113472,113475,ich,der_marquis
+gdc,11g5f.0,113055,113757,der_marquis,113543,113546,mir,der_marquis
+gdc,11g5f.0,113055,113757,der_marquis,113550,113556,meiner,der_marquis
+gdc,11g5f.0,113055,113757,der_marquis,113576,113579,Ich,der_marquis
+gdc,11g5f.0,113055,113757,der_marquis,113644,113647,Ich,der_marquis
+gdc,11g5f.0,113914,113946,nichte,113922,113925,Ich,nichte
+gdc,11g5f.0,113951,114037,der_marquis,113979,113982,mir,der_marquis
+gdc,11g5f.0,113951,114037,der_marquis,114011,114016,meine,der_marquis
+gdc,11g5f.0,114042,114090,nichte,114061,114065,mich,nichte
+gdc,11g5f.0,114095,114358,der_marquis,114155,114160,Meine,der_marquis
+gdc,11g5f.0,114095,114358,der_marquis,114331,114334,ich,der_marquis
+gdc,11g5f.0,114390,115228,der_marquis,114399,114402,Ich,der_marquis
+gdc,11g5f.0,114390,115228,der_marquis,114419,114422,ich,der_marquis
+gdc,11g5f.0,114390,115228,der_marquis,114476,114479,mir,der_marquis
+gdc,11g5f.0,114390,115228,der_marquis,114743,114746,Ich,der_marquis
+gdc,11g5f.0,114390,115228,der_marquis,114860,114866,meiner,der_marquis
+gdc,11g5f.0,114390,115228,der_marquis,114877,114880,ich,der_marquis
+gdc,11g5f.0,114390,115228,der_marquis,114937,114940,Ich,der_marquis
+gdc,11g5f.0,114390,115228,der_marquis,115012,115015,ich,der_marquis
+gdc,11g5f.0,114390,115228,der_marquis,115050,115054,mich,der_marquis
+gdc,11g5f.0,114390,115228,der_marquis,115099,115102,ich,der_marquis
+gdc,11g5f.0,115233,115371,nichte,115255,115258,mir,nichte
+gdc,11g5f.0,115233,115371,nichte,115280,115283,Ich,nichte
+gdc,11g5f.0,115233,115371,nichte,115299,115302,ich,nichte
+gdc,11g5f.0,115376,116283,der_marquis,115522,115525,ich,der_marquis
+gdc,11g5f.0,115376,116283,der_marquis,115532,115535,ich,der_marquis
+gdc,11g5f.0,115376,116283,der_marquis,115581,115587,meiner,der_marquis
+gdc,11g5f.0,115376,116283,der_marquis,115645,115648,Ich,der_marquis
+gdc,11g5f.0,115376,116283,der_marquis,115760,115763,ich,der_marquis
+gdc,11g5f.0,115376,116283,der_marquis,116011,116014,ich,der_marquis
+gdc,11g5f.0,115376,116283,der_marquis,116045,116048,ich,der_marquis
+gdc,11g5f.0,115376,116283,der_marquis,116082,116086,mein,der_marquis
+gdc,11g5f.0,115376,116283,der_marquis,116119,116122,mir,der_marquis
+gdc,11g5f.0,115376,116283,der_marquis,116131,116136,Meine,der_marquis
+gdc,11g5f.0,115376,116283,der_marquis,116146,116149,mir,der_marquis
+gdc,11g5f.0,116288,116356,nichte,116306,116310,mich,nichte
+gdc,11g5f.0,116288,116356,nichte,116333,116337,mich,nichte
+gdc,11g5f.0,116361,116743,der_marquis,116442,116445,ich,der_marquis
+gdc,11g5f.0,116361,116743,der_marquis,116657,116667,die Nichte,nichte
+gdc,11g5f.0,116768,120453,der_ritter,116820,116823,ich,der_ritter
+gdc,11g5f.0,116768,120453,der_ritter,116895,116898,ich,der_ritter
+gdc,11g5f.0,116768,120453,der_ritter,116930,116933,ich,der_ritter
+gdc,11g5f.0,116768,120453,der_ritter,116967,116970,ich,der_ritter
+gdc,11g5f.0,116768,120453,der_ritter,116998,117001,mir,der_ritter
+gdc,11g5f.0,116768,120453,der_ritter,117036,117039,mir,der_ritter
+gdc,11g5f.0,116768,120453,der_ritter,117093,117096,ich,der_ritter
+gdc,11g5f.0,116768,120453,der_ritter,117155,117158,ich,der_ritter
+gdc,11g5f.0,116768,120453,der_ritter,117194,117198,mich,der_ritter
+gdc,11g5f.0,116768,120453,der_ritter,117262,117273,der Marquis,der_marquis
+gdc,11g5f.0,116768,120453,der_ritter,117791,117794,ich,der_ritter
+gdc,11g5f.0,116768,120453,der_ritter,117823,117826,ich,der_ritter
+gdc,11g5f.0,116768,120453,der_ritter,117849,117852,ich,der_ritter
+gdc,11g5f.0,116768,120453,der_ritter,117858,117866,Der Graf,der_graf
+gdc,11g5f.0,116768,120453,der_ritter,117871,117883,die Marquise,die_marquise
+gdc,11g5f.0,116768,120453,der_ritter,118281,118284,ich,der_ritter
+gdc,11g5f.0,116768,120453,der_ritter,118421,118432,der Marquis,der_marquis
+gdc,11g5f.0,116768,120453,der_ritter,118554,118557,ich,der_ritter
+gdc,11g5f.0,116768,120453,der_ritter,118584,118587,ich,der_ritter
+gdc,11g5f.0,116768,120453,der_ritter,118644,118647,mir,der_ritter
+gdc,11g5f.0,116768,120453,der_ritter,118701,118704,mir,der_ritter
+gdc,11g5f.0,116768,120453,der_ritter,118735,118738,mir,der_ritter
+gdc,11g5f.0,116768,120453,der_ritter,119010,119014,mich,der_ritter
+gdc,11g5f.0,116768,120453,der_ritter,119083,119086,mir,der_ritter
+gdc,11g5f.0,116768,120453,der_ritter,119115,119118,ich,der_ritter
+gdc,11g5f.0,116768,120453,der_ritter,119452,119463,der Domherr,domherr
+gdc,11g5f.0,116768,120453,der_ritter,119502,119510,der Graf,der_graf
+gdc,11g5f.0,116768,120453,der_ritter,119735,119738,Ich,der_ritter
+gdc,11g5f.0,116768,120453,der_ritter,120030,120033,Ich,der_ritter
+gdc,11g5f.0,116768,120453,der_ritter,120143,120154,der Marquis,der_marquis
+gdc,11g5f.0,116768,120453,der_ritter,120279,120282,ich,der_ritter
+gdc,11g5f.0,116768,120453,der_ritter,120340,120343,Ich,der_ritter
+gdc,11g5f.0,116768,120453,der_ritter,120349,120353,mein,der_ritter
+gdc,11g5f.0,120561,120580,_stage,120561,120569,Der Graf,der_graf
+gdc,11g5f.0,120561,120580,_stage,120571,120579,La Fleur,la_fleur
+gdc,11g5f.0,120582,120711,la_fleur,120592,120595,Ich,la_fleur
+gdc,11g5f.0,120582,120711,la_fleur,120654,120657,Ich,la_fleur
+gdc,11g5f.0,120582,120711,la_fleur,120678,120681,Ich,la_fleur
+gdc,11g5f.0,120778,121222,la_fleur,120881,120884,ich,la_fleur
+gdc,11g5f.0,120778,121222,la_fleur,120933,120938,meine,la_fleur
+gdc,11g5f.0,120778,121222,la_fleur,120978,120981,Ich,la_fleur
+gdc,11g5f.0,120778,121222,la_fleur,121110,121113,Ich,la_fleur
+gdc,11g5f.0,120778,121222,la_fleur,121171,121174,Ich,la_fleur
+gdc,11g5f.0,120778,121222,la_fleur,121184,121195,der Domherr,domherr
+gdc,11g5f.0,121227,121343,der_graf,121305,121308,mir,der_graf
+gdc,11g5f.0,121377,121540,der_graf,121436,121439,Ich,der_graf
+gdc,11g5f.0,121377,121540,der_graf,121484,121487,mir,der_graf
+gdc,11g5f.0,121545,121626,la_fleur,121560,121563,ich,la_fleur
+gdc,11g5f.0,121632,121697,der_graf,121650,121653,ich,der_graf
+gdc,11g5f.0,121632,121697,der_graf,121677,121680,mir,der_graf
+gdc,11g5f.0,121702,121849,la_fleur,121712,121715,Ich,la_fleur
+gdc,11g5f.0,121947,122373,der_graf,121964,121967,Ich,der_graf
+gdc,11g5f.0,121947,122373,der_graf,122069,122081,Die Marquise,die_marquise
+gdc,11g5f.0,121947,122373,der_graf,122191,122194,ich,der_graf
+gdc,11g5f.0,121947,122373,der_graf,122235,122238,ich,der_graf
+gdc,11g5f.0,122398,122510,_stage,122398,122408,Der Ritter,der_ritter
+gdc,11g5f.0,122398,122510,_stage,122414,122420,Oberst,oberst
+gdc,11g5f.0,123253,123426,ein_schweizer_5-3,123281,123284,Ich,ein_schweizer_5-3
+gdc,11g5f.0,123253,123426,ein_schweizer_5-3,123289,123293,mein,ein_schweizer_5-3
+gdc,11g5f.0,123624,123802,oberst,123677,123680,Ich,oberst
+gdc,11g5f.0,123624,123802,oberst,123718,123721,ich,oberst
+gdc,11g5f.0,123624,123802,oberst,123743,123746,ich,oberst
+gdc,11g5f.0,123807,123834,der_ritter,123827,123833,Oberst,oberst
+gdc,11g5f.0,124102,124157,der_ritter,124110,124113,Ich,der_ritter
+gdc,11g5f.0,124246,124483,der_ritter,124254,124257,Ich,der_ritter
+gdc,11g5f.0,124246,124483,der_ritter,124330,124333,mir,der_ritter
+gdc,11g5f.0,124246,124483,der_ritter,124361,124364,mir,der_ritter
+gdc,11g5f.0,124246,124483,der_ritter,124452,124457,meine,der_ritter
+gdc,11g5f.0,124488,124980,oberst,124512,124515,Ich,oberst
+gdc,11g5f.0,124488,124980,oberst,124611,124615,mich,oberst
+gdc,11g5f.0,124488,124980,oberst,124923,124927,Mich,oberst
+gdc,11g5f.0,124488,124980,oberst,124935,124938,ich,oberst
+gdc,11g5f.0,125005,125043,_stage,125005,125017,Die Marquise,die_marquise
+gdc,11g5f.0,125005,125043,_stage,125019,125030,Der Marquis,der_marquis
+gdc,11g5f.0,125005,125043,_stage,125032,125042,Die Nichte,nichte
+gdc,11g5f.0,125045,125224,die_marquise,125164,125167,Ich,die_marquise
+gdc,11g5f.0,125199,125224,_stage,125199,125210,Der Marquis,der_marquis
+gdc,11g5f.0,125318,125473,nichte,125357,125361,mich,nichte
+gdc,11g5f.0,125318,125473,nichte,125396,125399,mir,nichte
+gdc,11g5f.0,125318,125473,nichte,125419,125422,ich,nichte
+gdc,11g5f.0,125318,125473,nichte,125446,125449,ich,nichte
+gdc,11g5f.0,125478,125606,die_marquise,125508,125512,mein,die_marquise
+gdc,11g5f.0,125478,125606,die_marquise,125584,125596,Die Marquise,die_marquise
+gdc,11g5f.0,125838,125862,_stage,125838,125848,Die Nichte,nichte
+gdc,11g5f.0,125838,125862,_stage,125850,125861,Der Domherr,domherr
+gdc,11g5f.0,125863,125928,_stage,125863,125873,Die Nichte,nichte
+gdc,11g5f.0,125930,127022,domherr,126046,126049,mir,domherr
+gdc,11g5f.0,125930,127022,domherr,126050,126055,meine,domherr
+gdc,11g5f.0,125930,127022,domherr,126077,126080,Ich,domherr
+gdc,11g5f.0,125930,127022,domherr,126319,126322,ich,domherr
+gdc,11g5f.0,125930,127022,domherr,126420,126424,mich,domherr
+gdc,11g5f.0,125930,127022,domherr,126719,126722,mir,domherr
+gdc,11g5f.0,125930,127022,domherr,126764,126768,mich,domherr
+gdc,11g5f.0,125930,127022,domherr,126807,126810,Ich,domherr
+gdc,11g5f.0,125930,127022,domherr,126882,126887,meine,domherr
+gdc,11g5f.0,125930,127022,domherr,126900,126904,mich,domherr
+gdc,11g5f.0,125930,127022,domherr,126975,126978,Ich,domherr
+gdc,11g5f.0,127160,127236,domherr,127171,127174,ich,domherr
+gdc,11g5f.0,127210,127236,_stage,127210,127222,Die Marquise,die_marquise
+gdc,11g5f.0,127240,127464,domherr,127365,127369,mich,domherr
+gdc,11g5f.0,127240,127464,domherr,127408,127412,mich,domherr
+gdc,11g5f.0,127240,127464,domherr,127429,127435,meinen,domherr
+gdc,11g5f.0,127240,127464,domherr,127442,127446,mein,domherr
+gdc,11g5f.0,127469,127488,nichte,127477,127481,Mein,nichte
+gdc,11g5f.0,127493,127942,domherr,127513,127516,mir,domherr
+gdc,11g5f.0,127493,127942,domherr,127597,127600,mir,domherr
+gdc,11g5f.0,127493,127942,domherr,127609,127612,ich,domherr
+gdc,11g5f.0,127493,127942,domherr,127912,127915,ich,domherr
+gdc,11g5f.0,127493,127942,domherr,127927,127932,meine,domherr
+gdc,11g5f.0,127948,127984,nichte,127973,127977,mein,nichte
+gdc,11g5f.0,127989,128162,domherr,128015,128019,mich,domherr
+gdc,11g5f.0,127989,128162,domherr,128034,128037,ich,domherr
+gdc,11g5f.0,127989,128162,domherr,128142,128146,mein,domherr
+gdc,11g5f.0,128212,129094,domherr,128462,128468,meinen,domherr
+gdc,11g5f.0,128212,129094,domherr,128680,128683,ich,domherr
+gdc,11g5f.0,128212,129094,domherr,128689,128692,mir,domherr
+gdc,11g5f.0,128212,129094,domherr,128738,128741,ich,domherr
+gdc,11g5f.0,129346,130020,domherr,129367,129370,ich,domherr
+gdc,11g5f.0,129346,130020,domherr,129378,129381,ich,domherr
+gdc,11g5f.0,129346,130020,domherr,129443,129447,mich,domherr
+gdc,11g5f.0,129346,130020,domherr,129574,129577,Ich,domherr
+gdc,11g5f.0,129346,130020,domherr,129600,129604,mich,domherr
+gdc,11g5f.0,129346,130020,domherr,129644,129648,mein,domherr
+gdc,11g5f.0,129346,130020,domherr,129686,129689,Ich,domherr
+gdc,11g5f.0,129346,130020,domherr,129716,129719,ich,domherr
+gdc,11g5f.0,129346,130020,domherr,129737,129741,mich,domherr
+gdc,11g5f.0,129346,130020,domherr,129826,129830,mich,domherr
+gdc,11g5f.0,129346,130020,domherr,129871,129874,mir,domherr
+gdc,11g5f.0,130025,130099,nichte,130094,130098,mich,nichte
+gdc,11g5f.0,130104,130378,domherr,130148,130152,mich,domherr
+gdc,11g5f.0,130104,130378,domherr,130212,130216,mich,domherr
+gdc,11g5f.0,130219,130378,_stage,130326,130337,Der Domherr,domherr
+gdc,11g5f.0,130403,130493,_stage,130416,130428,Die Marquise,die_marquise
+gdc,11g5f.0,130403,130493,_stage,130430,130441,Der Marquis,der_marquis
+gdc,11g5f.0,130403,130493,_stage,130451,130462,der Oberste,oberst
+gdc,11g5f.0,130495,130723,die_marquise,130550,130554,mein,die_marquise
+gdc,11g5f.0,130495,130723,die_marquise,130583,130586,ich,die_marquise
+gdc,11g5f.0,130728,130887,domherr,130753,130756,Ich,domherr
+gdc,11g5f.0,130728,130887,domherr,130762,130765,ich,domherr
+gdc,11g5f.0,130728,130887,domherr,130806,130810,mich,domherr
+gdc,11g5f.0,130892,131074,die_marquise,130917,130920,mir,die_marquise
+gdc,11g5f.0,131091,131147,_stage,131098,131108,die Nichte,nichte
+gdc,11g5f.0,131079,131223,der_marquis,131186,131189,mir,der_marquis
+gdc,11g5f.0,131079,131223,der_marquis,131212,131216,mein,der_marquis
+gdc,11g5f.0,131361,131718,der_marquis,131427,131430,mir,der_marquis
+gdc,11g5f.0,131361,131718,der_marquis,131455,131458,ich,der_marquis
+gdc,11g5f.0,131361,131718,der_marquis,131484,131487,ich,der_marquis
+gdc,11g5f.0,131361,131718,der_marquis,131551,131554,mir,der_marquis
+gdc,11g5f.0,131361,131718,der_marquis,131574,131577,Ich,der_marquis
+gdc,11g5f.0,131361,131718,der_marquis,131702,131705,mir,der_marquis
+gdc,11g5f.0,131723,131870,die_marquise,131766,131769,mir,die_marquise
+gdc,11g5f.0,131723,131870,die_marquise,131813,131819,meines,die_marquise
+gdc,11g5f.0,131875,131905,nichte,131892,131897,Meine,nichte
+gdc,11g5f.0,131910,132121,der_marquis,132028,132031,ich,der_marquis
+gdc,11g5f.0,131910,132121,der_marquis,132073,132079,meiner,der_marquis
+gdc,11g5f.0,132126,132269,die_marquise,132162,132165,Ich,die_marquise
+gdc,11g5f.0,132273,132374,oberst,132355,132359,mein,oberst
+gdc,11g5f.0,132569,132670,domherr,132595,132598,ich,domherr
+gdc,11g5f.0,132675,132899,oberst,132731,132734,mir,oberst
+gdc,11g5f.0,133092,133239,_stage,133092,133104,Die Marquise,die_marquise
+gdc,11g5f.0,133092,133239,_stage,133106,133117,der Marquis,der_marquis
+gdc,11g5f.0,133092,133239,_stage,133119,133129,die Nichte,nichte
+gdc,11g5f.0,133318,133343,nichte,133326,133329,Ich,nichte
+gdc,11g5f.0,133356,133414,_stage,133387,133397,die Nichte,nichte
+gdc,11g5f.0,133427,133497,oberst,133480,133485,meine,oberst
+gdc,11g5f.0,133510,133533,_stage,133514,133524,die Nichte,nichte
+gdc,11g5f.0,133571,133660,domherr,133580,133584,Mein,domherr
+gdc,11g5f.0,133571,133660,domherr,133610,133613,ich,domherr
+gdc,11g5f.0,133718,134160,domherr,133727,133730,Ich,domherr
+gdc,11g5f.0,133718,134160,domherr,133771,133774,mir,domherr
+gdc,11g5f.0,133718,134160,domherr,133834,133837,ich,domherr
+gdc,11g5f.0,133718,134160,domherr,133865,133869,mich,domherr
+gdc,11g5f.0,134165,134286,oberst,134175,134178,Ich,oberst
+gdc,11g5f.0,134165,134286,oberst,134185,134190,meine,oberst
+gdc,11g5f.0,134165,134286,oberst,134200,134203,Ich,oberst
+gdc,11g5f.0,134165,134286,oberst,134218,134223,meine,oberst
+gdc,11g5f.0,134165,134286,oberst,134236,134239,ich,oberst
+gdc,11g5f.0,134165,134286,oberst,134250,134255,meine,oberst
+gdc,11g5f.0,134312,134355,der_marquis,134334,134337,ich,der_marquis
+gdc,11g5f.0,134360,134395,nichte,134368,134373,Meine,nichte
+gdc,11g5f.0,134400,135156,domherr,134416,134419,ich,domherr
+gdc,11g5f.0,134400,135156,domherr,134569,134574,Meine,domherr
+gdc,11g5f.0,134400,135156,domherr,134588,134593,meine,domherr
+gdc,11g5f.0,134400,135156,domherr,134604,134607,ich,domherr
+gdc,11g5f.0,134400,135156,domherr,134656,134659,ich,domherr
+gdc,11g5f.0,134400,135156,domherr,134699,134702,ich,domherr
+gdc,11g5f.0,134400,135156,domherr,134727,134730,mir,domherr
+gdc,11g5f.0,134400,135156,domherr,134778,134783,meine,domherr
+gdc,11g5f.0,134400,135156,domherr,134798,134803,meine,domherr
+gdc,11g5f.0,134400,135156,domherr,134862,134865,ich,domherr
+gdc,11g5f.0,134400,135156,domherr,134889,134892,ich,domherr
+gdc,11g5f.0,134400,135156,domherr,134921,134924,Ich,domherr
+gdc,11g5f.0,134400,135156,domherr,134954,134957,ich,domherr
+gdc,11g5f.0,134400,135156,domherr,134965,134969,mich,domherr
+gdc,11g5f.0,134400,135156,domherr,134980,134984,mich,domherr
+gdc,11g5f.0,134400,135156,domherr,135008,135011,ich,domherr
+gdc,11g5f.0,134400,135156,domherr,135012,135016,mich,domherr
+gdc,11g5f.0,134400,135156,domherr,135055,135058,ich,domherr
+gdc,11g5f.0,134400,135156,domherr,135102,135105,Ich,domherr
+gdc,11g5f.0,135161,135235,oberst,135184,135188,mein,oberst
+gdc,11g5f.0,135161,135235,oberst,135227,135231,mich,oberst
+gdc,11g5f.0,135240,136409,domherr,135253,135256,ich,domherr
+gdc,11g5f.0,135240,136409,domherr,135578,135583,meine,domherr
+gdc,11g5f.0,135240,136409,domherr,135647,135651,mich,domherr
+gdc,11g5f.0,135240,136409,domherr,135693,135696,mir,domherr
+gdc,11g5f.0,136105,136409,_stage,136153,136165,die Marquise,die_marquise
+gdc,11g5f.0,136105,136409,_stage,136173,136184,Der Marquis,der_marquis
+gdc,11g5f.0,136105,136409,_stage,136352,136363,Der Oberste,oberst
+gdc,11g5f.0,136436,136458,_stage,136449,136457,Der Graf,der_graf
+gdc,11g5f.0,136460,136825,der_graf,136541,136544,Ich,der_graf
+gdc,11g5f.0,136460,136825,der_graf,136611,136614,Mir,der_graf
+gdc,11g5f.0,136460,136825,der_graf,136668,136671,ich,der_graf
+gdc,11g5f.0,137102,137222,schweizer_5-7,137147,137150,Ich,schweizer_5-7
+gdc,11g5f.0,137102,137222,schweizer_5-7,137213,137221,Oberster,oberst
+gdc,11g5f.0,137227,137277,der_graf,137261,137265,mich,der_graf
+gdc,11g5f.0,137282,139069,domherr,137365,137368,ich,domherr
+gdc,11g5f.0,137282,139069,domherr,137565,137568,Ich,domherr
+gdc,11g5f.0,137282,139069,domherr,137604,137607,ich,domherr
+gdc,11g5f.0,137282,139069,domherr,138442,138445,ich,domherr
+gdc,11g5f.0,137282,139069,domherr,138765,138769,mein,domherr
+gdc,11g5f.0,137282,139069,domherr,138986,138990,mein,domherr
+gdc,11g5f.0,137282,139069,domherr,139011,139015,mich,domherr
+gdc,11g5f.0,137282,139069,domherr,139045,139048,mir,domherr
+gdc,11g5f.0,137282,139069,domherr,139064,139068,mich,domherr
+gdc,11g5f.0,139074,139189,der_graf,139106,139109,Ich,der_graf
+gdc,11g5f.0,139340,139402,der_marquis,139349,139352,Ich,der_marquis
+gdc,11g5f.0,139407,139635,oberst,139417,139420,Ich,oberst
+gdc,11g5f.0,139407,139635,oberst,139465,139468,ich,oberst
+gdc,11g5f.0,139407,139635,oberst,139509,139512,ich,oberst
+gdc,11g5f.0,139407,139635,oberst,139602,139606,mich,oberst
+gdc,11g5f.0,139659,139683,_stage,139672,139682,Der Ritter,der_ritter
+gdc,11g5f.0,139685,139768,der_ritter,139706,139709,ich,der_ritter
+gdc,11g5f.0,139774,139873,nichte,139827,139837,Der Ritter,der_ritter
+gdc,11g5f.0,139878,139933,der_ritter,139890,139893,ich,der_ritter
+gdc,11g5f.0,139938,139974,nichte,139956,139959,ich,nichte
+gdc,11g5f.0,139979,140030,domherr,140009,140012,Ich,domherr
+gdc,11g5f.0,140035,140646,oberst,140242,140245,ich,oberst
+gdc,11g5f.0,140730,140813,domherr,140759,140762,ich,domherr
+gdc,11g5f.0,140730,140813,domherr,140778,140781,ich,domherr
+gdc,11g5f.0,140730,140813,domherr,140789,140793,mich,domherr
+gdc,11g5f.0,140970,140992,domherr,140984,140990,Oberst,oberst
+gdc,11g5f.0,140997,141882,oberst,141172,141175,ich,oberst
+gdc,11g5f.0,140997,141882,oberst,141413,141416,Ich,oberst
+gdc,11g5f.0,141887,141938,domherr,141904,141907,ich,domherr
+gdc,11g5f.0,141887,141938,domherr,141926,141929,ich,domherr
+gdc,11g5f.0,142040,142082,der_marquis,142062,142065,Ich,der_marquis
+gdc,11g5f.0,142537,142633,die_marquise,142607,142610,ich,die_marquise
+gdc,11g5f.0,142638,142882,oberst,142833,142836,Ich,oberst
+gdc,11g5f.0,142887,143894,domherr,142900,142903,ich,domherr
+gdc,11g5f.0,142887,143894,domherr,142920,142924,mich,domherr
+gdc,11g5f.0,142887,143894,domherr,142970,142973,ich,domherr
+gdc,11g5f.0,142887,143894,domherr,142990,142995,Meine,domherr
+gdc,11g5f.0,142887,143894,domherr,143008,143011,mir,domherr
+gdc,11g5f.0,142887,143894,domherr,143079,143082,mir,domherr
+gdc,11g5f.0,142887,143894,domherr,143125,143128,mir,domherr
+gdc,11g5f.0,142887,143894,domherr,143173,143176,ich,domherr
+gdc,11g5f.0,142887,143894,domherr,143181,143186,meine,domherr
+gdc,11g5f.0,142887,143894,domherr,143237,143241,mich,domherr
+gdc,11g5f.0,142887,143894,domherr,143339,143343,mich,domherr
+gdc,11g5f.0,142887,143894,domherr,143410,143413,ich,domherr
+gdc,11g5f.0,142887,143894,domherr,143518,143524,meinem,domherr
+gdc,11g5f.0,142887,143894,domherr,143548,143551,ich,domherr
+gdc,11g5f.0,142887,143894,domherr,143598,143601,ich,domherr
+gdc,11g5f.0,142887,143894,domherr,143627,143632,meine,domherr
+gdc,11g5f.0,142887,143894,domherr,143721,143724,ich,domherr
+gdc,11g5f.0,142887,143894,domherr,143874,143885,Der Domherr,domherr
+gdc,11g5f.0,144436,144842,nichte,144555,144559,mich,nichte
+gdc,11g5f.0,144436,144842,nichte,144564,144567,Ich,nichte
+gdc,11g5f.0,144436,144842,nichte,144579,144583,mich,nichte
+gdc,11g5f.0,144436,144842,nichte,144614,144618,mich,nichte
+gdc,11g5f.0,144436,144842,nichte,144644,144649,meine,nichte
+gdc,11g5f.0,144436,144842,nichte,144672,144677,meine,nichte
+gdc,11g5f.0,144436,144842,nichte,144698,144702,mich,nichte
+gdc,11g5f.0,144436,144842,nichte,144754,144758,mich,nichte
+gdc,11g5f.0,144436,144842,nichte,144774,144778,mich,nichte
+gdc,11g5f.0,144436,144842,nichte,144822,144826,mich,nichte
+gdc,11g5f.0,144847,144868,der_ritter,144864,144867,ich,der_ritter
+gdc,11g5f.0,144903,146401,nichte,144945,144950,meine,nichte
+gdc,11g5f.0,144903,146401,nichte,145065,145070,meine,nichte
+gdc,11g5f.0,144903,146401,nichte,145179,145182,ich,nichte
+gdc,11g5f.0,144903,146401,nichte,145308,145319,ein Mädchen,erstes_maedchen
+gdc,11g5f.0,144903,146401,nichte,145308,145319,ein Mädchen,ein_maedchen
+gdc,11g5f.0,144903,146401,nichte,145499,145502,Ich,nichte
+gdc,11g5f.0,144903,146401,nichte,145845,145848,ich,nichte
+gdc,11g5f.0,144903,146401,nichte,145926,145929,ich,nichte
+gdc,11g5f.0,144903,146401,nichte,146003,146006,ich,nichte
+gdc,11g5f.0,144903,146401,nichte,146060,146065,meine,nichte
+gdc,11g5f.0,144903,146401,nichte,146147,146150,ich,nichte
+gdc,11g5f.0,144903,146401,nichte,146202,146205,Ich,nichte
+gdc,11g5f.0,144903,146401,nichte,146213,146216,ich,nichte
+gdc,11g5f.0,144903,146401,nichte,146232,146236,mein,nichte
+gdc,11g5f.0,144903,146401,nichte,146327,146331,mich,nichte
+gdc,11g5f.0,144903,146401,nichte,146365,146369,mich,nichte
+gdc,11g5f.0,144903,146401,nichte,146390,146394,mich,nichte
+gdc,11g5f.0,146406,146429,oberst,146424,146428,mich,oberst
+gdc,11g5f.0,146509,146594,oberst,146517,146520,Ich,oberst
+gdc,11g5f.0,146509,146594,oberst,146549,146552,ich,oberst
+gdc,11g5f.0,146509,146594,oberst,146572,146578,meiner,oberst
+gdc,11g5f.0,146599,147308,nichte,146747,146751,mich,nichte
+gdc,11g5f.0,146599,147308,nichte,146772,146776,mich,nichte
+gdc,11g5f.0,146599,147308,nichte,147134,147137,ich,nichte
+gdc,11g5f.0,146599,147308,nichte,147207,147211,mich,nichte
+gdc,11g5f.0,146599,147308,nichte,147233,147236,ich,nichte
+gdc,11g5f.0,146599,147308,nichte,147287,147291,mein,nichte
+gdc,11g5f.0,147572,147692,die_marquise,147605,147608,mir,die_marquise
+gdc,11g5f.0,147572,147692,die_marquise,147664,147668,mich,die_marquise
+gdc,11g5f.0,147719,147917,die_marquise,147748,147754,Oberst,oberst
+gdc,11g5f.0,147719,147917,die_marquise,147809,147815,meinen,die_marquise
+gdc,11g5f.0,147719,147917,die_marquise,147834,147837,ich,die_marquise
+gdc,11g5f.0,147719,147917,die_marquise,147901,147905,mich,die_marquise
+gdc,11g5f.0,148084,148203,der_graf,148090,148094,Mein,der_graf
+gdc,11g5f.0,148235,148262,der_graf,148248,148251,mir,der_graf
+gdc,11g5f.0,148710,148784,der_graf,148716,148719,Ich,der_graf
+gdc,11g5f.0,148710,148784,der_graf,148747,148752,meine,der_graf
+gdc,11g5f.0,148851,149119,der_graf,148857,148860,Ich,der_graf
+gdc,11g5f.0,148851,149119,der_graf,148869,148874,meine,der_graf
+gdc,11g5f.0,148851,149119,der_graf,148910,148913,ich,der_graf
+gdc,11g5f.0,148851,149119,der_graf,148914,148918,mich,der_graf
+gdc,11g5f.0,148851,149119,der_graf,148931,148934,Ich,der_graf
+gdc,11g5f.0,148851,149119,der_graf,148989,148993,mich,der_graf
+gdc,11g5f.0,149124,149219,oberst,149175,149178,ich,oberst
+gdc,11g5f.0,149224,149323,die_schweizer,149246,149257,der Oberste,oberst
+gdc,11g5f.0,149328,149389,der_graf,149367,149370,mir,der_graf
+gdc,11g5f.0,149462,149501,_stage,149462,149475,Die Schweizer,die_schweizer
+gdc,11g5f.0,149710,149928,nichte,149725,149729,mein,nichte
+gdc,11g5f.0,149710,149928,nichte,149746,149749,Ich,nichte
+gdc,11g5f.0,149710,149928,nichte,149817,149820,ich,nichte
+gdc,11g5f.0,149710,149928,nichte,149843,149846,ich,nichte
+gdc,11g5f.0,149710,149928,nichte,149847,149852,meine,nichte
+gdc,11g5f.0,149933,150866,der_ritter,149974,149978,mich,der_ritter
+gdc,11g5f.0,149933,150866,der_ritter,150022,150026,mich,der_ritter
+gdc,11g5f.0,149933,150866,der_ritter,150059,150067,meinigen,der_ritter
+gdc,11g5f.0,149933,150866,der_ritter,150108,150112,mich,der_ritter
+gdc,11g5f.0,149933,150866,der_ritter,150174,150177,ich,der_ritter
+gdc,11g5f.0,149933,150866,der_ritter,150194,150197,ich,der_ritter
+gdc,11g5f.0,149933,150866,der_ritter,150198,150201,mir,der_ritter
+gdc,11g5f.0,149933,150866,der_ritter,150301,150304,mir,der_ritter
+gdc,11g5f.0,149933,150866,der_ritter,150555,150558,ich,der_ritter
+gdc,11g5f.0,149933,150866,der_ritter,150600,150605,meine,der_ritter
+gdc,11g5f.0,149933,150866,der_ritter,150629,150633,mich,der_ritter
+gdc,11g5f.0,149933,150866,der_ritter,150641,150644,ich,der_ritter
+gdc,11g5f.0,149933,150866,der_ritter,150651,150657,meiner,der_ritter
+gdc,11g5f.0,149933,150866,der_ritter,150738,150741,Ich,der_ritter
+gdc,11g5f.0,149933,150866,der_ritter,150748,150751,mir,der_ritter
+gdc,11g5f.0,149933,150866,der_ritter,150794,150797,ich,der_ritter
+gdc,11g5f.0,149933,150866,der_ritter,150804,150808,mein,der_ritter
+gdc,11g5f.0,150900,151122,nichte,150963,150966,mir,nichte
+gdc,11g5f.0,150900,151122,nichte,150998,151004,Oberst,oberst
+gdc,11g5f.0,150900,151122,nichte,151006,151009,Ich,nichte
+gdc,11g5f.0,150900,151122,nichte,151035,151038,ich,nichte
+gdc,11g5f.0,151126,151238,oberst,151159,151163,mich,oberst
+gdc,11g5f.0,151243,151516,der_ritter,151300,151303,ich,der_ritter
+gdc,11g5f.0,151243,151516,der_ritter,151323,151326,ich,der_ritter
+gdc,11g5f.0,151243,151516,der_ritter,151362,151365,ich,der_ritter
+gdc,11g5f.0,151243,151516,der_ritter,151394,151397,Mir,der_ritter

@@ -1,6 +1,6 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,n79j.0,LORCHEN,lorchen,,
-gdc,n79j.0,FERDINAND,ferdinand,,
-gdc,n79j.0,FRAU RICHARDIN,frau_richardin,,
-gdc,n79j.0,SIMON,simon,,
-gdc,n79j.0,CHRISTIANCHEN,christianchen,,
+gdc,n79j.0,Christianchen,christianchen,FEMALE,
+gdc,n79j.0,Frau Richardin,frau_richardin,FEMALE,
+gdc,n79j.0,Lorchen,lorchen,FEMALE,
+gdc,n79j.0,Simon,simon,MALE,
+gdc,n79j.0,Ferdinand,ferdinand,MALE,

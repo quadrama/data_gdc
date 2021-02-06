@@ -1,6 +1,6 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,rkzp.0,LISETTE,lisette,,
-gdc,rkzp.0,DIE WITWE,die_witwe,,
-gdc,rkzp.0,DAMON,damon,,
-gdc,rkzp.0,LEANDER,leander,,
-gdc,rkzp.0,ORONTE,oronte,,
+gdc,rkzp.0,Leander,leander,MALE,
+gdc,rkzp.0,Oronte,oronte,MALE,
+gdc,rkzp.0,Damon,damon,MALE,
+gdc,rkzp.0,Die Witwe,die_witwe,FEMALE,
+gdc,rkzp.0,Lisette,lisette,FEMALE,

@@ -1,0 +1,15 @@
+corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+gdc,tv65.0,495,925,_stage,499,520,die aufgeregten Leute,die_aufgeregten_leute
+gdc,tv65.0,1156,1294,_stage,1156,1177,Die aufgeregten Leute,die_aufgeregten_leute
+gdc,tv65.0,1295,1589,_stage,1437,1457,der Erzengel Gabriel,der_erzengel_gabriel
+gdc,tv65.0,1824,1907,der_erzengel_gabriel,1856,1861,meine,der_erzengel_gabriel
+gdc,tv65.0,1824,1907,der_erzengel_gabriel,1882,1885,ich,der_erzengel_gabriel
+gdc,tv65.0,1950,2068,der_erzengel_gabriel,1993,1998,meine,der_erzengel_gabriel
+gdc,tv65.0,1950,2068,der_erzengel_gabriel,2039,2042,ich,der_erzengel_gabriel
+gdc,tv65.0,1950,2068,der_erzengel_gabriel,2043,2063,der Erzengel Gabriel,der_erzengel_gabriel
+gdc,tv65.0,2073,2098,ein_millionaer,2088,2091,Ich,ein_millionaer
+gdc,tv65.0,2289,2440,der_erzengel_gabriel,2368,2373,meine,der_erzengel_gabriel
+gdc,tv65.0,2289,2440,der_erzengel_gabriel,2404,2407,ich,der_erzengel_gabriel
+gdc,tv65.0,2727,2834,_stage,2727,2748,Die aufgeregten Leute,die_aufgeregten_leute
+gdc,tv65.0,2838,2892,ein_millionaer,2882,2886,mein,ein_millionaer
+gdc,tv65.0,4086,4388,_stage,4096,4117,die aufgeregten Leute,die_aufgeregten_leute

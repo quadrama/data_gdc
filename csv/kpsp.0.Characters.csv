@@ -1,5 +1,5 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,kpsp.0,BAHNWERTER,bahnwerter,,
-gdc,kpsp.0,FRU,fru,,
-gdc,kpsp.0,HOLTVAAGT,holtvaagt,,
-gdc,kpsp.0,BOTTERWIEV,botterwiev,,
+gdc,kpsp.0,Fru,fru,FEMALE,
+gdc,kpsp.0,Bahnwerter,bahnwerter,MALE,
+gdc,kpsp.0,Botterwiev,botterwiev,FEMALE,
+gdc,kpsp.0,Holtvaagt,holtvaagt,MALE,

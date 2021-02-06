@@ -1,5 +1,5 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,tv5t.0,DER MODERNE ZEITGEIST,der_moderne_zeitgeist,,
-gdc,tv5t.0,RINALDO,rinaldo,,
-gdc,tv5t.0,CLEMENS,clemens,,
-gdc,tv5t.0,TINE,tine,,
+gdc,tv5t.0,Clemens,clemens,MALE,
+gdc,tv5t.0,Der moderne Zeitgeist,der_moderne_zeitgeist,UNKNOWN,
+gdc,tv5t.0,Rinaldo,rinaldo,MALE,
+gdc,tv5t.0,Tine,tine,FEMALE,

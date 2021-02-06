@@ -1,4 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,tbqn.0,MUTTER,mutter,,
-gdc,tbqn.0,SOPHIE,sophie,,
-gdc,tbqn.0,ERNST,ernst,,
+gdc,tbqn.0,Mutter,mutter,FEMALE,
+gdc,tbqn.0,Sophie,sophie,FEMALE,
+gdc,tbqn.0,Ernst,ernst,MALE,

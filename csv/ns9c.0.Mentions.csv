@@ -1,0 +1,1173 @@
+corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+gdc,ns9c.0,615,812,_stage,663,670,Rußworm,russworm
+gdc,ns9c.0,615,812,_stage,734,748,Gerichtsperson,gerichtsperson
+gdc,ns9c.0,615,812,_stage,770,779,Don Cäsar,don_caesar
+gdc,ns9c.0,615,812,_stage,774,779,Cäsar,don_caesar
+gdc,ns9c.0,814,888,gerichtsperson,867,870,ich,gerichtsperson
+gdc,ns9c.0,894,1003,don_caesar,906,909,Ich,don_caesar
+gdc,ns9c.0,1078,1219,don_caesar,1135,1143,Der Mann,julius
+gdc,ns9c.0,1286,1462,don_caesar,1450,1454,mein,don_caesar
+gdc,ns9c.0,1468,2180,russworm,1490,1499,Don Cäsar,don_caesar
+gdc,ns9c.0,1468,2180,russworm,1494,1499,Cäsar,don_caesar
+gdc,ns9c.0,1468,2180,russworm,1502,1505,Ich,russworm
+gdc,ns9c.0,1468,2180,russworm,1611,1615,mich,russworm
+gdc,ns9c.0,1468,2180,russworm,1702,1709,Rußworm,russworm
+gdc,ns9c.0,1468,2180,russworm,1872,1876,mich,russworm
+gdc,ns9c.0,1468,2180,russworm,1898,1903,meine,russworm
+gdc,ns9c.0,2186,2338,don_caesar,2216,2220,mich,don_caesar
+gdc,ns9c.0,2186,2338,don_caesar,2236,2240,mich,don_caesar
+gdc,ns9c.0,2186,2338,don_caesar,2315,2319,mich,don_caesar
+gdc,ns9c.0,2186,2338,don_caesar,2321,2324,ich,don_caesar
+gdc,ns9c.0,2405,2550,don_caesar,2417,2420,Ich,don_caesar
+gdc,ns9c.0,2405,2550,don_caesar,2469,2472,ich,don_caesar
+gdc,ns9c.0,2601,2633,_stage,2601,2607,Bürger,ein_buerger
+gdc,ns9c.0,2637,2907,russworm,2775,2781,meines,russworm
+gdc,ns9c.0,2637,2907,russworm,2806,2810,mich,russworm
+gdc,ns9c.0,2913,3058,don_caesar,2929,2932,ich,don_caesar
+gdc,ns9c.0,2913,3058,don_caesar,2959,2962,ich,don_caesar
+gdc,ns9c.0,2913,3058,don_caesar,2968,2974,meinen,don_caesar
+gdc,ns9c.0,2991,3058,_stage,2991,2999,Lukrezia,lukrezia
+gdc,ns9c.0,3062,3489,don_caesar,3231,3234,ich,don_caesar
+gdc,ns9c.0,3062,3489,don_caesar,3247,3251,mich,don_caesar
+gdc,ns9c.0,3502,3521,_stage,3506,3520,Gerichtsperson,gerichtsperson
+gdc,ns9c.0,3608,4144,don_caesar,3678,3682,mich,don_caesar
+gdc,ns9c.0,3608,4144,don_caesar,3907,3910,ich,don_caesar
+gdc,ns9c.0,4150,4188,prokop,4178,4182,mein,prokop
+gdc,ns9c.0,4193,4976,don_caesar,4239,4247,Lukrezia,lukrezia
+gdc,ns9c.0,4250,4279,_stage,4250,4256,Prokop,prokop
+gdc,ns9c.0,4193,4976,don_caesar,4281,4284,Ich,don_caesar
+gdc,ns9c.0,4193,4976,don_caesar,4314,4321,Rußworm,russworm
+gdc,ns9c.0,4193,4976,don_caesar,4333,4337,Mich,don_caesar
+gdc,ns9c.0,4193,4976,don_caesar,4428,4431,ich,don_caesar
+gdc,ns9c.0,4193,4976,don_caesar,4515,4518,ich,don_caesar
+gdc,ns9c.0,4193,4976,don_caesar,4564,4567,mir,don_caesar
+gdc,ns9c.0,4193,4976,don_caesar,4914,4917,mir,don_caesar
+gdc,ns9c.0,4931,4976,_stage,4931,4938,Rußworm,russworm
+gdc,ns9c.0,5113,5196,_stage,5117,5125,Kämmerer,kaemmerer
+gdc,ns9c.0,5113,5196,_stage,5167,5173,Klesel,klesel
+gdc,ns9c.0,5113,5196,_stage,5188,5195,Mathias,mathias
+gdc,ns9c.0,5198,5226,klesel,5206,5209,Ich,klesel
+gdc,ns9c.0,5383,5491,kaemmerer,5427,5430,ich,kaemmerer
+gdc,ns9c.0,5556,5674,klesel,5641,5649,Kämmerer,kaemmerer
+gdc,ns9c.0,5680,5835,mathias,5757,5760,ich,mathias
+gdc,ns9c.0,5680,5835,mathias,5800,5806,meinem,mathias
+gdc,ns9c.0,6014,6335,klesel,6029,6032,ich,klesel
+gdc,ns9c.0,6341,6636,mathias,6351,6354,Ich,mathias
+gdc,ns9c.0,6341,6636,mathias,6387,6391,mich,mathias
+gdc,ns9c.0,6642,6853,klesel,6651,6654,Ich,klesel
+gdc,ns9c.0,6859,7138,mathias,6873,6876,mir,mathias
+gdc,ns9c.0,6859,7138,mathias,6888,6891,Ich,mathias
+gdc,ns9c.0,6859,7138,mathias,6928,6931,Mir,mathias
+gdc,ns9c.0,6859,7138,mathias,6987,6990,ich,mathias
+gdc,ns9c.0,6859,7138,mathias,7021,7027,meinem,mathias
+gdc,ns9c.0,6859,7138,mathias,7061,7064,mir,mathias
+gdc,ns9c.0,6859,7138,mathias,7125,7129,mich,mathias
+gdc,ns9c.0,7145,7693,klesel,7432,7435,mir,klesel
+gdc,ns9c.0,7145,7693,klesel,7479,7482,ich,klesel
+gdc,ns9c.0,7699,7725,mathias,7712,7715,mir,mathias
+gdc,ns9c.0,7730,8140,klesel,7739,7742,Ich,klesel
+gdc,ns9c.0,7730,8140,klesel,7766,7769,ich,klesel
+gdc,ns9c.0,7848,7968,_stage,7948,7956,Kämmerer,kaemmerer
+gdc,ns9c.0,7969,8140,_stage,7973,7981,Kämmerer,kaemmerer
+gdc,ns9c.0,7969,8140,_stage,8015,8022,Mathias,mathias
+gdc,ns9c.0,7969,8140,_stage,8122,8128,Klesel,klesel
+gdc,ns9c.0,8266,8310,_stage,8270,8277,Mathias,mathias
+gdc,ns9c.0,8466,8483,_stage,8475,8482,Mathias,mathias
+gdc,ns9c.0,8512,8551,mathias,8538,8541,mir,mathias
+gdc,ns9c.0,8556,8712,rumpf,8694,8697,ich,rumpf
+gdc,ns9c.0,8801,9195,rumpf,9098,9101,Ich,rumpf
+gdc,ns9c.0,9162,9195,_stage,9162,9171,Don Cäsar,don_caesar
+gdc,ns9c.0,9162,9195,_stage,9166,9171,Cäsar,don_caesar
+gdc,ns9c.0,9199,9269,don_caesar,9218,9228,der Kaiser,rudolf
+gdc,ns9c.0,9275,9349,rumpf,9315,9324,Don Cäsar,don_caesar
+gdc,ns9c.0,9275,9349,rumpf,9319,9324,Cäsar,don_caesar
+gdc,ns9c.0,9392,9630,rumpf,9491,9494,ich,rumpf
+gdc,ns9c.0,9636,9783,don_caesar,9648,9651,Ich,don_caesar
+gdc,ns9c.0,9636,9783,don_caesar,9670,9673,ich,don_caesar
+gdc,ns9c.0,9636,9783,don_caesar,9681,9684,ich,don_caesar
+gdc,ns9c.0,9636,9783,don_caesar,9766,9769,ich,don_caesar
+gdc,ns9c.0,9877,9921,_stage,9905,9912,Mathias,mathias
+gdc,ns9c.0,10000,10080,rumpf,10035,10045,Der Kaiser,rudolf
+gdc,ns9c.0,10086,10122,don_caesar,10097,10100,Ich,don_caesar
+gdc,ns9c.0,10164,10281,klesel,10237,10247,Der Kaiser,rudolf
+gdc,ns9c.0,10287,10306,mathias,10296,10305,Don Cäsar,don_caesar
+gdc,ns9c.0,10287,10306,mathias,10300,10305,Cäsar,don_caesar
+gdc,ns9c.0,10463,10486,_stage,10467,10475,Kämmerer,kaemmerer
+gdc,ns9c.0,10490,10570,kaemmerer,10501,10520,Erzherzog Ferdinand,ferdinand
+gdc,ns9c.0,10627,10639,_stage,10627,10635,Kämmerer,kaemmerer
+gdc,ns9c.0,10748,10869,mathias,10758,10761,Ich,mathias
+gdc,ns9c.0,10748,10869,mathias,10810,10813,ich,mathias
+gdc,ns9c.0,10748,10869,mathias,10833,10839,Klesel,klesel
+gdc,ns9c.0,10941,10971,mathias,10954,10957,ich,mathias
+gdc,ns9c.0,11027,11069,_stage,11031,11039,Kämmerer,kaemmerer
+gdc,ns9c.0,11073,11175,rumpf,11081,11091,Der Kaiser,rudolf
+gdc,ns9c.0,11073,11175,rumpf,11099,11102,Ich,rumpf
+gdc,ns9c.0,11073,11175,rumpf,11161,11164,ich,rumpf
+gdc,ns9c.0,11181,11233,mathias,11190,11193,Ich,mathias
+gdc,ns9c.0,11181,11233,mathias,11222,11225,ich,mathias
+gdc,ns9c.0,11258,11283,mathias,11267,11270,Ich,mathias
+gdc,ns9c.0,11288,11472,rumpf,11338,11348,Der Kaiser,rudolf
+gdc,ns9c.0,11568,11702,_stage,11621,11628,Mathias,mathias
+gdc,ns9c.0,11568,11702,_stage,11680,11686,Klesel,klesel
+gdc,ns9c.0,11704,11852,_stage,11809,11819,der Kaiser,rudolf
+gdc,ns9c.0,12582,12721,_stage,12582,12588,Rudolf,rudolf
+gdc,ns9c.0,12725,12849,rumpf,12732,12751,Erzherzog Ferdinand,ferdinand
+gdc,ns9c.0,12769,12849,_stage,12769,12775,Rudolf,rudolf
+gdc,ns9c.0,12853,12906,rumpf,12860,12869,Don Cäsar,don_caesar
+gdc,ns9c.0,12853,12906,rumpf,12864,12869,Cäsar,don_caesar
+gdc,ns9c.0,12883,12906,_stage,12883,12889,Rudolf,rudolf
+gdc,ns9c.0,12947,12958,_stage,12950,12957,Mathias,mathias
+gdc,ns9c.0,13007,13046,_stage,13007,13017,Der Kaiser,rudolf
+gdc,ns9c.0,13186,13210,_stage,13186,13193,Mathias,mathias
+gdc,ns9c.0,13214,13292,mathias,13250,13253,Ich,mathias
+gdc,ns9c.0,13214,13292,mathias,13271,13277,meinem,mathias
+gdc,ns9c.0,13413,13775,mathias,13484,13488,mein,mathias
+gdc,ns9c.0,13413,13775,mathias,13528,13532,mein,mathias
+gdc,ns9c.0,13413,13775,mathias,13556,13559,mir,mathias
+gdc,ns9c.0,13413,13775,mathias,13583,13587,Mein,mathias
+gdc,ns9c.0,13854,13889,mathias,13863,13867,Mein,mathias
+gdc,ns9c.0,13854,13889,mathias,13879,13883,mein,mathias
+gdc,ns9c.0,13944,13999,rumpf,13951,13954,Ich,rumpf
+gdc,ns9c.0,14056,14067,_stage,14059,14066,Mathias,mathias
+gdc,ns9c.0,14209,14290,mathias,14224,14228,mich,mathias
+gdc,ns9c.0,14209,14290,mathias,14247,14250,mir,mathias
+gdc,ns9c.0,14267,14290,_stage,14275,14281,Klesel,klesel
+gdc,ns9c.0,14352,14424,_stage,14378,14388,der Kaiser,rudolf
+gdc,ns9c.0,14436,14459,_stage,14436,14442,Rudolf,rudolf
+gdc,ns9c.0,14805,14922,rumpf,14818,14821,ich,rumpf
+gdc,ns9c.0,14892,14922,_stage,14892,14902,Der Kaiser,rudolf
+gdc,ns9c.0,14981,15036,_stage,14981,14991,Der Kaiser,rudolf
+gdc,ns9c.0,15060,15076,_stage,15060,15069,Don Cäsar,don_caesar
+gdc,ns9c.0,15060,15076,_stage,15064,15069,Cäsar,don_caesar
+gdc,ns9c.0,15139,15229,don_caesar,15150,15153,Ich,don_caesar
+gdc,ns9c.0,15189,15229,_stage,15189,15199,Der Kaiser,rudolf
+gdc,ns9c.0,15233,15819,don_caesar,15285,15288,ich,don_caesar
+gdc,ns9c.0,15233,15819,don_caesar,15476,15483,Rußworm,russworm
+gdc,ns9c.0,15233,15819,don_caesar,15568,15571,Ich,don_caesar
+gdc,ns9c.0,15233,15819,don_caesar,15697,15700,Mir,don_caesar
+gdc,ns9c.0,15233,15819,don_caesar,15719,15722,ich,don_caesar
+gdc,ns9c.0,15782,15819,_stage,15782,15788,Rudolf,rudolf
+gdc,ns9c.0,15823,16020,rumpf,15855,15862,Rußworm,russworm
+gdc,ns9c.0,15938,16020,_stage,15938,15948,Der Kaiser,rudolf
+gdc,ns9c.0,16024,16172,rumpf,16104,16107,ich,rumpf
+gdc,ns9c.0,16024,16172,rumpf,16122,16125,Ich,rumpf
+gdc,ns9c.0,16176,16596,don_caesar,16188,16191,Ich,don_caesar
+gdc,ns9c.0,16176,16596,don_caesar,16399,16406,Rußworm,russworm
+gdc,ns9c.0,16803,16883,_stage,16803,16813,Der Kaiser,rudolf
+gdc,ns9c.0,16887,17116,rumpf,16895,16898,Ich,rumpf
+gdc,ns9c.0,16887,17116,rumpf,17037,17040,ich,rumpf
+gdc,ns9c.0,17061,17116,_stage,17061,17071,Der Kaiser,rudolf
+gdc,ns9c.0,17120,17382,don_caesar,17147,17150,Ich,don_caesar
+gdc,ns9c.0,17120,17382,don_caesar,17370,17374,mein,don_caesar
+gdc,ns9c.0,17388,17645,rudolf,17490,17493,Ich,rudolf
+gdc,ns9c.0,17388,17645,rudolf,17600,17606,Bürger,ein_buerger
+gdc,ns9c.0,17651,17774,don_caesar,17675,17678,ich,don_caesar
+gdc,ns9c.0,17651,17774,don_caesar,17683,17689,meiner,don_caesar
+gdc,ns9c.0,17780,18243,rudolf,17957,17964,Rußworm,russworm
+gdc,ns9c.0,17780,18243,rudolf,18024,18027,ich,rudolf
+gdc,ns9c.0,18249,18293,don_caesar,18288,18292,mich,don_caesar
+gdc,ns9c.0,18298,18386,rudolf,18319,18324,Cäsar,don_caesar
+gdc,ns9c.0,18298,18386,rudolf,18368,18376,der Mann,julius
+gdc,ns9c.0,18392,18467,don_caesar,18446,18449,mir,don_caesar
+gdc,ns9c.0,18473,19435,rudolf,18705,18708,mir,rudolf
+gdc,ns9c.0,18473,19435,rudolf,18710,18713,mir,rudolf
+gdc,ns9c.0,18473,19435,rudolf,18930,18933,ich,rudolf
+gdc,ns9c.0,18473,19435,rudolf,18945,18951,meiner,rudolf
+gdc,ns9c.0,18473,19435,rudolf,19038,19041,mir,rudolf
+gdc,ns9c.0,18473,19435,rudolf,19062,19065,ich,rudolf
+gdc,ns9c.0,18473,19435,rudolf,19247,19251,mich,rudolf
+gdc,ns9c.0,18473,19435,rudolf,19289,19299,Der Kaiser,rudolf
+gdc,ns9c.0,18473,19435,rudolf,19300,19303,ich,rudolf
+gdc,ns9c.0,18473,19435,rudolf,19310,19313,ich,rudolf
+gdc,ns9c.0,18473,19435,rudolf,19333,19339,meiner,rudolf
+gdc,ns9c.0,19393,19435,_stage,19393,19412,Erzherzog Ferdinand,ferdinand
+gdc,ns9c.0,19540,19650,don_caesar,19590,19594,Mich,don_caesar
+gdc,ns9c.0,19540,19650,don_caesar,19630,19633,mir,don_caesar
+gdc,ns9c.0,19676,19725,_stage,19679,19688,Don Cäsar,don_caesar
+gdc,ns9c.0,19676,19725,_stage,19683,19688,Cäsar,don_caesar
+gdc,ns9c.0,19837,19941,_stage,19887,19896,Don Cäsar,don_caesar
+gdc,ns9c.0,19837,19941,_stage,19891,19896,Cäsar,don_caesar
+gdc,ns9c.0,19945,20008,ferdinand,19985,19989,Mein,ferdinand
+gdc,ns9c.0,20070,20176,ferdinand,20106,20109,ich,ferdinand
+gdc,ns9c.0,20279,20430,ferdinand,20331,20334,Ich,ferdinand
+gdc,ns9c.0,20434,21631,rudolf,21251,21254,ich,rudolf
+gdc,ns9c.0,20434,21631,rudolf,21557,21560,ich,rudolf
+gdc,ns9c.0,20434,21631,rudolf,21596,21599,ich,rudolf
+gdc,ns9c.0,21750,21916,rudolf,21759,21763,Mein,rudolf
+gdc,ns9c.0,21750,21916,rudolf,21852,21855,Ich,rudolf
+gdc,ns9c.0,21750,21916,rudolf,21893,21896,Ich,rudolf
+gdc,ns9c.0,22994,23341,ferdinand,23029,23032,mir,ferdinand
+gdc,ns9c.0,22994,23341,ferdinand,23047,23051,mein,ferdinand
+gdc,ns9c.0,22994,23341,ferdinand,23129,23133,Mein,ferdinand
+gdc,ns9c.0,22994,23341,ferdinand,23146,23150,mich,ferdinand
+gdc,ns9c.0,22994,23341,ferdinand,23325,23328,ich,ferdinand
+gdc,ns9c.0,23824,26095,rudolf,24156,24159,Ich,rudolf
+gdc,ns9c.0,23824,26095,rudolf,25015,25018,mir,rudolf
+gdc,ns9c.0,23824,26095,rudolf,25080,25083,ich,rudolf
+gdc,ns9c.0,23824,26095,rudolf,25115,25118,Ich,rudolf
+gdc,ns9c.0,23824,26095,rudolf,25184,25187,mir,rudolf
+gdc,ns9c.0,23824,26095,rudolf,25213,25216,mir,rudolf
+gdc,ns9c.0,23824,26095,rudolf,25286,25289,ich,rudolf
+gdc,ns9c.0,23824,26095,rudolf,25341,25344,Ich,rudolf
+gdc,ns9c.0,23824,26095,rudolf,25521,25525,mich,rudolf
+gdc,ns9c.0,23824,26095,rudolf,25567,25570,ich,rudolf
+gdc,ns9c.0,23824,26095,rudolf,25579,25584,meine,rudolf
+gdc,ns9c.0,25971,26095,_stage,26035,26054,Erzherzog Ferdinand,ferdinand
+gdc,ns9c.0,26099,26291,rudolf,26179,26185,meinem,rudolf
+gdc,ns9c.0,26099,26291,rudolf,26198,26205,Mathias,mathias
+gdc,ns9c.0,26099,26291,rudolf,26208,26211,Ich,rudolf
+gdc,ns9c.0,26368,26819,rudolf,26514,26517,ich,rudolf
+gdc,ns9c.0,26368,26819,rudolf,26583,26586,ich,rudolf
+gdc,ns9c.0,27384,27419,_stage,27387,27406,Erzherzog Ferdinand,ferdinand
+gdc,ns9c.0,27607,27782,rudolf,27632,27635,ich,rudolf
+gdc,ns9c.0,27788,27825,ferdinand,27821,27824,Ich,ferdinand
+gdc,ns9c.0,28120,28152,rudolf,28137,28141,mich,rudolf
+gdc,ns9c.0,28157,28241,ferdinand,28185,28188,ich,ferdinand
+gdc,ns9c.0,28366,28477,ferdinand,28399,28402,ich,ferdinand
+gdc,ns9c.0,28366,28477,ferdinand,28434,28438,Mein,ferdinand
+gdc,ns9c.0,28759,28908,ferdinand,28790,28793,mir,ferdinand
+gdc,ns9c.0,28759,28908,ferdinand,28854,28857,ich,ferdinand
+gdc,ns9c.0,29137,29590,rudolf,29151,29154,ich,rudolf
+gdc,ns9c.0,29137,29590,rudolf,29477,29480,Ich,rudolf
+gdc,ns9c.0,29594,29811,rudolf,29645,29649,mich,rudolf
+gdc,ns9c.0,29688,29711,_stage,29691,29710,Erzherzog Ferdinand,ferdinand
+gdc,ns9c.0,29817,29936,ferdinand,29838,29841,Ich,ferdinand
+gdc,ns9c.0,29817,29936,ferdinand,29915,29918,ich,ferdinand
+gdc,ns9c.0,29997,30129,rumpf,30072,30081,Don Cäsar,don_caesar
+gdc,ns9c.0,29997,30129,rumpf,30076,30081,Cäsar,don_caesar
+gdc,ns9c.0,30135,30406,rudolf,30318,30321,Ich,rudolf
+gdc,ns9c.0,30894,30917,_stage,30897,30916,Erzherzog Ferdinand,ferdinand
+gdc,ns9c.0,30805,30997,rudolf,30960,30964,mein,rudolf
+gdc,ns9c.0,31002,31138,leopold,31045,31049,Mein,leopold
+gdc,ns9c.0,31248,31567,_stage,31369,31386,Erzherzog Leopold,leopold
+gdc,ns9c.0,31248,31567,_stage,31458,31468,Der Kaiser,rudolf
+gdc,ns9c.0,31674,31942,hauptmann_2,31789,31792,ich,hauptmann_2
+gdc,ns9c.0,31867,31942,_stage,31917,31929,Fahnenträger,fahnentraeger
+gdc,ns9c.0,32267,33712,fahnentraeger,32780,32787,zweiter,schlick
+gdc,ns9c.0,33788,33845,hauptmann_2,33806,33809,ich,hauptmann_2
+gdc,ns9c.0,33826,33845,_stage,33826,33838,Oberst Ramee,ramee
+gdc,ns9c.0,33849,33994,hauptmann_2,33861,33865,Mein,hauptmann_2
+gdc,ns9c.0,34213,34238,hauptmann_2,34230,34237,Mathias,mathias
+gdc,ns9c.0,34530,34582,ramee,34547,34551,mein,ramee
+gdc,ns9c.0,34530,34582,ramee,34552,34555,ich,ramee
+gdc,ns9c.0,34587,34627,hauptmann_2,34605,34615,der Kaiser,rudolf
+gdc,ns9c.0,35035,35288,ramee,35102,35105,ich,ramee
+gdc,ns9c.0,35292,35591,hauptmann_2,35546,35549,ich,hauptmann_2
+gdc,ns9c.0,35292,35591,hauptmann_2,35571,35574,ich,hauptmann_2
+gdc,ns9c.0,35651,35683,_stage,35666,35682,hinter der Szene,hinter_der_szene
+gdc,ns9c.0,35708,35782,ein_soldat_2a,35772,35775,ich,ein_soldat_2a
+gdc,ns9c.0,35843,36022,ein_soldat_2a,35852,35856,Mein,ein_soldat_2a
+gdc,ns9c.0,35843,36022,ein_soldat_2a,35917,35920,mir,ein_soldat_2a
+gdc,ns9c.0,35843,36022,ein_soldat_2a,35937,35940,Ich,ein_soldat_2a
+gdc,ns9c.0,36028,36064,kuerassier,36039,36042,Mir,kuerassier
+gdc,ns9c.0,36069,36201,ein_soldat_2a,36146,36149,ich,ein_soldat_2a
+gdc,ns9c.0,36810,37169,zweiter_soldat_2a,37032,37035,ich,zweiter_soldat_2a
+gdc,ns9c.0,36810,37169,zweiter_soldat_2a,37158,37163,meine,zweiter_soldat_2a
+gdc,ns9c.0,37687,37812,klesel,37747,37750,ich,klesel
+gdc,ns9c.0,37818,38016,ramee,37953,37963,Der Kaiser,rudolf
+gdc,ns9c.0,38023,38152,klesel,38038,38043,meine,klesel
+gdc,ns9c.0,38023,38152,klesel,38079,38082,mir,klesel
+gdc,ns9c.0,38158,38855,ramee,38598,38605,Mathias,mathias
+gdc,ns9c.0,38861,38988,klesel,38887,38891,mich,klesel
+gdc,ns9c.0,38861,38988,klesel,38967,38974,Mathias,mathias
+gdc,ns9c.0,39309,39447,_stage,39436,39446,Maximilian,max
+gdc,ns9c.0,39965,40207,leopold,40044,40047,ich,leopold
+gdc,ns9c.0,39965,40207,leopold,40099,40102,ich,leopold
+gdc,ns9c.0,40509,40694,erster_soldat_2b,40545,40554,Don Cäsar,don_caesar
+gdc,ns9c.0,40509,40694,erster_soldat_2b,40549,40554,Cäsar,don_caesar
+gdc,ns9c.0,41123,41146,_stage,41127,41133,Klesel,klesel
+gdc,ns9c.0,41150,41216,zweiter_soldat_2b,41199,41203,mich,zweiter_soldat_2b
+gdc,ns9c.0,41273,41290,_stage,41273,41289,hinter der Szene,hinter_der_szene
+gdc,ns9c.0,41453,41468,ramee,41460,41467,Mathias,mathias
+gdc,ns9c.0,41565,41733,_stage,41565,41571,Klesel,klesel
+gdc,ns9c.0,41565,41733,_stage,41591,41598,Mathias,mathias
+gdc,ns9c.0,42158,42288,_stage,42168,42175,Mathias,mathias
+gdc,ns9c.0,42290,42652,mathias,42494,42497,ich,mathias
+gdc,ns9c.0,42290,42652,mathias,42498,42502,mich,mathias
+gdc,ns9c.0,42658,42838,klesel,42710,42713,Ich,klesel
+gdc,ns9c.0,42658,42838,klesel,42721,42727,meinem,klesel
+gdc,ns9c.0,42852,42871,_stage,42852,42858,Klesel,klesel
+gdc,ns9c.0,42844,43433,mathias,42884,42888,mein,mathias
+gdc,ns9c.0,42844,43433,mathias,42974,42981,Mathias,mathias
+gdc,ns9c.0,42844,43433,mathias,43135,43138,ich,mathias
+gdc,ns9c.0,42844,43433,mathias,43332,43335,mir,mathias
+gdc,ns9c.0,42844,43433,mathias,43361,43364,ich,mathias
+gdc,ns9c.0,43437,43591,mathias,43464,43467,ich,mathias
+gdc,ns9c.0,44347,44426,mathias,44407,44410,ich,mathias
+gdc,ns9c.0,44687,44929,mathias,44721,44724,ich,mathias
+gdc,ns9c.0,44687,44929,mathias,44781,44784,mir,mathias
+gdc,ns9c.0,44687,44929,mathias,44841,44844,Mir,mathias
+gdc,ns9c.0,45251,45340,klesel,45269,45279,der Kaiser,rudolf
+gdc,ns9c.0,45565,45604,mathias,45594,45597,ich,mathias
+gdc,ns9c.0,46073,46128,mathias,46082,46085,Ich,mathias
+gdc,ns9c.0,46073,46128,mathias,46118,46121,ich,mathias
+gdc,ns9c.0,46846,47375,max,46950,46953,mir,max
+gdc,ns9c.0,46846,47375,max,47022,47026,mich,max
+gdc,ns9c.0,46846,47375,max,47121,47124,ich,max
+gdc,ns9c.0,47657,48462,max,47663,47666,Ich,max
+gdc,ns9c.0,47657,48462,max,47889,47892,ich,max
+gdc,ns9c.0,47657,48462,max,47977,47980,ich,max
+gdc,ns9c.0,47657,48462,max,48080,48086,meiner,max
+gdc,ns9c.0,47657,48462,max,48210,48213,Ich,max
+gdc,ns9c.0,48346,48462,_stage,48346,48352,Klesel,klesel
+gdc,ns9c.0,48466,48762,max,48542,48545,mir,max
+gdc,ns9c.0,48685,48702,_stage,48694,48701,Mathias,mathias
+gdc,ns9c.0,48466,48762,max,48738,48741,mir,max
+gdc,ns9c.0,48775,48786,_stage,48778,48785,Mathias,mathias
+gdc,ns9c.0,48768,48874,klesel,48858,48861,ich,klesel
+gdc,ns9c.0,48768,48874,klesel,48862,48866,mich,klesel
+gdc,ns9c.0,48880,49203,max,49142,49145,mir,max
+gdc,ns9c.0,49209,49257,leopold,49242,49245,ich,leopold
+gdc,ns9c.0,49262,49432,max,49268,49271,Ich,max
+gdc,ns9c.0,49262,49432,max,49278,49281,ich,max
+gdc,ns9c.0,49551,49561,_stage,49554,49560,Klesel,klesel
+gdc,ns9c.0,49768,49880,leopold,49789,49792,ich,leopold
+gdc,ns9c.0,49886,49931,mathias,49924,49930,Klesel,klesel
+gdc,ns9c.0,49936,50101,klesel,49950,49953,ich,klesel
+gdc,ns9c.0,50107,50211,leopold,50117,50120,Ich,leopold
+gdc,ns9c.0,50107,50211,leopold,50140,50143,ich,leopold
+gdc,ns9c.0,50621,50672,leopold,50638,50641,ich,leopold
+gdc,ns9c.0,50743,50795,_stage,50746,50752,Klesel,klesel
+gdc,ns9c.0,50799,51901,max,51126,51136,der Kaiser,rudolf
+gdc,ns9c.0,51282,51292,_stage,51285,51291,Klesel,klesel
+gdc,ns9c.0,50799,51901,max,51294,51297,Ich,max
+gdc,ns9c.0,50799,51901,max,51334,51337,ich,max
+gdc,ns9c.0,50799,51901,max,51402,51405,mir,max
+gdc,ns9c.0,50799,51901,max,51441,51447,meinen,max
+gdc,ns9c.0,50799,51901,max,51470,51480,Die Stände,die_staende
+gdc,ns9c.0,50799,51901,max,51698,51701,ich,max
+gdc,ns9c.0,52036,52148,max,52076,52079,ich,max
+gdc,ns9c.0,52087,52106,_stage,52091,52097,Klesel,klesel
+gdc,ns9c.0,52175,52185,_stage,52178,52184,Klesel,klesel
+gdc,ns9c.0,52259,52416,mathias,52273,52276,ich,mathias
+gdc,ns9c.0,52259,52416,mathias,52289,52292,Ich,mathias
+gdc,ns9c.0,52259,52416,mathias,52361,52364,ich,mathias
+gdc,ns9c.0,52422,52735,max,52467,52470,ich,max
+gdc,ns9c.0,52812,52829,max,52817,52820,Ich,max
+gdc,ns9c.0,52883,52902,max,52897,52901,mich,max
+gdc,ns9c.0,52917,52928,_stage,52920,52927,Mathias,mathias
+gdc,ns9c.0,52907,53101,ferdinand,52954,52958,mich,ferdinand
+gdc,ns9c.0,53362,53373,_stage,53365,53372,Mathias,mathias
+gdc,ns9c.0,53405,53755,mathias,53442,53445,ich,mathias
+gdc,ns9c.0,53405,53755,mathias,53467,53471,mich,mathias
+gdc,ns9c.0,53405,53755,mathias,53563,53566,ich,mathias
+gdc,ns9c.0,53405,53755,mathias,53591,53594,ich,mathias
+gdc,ns9c.0,53405,53755,mathias,53614,53617,ich,mathias
+gdc,ns9c.0,53405,53755,mathias,53726,53729,ich,mathias
+gdc,ns9c.0,53874,53885,_stage,53878,53884,Klesel,klesel
+gdc,ns9c.0,53864,54292,ferdinand,53952,53958,meiner,ferdinand
+gdc,ns9c.0,53864,54292,ferdinand,53977,53980,ich,ferdinand
+gdc,ns9c.0,53864,54292,ferdinand,54029,54032,mir,ferdinand
+gdc,ns9c.0,53864,54292,ferdinand,54111,54114,ich,ferdinand
+gdc,ns9c.0,53864,54292,ferdinand,54175,54178,mir,ferdinand
+gdc,ns9c.0,54258,54268,_stage,54261,54267,Klesel,klesel
+gdc,ns9c.0,54885,55090,klesel,55045,55048,ich,klesel
+gdc,ns9c.0,55096,55146,max,55101,55104,Mir,max
+gdc,ns9c.0,55151,55257,ferdinand,55198,55201,ich,ferdinand
+gdc,ns9c.0,55330,55573,leopold,55387,55390,Ich,leopold
+gdc,ns9c.0,55681,55786,ferdinand,55703,55707,mich,ferdinand
+gdc,ns9c.0,55681,55786,ferdinand,55721,55725,mich,ferdinand
+gdc,ns9c.0,55681,55786,ferdinand,55743,55746,Mir,ferdinand
+gdc,ns9c.0,55799,55816,_stage,55808,55815,Mathias,mathias
+gdc,ns9c.0,55841,55875,mathias,55859,55863,mich,mathias
+gdc,ns9c.0,56006,56144,klesel,56114,56117,ich,klesel
+gdc,ns9c.0,56181,56475,klesel,56414,56417,ich,klesel
+gdc,ns9c.0,56511,56602,ferdinand,56526,56529,mir,ferdinand
+gdc,ns9c.0,56511,56602,ferdinand,56563,56566,ich,ferdinand
+gdc,ns9c.0,56511,56602,ferdinand,56578,56581,mir,ferdinand
+gdc,ns9c.0,56841,56879,_stage,56841,56847,Klesel,klesel
+gdc,ns9c.0,56975,57023,max,56996,56999,ich,max
+gdc,ns9c.0,57028,57516,klesel,57085,57088,ich,klesel
+gdc,ns9c.0,57028,57516,klesel,57146,57149,ich,klesel
+gdc,ns9c.0,57028,57516,klesel,57161,57167,meinem,klesel
+gdc,ns9c.0,57028,57516,klesel,57216,57220,Volk,volk
+gdc,ns9c.0,57028,57516,klesel,57354,57357,ich,klesel
+gdc,ns9c.0,57028,57516,klesel,57492,57502,der Kaiser,rudolf
+gdc,ns9c.0,57677,57747,_stage,57677,57684,Mathias,mathias
+gdc,ns9c.0,57677,57747,_stage,57701,57707,Klesel,klesel
+gdc,ns9c.0,57851,57991,klesel,57958,57968,der Kaiser,rudolf
+gdc,ns9c.0,58048,58835,klesel,58499,58509,der Kaiser,rudolf
+gdc,ns9c.0,58883,59174,klesel,58925,58929,mich,klesel
+gdc,ns9c.0,58883,59174,klesel,58935,58938,ich,klesel
+gdc,ns9c.0,58883,59174,klesel,58961,58964,ich,klesel
+gdc,ns9c.0,58883,59174,klesel,59066,59072,meinen,klesel
+gdc,ns9c.0,59180,59240,mathias,59196,59199,Ich,mathias
+gdc,ns9c.0,59180,59240,mathias,59221,59224,ich,mathias
+gdc,ns9c.0,59245,59415,klesel,59394,59404,Maximilian,max
+gdc,ns9c.0,59421,59512,max,59427,59430,Ich,max
+gdc,ns9c.0,59421,59512,max,59472,59476,Mich,max
+gdc,ns9c.0,59855,59865,_stage,59858,59864,Klesel,klesel
+gdc,ns9c.0,59845,60221,ferdinand,59890,59895,meine,ferdinand
+gdc,ns9c.0,59845,60221,ferdinand,59971,59974,mir,ferdinand
+gdc,ns9c.0,59845,60221,ferdinand,60108,60115,Mathias,mathias
+gdc,ns9c.0,60227,60277,mathias,60240,60243,mir,mathias
+gdc,ns9c.0,60604,60749,leopold,60707,60710,Ich,leopold
+gdc,ns9c.0,60881,61005,leopold,60931,60934,ich,leopold
+gdc,ns9c.0,61011,61045,ferdinand,61022,61025,Ich,ferdinand
+gdc,ns9c.0,61011,61045,ferdinand,61037,61044,Mathias,mathias
+gdc,ns9c.0,61126,61154,max,61148,61153,meine,max
+gdc,ns9c.0,61159,61275,ferdinand,61197,61200,ich,ferdinand
+gdc,ns9c.0,61159,61275,ferdinand,61249,61254,meine,ferdinand
+gdc,ns9c.0,61390,61544,ferdinand,61402,61405,Ich,ferdinand
+gdc,ns9c.0,61390,61544,ferdinand,61467,61471,mich,ferdinand
+gdc,ns9c.0,61390,61544,ferdinand,61473,61477,mein,ferdinand
+gdc,ns9c.0,61692,61711,_stage,61696,61702,Klesel,klesel
+gdc,ns9c.0,61550,61799,max,61713,61716,Ich,max
+gdc,ns9c.0,61806,61862,mathias,61822,61825,Ich,mathias
+gdc,ns9c.0,61867,61962,ferdinand,61895,61898,ich,ferdinand
+gdc,ns9c.0,62358,62390,_stage,62373,62380,Mathias,mathias
+gdc,ns9c.0,62479,62589,mathias,62537,62542,meine,mathias
+gdc,ns9c.0,62479,62589,mathias,62584,62588,mich,mathias
+gdc,ns9c.0,62710,62734,_stage,62713,62720,Mathias,mathias
+gdc,ns9c.0,62595,62992,klesel,62745,62749,mich,klesel
+gdc,ns9c.0,62595,62992,klesel,62773,62776,ich,klesel
+gdc,ns9c.0,62595,62992,klesel,62862,62865,mir,klesel
+gdc,ns9c.0,62595,62992,klesel,62888,62891,ich,klesel
+gdc,ns9c.0,62996,63398,mathias,63141,63147,Klesel,klesel
+gdc,ns9c.0,62996,63398,mathias,63149,63155,Klesel,klesel
+gdc,ns9c.0,62996,63398,mathias,63217,63220,ich,mathias
+gdc,ns9c.0,62996,63398,mathias,63272,63278,meiner,mathias
+gdc,ns9c.0,63404,63578,_stage,63495,63511,hinter der Szene,hinter_der_szene
+gdc,ns9c.0,63404,63578,_stage,63513,63519,Prokop,prokop
+gdc,ns9c.0,63580,63715,prokop,63595,63600,meine,prokop
+gdc,ns9c.0,63719,63826,erster_soldat_2c,63743,63746,ich,erster_soldat_2c
+gdc,ns9c.0,63946,64045,prokop,63963,63966,ich,prokop
+gdc,ns9c.0,63946,64045,prokop,63981,63985,mein,prokop
+gdc,ns9c.0,63946,64045,prokop,64035,64038,ich,prokop
+gdc,ns9c.0,64527,64623,erster_soldat_2c,64536,64539,Ich,erster_soldat_2c
+gdc,ns9c.0,64627,64772,prokop,64660,64668,Lukrezia,lukrezia
+gdc,ns9c.0,64681,64772,_stage,64681,64698,Erzherzog Leopold,leopold
+gdc,ns9c.0,64681,64772,_stage,64703,64715,Oberst Ramee,ramee
+gdc,ns9c.0,65006,65063,_stage,65006,65025,Erzherzog Ferdinand,ferdinand
+gdc,ns9c.0,65067,65465,prokop,65101,65111,Ein Bürger,ein_buerger
+gdc,ns9c.0,65067,65465,prokop,65105,65111,Bürger,ein_buerger
+gdc,ns9c.0,65067,65465,prokop,65234,65237,ich,prokop
+gdc,ns9c.0,65867,65898,ferdinand,65888,65897,Don Cäsar,don_caesar
+gdc,ns9c.0,65867,65898,ferdinand,65892,65897,Cäsar,don_caesar
+gdc,ns9c.0,65977,66019,don_caesar,66009,66013,mich,don_caesar
+gdc,ns9c.0,66024,66381,ferdinand,66057,66067,Der Kaiser,rudolf
+gdc,ns9c.0,66024,66381,ferdinand,66124,66127,ich,ferdinand
+gdc,ns9c.0,66024,66381,ferdinand,66274,66277,ich,ferdinand
+gdc,ns9c.0,66024,66381,ferdinand,66327,66330,mir,ferdinand
+gdc,ns9c.0,66353,66381,_stage,66353,66362,Don Cäsar,don_caesar
+gdc,ns9c.0,66353,66381,_stage,66357,66362,Cäsar,don_caesar
+gdc,ns9c.0,66539,66666,prokop,66579,66583,mein,prokop
+gdc,ns9c.0,66592,66618,_stage,66597,66606,Don Cäsar,don_caesar
+gdc,ns9c.0,66592,66618,_stage,66601,66606,Cäsar,don_caesar
+gdc,ns9c.0,66650,66666,_stage,66657,66665,Lukrezia,lukrezia
+gdc,ns9c.0,66728,66784,ferdinand,66767,66770,ich,ferdinand
+gdc,ns9c.0,66789,67025,leopold,66873,66876,ich,leopold
+gdc,ns9c.0,66789,67025,leopold,66918,66921,ich,leopold
+gdc,ns9c.0,67031,67124,ferdinand,67101,67105,mein,ferdinand
+gdc,ns9c.0,67375,67593,_stage,67552,67558,Rudolf,rudolf
+gdc,ns9c.0,67926,67968,_stage,67926,67934,Der Mann,julius
+gdc,ns9c.0,67806,68145,rudolf,68036,68039,mir,rudolf
+gdc,ns9c.0,67806,68145,rudolf,68130,68134,mich,rudolf
+gdc,ns9c.0,68151,68283,julius,68256,68259,ich,julius
+gdc,ns9c.0,68336,68372,_stage,68336,68344,Der Mann,julius
+gdc,ns9c.0,68376,68528,rudolf,68390,68403,Herzog Julius,julius
+gdc,ns9c.0,68533,68709,julius,68574,68577,ich,julius
+gdc,ns9c.0,68533,68709,julius,68637,68640,ich,julius
+gdc,ns9c.0,68715,68862,rudolf,68798,68802,Volk,volk
+gdc,ns9c.0,68715,68862,rudolf,68819,68822,ich,rudolf
+gdc,ns9c.0,68928,69167,rudolf,68962,68965,ich,rudolf
+gdc,ns9c.0,68928,69167,rudolf,68976,68979,ich,rudolf
+gdc,ns9c.0,68928,69167,rudolf,68980,68984,mich,rudolf
+gdc,ns9c.0,68928,69167,rudolf,68997,69000,Ich,rudolf
+gdc,ns9c.0,68928,69167,rudolf,69016,69019,ich,rudolf
+gdc,ns9c.0,68928,69167,rudolf,69046,69049,ich,rudolf
+gdc,ns9c.0,68928,69167,rudolf,69079,69082,Ich,rudolf
+gdc,ns9c.0,69283,69871,rudolf,69292,69296,Mein,rudolf
+gdc,ns9c.0,70079,70819,rudolf,70113,70116,ich,rudolf
+gdc,ns9c.0,70079,70819,rudolf,70173,70179,meines,rudolf
+gdc,ns9c.0,70079,70819,rudolf,70191,70194,ich,rudolf
+gdc,ns9c.0,70079,70819,rudolf,70476,70482,meines,rudolf
+gdc,ns9c.0,70079,70819,rudolf,70763,70767,mein,rudolf
+gdc,ns9c.0,70873,72007,rudolf,70889,70892,Ich,rudolf
+gdc,ns9c.0,70873,72007,rudolf,70925,70928,mir,rudolf
+gdc,ns9c.0,70873,72007,rudolf,70989,70992,ich,rudolf
+gdc,ns9c.0,70873,72007,rudolf,71045,71048,ich,rudolf
+gdc,ns9c.0,70873,72007,rudolf,71120,71124,mein,rudolf
+gdc,ns9c.0,70873,72007,rudolf,71125,71128,ich,rudolf
+gdc,ns9c.0,70873,72007,rudolf,71131,71134,Ich,rudolf
+gdc,ns9c.0,70873,72007,rudolf,71155,71158,mir,rudolf
+gdc,ns9c.0,70873,72007,rudolf,71257,71260,mir,rudolf
+gdc,ns9c.0,70873,72007,rudolf,71279,71282,ich,rudolf
+gdc,ns9c.0,70873,72007,rudolf,71977,71980,ich,rudolf
+gdc,ns9c.0,72012,72125,julius,72101,72104,ich,julius
+gdc,ns9c.0,72158,72186,julius,72172,72175,ich,julius
+gdc,ns9c.0,72437,72692,julius,72510,72513,mir,julius
+gdc,ns9c.0,72437,72692,julius,72537,72541,mich,julius
+gdc,ns9c.0,72698,74689,rudolf,73655,73658,mir,rudolf
+gdc,ns9c.0,72698,74689,rudolf,73659,73663,mein,rudolf
+gdc,ns9c.0,72698,74689,rudolf,74279,74282,Ich,rudolf
+gdc,ns9c.0,74796,75161,rudolf,74805,74809,Mein,rudolf
+gdc,ns9c.0,74796,75161,rudolf,74839,74842,ich,rudolf
+gdc,ns9c.0,75218,75325,rudolf,75227,75231,Mein,rudolf
+gdc,ns9c.0,75218,75325,rudolf,75280,75283,Ich,rudolf
+gdc,ns9c.0,75659,75844,julius,75693,75696,ich,julius
+gdc,ns9c.0,75850,75990,rudolf,75859,75863,Mein,rudolf
+gdc,ns9c.0,75850,75990,rudolf,75892,75895,ich,rudolf
+gdc,ns9c.0,76186,76309,rudolf,76218,76221,ich,rudolf
+gdc,ns9c.0,76186,76309,rudolf,76236,76239,Ich,rudolf
+gdc,ns9c.0,76405,76492,rudolf,76476,76480,Volk,volk
+gdc,ns9c.0,76649,76709,rudolf,76705,76708,mir,rudolf
+gdc,ns9c.0,76787,77318,rudolf,76810,76813,mir,rudolf
+gdc,ns9c.0,76787,77318,rudolf,77194,77197,Ich,rudolf
+gdc,ns9c.0,76787,77318,rudolf,77238,77241,ich,rudolf
+gdc,ns9c.0,76787,77318,rudolf,77263,77266,mir,rudolf
+gdc,ns9c.0,76787,77318,rudolf,77279,77282,Ich,rudolf
+gdc,ns9c.0,77503,77521,julius,77511,77514,Ich,julius
+gdc,ns9c.0,77661,77805,julius,77795,77804,Don Cäsar,don_caesar
+gdc,ns9c.0,77661,77805,julius,77799,77804,Cäsar,don_caesar
+gdc,ns9c.0,77811,77956,rudolf,77833,77836,mir,rudolf
+gdc,ns9c.0,77811,77956,rudolf,77848,77851,Ich,rudolf
+gdc,ns9c.0,77811,77956,rudolf,77889,77892,mir,rudolf
+gdc,ns9c.0,77811,77956,rudolf,77919,77922,mir,rudolf
+gdc,ns9c.0,77995,78306,rudolf,78050,78053,mir,rudolf
+gdc,ns9c.0,77995,78306,rudolf,78064,78073,Don Cäsar,don_caesar
+gdc,ns9c.0,77995,78306,rudolf,78068,78073,Cäsar,don_caesar
+gdc,ns9c.0,77995,78306,rudolf,78079,78083,mein,rudolf
+gdc,ns9c.0,78252,78306,_stage,78252,78265,Herzog Julius,julius
+gdc,ns9c.0,78310,78457,rudolf,78361,78365,mein,rudolf
+gdc,ns9c.0,78310,78457,rudolf,78440,78450,ein Bürger,ein_buerger
+gdc,ns9c.0,78310,78457,rudolf,78444,78450,Bürger,ein_buerger
+gdc,ns9c.0,78463,78492,prokop,78471,78474,Ich,prokop
+gdc,ns9c.0,78497,78547,rudolf,78533,78539,Bürger,ein_buerger
+gdc,ns9c.0,78553,78747,prokop,78742,78745,ich,prokop
+gdc,ns9c.0,78752,79012,rudolf,78804,78809,Cäsar,don_caesar
+gdc,ns9c.0,79150,79754,rudolf,79273,79276,ich,rudolf
+gdc,ns9c.0,79150,79754,rudolf,79369,79374,Cäsar,don_caesar
+gdc,ns9c.0,79150,79754,rudolf,79401,79404,Ich,rudolf
+gdc,ns9c.0,79150,79754,rudolf,79587,79590,Ich,rudolf
+gdc,ns9c.0,79150,79754,rudolf,79626,79629,ich,rudolf
+gdc,ns9c.0,79150,79754,rudolf,79659,79665,meiner,rudolf
+gdc,ns9c.0,79767,79787,_stage,79773,79786,Herzog Julius,julius
+gdc,ns9c.0,79760,79907,prokop,79824,79827,Ich,prokop
+gdc,ns9c.0,80144,80161,_stage,80147,80160,Herzog Julius,julius
+gdc,ns9c.0,80137,80186,prokop,80170,80173,ich,prokop
+gdc,ns9c.0,80191,80391,rudolf,80205,80208,ich,rudolf
+gdc,ns9c.0,80397,80647,prokop,80406,80409,Ich,prokop
+gdc,ns9c.0,80397,80647,prokop,80501,80507,meines,prokop
+gdc,ns9c.0,80738,80755,_stage,80741,80754,Herzog Julius,julius
+gdc,ns9c.0,80731,80996,rudolf,80757,80760,Ich,rudolf
+gdc,ns9c.0,80731,80996,rudolf,80817,80820,Ich,rudolf
+gdc,ns9c.0,80894,80904,_stage,80897,80903,Prokop,prokop
+gdc,ns9c.0,80731,80996,rudolf,80906,80909,Ich,rudolf
+gdc,ns9c.0,80731,80996,rudolf,80921,80925,mein,rudolf
+gdc,ns9c.0,81002,81138,prokop,81090,81096,Klesel,klesel
+gdc,ns9c.0,81144,81242,rudolf,81166,81172,Klesel,klesel
+gdc,ns9c.0,81144,81242,rudolf,81206,81209,ich,rudolf
+gdc,ns9c.0,81248,81375,prokop,81277,81280,ich,prokop
+gdc,ns9c.0,81248,81375,prokop,81310,81316,meines,prokop
+gdc,ns9c.0,81388,81405,_stage,81391,81404,Herzog Julius,julius
+gdc,ns9c.0,81381,81818,rudolf,81570,81573,ich,rudolf
+gdc,ns9c.0,81633,81643,_stage,81636,81642,Prokop,prokop
+gdc,ns9c.0,81381,81818,rudolf,81645,81648,Ich,rudolf
+gdc,ns9c.0,81381,81818,rudolf,81722,81728,meinen,rudolf
+gdc,ns9c.0,81739,81788,_stage,81742,81748,Prokop,prokop
+gdc,ns9c.0,81381,81818,rudolf,81803,81817,Wolfgang Rumpf,rumpf
+gdc,ns9c.0,81870,82102,rudolf,81944,81948,mein,rudolf
+gdc,ns9c.0,81870,82102,rudolf,81969,81972,ich,rudolf
+gdc,ns9c.0,81870,82102,rudolf,81991,81995,mich,rudolf
+gdc,ns9c.0,82164,82294,rumpf,82211,82221,Der Kaiser,rudolf
+gdc,ns9c.0,82300,82652,rudolf,82359,82362,ich,rudolf
+gdc,ns9c.0,82300,82652,rudolf,82525,82528,mir,rudolf
+gdc,ns9c.0,82300,82652,rudolf,82578,82581,ich,rudolf
+gdc,ns9c.0,82300,82652,rudolf,82636,82639,mir,rudolf
+gdc,ns9c.0,82743,82767,rudolf,82751,82761,Die Stände,die_staende
+gdc,ns9c.0,82849,82866,_stage,82852,82865,Herzog Julius,julius
+gdc,ns9c.0,82772,83202,rumpf,82936,82943,Mathias,mathias
+gdc,ns9c.0,83208,83824,rudolf,83217,83220,Ich,rudolf
+gdc,ns9c.0,83208,83824,rudolf,83260,83263,ich,rudolf
+gdc,ns9c.0,83208,83824,rudolf,83310,83314,mich,rudolf
+gdc,ns9c.0,83208,83824,rudolf,83351,83355,mich,rudolf
+gdc,ns9c.0,83208,83824,rudolf,83406,83410,mein,rudolf
+gdc,ns9c.0,83208,83824,rudolf,83452,83458,meinem,rudolf
+gdc,ns9c.0,83208,83824,rudolf,83800,83810,die Stände,die_staende
+gdc,ns9c.0,83925,86129,rudolf,83977,83980,Mir,rudolf
+gdc,ns9c.0,83925,86129,rudolf,84004,84007,ich,rudolf
+gdc,ns9c.0,83925,86129,rudolf,84170,84174,mich,rudolf
+gdc,ns9c.0,83925,86129,rudolf,84218,84224,meinen,rudolf
+gdc,ns9c.0,83925,86129,rudolf,84255,84261,meiner,rudolf
+gdc,ns9c.0,83925,86129,rudolf,84287,84290,ich,rudolf
+gdc,ns9c.0,83925,86129,rudolf,84314,84317,Ich,rudolf
+gdc,ns9c.0,83925,86129,rudolf,84456,84460,mein,rudolf
+gdc,ns9c.0,83925,86129,rudolf,84626,84629,ich,rudolf
+gdc,ns9c.0,83925,86129,rudolf,84653,84656,mir,rudolf
+gdc,ns9c.0,83925,86129,rudolf,84703,84706,Ich,rudolf
+gdc,ns9c.0,83925,86129,rudolf,85016,85020,Mich,rudolf
+gdc,ns9c.0,83925,86129,rudolf,85033,85036,Ich,rudolf
+gdc,ns9c.0,83925,86129,rudolf,85312,85315,ich,rudolf
+gdc,ns9c.0,83925,86129,rudolf,85335,85348,Herzog Julius,julius
+gdc,ns9c.0,83925,86129,rudolf,85425,85429,Mich,rudolf
+gdc,ns9c.0,83925,86129,rudolf,85496,85499,ich,rudolf
+gdc,ns9c.0,83925,86129,rudolf,85501,85507,meiner,rudolf
+gdc,ns9c.0,83925,86129,rudolf,85605,85609,mich,rudolf
+gdc,ns9c.0,83925,86129,rudolf,85653,85656,ich,rudolf
+gdc,ns9c.0,83925,86129,rudolf,85693,85696,Ich,rudolf
+gdc,ns9c.0,83925,86129,rudolf,85919,85923,mein,rudolf
+gdc,ns9c.0,83925,86129,rudolf,85941,85955,Wolfgang Rumpf,rumpf
+gdc,ns9c.0,83925,86129,rudolf,85989,85995,meinem,rudolf
+gdc,ns9c.0,86005,86046,_stage,86008,86021,Herzog Julius,julius
+gdc,ns9c.0,86099,86129,_stage,86099,86112,Herzog Julius,julius
+gdc,ns9c.0,86133,86335,rudolf,86179,86183,mich,rudolf
+gdc,ns9c.0,86308,86335,_stage,86308,86321,Herzog Julius,julius
+gdc,ns9c.0,86489,86545,_stage,86504,86517,Herzog Julius,julius
+gdc,ns9c.0,86339,86962,rudolf,86734,86737,Ich,rudolf
+gdc,ns9c.0,86826,86962,_stage,86826,86836,Der Kaiser,rudolf
+gdc,ns9c.0,87024,87188,rudolf,87044,87054,Graf Thurn,thurn
+gdc,ns9c.0,87195,87669,schlick,87438,87442,Volk,volk
+gdc,ns9c.0,87758,88006,schlick,88000,88004,Volk,volk
+gdc,ns9c.0,88012,89124,rudolf,88025,88029,Volk,volk
+gdc,ns9c.0,88012,89124,rudolf,88042,88046,Volk,volk
+gdc,ns9c.0,88012,89124,rudolf,88062,88066,Volk,volk
+gdc,ns9c.0,88012,89124,rudolf,88145,88149,Volk,volk
+gdc,ns9c.0,88012,89124,rudolf,88340,88343,Mir,rudolf
+gdc,ns9c.0,88012,89124,rudolf,88361,88364,ich,rudolf
+gdc,ns9c.0,88012,89124,rudolf,88461,88464,mir,rudolf
+gdc,ns9c.0,88012,89124,rudolf,88490,88493,mir,rudolf
+gdc,ns9c.0,88012,89124,rudolf,88693,88696,Ich,rudolf
+gdc,ns9c.0,88012,89124,rudolf,88770,88776,meinem,rudolf
+gdc,ns9c.0,88012,89124,rudolf,88899,88902,ich,rudolf
+gdc,ns9c.0,88012,89124,rudolf,88957,88960,ich,rudolf
+gdc,ns9c.0,88012,89124,rudolf,88993,88996,ich,rudolf
+gdc,ns9c.0,88012,89124,rudolf,89120,89123,mir,rudolf
+gdc,ns9c.0,89213,90588,rudolf,89227,89230,ich,rudolf
+gdc,ns9c.0,89213,90588,rudolf,89354,89357,Ich,rudolf
+gdc,ns9c.0,89514,89540,_stage,89518,89531,Herzog Julius,julius
+gdc,ns9c.0,89213,90588,rudolf,89554,89558,mein,rudolf
+gdc,ns9c.0,89213,90588,rudolf,89604,89607,ich,rudolf
+gdc,ns9c.0,89213,90588,rudolf,89766,89769,ich,rudolf
+gdc,ns9c.0,89213,90588,rudolf,89786,89790,mein,rudolf
+gdc,ns9c.0,89213,90588,rudolf,89810,89813,ich,rudolf
+gdc,ns9c.0,89213,90588,rudolf,89965,89968,mir,rudolf
+gdc,ns9c.0,89213,90588,rudolf,90421,90427,meiner,rudolf
+gdc,ns9c.0,90448,90588,_stage,90519,90533,Wolfgang Rumpf,rumpf
+gdc,ns9c.0,90592,90716,diener_3,90607,90624,Erzherzog Leopold,leopold
+gdc,ns9c.0,90795,90852,_stage,90798,90812,Wolfgang Rumpf,rumpf
+gdc,ns9c.0,91004,93912,rudolf,91279,91282,Ich,rudolf
+gdc,ns9c.0,91004,93912,rudolf,91378,91381,mir,rudolf
+gdc,ns9c.0,91004,93912,rudolf,92821,92824,ich,rudolf
+gdc,ns9c.0,91004,93912,rudolf,92870,92873,ich,rudolf
+gdc,ns9c.0,93981,94734,rudolf,94032,94037,meine,rudolf
+gdc,ns9c.0,93981,94734,rudolf,94346,94350,Volk,volk
+gdc,ns9c.0,93981,94734,rudolf,94354,94358,Volk,volk
+gdc,ns9c.0,93981,94734,rudolf,94653,94656,ich,rudolf
+gdc,ns9c.0,94738,94895,rudolf,94773,94777,Mein,rudolf
+gdc,ns9c.0,94738,94895,rudolf,94795,94799,mein,rudolf
+gdc,ns9c.0,95061,95117,rudolf,95108,95111,ich,rudolf
+gdc,ns9c.0,95206,96154,rudolf,95229,95232,mir,rudolf
+gdc,ns9c.0,95206,96154,rudolf,95266,95269,ich,rudolf
+gdc,ns9c.0,95206,96154,rudolf,95284,95288,mein,rudolf
+gdc,ns9c.0,95206,96154,rudolf,95315,95319,mich,rudolf
+gdc,ns9c.0,95206,96154,rudolf,95328,95334,meiner,rudolf
+gdc,ns9c.0,95206,96154,rudolf,95592,95596,mein,rudolf
+gdc,ns9c.0,95206,96154,rudolf,95640,95644,mich,rudolf
+gdc,ns9c.0,95206,96154,rudolf,95654,95657,ich,rudolf
+gdc,ns9c.0,95206,96154,rudolf,95916,95919,ich,rudolf
+gdc,ns9c.0,95206,96154,rudolf,95959,95963,mich,rudolf
+gdc,ns9c.0,95980,96027,_stage,96016,96026,die Stände,die_staende
+gdc,ns9c.0,96050,96076,_stage,96050,96060,Die Stände,die_staende
+gdc,ns9c.0,96107,96154,_stage,96121,96134,Herzog Julius,julius
+gdc,ns9c.0,96158,96241,rudolf,96223,96227,mich,rudolf
+gdc,ns9c.0,96158,96241,rudolf,96229,96233,mein,rudolf
+gdc,ns9c.0,96247,96277,julius,96261,96264,ich,julius
+gdc,ns9c.0,96282,97463,rudolf,96291,96294,Ich,rudolf
+gdc,ns9c.0,96282,97463,rudolf,96364,96367,ich,rudolf
+gdc,ns9c.0,96282,97463,rudolf,96730,96733,Ich,rudolf
+gdc,ns9c.0,96282,97463,rudolf,96856,96862,meiner,rudolf
+gdc,ns9c.0,96282,97463,rudolf,96897,96900,mir,rudolf
+gdc,ns9c.0,96282,97463,rudolf,96925,96929,mich,rudolf
+gdc,ns9c.0,96282,97463,rudolf,96957,96960,ich,rudolf
+gdc,ns9c.0,96282,97463,rudolf,97049,97053,mich,rudolf
+gdc,ns9c.0,96282,97463,rudolf,97106,97112,meinem,rudolf
+gdc,ns9c.0,96282,97463,rudolf,97285,97288,Ich,rudolf
+gdc,ns9c.0,97364,97463,_stage,97398,97415,Erzherzog Leopold,leopold
+gdc,ns9c.0,97467,97964,rudolf,97520,97524,Mein,rudolf
+gdc,ns9c.0,97467,97964,rudolf,97531,97535,mein,rudolf
+gdc,ns9c.0,97467,97964,rudolf,97587,97593,meines,rudolf
+gdc,ns9c.0,97467,97964,rudolf,97621,97624,mir,rudolf
+gdc,ns9c.0,97467,97964,rudolf,97674,97680,meinem,rudolf
+gdc,ns9c.0,97467,97964,rudolf,97741,97745,Mein,rudolf
+gdc,ns9c.0,97467,97964,rudolf,97768,97771,Ich,rudolf
+gdc,ns9c.0,97467,97964,rudolf,97816,97820,mich,rudolf
+gdc,ns9c.0,97467,97964,rudolf,97826,97829,ich,rudolf
+gdc,ns9c.0,97467,97964,rudolf,97923,97927,mein,rudolf
+gdc,ns9c.0,97968,98088,leopold,98013,98017,Mein,leopold
+gdc,ns9c.0,97968,98088,leopold,98028,98032,mein,leopold
+gdc,ns9c.0,98220,98857,leopold,98238,98241,ich,leopold
+gdc,ns9c.0,98220,98857,leopold,98354,98357,mir,leopold
+gdc,ns9c.0,98220,98857,leopold,98648,98652,mich,leopold
+gdc,ns9c.0,98220,98857,leopold,98779,98783,Mein,leopold
+gdc,ns9c.0,99140,99192,rumpf,99185,99191,Klesel,klesel
+gdc,ns9c.0,99479,99525,klesel,99487,99490,Ich,klesel
+gdc,ns9c.0,99479,99525,klesel,99512,99518,meines,klesel
+gdc,ns9c.0,99590,99766,klesel,99630,99633,ich,klesel
+gdc,ns9c.0,99590,99766,klesel,99652,99656,mein,klesel
+gdc,ns9c.0,99590,99766,klesel,99693,99696,ich,klesel
+gdc,ns9c.0,99590,99766,klesel,99725,99729,mich,klesel
+gdc,ns9c.0,99770,99813,julius,99778,99781,Ich,julius
+gdc,ns9c.0,100249,100282,_stage,100249,100263,Wolfgang Rumpf,rumpf
+gdc,ns9c.0,100388,100491,klesel,100414,100417,ich,klesel
+gdc,ns9c.0,100551,100862,klesel,100737,100741,mich,klesel
+gdc,ns9c.0,100866,101005,rumpf,100874,100884,Der Kaiser,rudolf
+gdc,ns9c.0,101011,101206,klesel,101020,101023,Ich,klesel
+gdc,ns9c.0,101011,101206,klesel,101053,101056,ich,klesel
+gdc,ns9c.0,101210,101424,julius,101302,101305,Ich,julius
+gdc,ns9c.0,101348,101424,_stage,101348,101365,Erzherzog Leopold,leopold
+gdc,ns9c.0,101428,101542,leopold,101470,101473,Ich,leopold
+gdc,ns9c.0,101428,101542,leopold,101480,101483,ich,leopold
+gdc,ns9c.0,101491,101542,_stage,101522,101534,Oberst Ramee,ramee
+gdc,ns9c.0,101813,101929,leopold,101850,101854,mich,leopold
+gdc,ns9c.0,101871,101929,_stage,101871,101888,Erzherzog Leopold,leopold
+gdc,ns9c.0,101933,102040,rumpf,101966,101976,Der Kaiser,rudolf
+gdc,ns9c.0,102133,102328,julius,102142,102145,Ich,julius
+gdc,ns9c.0,102133,102328,julius,102195,102198,ich,julius
+gdc,ns9c.0,102133,102328,julius,102249,102252,mir,julius
+gdc,ns9c.0,102491,102567,_stage,102522,102526,Volk,volk
+gdc,ns9c.0,102815,102920,schlick,102837,102840,ich,schlick
+gdc,ns9c.0,102926,103300,thurn,102982,102985,ich,thurn
+gdc,ns9c.0,102926,103300,thurn,102993,102997,mein,thurn
+gdc,ns9c.0,102926,103300,thurn,102998,103001,ich,thurn
+gdc,ns9c.0,102926,103300,thurn,103237,103243,Klesel,klesel
+gdc,ns9c.0,102926,103300,thurn,103254,103258,Volk,volk
+gdc,ns9c.0,103342,103618,thurn,103349,103352,Ich,thurn
+gdc,ns9c.0,103381,103509,_stage,103408,103412,Volk,volk
+gdc,ns9c.0,103510,103618,_stage,103510,103527,Erzherzog Leopold,leopold
+gdc,ns9c.0,103510,103618,_stage,103532,103544,Oberst Ramee,ramee
+gdc,ns9c.0,103510,103618,_stage,103592,103605,Herzog Julius,julius
+gdc,ns9c.0,103622,103677,julius,103630,103633,Ich,julius
+gdc,ns9c.0,103682,103778,leopold,103692,103695,Ich,leopold
+gdc,ns9c.0,103682,103778,leopold,103747,103750,mir,leopold
+gdc,ns9c.0,104009,104093,julius,104032,104035,Ich,julius
+gdc,ns9c.0,104009,104093,julius,104060,104063,ich,julius
+gdc,ns9c.0,104107,104170,_stage,104138,104151,Herzog Julius,julius
+gdc,ns9c.0,104099,104250,leopold,104211,104214,ich,leopold
+gdc,ns9c.0,104099,104250,leopold,104232,104236,mich,leopold
+gdc,ns9c.0,104262,104283,_stage,104270,104274,Volk,volk
+gdc,ns9c.0,104317,104438,leopold,104335,104339,mich,leopold
+gdc,ns9c.0,104684,104827,volk,104696,104703,Mathias,mathias
+gdc,ns9c.0,104726,104827,_stage,104732,104745,Herzog Julius,julius
+gdc,ns9c.0,104961,104988,_stage,104961,104967,Bürger,ein_buerger
+gdc,ns9c.0,104990,105143,ein_buerger,105061,105071,Der Kaiser,rudolf
+gdc,ns9c.0,104990,105143,ein_buerger,105102,105119,Erzherzog Leopold,leopold
+gdc,ns9c.0,105502,105951,prokop,105700,105703,ich,prokop
+gdc,ns9c.0,105502,105951,prokop,105730,105736,Bürger,ein_buerger
+gdc,ns9c.0,105915,105951,_stage,105915,105927,Oberst Ramee,ramee
+gdc,ns9c.0,106391,106528,_stage,106463,106472,Don Cäsar,don_caesar
+gdc,ns9c.0,106391,106528,_stage,106467,106472,Cäsar,don_caesar
+gdc,ns9c.0,106532,107320,don_caesar,106540,106543,Ich,don_caesar
+gdc,ns9c.0,106532,107320,don_caesar,106572,106576,mich,don_caesar
+gdc,ns9c.0,106532,107320,don_caesar,106613,106617,mich,don_caesar
+gdc,ns9c.0,106532,107320,don_caesar,106746,106749,Ich,don_caesar
+gdc,ns9c.0,106532,107320,don_caesar,106855,106859,mich,don_caesar
+gdc,ns9c.0,106532,107320,don_caesar,106872,106875,ich,don_caesar
+gdc,ns9c.0,106532,107320,don_caesar,106946,106950,mich,don_caesar
+gdc,ns9c.0,106532,107320,don_caesar,107017,107020,Ich,don_caesar
+gdc,ns9c.0,107485,108124,lukrezia,107552,107556,mein,lukrezia
+gdc,ns9c.0,107485,108124,lukrezia,107571,107574,Ich,lukrezia
+gdc,ns9c.0,107485,108124,lukrezia,107843,107847,Mein,lukrezia
+gdc,ns9c.0,107485,108124,lukrezia,108021,108024,ich,lukrezia
+gdc,ns9c.0,107485,108124,lukrezia,108044,108048,mein,lukrezia
+gdc,ns9c.0,108063,108124,_stage,108104,108113,Don Cäsar,don_caesar
+gdc,ns9c.0,108063,108124,_stage,108108,108113,Cäsar,don_caesar
+gdc,ns9c.0,108209,109827,don_caesar,108251,108254,Ich,don_caesar
+gdc,ns9c.0,108209,109827,don_caesar,108401,108404,ich,don_caesar
+gdc,ns9c.0,108209,109827,don_caesar,108526,108529,mir,don_caesar
+gdc,ns9c.0,108209,109827,don_caesar,108548,108551,Ich,don_caesar
+gdc,ns9c.0,108209,109827,don_caesar,108575,108578,ich,don_caesar
+gdc,ns9c.0,108209,109827,don_caesar,108653,108656,ich,don_caesar
+gdc,ns9c.0,108209,109827,don_caesar,108762,108766,mein,don_caesar
+gdc,ns9c.0,108209,109827,don_caesar,108803,108806,ich,don_caesar
+gdc,ns9c.0,108209,109827,don_caesar,108911,108915,mich,don_caesar
+gdc,ns9c.0,108209,109827,don_caesar,108942,108945,mir,don_caesar
+gdc,ns9c.0,108209,109827,don_caesar,108948,108951,Ich,don_caesar
+gdc,ns9c.0,108209,109827,don_caesar,109089,109092,ich,don_caesar
+gdc,ns9c.0,108209,109827,don_caesar,109105,109108,ich,don_caesar
+gdc,ns9c.0,108209,109827,don_caesar,109114,109117,ich,don_caesar
+gdc,ns9c.0,108209,109827,don_caesar,109290,109293,Ich,don_caesar
+gdc,ns9c.0,108209,109827,don_caesar,109301,109305,mich,don_caesar
+gdc,ns9c.0,108209,109827,don_caesar,109336,109339,Ich,don_caesar
+gdc,ns9c.0,108209,109827,don_caesar,109390,109393,ich,don_caesar
+gdc,ns9c.0,108209,109827,don_caesar,109645,109649,mich,don_caesar
+gdc,ns9c.0,108209,109827,don_caesar,109681,109684,ich,don_caesar
+gdc,ns9c.0,109833,109988,lukrezia,109844,109847,Mir,lukrezia
+gdc,ns9c.0,110033,110058,lukrezia,110043,110046,Ich,lukrezia
+gdc,ns9c.0,110063,110646,don_caesar,110075,110078,Ich,don_caesar
+gdc,ns9c.0,110063,110646,don_caesar,110123,110126,ich,don_caesar
+gdc,ns9c.0,110063,110646,don_caesar,110173,110176,mir,don_caesar
+gdc,ns9c.0,110063,110646,don_caesar,110269,110272,mir,don_caesar
+gdc,ns9c.0,110063,110646,don_caesar,110284,110288,mich,don_caesar
+gdc,ns9c.0,110063,110646,don_caesar,110307,110315,der Mann,julius
+gdc,ns9c.0,110063,110646,don_caesar,110521,110524,mir,don_caesar
+gdc,ns9c.0,110652,110748,lukrezia,110682,110686,mich,lukrezia
+gdc,ns9c.0,110652,110748,lukrezia,110720,110724,mich,lukrezia
+gdc,ns9c.0,110754,110936,don_caesar,110804,110808,mich,don_caesar
+gdc,ns9c.0,110754,110936,don_caesar,110818,110821,Ich,don_caesar
+gdc,ns9c.0,111045,111270,don_caesar,111057,111060,Ich,don_caesar
+gdc,ns9c.0,111045,111270,don_caesar,111066,111069,ich,don_caesar
+gdc,ns9c.0,111045,111270,don_caesar,111097,111100,mir,don_caesar
+gdc,ns9c.0,111045,111270,don_caesar,111173,111177,mein,don_caesar
+gdc,ns9c.0,111045,111270,don_caesar,111242,111246,mich,don_caesar
+gdc,ns9c.0,111045,111270,don_caesar,111250,111256,meines,don_caesar
+gdc,ns9c.0,111328,111478,don_caesar,111424,111427,mir,don_caesar
+gdc,ns9c.0,111485,111541,lukrezia,111535,111540,meine,lukrezia
+gdc,ns9c.0,111546,111707,don_caesar,111629,111632,ich,don_caesar
+gdc,ns9c.0,111713,111789,lukrezia,111763,111769,meines,lukrezia
+gdc,ns9c.0,111795,112020,don_caesar,111807,111810,Ich,don_caesar
+gdc,ns9c.0,111795,112020,don_caesar,111830,111844,auf der Straße,auf_der_strasse
+gdc,ns9c.0,112026,112073,lukrezia,112049,112053,mich,lukrezia
+gdc,ns9c.0,112078,112824,don_caesar,112096,112099,ich,don_caesar
+gdc,ns9c.0,112078,112824,don_caesar,112168,112171,ich,don_caesar
+gdc,ns9c.0,112078,112824,don_caesar,112192,112199,Rußworm,russworm
+gdc,ns9c.0,112078,112824,don_caesar,112206,112210,mein,don_caesar
+gdc,ns9c.0,112078,112824,don_caesar,112299,112302,ich,don_caesar
+gdc,ns9c.0,112078,112824,don_caesar,112426,112432,meinem,don_caesar
+gdc,ns9c.0,112078,112824,don_caesar,112442,112452,Der Kaiser,rudolf
+gdc,ns9c.0,112078,112824,don_caesar,112556,112562,meinen,don_caesar
+gdc,ns9c.0,112078,112824,don_caesar,112578,112581,ich,don_caesar
+gdc,ns9c.0,112078,112824,don_caesar,112606,112609,mir,don_caesar
+gdc,ns9c.0,112078,112824,don_caesar,112659,112662,mir,don_caesar
+gdc,ns9c.0,112078,112824,don_caesar,112793,112796,mir,don_caesar
+gdc,ns9c.0,112830,112864,lukrezia,112859,112863,mich,lukrezia
+gdc,ns9c.0,112869,113485,don_caesar,112902,112905,Mir,don_caesar
+gdc,ns9c.0,112869,113485,don_caesar,112918,112921,ich,don_caesar
+gdc,ns9c.0,112869,113485,don_caesar,112971,112975,mich,don_caesar
+gdc,ns9c.0,112869,113485,don_caesar,113022,113025,ich,don_caesar
+gdc,ns9c.0,112869,113485,don_caesar,113055,113058,mir,don_caesar
+gdc,ns9c.0,112869,113485,don_caesar,113146,113150,mich,don_caesar
+gdc,ns9c.0,112869,113485,don_caesar,113260,113263,mir,don_caesar
+gdc,ns9c.0,112869,113485,don_caesar,113265,113268,ich,don_caesar
+gdc,ns9c.0,112869,113485,don_caesar,113305,113308,Ich,don_caesar
+gdc,ns9c.0,112869,113485,don_caesar,113354,113357,Ich,don_caesar
+gdc,ns9c.0,112869,113485,don_caesar,113405,113408,Ich,don_caesar
+gdc,ns9c.0,112869,113485,don_caesar,113425,113428,ich,don_caesar
+gdc,ns9c.0,112869,113485,don_caesar,113467,113470,ich,don_caesar
+gdc,ns9c.0,113491,113564,lukrezia,113502,113505,Ich,lukrezia
+gdc,ns9c.0,113491,113564,lukrezia,113537,113542,meine,lukrezia
+gdc,ns9c.0,113491,113564,lukrezia,113553,113557,mein,lukrezia
+gdc,ns9c.0,113570,113835,don_caesar,113636,113639,Ich,don_caesar
+gdc,ns9c.0,113841,113876,lukrezia,113851,113855,Mein,lukrezia
+gdc,ns9c.0,113881,114222,don_caesar,114070,114073,ich,don_caesar
+gdc,ns9c.0,113881,114222,don_caesar,114123,114127,mein,don_caesar
+gdc,ns9c.0,113881,114222,don_caesar,114132,114138,meiner,don_caesar
+gdc,ns9c.0,114186,114222,_stage,114186,114194,Lukrezia,lukrezia
+gdc,ns9c.0,114226,114662,don_caesar,114276,114282,meines,don_caesar
+gdc,ns9c.0,114226,114662,don_caesar,114542,114545,mir,don_caesar
+gdc,ns9c.0,114226,114662,don_caesar,114551,114556,meine,don_caesar
+gdc,ns9c.0,114727,114884,prokop,114770,114778,Lukrezia,lukrezia
+gdc,ns9c.0,114727,114884,prokop,114780,114784,mein,prokop
+gdc,ns9c.0,114898,114922,_stage,114898,114907,Don Cäsar,don_caesar
+gdc,ns9c.0,114898,114922,_stage,114902,114907,Cäsar,don_caesar
+gdc,ns9c.0,115147,115260,don_caesar,115169,115173,mich,don_caesar
+gdc,ns9c.0,115147,115260,don_caesar,115183,115186,mir,don_caesar
+gdc,ns9c.0,115565,115636,_stage,115589,115596,Schlick,schlick
+gdc,ns9c.0,115782,115799,_stage,115786,115792,Bürger,ein_buerger
+gdc,ns9c.0,115865,117054,thurn,115925,115931,Bürger,ein_buerger
+gdc,ns9c.0,117119,117680,thurn,117380,117387,Mathias,mathias
+gdc,ns9c.0,117119,117680,thurn,117447,117450,ich,thurn
+gdc,ns9c.0,117838,117906,_stage,117838,117851,Herzog Julius,julius
+gdc,ns9c.0,117910,118504,julius,118229,118238,Don Cäsar,don_caesar
+gdc,ns9c.0,117910,118504,julius,118233,118238,Cäsar,don_caesar
+gdc,ns9c.0,117910,118504,julius,118469,118472,ich,julius
+gdc,ns9c.0,118510,118681,thurn,118530,118534,mich,thurn
+gdc,ns9c.0,118510,118681,thurn,118540,118549,Don Cäsar,don_caesar
+gdc,ns9c.0,118510,118681,thurn,118544,118549,Cäsar,don_caesar
+gdc,ns9c.0,119278,119551,julius,119287,119290,Ich,julius
+gdc,ns9c.0,119278,119551,julius,119442,119445,ich,julius
+gdc,ns9c.0,119695,119807,_stage,119695,119705,Der Kaiser,rudolf
+gdc,ns9c.0,119904,119947,_stage,119904,119914,Der Kaiser,rudolf
+gdc,ns9c.0,119951,120109,rumpf,119972,119976,mein,rumpf
+gdc,ns9c.0,119951,120109,rumpf,119977,119980,ich,rumpf
+gdc,ns9c.0,119998,120109,_stage,119998,120008,Der Kaiser,rudolf
+gdc,ns9c.0,120458,120535,_stage,120458,120468,Der Kaiser,rudolf
+gdc,ns9c.0,120539,120694,julius,120564,120568,Mein,julius
+gdc,ns9c.0,120539,120694,julius,120580,120584,mein,julius
+gdc,ns9c.0,120592,120694,_stage,120621,120631,der Kaiser,rudolf
+gdc,ns9c.0,120698,120834,julius,120766,120770,Mich,julius
+gdc,ns9c.0,120808,120834,_stage,120808,120818,Der Kaiser,rudolf
+gdc,ns9c.0,120937,120979,_stage,120937,120947,Der Kaiser,rudolf
+gdc,ns9c.0,120983,121839,julius,121628,121632,Volk,volk
+gdc,ns9c.0,121637,121839,_stage,121637,121647,Ein Bürger,ein_buerger
+gdc,ns9c.0,121637,121839,_stage,121641,121647,Bürger,ein_buerger
+gdc,ns9c.0,121637,121839,_stage,121784,121797,Herzog Julius,julius
+gdc,ns9c.0,121637,121839,_stage,121813,121823,Der Kaiser,rudolf
+gdc,ns9c.0,121843,122146,rumpf,121933,121939,Bürger,ein_buerger
+gdc,ns9c.0,122094,122146,_stage,122094,122104,Der Kaiser,rudolf
+gdc,ns9c.0,122150,123372,julius,122205,122222,Erzherzog Leopold,leopold
+gdc,ns9c.0,122150,123372,julius,122231,122234,mir,julius
+gdc,ns9c.0,122150,123372,julius,122301,122304,mir,julius
+gdc,ns9c.0,122150,123372,julius,122348,122352,mich,julius
+gdc,ns9c.0,123157,123302,_stage,123157,123167,Der Kaiser,rudolf
+gdc,ns9c.0,123303,123372,_stage,123358,123371,Herzog Julius,julius
+gdc,ns9c.0,123453,123574,diener_4,123489,123498,Don Cäsar,don_caesar
+gdc,ns9c.0,123453,123574,diener_4,123493,123498,Cäsar,don_caesar
+gdc,ns9c.0,123501,123574,_stage,123501,123511,Der Kaiser,rudolf
+gdc,ns9c.0,123578,123629,rumpf,123585,123595,Der Kaiser,rudolf
+gdc,ns9c.0,123634,123761,julius,123651,123660,Don Cäsar,don_caesar
+gdc,ns9c.0,123634,123761,julius,123655,123660,Cäsar,don_caesar
+gdc,ns9c.0,124148,124180,_stage,124148,124158,Der Kaiser,rudolf
+gdc,ns9c.0,124217,124305,_stage,124220,124230,der Kaiser,rudolf
+gdc,ns9c.0,124703,124980,rudolf,124832,124835,mir,rudolf
+gdc,ns9c.0,124984,125332,julius,125061,125070,Don Cäsar,don_caesar
+gdc,ns9c.0,124984,125332,julius,125065,125070,Cäsar,don_caesar
+gdc,ns9c.0,125390,125690,julius,125410,125420,Der Kaiser,rudolf
+gdc,ns9c.0,125390,125690,julius,125523,125526,ich,julius
+gdc,ns9c.0,125390,125690,julius,125542,125546,Mein,julius
+gdc,ns9c.0,125860,125927,_stage,125870,125877,Schlick,schlick
+gdc,ns9c.0,125860,125927,_stage,125890,125898,Arbeiter,arbeiter
+gdc,ns9c.0,126265,126277,_stage,126265,126273,Arbeiter,arbeiter
+gdc,ns9c.0,126464,126561,schlick,126482,126486,mein,schlick
+gdc,ns9c.0,127036,127335,thurn,127169,127179,der Kaiser,rudolf
+gdc,ns9c.0,127266,127335,_stage,127266,127276,Der Kaiser,rudolf
+gdc,ns9c.0,127266,127335,_stage,127304,127317,Herzog Julius,julius
+gdc,ns9c.0,127339,127494,julius,127390,127398,Der Mann,julius
+gdc,ns9c.0,127454,127494,_stage,127454,127464,Der Kaiser,rudolf
+gdc,ns9c.0,127570,127670,_stage,127570,127580,Der Kaiser,rudolf
+gdc,ns9c.0,127808,129610,rudolf,127865,127868,Ich,rudolf
+gdc,ns9c.0,127808,129610,rudolf,127884,127888,mich,rudolf
+gdc,ns9c.0,127808,129610,rudolf,127933,127936,mir,rudolf
+gdc,ns9c.0,127808,129610,rudolf,128048,128052,mein,rudolf
+gdc,ns9c.0,127808,129610,rudolf,128084,128089,meine,rudolf
+gdc,ns9c.0,127808,129610,rudolf,128098,128101,Ich,rudolf
+gdc,ns9c.0,127808,129610,rudolf,128358,128362,mein,rudolf
+gdc,ns9c.0,127808,129610,rudolf,128383,128387,mein,rudolf
+gdc,ns9c.0,127808,129610,rudolf,128414,128417,ich,rudolf
+gdc,ns9c.0,127808,129610,rudolf,128514,128517,mir,rudolf
+gdc,ns9c.0,127808,129610,rudolf,128537,128540,ich,rudolf
+gdc,ns9c.0,127808,129610,rudolf,128568,128571,mir,rudolf
+gdc,ns9c.0,127808,129610,rudolf,128596,128602,meines,rudolf
+gdc,ns9c.0,127808,129610,rudolf,128614,128617,ich,rudolf
+gdc,ns9c.0,127808,129610,rudolf,128847,128850,Ich,rudolf
+gdc,ns9c.0,127808,129610,rudolf,129355,129358,ich,rudolf
+gdc,ns9c.0,127808,129610,rudolf,129418,129422,mein,rudolf
+gdc,ns9c.0,127808,129610,rudolf,129475,129478,ich,rudolf
+gdc,ns9c.0,129547,129610,_stage,129562,129572,Maximilian,max
+gdc,ns9c.0,130084,130153,rudolf,130118,130122,mein,rudolf
+gdc,ns9c.0,130159,130240,max,130165,130168,Mir,max
+gdc,ns9c.0,130159,130240,max,130220,130226,meines,max
+gdc,ns9c.0,130459,131717,rudolf,130474,130477,ich,rudolf
+gdc,ns9c.0,130459,131717,rudolf,130504,130508,mich,rudolf
+gdc,ns9c.0,130459,131717,rudolf,130842,130845,Ich,rudolf
+gdc,ns9c.0,130459,131717,rudolf,130865,130868,ich,rudolf
+gdc,ns9c.0,130459,131717,rudolf,130890,130893,ich,rudolf
+gdc,ns9c.0,130459,131717,rudolf,131005,131008,Ich,rudolf
+gdc,ns9c.0,130459,131717,rudolf,131101,131104,ich,rudolf
+gdc,ns9c.0,130459,131717,rudolf,131365,131368,Ich,rudolf
+gdc,ns9c.0,130459,131717,rudolf,131475,131478,ich,rudolf
+gdc,ns9c.0,130459,131717,rudolf,131484,131487,ich,rudolf
+gdc,ns9c.0,130459,131717,rudolf,131511,131514,ich,rudolf
+gdc,ns9c.0,131882,134646,rudolf,131930,131933,Ich,rudolf
+gdc,ns9c.0,131882,134646,rudolf,131974,131977,ich,rudolf
+gdc,ns9c.0,131882,134646,rudolf,132013,132017,Mein,rudolf
+gdc,ns9c.0,131882,134646,rudolf,132195,132198,Ich,rudolf
+gdc,ns9c.0,131882,134646,rudolf,132217,132221,mein,rudolf
+gdc,ns9c.0,131882,134646,rudolf,132276,132280,mich,rudolf
+gdc,ns9c.0,131882,134646,rudolf,132370,132373,ich,rudolf
+gdc,ns9c.0,131882,134646,rudolf,132397,132400,ich,rudolf
+gdc,ns9c.0,131882,134646,rudolf,132497,132500,mir,rudolf
+gdc,ns9c.0,131882,134646,rudolf,132515,132522,Mathias,mathias
+gdc,ns9c.0,131882,134646,rudolf,133064,133068,mein,rudolf
+gdc,ns9c.0,131882,134646,rudolf,133927,133930,Ich,rudolf
+gdc,ns9c.0,131882,134646,rudolf,134010,134013,ich,rudolf
+gdc,ns9c.0,134690,135021,rudolf,134755,134758,mir,rudolf
+gdc,ns9c.0,134690,135021,rudolf,134796,134799,ich,rudolf
+gdc,ns9c.0,135436,135546,rudolf,135477,135480,Mir,rudolf
+gdc,ns9c.0,135436,135546,rudolf,135510,135513,mir,rudolf
+gdc,ns9c.0,135436,135546,rudolf,135525,135528,Ich,rudolf
+gdc,ns9c.0,135586,135974,rudolf,135613,135616,Ich,rudolf
+gdc,ns9c.0,135586,135974,rudolf,135688,135693,meine,rudolf
+gdc,ns9c.0,135586,135974,rudolf,135742,135745,ich,rudolf
+gdc,ns9c.0,135759,135808,_stage,135794,135807,Herzog Julius,julius
+gdc,ns9c.0,136070,136257,rudolf,136096,136099,ich,rudolf
+gdc,ns9c.0,136070,136257,rudolf,136106,136109,ich,rudolf
+gdc,ns9c.0,136070,136257,rudolf,136135,136139,mich,rudolf
+gdc,ns9c.0,136070,136257,rudolf,136196,136199,mir,rudolf
+gdc,ns9c.0,136318,137150,rudolf,136342,136345,ich,rudolf
+gdc,ns9c.0,136318,137150,rudolf,136378,136381,ich,rudolf
+gdc,ns9c.0,136318,137150,rudolf,136419,136422,Ich,rudolf
+gdc,ns9c.0,136318,137150,rudolf,136475,136478,ich,rudolf
+gdc,ns9c.0,136318,137150,rudolf,136543,136547,Mein,rudolf
+gdc,ns9c.0,136318,137150,rudolf,136591,136594,ich,rudolf
+gdc,ns9c.0,136318,137150,rudolf,136615,136618,ich,rudolf
+gdc,ns9c.0,136318,137150,rudolf,136720,136723,ich,rudolf
+gdc,ns9c.0,136318,137150,rudolf,136760,136763,ich,rudolf
+gdc,ns9c.0,136318,137150,rudolf,136765,136769,mein,rudolf
+gdc,ns9c.0,136318,137150,rudolf,136781,136785,Mein,rudolf
+gdc,ns9c.0,136318,137150,rudolf,136816,136820,mich,rudolf
+gdc,ns9c.0,136318,137150,rudolf,136931,136934,ich,rudolf
+gdc,ns9c.0,136318,137150,rudolf,136970,136976,meinen,rudolf
+gdc,ns9c.0,136318,137150,rudolf,137003,137006,ich,rudolf
+gdc,ns9c.0,136318,137150,rudolf,137120,137123,Ich,rudolf
+gdc,ns9c.0,137154,137346,rumpf,137301,137304,Ich,rumpf
+gdc,ns9c.0,137352,137472,julius,137428,137438,Der Kaiser,rudolf
+gdc,ns9c.0,137478,137529,rumpf,137494,137497,ich,rumpf
+gdc,ns9c.0,137534,137647,julius,137587,137591,Mein,julius
+gdc,ns9c.0,137711,137763,_stage,137711,137717,Klesel,klesel
+gdc,ns9c.0,137711,137763,_stage,137733,137752,Erzherzog Ferdinand,ferdinand
+gdc,ns9c.0,137765,137864,ferdinand,137790,137793,mir,ferdinand
+gdc,ns9c.0,137765,137864,ferdinand,137807,137813,meinem,ferdinand
+gdc,ns9c.0,137765,137864,ferdinand,137830,137833,ich,ferdinand
+gdc,ns9c.0,138079,138213,klesel,138108,138111,ich,klesel
+gdc,ns9c.0,138079,138213,klesel,138142,138145,mir,klesel
+gdc,ns9c.0,138079,138213,klesel,138160,138163,ich,klesel
+gdc,ns9c.0,138079,138213,klesel,138182,138186,mein,klesel
+gdc,ns9c.0,138219,138461,ferdinand,138250,138253,ich,ferdinand
+gdc,ns9c.0,138219,138461,ferdinand,138285,138288,ich,ferdinand
+gdc,ns9c.0,138219,138461,ferdinand,138426,138430,mein,ferdinand
+gdc,ns9c.0,138219,138461,ferdinand,138431,138434,ich,ferdinand
+gdc,ns9c.0,138571,139292,ferdinand,138818,138821,mir,ferdinand
+gdc,ns9c.0,138571,139292,ferdinand,138851,138854,ich,ferdinand
+gdc,ns9c.0,139405,139588,ferdinand,139439,139442,ich,ferdinand
+gdc,ns9c.0,139594,139613,klesel,139606,139612,meiner,klesel
+gdc,ns9c.0,139618,140400,ferdinand,139630,139636,Meiner,ferdinand
+gdc,ns9c.0,140740,141114,ferdinand,140864,140867,ich,ferdinand
+gdc,ns9c.0,141537,142110,klesel,141569,141573,Mein,klesel
+gdc,ns9c.0,141537,142110,klesel,141656,141662,meiner,klesel
+gdc,ns9c.0,142639,142830,ferdinand,142684,142687,mir,ferdinand
+gdc,ns9c.0,142639,142830,ferdinand,142715,142718,ich,ferdinand
+gdc,ns9c.0,142836,143483,klesel,142866,142869,Ich,klesel
+gdc,ns9c.0,142836,143483,klesel,142874,142880,meines,klesel
+gdc,ns9c.0,142836,143483,klesel,142906,142910,mein,klesel
+gdc,ns9c.0,142836,143483,klesel,142917,142921,mein,klesel
+gdc,ns9c.0,142836,143483,klesel,142922,142925,ich,klesel
+gdc,ns9c.0,142836,143483,klesel,142927,142931,mein,klesel
+gdc,ns9c.0,142836,143483,klesel,142964,142967,ich,klesel
+gdc,ns9c.0,143866,144279,klesel,143885,143888,Ich,klesel
+gdc,ns9c.0,143866,144279,klesel,143898,143902,mein,klesel
+gdc,ns9c.0,143866,144279,klesel,143936,143940,Mich,klesel
+gdc,ns9c.0,143866,144279,klesel,143957,143963,meiner,klesel
+gdc,ns9c.0,143866,144279,klesel,144113,144117,mich,klesel
+gdc,ns9c.0,143866,144279,klesel,144149,144152,Ich,klesel
+gdc,ns9c.0,144285,144326,ferdinand,144322,144325,mir,ferdinand
+gdc,ns9c.0,144501,144554,klesel,144537,144540,Ich,klesel
+gdc,ns9c.0,144560,144733,ferdinand,144576,144579,ich,ferdinand
+gdc,ns9c.0,144560,144733,ferdinand,144581,144584,ich,ferdinand
+gdc,ns9c.0,144687,144733,_stage,144691,144701,Kämmerling,kaemmerling
+gdc,ns9c.0,144790,144830,_stage,144794,144804,Kämmerling,kaemmerling
+gdc,ns9c.0,144831,144880,_stage,144831,144837,Klesel,klesel
+gdc,ns9c.0,144990,145018,_stage,144994,145004,Kämmerling,kaemmerling
+gdc,ns9c.0,145107,145152,_stage,145107,145113,Klesel,klesel
+gdc,ns9c.0,145156,145302,kaemmerling,145187,145190,ich,kaemmerling
+gdc,ns9c.0,145308,145407,ferdinand,145320,145323,Ich,ferdinand
+gdc,ns9c.0,145570,145695,ferdinand,145582,145585,Ich,ferdinand
+gdc,ns9c.0,145672,145695,_stage,145672,145682,Kämmerling,kaemmerling
+gdc,ns9c.0,145699,147375,ferdinand,145768,145774,Rudolf,rudolf
+gdc,ns9c.0,145699,147375,ferdinand,145811,145818,Mathias,mathias
+gdc,ns9c.0,145699,147375,ferdinand,146477,146480,ich,ferdinand
+gdc,ns9c.0,145699,147375,ferdinand,146512,146515,Mir,ferdinand
+gdc,ns9c.0,145699,147375,ferdinand,146611,146614,ich,ferdinand
+gdc,ns9c.0,145699,147375,ferdinand,146727,146730,ich,ferdinand
+gdc,ns9c.0,145699,147375,ferdinand,146972,146975,ich,ferdinand
+gdc,ns9c.0,145699,147375,ferdinand,147001,147005,mein,ferdinand
+gdc,ns9c.0,145699,147375,ferdinand,147055,147058,Ich,ferdinand
+gdc,ns9c.0,145699,147375,ferdinand,147076,147082,meinen,ferdinand
+gdc,ns9c.0,147380,147429,seyfried,147409,147412,Ich,seyfried
+gdc,ns9c.0,147494,147570,seyfried,147509,147515,Klesel,klesel
+gdc,ns9c.0,147576,147932,ferdinand,147612,147615,ich,ferdinand
+gdc,ns9c.0,147576,147932,ferdinand,147625,147631,meinem,ferdinand
+gdc,ns9c.0,147576,147932,ferdinand,147696,147699,ich,ferdinand
+gdc,ns9c.0,147902,147932,_stage,147902,147908,Klesel,klesel
+gdc,ns9c.0,147936,147986,ferdinand,147952,147955,ich,ferdinand
+gdc,ns9c.0,147936,147986,ferdinand,147968,147974,meinem,ferdinand
+gdc,ns9c.0,148201,148476,ferdinand,148238,148241,Ich,ferdinand
+gdc,ns9c.0,148201,148476,ferdinand,148259,148262,Ich,ferdinand
+gdc,ns9c.0,148482,148552,klesel,148501,148504,ich,klesel
+gdc,ns9c.0,148482,148552,klesel,148513,148516,Mir,klesel
+gdc,ns9c.0,148945,148992,klesel,148975,148979,mich,klesel
+gdc,ns9c.0,149048,149441,klesel,149411,149414,ich,klesel
+gdc,ns9c.0,149492,149920,ferdinand,149646,149652,meiner,ferdinand
+gdc,ns9c.0,149492,149920,ferdinand,149718,149722,mich,ferdinand
+gdc,ns9c.0,149492,149920,ferdinand,149742,149748,meinem,ferdinand
+gdc,ns9c.0,149924,149983,klesel,149953,149956,ich,klesel
+gdc,ns9c.0,149988,150085,seyfried,150013,150019,meiner,seyfried
+gdc,ns9c.0,150091,150318,klesel,150199,150202,mir,klesel
+gdc,ns9c.0,150091,150318,klesel,150239,150243,mich,klesel
+gdc,ns9c.0,150324,150498,seyfried,150335,150338,Ich,seyfried
+gdc,ns9c.0,150324,150498,seyfried,150364,150369,meine,seyfried
+gdc,ns9c.0,150503,150947,klesel,150522,150526,mich,klesel
+gdc,ns9c.0,150503,150947,klesel,150534,150537,Ich,klesel
+gdc,ns9c.0,150503,150947,klesel,150874,150878,mein,klesel
+gdc,ns9c.0,150503,150947,klesel,150892,150895,Ich,klesel
+gdc,ns9c.0,150953,151026,ein_diener_5,151014,151025,Wallenstein,wallenstein
+gdc,ns9c.0,151174,151436,klesel,151224,151227,Mir,klesel
+gdc,ns9c.0,151266,151388,_stage,151328,151339,Wallenstein,wallenstein
+gdc,ns9c.0,151389,151436,_stage,151389,151408,Erzherzog Ferdinand,ferdinand
+gdc,ns9c.0,151717,151835,wallenstein,151755,151758,ich,wallenstein
+gdc,ns9c.0,152350,152790,wallenstein,152433,152436,ich,wallenstein
+gdc,ns9c.0,152835,153148,wallenstein,152858,152862,mein,wallenstein
+gdc,ns9c.0,152835,153148,wallenstein,153111,153114,Ich,wallenstein
+gdc,ns9c.0,153338,153756,wallenstein,153378,153381,ich,wallenstein
+gdc,ns9c.0,153338,153756,wallenstein,153444,153447,ich,wallenstein
+gdc,ns9c.0,153805,153837,wallenstein,153827,153830,ich,wallenstein
+gdc,ns9c.0,153842,154057,ferdinand,153854,153857,Ich,ferdinand
+gdc,ns9c.0,153842,154057,ferdinand,153913,153917,mich,ferdinand
+gdc,ns9c.0,153842,154057,ferdinand,153966,153969,ich,ferdinand
+gdc,ns9c.0,153842,154057,ferdinand,153970,153974,mich,ferdinand
+gdc,ns9c.0,153842,154057,ferdinand,154026,154029,mir,ferdinand
+gdc,ns9c.0,153842,154057,ferdinand,154046,154049,mir,ferdinand
+gdc,ns9c.0,154063,154219,wallenstein,154151,154154,ich,wallenstein
+gdc,ns9c.0,154642,154934,ferdinand,154779,154782,Ich,ferdinand
+gdc,ns9c.0,154642,154934,ferdinand,154802,154808,meines,ferdinand
+gdc,ns9c.0,154642,154934,ferdinand,154823,154826,ich,ferdinand
+gdc,ns9c.0,155068,155106,_stage,155074,155081,Mathias,mathias
+gdc,ns9c.0,155565,155730,ferdinand,155604,155608,mein,ferdinand
+gdc,ns9c.0,155565,155730,ferdinand,155695,155698,ich,ferdinand
+gdc,ns9c.0,155736,155795,mathias,155778,155781,ich,mathias
+gdc,ns9c.0,155800,156409,ferdinand,156039,156050,Wallenstein,wallenstein
+gdc,ns9c.0,156415,156463,mathias,156428,156434,Klesel,klesel
+gdc,ns9c.0,156468,156741,ferdinand,156593,156596,ich,ferdinand
+gdc,ns9c.0,156468,156741,ferdinand,156597,156601,mich,ferdinand
+gdc,ns9c.0,156468,156741,ferdinand,156660,156664,mich,ferdinand
+gdc,ns9c.0,156468,156741,ferdinand,156676,156680,mein,ferdinand
+gdc,ns9c.0,156745,156985,mathias,156832,156843,Wallenstein,wallenstein
+gdc,ns9c.0,156897,156944,_stage,156924,156943,Erzherzog Ferdinand,ferdinand
+gdc,ns9c.0,156745,156985,mathias,156945,156948,Ich,mathias
+gdc,ns9c.0,156745,156985,mathias,156955,156959,mich,mathias
+gdc,ns9c.0,156990,157447,wallenstein,157147,157150,ich,wallenstein
+gdc,ns9c.0,156990,157447,wallenstein,157286,157290,mich,wallenstein
+gdc,ns9c.0,157319,157447,_stage,157319,157332,Herzog Julius,julius
+gdc,ns9c.0,157451,157637,mathias,157461,157464,Ich,mathias
+gdc,ns9c.0,157451,157637,mathias,157504,157508,Mein,mathias
+gdc,ns9c.0,157451,157637,mathias,157525,157528,ich,mathias
+gdc,ns9c.0,157451,157637,mathias,157594,157597,mir,mathias
+gdc,ns9c.0,157451,157637,mathias,157599,157602,Ich,mathias
+gdc,ns9c.0,157844,157964,ferdinand,157882,157885,mir,ferdinand
+gdc,ns9c.0,158111,158520,julius,158356,158361,meine,julius
+gdc,ns9c.0,158111,158520,julius,158397,158401,mein,julius
+gdc,ns9c.0,158111,158520,julius,158410,158413,ich,julius
+gdc,ns9c.0,158111,158520,julius,158446,158449,ich,julius
+gdc,ns9c.0,158111,158520,julius,158498,158504,meinem,julius
+gdc,ns9c.0,158111,158520,julius,158510,158514,mich,julius
+gdc,ns9c.0,158837,158909,wallenstein,158899,158902,ich,wallenstein
+gdc,ns9c.0,159601,159834,ferdinand,159772,159775,ich,ferdinand
+gdc,ns9c.0,160044,160458,ferdinand,160390,160393,ich,ferdinand
+gdc,ns9c.0,160464,160510,auf_der_strasse,160502,160509,Mathias,mathias
+gdc,ns9c.0,160690,160721,auf_der_strasse,160713,160720,Mathias,mathias
+gdc,ns9c.0,161041,161111,mathias,161073,161076,mir,mathias
+gdc,ns9c.0,161116,161301,ferdinand,161132,161136,Volk,volk
+gdc,ns9c.0,161411,161585,mathias,161434,161437,mir,mathias
+gdc,ns9c.0,161411,161585,mathias,161451,161457,meiner,mathias
+gdc,ns9c.0,161411,161585,mathias,161489,161493,Volk,volk
+gdc,ns9c.0,161517,161585,_stage,161517,161536,Erzherzog Ferdinand,ferdinand
+gdc,ns9c.0,161730,162191,ferdinand,161787,161790,Ich,ferdinand
+gdc,ns9c.0,161730,162191,ferdinand,161840,161843,ich,ferdinand
+gdc,ns9c.0,162195,162252,ferdinand,162240,162251,Wallenstein,wallenstein
+gdc,ns9c.0,162257,162279,wallenstein,162270,162273,Ich,wallenstein
+gdc,ns9c.0,162383,162433,_stage,162393,162404,Wallenstein,wallenstein
+gdc,ns9c.0,162437,163341,mathias,162522,162525,Ich,mathias
+gdc,ns9c.0,162437,163341,mathias,162580,162583,Ich,mathias
+gdc,ns9c.0,162437,163341,mathias,162621,162627,meinem,mathias
+gdc,ns9c.0,162437,163341,mathias,162741,162744,mir,mathias
+gdc,ns9c.0,162437,163341,mathias,162908,162911,ich,mathias
+gdc,ns9c.0,162437,163341,mathias,162931,162934,ich,mathias
+gdc,ns9c.0,162437,163341,mathias,162940,162943,mir,mathias
+gdc,ns9c.0,162437,163341,mathias,162981,162984,mir,mathias
+gdc,ns9c.0,162437,163341,mathias,163069,163072,ich,mathias
+gdc,ns9c.0,162437,163341,mathias,163088,163091,Ich,mathias
+gdc,ns9c.0,162437,163341,mathias,163108,163112,mich,mathias
+gdc,ns9c.0,162437,163341,mathias,163158,163161,mir,mathias
+gdc,ns9c.0,162437,163341,mathias,163218,163221,ich,mathias
+gdc,ns9c.0,163496,163629,auf_der_strasse,163519,163526,Mathias,mathias
+gdc,ns9c.0,163529,163629,_stage,163564,163571,Mathias,mathias

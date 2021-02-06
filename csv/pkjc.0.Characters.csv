@@ -1,5 +1,5 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,pkjc.0,FRAU NELKEN,frau_nelken,,
-gdc,pkjc.0,SAMUEL,samuel,,
-gdc,pkjc.0,EIN SCHÜLER,ein_schüler,,
-gdc,pkjc.0,DER ALTE NELKEN,der_alte_nelken,,
+gdc,pkjc.0,Der Schüler,der_schueler,MALE,
+gdc,pkjc.0,Samuel,samuel,MALE,
+gdc,pkjc.0,Frau Nelken,frau_nelken,FEMALE,
+gdc,pkjc.0,Der alte Nelken,der_alte_nelken,MALE,

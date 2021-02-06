@@ -1,5 +1,5 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,pkhc.0,EINE SCHWESTER,eine_schwester,,
-gdc,pkhc.0,FRAU GENERALIN,frau_generalin,,
-gdc,pkhc.0,NADJA BIELEW,nadja_bielew,,
-gdc,pkhc.0,DOKTOR LENOIR,doktor_lenoir,,
+gdc,pkhc.0,Doktor Lenoir,doktor_lenoir,MALE,
+gdc,pkhc.0,Frau Generalin,frau_generalin,FEMALE,
+gdc,pkhc.0,Eine Schwester,die_schwester,FEMALE,
+gdc,pkhc.0,Nadja,nadja_bielew,FEMALE,

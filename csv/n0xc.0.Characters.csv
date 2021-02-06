@@ -1,6 +1,6 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,n0xc.0,CILI,cili,,
-gdc,n0xc.0,EGGERT,eggert,,
-gdc,n0xc.0,HUBERT,hubert,,
-gdc,n0xc.0,PAULUS,paulus,,
-gdc,n0xc.0,HARM,harm,,
+gdc,n0xc.0,Hubert,hubert,MALE,
+gdc,n0xc.0,Cili,cili,FEMALE,
+gdc,n0xc.0,Harm,harm,MALE,
+gdc,n0xc.0,Paulus,paulus,MALE,
+gdc,n0xc.0,Eggert,eggert,MALE,

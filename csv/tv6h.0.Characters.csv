@@ -1,7 +1,7 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,tv6h.0,FRIEDRICH,friedrich,,
-gdc,tv6h.0,LISETTE,lisette,,
-gdc,tv6h.0,AMALIE,amalie,,
-gdc,tv6h.0,ERSTES GESPENST,erstes_gespenst,,
-gdc,tv6h.0,ZWEITES GESPENST,zweites_gespenst,,
-gdc,tv6h.0,DRITTES GESPENST,drittes_gespenst,,
+gdc,tv6h.0,Das dritte Gespenst,drittes_gespenst,UNKNOWN,
+gdc,tv6h.0,Das zweite Gespenst,zweites_gespenst,UNKNOWN,
+gdc,tv6h.0,Erstes Gespenst,erstes_gespenst,UNKNOWN,
+gdc,tv6h.0,Lisette,lisette,FEMALE,
+gdc,tv6h.0,Friedrich,friedrich,MALE,
+gdc,tv6h.0,Amalie,amalie,FEMALE,
