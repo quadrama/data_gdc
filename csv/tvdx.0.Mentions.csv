@@ -1,0 +1,54 @@
+corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+gdc,tvdx.0,297,763,_stage,338,352,von Mohrenheim,von_mohrenheim
+gdc,tvdx.0,297,763,_stage,703,717,von Mohrenheim,von_mohrenheim
+gdc,tvdx.0,765,822,von_mohrenheim,811,821,Bimmelmann,bimmelmann
+gdc,tvdx.0,957,1033,von_mohrenheim,978,982,mein,von_mohrenheim
+gdc,tvdx.0,1420,1434,_stage,1420,1430,Bimmelmann,bimmelmann
+gdc,tvdx.0,1438,1554,bimmelmann,1499,1509,Ibn Bullak,ibn_bullak
+gdc,tvdx.0,1611,1726,ibn_bullak,1674,1684,Bimmelmann,bimmelmann
+gdc,tvdx.0,1835,1913,ibn_bullak,1853,1857,mich,ibn_bullak
+gdc,tvdx.0,1835,1913,ibn_bullak,1869,1875,meinem,ibn_bullak
+gdc,tvdx.0,1835,1913,ibn_bullak,1886,1889,Ich,ibn_bullak
+gdc,tvdx.0,1918,1973,von_mohrenheim,1953,1963,Bimmelmann,bimmelmann
+gdc,tvdx.0,1978,2026,ibn_bullak,1990,1993,Ich,ibn_bullak
+gdc,tvdx.0,2031,2096,bimmelmann,2076,2079,ich,bimmelmann
+gdc,tvdx.0,2101,2155,ibn_bullak,2117,2123,meinen,ibn_bullak
+gdc,tvdx.0,2141,2155,_stage,2141,2151,Bimmelmann,bimmelmann
+gdc,tvdx.0,2159,2218,von_mohrenheim,2175,2185,Ibn Bullak,ibn_bullak
+gdc,tvdx.0,2347,2397,von_mohrenheim,2378,2381,ich,von_mohrenheim
+gdc,tvdx.0,2402,2448,ibn_bullak,2423,2427,mich,ibn_bullak
+gdc,tvdx.0,2453,2598,von_mohrenheim,2576,2586,Bimmelmann,bimmelmann
+gdc,tvdx.0,2603,2650,ibn_bullak,2631,2635,mein,ibn_bullak
+gdc,tvdx.0,2655,2905,von_mohrenheim,2684,2687,ich,von_mohrenheim
+gdc,tvdx.0,2655,2905,von_mohrenheim,2688,2691,mir,von_mohrenheim
+gdc,tvdx.0,2655,2905,von_mohrenheim,2794,2804,Bimmelmann,bimmelmann
+gdc,tvdx.0,2655,2905,von_mohrenheim,2832,2842,Bimmelmann,bimmelmann
+gdc,tvdx.0,2910,2992,ibn_bullak,2973,2977,mein,ibn_bullak
+gdc,tvdx.0,2997,3585,von_mohrenheim,3074,3077,Ich,von_mohrenheim
+gdc,tvdx.0,2997,3585,von_mohrenheim,3364,3367,Ich,von_mohrenheim
+gdc,tvdx.0,3855,4106,ibn_bullak,3867,3870,Ich,ibn_bullak
+gdc,tvdx.0,3855,4106,ibn_bullak,3931,3935,mein,ibn_bullak
+gdc,tvdx.0,3855,4106,ibn_bullak,4004,4007,ich,ibn_bullak
+gdc,tvdx.0,3855,4106,ibn_bullak,4040,4043,ich,ibn_bullak
+gdc,tvdx.0,3855,4106,ibn_bullak,4065,4068,ich,ibn_bullak
+gdc,tvdx.0,3855,4106,ibn_bullak,4079,4082,ich,ibn_bullak
+gdc,tvdx.0,4254,4533,ibn_bullak,4495,4498,Ich,ibn_bullak
+gdc,tvdx.0,4761,4936,ibn_bullak,4824,4827,ich,ibn_bullak
+gdc,tvdx.0,4761,4936,ibn_bullak,4907,4910,ich,ibn_bullak
+gdc,tvdx.0,5051,5199,ibn_bullak,5129,5132,ich,ibn_bullak
+gdc,tvdx.0,5306,5364,ibn_bullak,5318,5321,Ich,ibn_bullak
+gdc,tvdx.0,5505,5544,_stage,5508,5518,Bimmelmann,bimmelmann
+gdc,tvdx.0,5707,5775,ibn_bullak,5726,5736,Bimmelmann,bimmelmann
+gdc,tvdx.0,5780,6093,von_mohrenheim,5926,5936,Ibn Bullak,ibn_bullak
+gdc,tvdx.0,6098,6128,ibn_bullak,6110,6114,Mich,ibn_bullak
+gdc,tvdx.0,6467,6524,ibn_bullak,6479,6482,Ich,ibn_bullak
+gdc,tvdx.0,6467,6524,ibn_bullak,6504,6509,meine,ibn_bullak
+gdc,tvdx.0,6529,6567,von_mohrenheim,6558,6561,ich,von_mohrenheim
+gdc,tvdx.0,6625,6724,von_mohrenheim,6689,6692,ich,von_mohrenheim
+gdc,tvdx.0,6729,6813,ibn_bullak,6744,6747,mir,ibn_bullak
+gdc,tvdx.0,6818,6919,von_mohrenheim,6899,6902,ich,von_mohrenheim
+gdc,tvdx.0,6924,6963,ibn_bullak,6946,6949,mir,ibn_bullak
+gdc,tvdx.0,6968,7040,von_mohrenheim,6992,7002,Bimmelmann,bimmelmann
+gdc,tvdx.0,7055,7109,_stage,7078,7092,von Mohrenheim,von_mohrenheim
+gdc,tvdx.0,7136,7328,_stage,7136,7146,Bimmelmann,bimmelmann
+gdc,tvdx.0,7136,7328,_stage,7243,7253,Ibn Bullak,ibn_bullak

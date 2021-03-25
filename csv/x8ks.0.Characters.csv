@@ -1,6 +1,6 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,x8ks.0,ALCESTE,alceste,,
-gdc,x8ks.0,PARTHENIA,parthenia,,
-gdc,x8ks.0,ADMET,admet,,
-gdc,x8ks.0,HERKULES,herkules,,
-gdc,x8ks.0,CHOR,chor,,
+gdc,x8ks.0,Admet,admet,MALE,
+gdc,x8ks.0,Alceste,alceste,FEMALE,
+gdc,x8ks.0,Herkules,herkules,MALE,
+gdc,x8ks.0,Parthenia,parthenia,FEMALE,
+gdc,x8ks.0,Chor,chor,UNKNOWN,

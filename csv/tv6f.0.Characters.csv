@@ -1,4 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,tv6f.0,URGROSSMUTTER,urgrossmutter,,
-gdc,tv6f.0,MANELLA,manella,,
-gdc,tv6f.0,CONSTANTIN,constantin,,
+gdc,tv6f.0,Manella,manella,FEMALE,
+gdc,tv6f.0,Constantin,constantin,MALE,
+gdc,tv6f.0,Urgrossmutter,urgrossmutter,FEMALE,

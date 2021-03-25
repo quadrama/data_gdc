@@ -1,5 +1,5 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,r22j.0,SEPP,sepp,,
-gdc,r22j.0,LISEI,lisei,,
-gdc,r22j.0,GIRGL,girgl,,
-gdc,r22j.0,FÖRSTER,förster,,
+gdc,r22j.0,Lisei,lisei,FEMALE,
+gdc,r22j.0,Förster,foerster,MALE,
+gdc,r22j.0,Sepp,sepp,MALE,
+gdc,r22j.0,Girgl,girgl,MALE,

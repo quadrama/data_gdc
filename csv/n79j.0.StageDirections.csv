@@ -1,0 +1,226 @@
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,n79j.0,296,328,_Stage,_Stage,Jungfer,NE,jungfer,21906,,
+gdc,n79j.0,296,328,_Stage,_Stage,Lorchen,NE,lorchen,21906,,(0)
+gdc,n79j.0,296,328,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,296,328,_Stage,_Stage,Herr,NN,herr,21906,,
+gdc,n79j.0,296,328,_Stage,_Stage,Ferdinand,NE,ferdinand,21906,,(1)
+gdc,n79j.0,296,328,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,9122,9148,_Stage,_Stage,Frau,NN,frau,21906,,(2
+gdc,n79j.0,9122,9148,_Stage,_Stage,Richardin,NE,richardin,21906,,2)
+gdc,n79j.0,9122,9148,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,9122,9148,_Stage,_Stage,Ferdinand,NE,ferdinand,21906,,(1)
+gdc,n79j.0,9122,9148,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,14776,14797,_Stage,_Stage,Die,ART,der,21906,,
+gdc,n79j.0,14776,14797,_Stage,_Stage,Vorigen,NN,vorige,21906,,
+gdc,n79j.0,14776,14797,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,14776,14797,_Stage,_Stage,Lorchen,NN,lorchen,21906,,(0)
+gdc,n79j.0,14776,14797,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,14807,14825,Lorchen,lorchen,zu,APPR,zu,21906,,
+gdc,n79j.0,14807,14825,Lorchen,lorchen,Frau,NN,frau,21906,,(2
+gdc,n79j.0,14807,14825,Lorchen,lorchen,Richardin,NE,richardin,21906,,2)
+gdc,n79j.0,14807,14825,Lorchen,lorchen,.,$.,--,21906,,
+gdc,n79j.0,15210,15222,Frau Richardin,frau_richardin,Sie,PPER,sie,21906,,
+gdc,n79j.0,15210,15222,Frau Richardin,frau_richardin,geht,VVFIN,gehen,21906,,
+gdc,n79j.0,15210,15222,Frau Richardin,frau_richardin,ab,PTKVZ,ab,21906,,
+gdc,n79j.0,15210,15222,Frau Richardin,frau_richardin,.,$.,--,21906,,
+gdc,n79j.0,15247,15266,_Stage,_Stage,Lorchen,NN,lorchen,21906,,(0)
+gdc,n79j.0,15247,15266,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,15247,15266,_Stage,_Stage,Ferdinand,NE,ferdinand,21906,,(1)
+gdc,n79j.0,15247,15266,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,20377,20405,_Stage,_Stage,Frau,NN,frau,21906,,(2
+gdc,n79j.0,20377,20405,_Stage,_Stage,Richardin,NE,richardin,21906,,2)
+gdc,n79j.0,20377,20405,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,20377,20405,_Stage,_Stage,Die,ART,der,21906,,
+gdc,n79j.0,20377,20405,_Stage,_Stage,Vorigen,NN,vorige,21906,,
+gdc,n79j.0,20377,20405,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,21163,21189,_Stage,_Stage,Frau,NN,frau,21906,,(2
+gdc,n79j.0,21163,21189,_Stage,_Stage,Richardin,NE,richardin,21906,,2)
+gdc,n79j.0,21163,21189,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,21163,21189,_Stage,_Stage,Ferdinand,NE,ferdinand,21906,,(1)
+gdc,n79j.0,21163,21189,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,24330,24340,Frau Richardin,frau_richardin,Sie,PPER,sie,21906,,
+gdc,n79j.0,24330,24340,Frau Richardin,frau_richardin,weint,VVFIN,weinen,21906,,
+gdc,n79j.0,24330,24340,Frau Richardin,frau_richardin,.,$.,--,21906,,
+gdc,n79j.0,28163,28187,_Stage,_Stage,Die,ART,der,21906,,
+gdc,n79j.0,28163,28187,_Stage,_Stage,Vorigen,NN,vorige,21906,,
+gdc,n79j.0,28163,28187,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,28163,28187,_Stage,_Stage,Herr,NN,herr,21906,,
+gdc,n79j.0,28163,28187,_Stage,_Stage,Simon,NE,simon,21906,,(3)
+gdc,n79j.0,28163,28187,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,28657,28684,_Stage,_Stage,Herr,NN,herr,21906,,
+gdc,n79j.0,28657,28684,_Stage,_Stage,Simon,NE,simon,21906,,(3)
+gdc,n79j.0,28657,28684,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,28657,28684,_Stage,_Stage,Herr,NN,herr,21906,,
+gdc,n79j.0,28657,28684,_Stage,_Stage,Ferdinand,NE,ferdinand,21906,,(1)
+gdc,n79j.0,28657,28684,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,33003,33024,_Stage,_Stage,Die,ART,der,21906,,
+gdc,n79j.0,33003,33024,_Stage,_Stage,Vorigen,NN,vorige,21906,,
+gdc,n79j.0,33003,33024,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,33003,33024,_Stage,_Stage,Lorchen,NN,lorchen,21906,,(0)
+gdc,n79j.0,33003,33024,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,36365,36374,Ferdinand,ferdinand,zu,APPR,zu,21906,,
+gdc,n79j.0,36365,36374,Ferdinand,ferdinand,Simon,NE,simon,21906,,(3)
+gdc,n79j.0,36365,36374,Ferdinand,ferdinand,.,$.,--,21906,,
+gdc,n79j.0,40592,40614,_Stage,_Stage,Frau,NN,frau,21906,,(2
+gdc,n79j.0,40592,40614,_Stage,_Stage,Richardin,NE,richardin,21906,,2)
+gdc,n79j.0,40592,40614,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,40592,40614,_Stage,_Stage,Simon,NE,simon,21906,,(3)
+gdc,n79j.0,40592,40614,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,50589,50625,_Stage,_Stage,Lorchen,NN,lorchen,21906,,(0)
+gdc,n79j.0,50589,50625,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,50589,50625,_Stage,_Stage,Christianchen,NN,christianchen,21906,,(4)
+gdc,n79j.0,50589,50625,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,50589,50625,_Stage,_Stage,Die,ART,der,21906,,
+gdc,n79j.0,50589,50625,_Stage,_Stage,Vorigen,NN,vorige,21906,,
+gdc,n79j.0,50589,50625,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,51033,51046,Frau Richardin,frau_richardin,Sie,PPER,sie,21906,,
+gdc,n79j.0,51033,51046,Frau Richardin,frau_richardin,gehen,VVFIN,gehen,21906,,
+gdc,n79j.0,51033,51046,Frau Richardin,frau_richardin,ab,PTKVZ,ab,21906,,
+gdc,n79j.0,51033,51046,Frau Richardin,frau_richardin,.,$.,--,21906,,
+gdc,n79j.0,51071,51094,_Stage,_Stage,Lorchen,NN,lorchen,21906,,(0)
+gdc,n79j.0,51071,51094,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,51071,51094,_Stage,_Stage,Christianchen,NN,christianchen,21906,,(4)
+gdc,n79j.0,51071,51094,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,55358,55394,_Stage,_Stage,Herr,NN,herr,21906,,
+gdc,n79j.0,55358,55394,_Stage,_Stage,Simon,NE,simon,21906,,(3)
+gdc,n79j.0,55358,55394,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,55358,55394,_Stage,_Stage,Herr,NN,herr,21906,,
+gdc,n79j.0,55358,55394,_Stage,_Stage,Ferdinand,NE,ferdinand,21906,,(1)
+gdc,n79j.0,55358,55394,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,55358,55394,_Stage,_Stage,Lorchen,NN,lorchen,21906,,(0)
+gdc,n79j.0,55358,55394,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,60115,60126,Simon,simon,Zu,APPR,zu,21906,,
+gdc,n79j.0,60115,60126,Simon,simon,Lorchen,NN,lorchen,21906,,(0)
+gdc,n79j.0,60115,60126,Simon,simon,.,$.,--,21906,,
+gdc,n79j.0,61642,61672,_Stage,_Stage,Christianchen,NN,christianchen,21906,,(4)
+gdc,n79j.0,61642,61672,_Stage,_Stage,und,KON,und,21906,,
+gdc,n79j.0,61642,61672,_Stage,_Stage,die,ART,der,21906,,
+gdc,n79j.0,61642,61672,_Stage,_Stage,Vorigen,NN,vorige,21906,,
+gdc,n79j.0,61642,61672,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,61688,61699,Christianchen,christianchen,zu,PTKZU,zu,21906,,
+gdc,n79j.0,61688,61699,Christianchen,christianchen,Lorchen,VVINF,lorchen,21906,,(0)
+gdc,n79j.0,61688,61699,Christianchen,christianchen,.,$.,--,21906,,
+gdc,n79j.0,63090,63117,Christianchen,christianchen,Sie,PPER,sie,21906,,
+gdc,n79j.0,63090,63117,Christianchen,christianchen,redet,VVFIN,reden,21906,,
+gdc,n79j.0,63090,63117,Christianchen,christianchen,heimlich,ADJD,heimlich,21906,,
+gdc,n79j.0,63090,63117,Christianchen,christianchen,mit,APPR,mit,21906,,
+gdc,n79j.0,63090,63117,Christianchen,christianchen,ihm,PPER,ihm,21906,,
+gdc,n79j.0,63090,63117,Christianchen,christianchen,.,$.,--,21906,,
+gdc,n79j.0,65001,65012,Simon,simon,zu,PTKZU,zu,21906,,
+gdc,n79j.0,65001,65012,Simon,simon,Lorchen,VVINF,lorchen,21906,,(0)
+gdc,n79j.0,65001,65012,Simon,simon,.,$.,--,21906,,
+gdc,n79j.0,65358,65375,Lorchen,lorchen,zu,APPR,zu,21906,,
+gdc,n79j.0,65358,65375,Lorchen,lorchen,Christianchen,NN,christianchen,21906,,(4)
+gdc,n79j.0,65358,65375,Lorchen,lorchen,.,$.,--,21906,,
+gdc,n79j.0,65734,65745,Simon,simon,zu,PTKZU,zu,21906,,
+gdc,n79j.0,65734,65745,Simon,simon,Lorchen,VVINF,lorchen,21906,,(0)
+gdc,n79j.0,65734,65745,Simon,simon,.,$.,--,21906,,
+gdc,n79j.0,65966,65977,Ferdinand,ferdinand,zu,PTKZU,zu,21906,,
+gdc,n79j.0,65966,65977,Ferdinand,ferdinand,Lorchen,VVINF,lorchen,21906,,(0)
+gdc,n79j.0,65966,65977,Ferdinand,ferdinand,.,$.,--,21906,,
+gdc,n79j.0,67565,67582,Ferdinand,ferdinand,zu,APPR,zu,21906,,
+gdc,n79j.0,67565,67582,Ferdinand,ferdinand,Christianchen,NN,christianchen,21906,,(4)
+gdc,n79j.0,67565,67582,Ferdinand,ferdinand,.,$.,--,21906,,
+gdc,n79j.0,67882,67893,Simon,simon,zu,PTKZU,zu,21906,,
+gdc,n79j.0,67882,67893,Simon,simon,Lorchen,VVINF,lorchen,21906,,(0)
+gdc,n79j.0,67882,67893,Simon,simon,.,$.,--,21906,,
+gdc,n79j.0,68389,68400,Simon,simon,Zu,APPR,zu,21906,,
+gdc,n79j.0,68389,68400,Simon,simon,Lorchen,NN,lorchen,21906,,(0)
+gdc,n79j.0,68389,68400,Simon,simon,.,$.,--,21906,,
+gdc,n79j.0,68905,68935,_Stage,_Stage,Frau,NN,frau,21906,,(2
+gdc,n79j.0,68905,68935,_Stage,_Stage,Richardin,NE,richardin,21906,,2)
+gdc,n79j.0,68905,68935,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,68905,68935,_Stage,_Stage,Christianchen,NN,christianchen,21906,,(4)
+gdc,n79j.0,68905,68935,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,70966,70995,Frau Richardin,frau_richardin,Christianchen,NN,christianchen,21906,,(4)
+gdc,n79j.0,70966,70995,Frau Richardin,frau_richardin,will,VMFIN,wollen,21906,,
+gdc,n79j.0,70966,70995,Frau Richardin,frau_richardin,fortgehen,VVINF,fortgehen,21906,,
+gdc,n79j.0,70966,70995,Frau Richardin,frau_richardin,.,$.,--,21906,,
+gdc,n79j.0,72900,72922,Frau Richardin,frau_richardin,Christianchen,NN,christianchen,21906,,(4)
+gdc,n79j.0,72900,72922,Frau Richardin,frau_richardin,geht,VVFIN,gehen,21906,,
+gdc,n79j.0,72900,72922,Frau Richardin,frau_richardin,ab,PTKVZ,ab,21906,,
+gdc,n79j.0,72900,72922,Frau Richardin,frau_richardin,.,$.,--,21906,,
+gdc,n79j.0,72946,72970,_Stage,_Stage,Frau,NN,frau,21906,,(2
+gdc,n79j.0,72946,72970,_Stage,_Stage,Richardin,NE,richardin,21906,,2)
+gdc,n79j.0,72946,72970,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,72946,72970,_Stage,_Stage,Lorchen,NN,lorchen,21906,,(0)
+gdc,n79j.0,72946,72970,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,82224,82251,_Stage,_Stage,Die,ART,der,21906,,
+gdc,n79j.0,82224,82251,_Stage,_Stage,Vorigen,NN,vorige,21906,,
+gdc,n79j.0,82224,82251,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,82224,82251,_Stage,_Stage,Christianchen,NN,christianchen,21906,,(4)
+gdc,n79j.0,82224,82251,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,85166,85189,_Stage,_Stage,Lorchen,NN,lorchen,21906,,(0)
+gdc,n79j.0,85166,85189,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,85166,85189,_Stage,_Stage,Christianchen,NN,christianchen,21906,,(4)
+gdc,n79j.0,85166,85189,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,89656,89684,_Stage,_Stage,Die,ART,der,21906,,
+gdc,n79j.0,89656,89684,_Stage,_Stage,Vorigen,NN,vorige,21906,,
+gdc,n79j.0,89656,89684,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,89656,89684,_Stage,_Stage,Herr,NN,herr,21906,,
+gdc,n79j.0,89656,89684,_Stage,_Stage,Ferdinand,NE,ferdinand,21906,,(1)
+gdc,n79j.0,89656,89684,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,91414,91433,_Stage,_Stage,Lorchen,NN,lorchen,21906,,(0)
+gdc,n79j.0,91414,91433,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,91414,91433,_Stage,_Stage,Ferdinand,NE,ferdinand,21906,,(1)
+gdc,n79j.0,91414,91433,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,92240,92268,_Stage,_Stage,Die,ART,der,21906,,
+gdc,n79j.0,92240,92268,_Stage,_Stage,Vorigen,NN,vorige,21906,,
+gdc,n79j.0,92240,92268,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,92240,92268,_Stage,_Stage,Frau,NN,frau,21906,,(2
+gdc,n79j.0,92240,92268,_Stage,_Stage,Richardin,NE,richardin,21906,,2)
+gdc,n79j.0,92240,92268,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,92797,92813,Frau Richardin,frau_richardin,Lorchen,NN,lorchen,21906,,(0)
+gdc,n79j.0,92797,92813,Frau Richardin,frau_richardin,geht,VVFIN,gehen,21906,,
+gdc,n79j.0,92797,92813,Frau Richardin,frau_richardin,ab,PTKVZ,ab,21906,,
+gdc,n79j.0,92797,92813,Frau Richardin,frau_richardin,.,$.,--,21906,,
+gdc,n79j.0,92837,92863,_Stage,_Stage,Frau,NN,frau,21906,,(2
+gdc,n79j.0,92837,92863,_Stage,_Stage,Richardin,NE,richardin,21906,,2)
+gdc,n79j.0,92837,92863,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,92837,92863,_Stage,_Stage,Ferdinand,NE,ferdinand,21906,,(1)
+gdc,n79j.0,92837,92863,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,95476,95486,Frau Richardin,frau_richardin,Sie,PPER,sie,21906,,
+gdc,n79j.0,95476,95486,Frau Richardin,frau_richardin,weint,VVFIN,weinen,21906,,
+gdc,n79j.0,95476,95486,Frau Richardin,frau_richardin,.,$.,--,21906,,
+gdc,n79j.0,100926,100943,_Stage,_Stage,Ferdinand,NE,ferdinand,21906,,(1)
+gdc,n79j.0,100926,100943,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,100926,100943,_Stage,_Stage,Simon,NE,simon,21906,,(3)
+gdc,n79j.0,100926,100943,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,102396,102432,_Stage,_Stage,Die,ART,der,21906,,
+gdc,n79j.0,102396,102432,_Stage,_Stage,Vorigen,NN,vorige,21906,,
+gdc,n79j.0,102396,102432,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,102396,102432,_Stage,_Stage,Lorchen,NN,lorchen,21906,,(0)
+gdc,n79j.0,102396,102432,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,102396,102432,_Stage,_Stage,Christianchen,NN,christianchen,21906,,(4)
+gdc,n79j.0,102396,102432,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,105406,105417,Simon,simon,zu,PTKZU,zu,21906,,
+gdc,n79j.0,105406,105417,Simon,simon,Lorchen,VVINF,lorchen,21906,,(0)
+gdc,n79j.0,105406,105417,Simon,simon,.,$.,--,21906,,
+gdc,n79j.0,105815,105827,Lorchen,lorchen,Sie,PPER,sie,21906,,
+gdc,n79j.0,105815,105827,Lorchen,lorchen,geht,VVFIN,gehen,21906,,
+gdc,n79j.0,105815,105827,Lorchen,lorchen,ab,PTKVZ,ab,21906,,
+gdc,n79j.0,105815,105827,Lorchen,lorchen,.,$.,--,21906,,
+gdc,n79j.0,105864,105876,_Stage,_Stage,Die,ART,der,21906,,
+gdc,n79j.0,105864,105876,_Stage,_Stage,Vorigen,NN,vorige,21906,,
+gdc,n79j.0,105864,105876,_Stage,_Stage,.,$.,--,21906,,
+gdc,n79j.0,106211,106224,Lorchen,lorchen,Sie,PPER,sie,21906,,
+gdc,n79j.0,106211,106224,Lorchen,lorchen,küßt,VVFIN,küssen,21906,,
+gdc,n79j.0,106211,106224,Lorchen,lorchen,ihn,PPER,ihn,21906,,
+gdc,n79j.0,106211,106224,Lorchen,lorchen,.,$.,--,21906,,
+gdc,n79j.0,112323,112376,Ferdinand,ferdinand,Er,PPER,er,21906,,
+gdc,n79j.0,112323,112376,Ferdinand,ferdinand,nimmt,VVFIN,nehmen,21906,,
+gdc,n79j.0,112323,112376,Ferdinand,ferdinand,sie,PPER,sie,21906,,
+gdc,n79j.0,112323,112376,Ferdinand,ferdinand,bei,APPR,bei,21906,,
+gdc,n79j.0,112323,112376,Ferdinand,ferdinand,der,ART,der,21906,,
+gdc,n79j.0,112323,112376,Ferdinand,ferdinand,Hand,NN,hand,21906,,
+gdc,n79j.0,112323,112376,Ferdinand,ferdinand,",","$,",--,21906,,
+gdc,n79j.0,112323,112376,Ferdinand,ferdinand,und,KON,und,21906,,
+gdc,n79j.0,112323,112376,Ferdinand,ferdinand,sie,PPER,sie,21906,,
+gdc,n79j.0,112323,112376,Ferdinand,ferdinand,küßt,VVFIN,küssen,21906,,
+gdc,n79j.0,112323,112376,Ferdinand,ferdinand,ihm,PPER,ihm,21906,,
+gdc,n79j.0,112323,112376,Ferdinand,ferdinand,die,ART,der,21906,,
+gdc,n79j.0,112323,112376,Ferdinand,ferdinand,Hand,NN,hand,21906,,
+gdc,n79j.0,112323,112376,Ferdinand,ferdinand,.,$.,--,21906,,
+gdc,n79j.0,112389,112400,Lorchen,lorchen,zu,APPR,zu,21906,,
+gdc,n79j.0,112389,112400,Lorchen,lorchen,Simonen,NN,simonen,21906,,
+gdc,n79j.0,112389,112400,Lorchen,lorchen,.,$.,--,21906,,

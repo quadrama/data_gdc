@@ -1,5 +1,5 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,11fzp.0,LAMON,lamon,,
-gdc,11fzp.0,EGLE,egle,,
-gdc,11fzp.0,AMINE,amine,,
-gdc,11fzp.0,ERIDON,eridon,,
+gdc,11fzp.0,Amine,amine,FEMALE,
+gdc,11fzp.0,Egle,egle,FEMALE,
+gdc,11fzp.0,Lamon,lamon,MALE,
+gdc,11fzp.0,Eridon,eridon,MALE,

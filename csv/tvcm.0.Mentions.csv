@@ -1,0 +1,79 @@
+corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+gdc,tvcm.0,990,1129,_stage,1054,1063,Wiedewitt,wiedewitt
+gdc,tvcm.0,990,1129,_stage,1082,1090,Käseberg,kaeseberg
+gdc,tvcm.0,990,1129,_stage,1111,1128,von Moellerkuchen,von_moellerkuchen
+gdc,tvcm.0,1131,1291,wiedewitt,1267,1270,ich,wiedewitt
+gdc,tvcm.0,2832,3424,wiedewitt,3365,3371,meinen,wiedewitt
+gdc,tvcm.0,3514,3672,_stage,3632,3641,Wiedewitt,wiedewitt
+gdc,tvcm.0,4024,4546,wiedewitt,4035,4045,Der Kaiser,kaiser
+gdc,tvcm.0,4024,4546,wiedewitt,4151,4154,mir,wiedewitt
+gdc,tvcm.0,4024,4546,wiedewitt,4311,4317,meiner,wiedewitt
+gdc,tvcm.0,4024,4546,wiedewitt,4359,4362,ich,wiedewitt
+gdc,tvcm.0,4024,4546,wiedewitt,4421,4424,Ich,wiedewitt
+gdc,tvcm.0,4024,4546,wiedewitt,4505,4508,ich,wiedewitt
+gdc,tvcm.0,4024,4546,wiedewitt,4509,4512,mir,wiedewitt
+gdc,tvcm.0,5075,5146,zweiter_ratsherr_2,5103,5113,der Kaiser,kaiser
+gdc,tvcm.0,5654,6053,wiedewitt,5691,5708,von Moellerkuchen,von_moellerkuchen
+gdc,tvcm.0,5654,6053,wiedewitt,5758,5768,der Kaiser,kaiser
+gdc,tvcm.0,5654,6053,wiedewitt,5876,5893,Von Moellerkuchen,von_moellerkuchen
+gdc,tvcm.0,6072,6299,_stage,6167,6184,Der Bürgermeister,wiedewitt
+gdc,tvcm.0,6301,6520,wiedewitt,6415,6425,der Kaiser,kaiser
+gdc,tvcm.0,6700,7511,_stage,7058,7074,die Schildbürger,die_schildbuerger
+gdc,tvcm.0,6700,7511,_stage,7129,7139,der Kaiser,kaiser
+gdc,tvcm.0,6700,7511,_stage,7250,7259,Wiedewitt,wiedewitt
+gdc,tvcm.0,6700,7511,_stage,7344,7354,der Kaiser,kaiser
+gdc,tvcm.0,7515,7580,kaiser,7555,7559,mich,kaiser
+gdc,tvcm.0,7584,7782,wiedewitt,7629,7632,ich,wiedewitt
+gdc,tvcm.0,7584,7782,wiedewitt,7698,7708,Der Kaiser,kaiser
+gdc,tvcm.0,7839,7946,wiedewitt,7863,7866,Ich,wiedewitt
+gdc,tvcm.0,7839,7946,wiedewitt,7885,7888,ich,wiedewitt
+gdc,tvcm.0,7839,7946,wiedewitt,7889,7893,mich,wiedewitt
+gdc,tvcm.0,7951,8190,kaiser,8048,8051,mir,kaiser
+gdc,tvcm.0,7951,8190,kaiser,8065,8068,mir,kaiser
+gdc,tvcm.0,8299,8481,kaiser,8360,8363,ich,kaiser
+gdc,tvcm.0,8299,8481,kaiser,8405,8408,mir,kaiser
+gdc,tvcm.0,8299,8481,kaiser,8436,8439,ich,kaiser
+gdc,tvcm.0,8486,8586,wiedewitt,8521,8531,der Kaiser,kaiser
+gdc,tvcm.0,8486,8586,wiedewitt,8565,8571,meinen,wiedewitt
+gdc,tvcm.0,9118,9255,kaiser,9215,9231,die Schildbürger,die_schildbuerger
+gdc,tvcm.0,9260,9570,kaiser,9361,9364,ich,kaiser
+gdc,tvcm.0,9260,9570,kaiser,9445,9461,die Schildbürger,die_schildbuerger
+gdc,tvcm.0,9589,9747,_stage,9698,9707,Wiedewitt,wiedewitt
+gdc,tvcm.0,9749,9938,wiedewitt,9866,9869,Ich,wiedewitt
+gdc,tvcm.0,9970,10119,wiedewitt,9992,9996,mich,wiedewitt
+gdc,tvcm.0,10123,11284,wiedewitt,10275,10278,mir,wiedewitt
+gdc,tvcm.0,10123,11284,wiedewitt,10682,10685,Ich,wiedewitt
+gdc,tvcm.0,10123,11284,wiedewitt,10714,10719,meine,wiedewitt
+gdc,tvcm.0,10123,11284,wiedewitt,11141,11144,Ich,wiedewitt
+gdc,tvcm.0,10123,11284,wiedewitt,11151,11154,Ich,wiedewitt
+gdc,tvcm.0,10123,11284,wiedewitt,11275,11278,ich,wiedewitt
+gdc,tvcm.0,11444,11502,kaeseberg,11481,11490,Wiedewitt,wiedewitt
+gdc,tvcm.0,11444,11502,kaeseberg,11492,11501,Wiedewitt,wiedewitt
+gdc,tvcm.0,11971,12283,wiedewitt,12000,12004,mich,wiedewitt
+gdc,tvcm.0,12777,13046,_stage,12857,12867,Der Kaiser,kaiser
+gdc,tvcm.0,12777,13046,_stage,13021,13038,Alle Schildbürger,die_schildbuerger
+gdc,tvcm.0,13048,13748,kaiser,13470,13475,meine,kaiser
+gdc,tvcm.0,13048,13748,kaiser,13505,13509,mich,kaiser
+gdc,tvcm.0,13048,13748,kaiser,13635,13638,Ich,kaiser
+gdc,tvcm.0,13048,13748,kaiser,13714,13717,ich,kaiser
+gdc,tvcm.0,13752,14204,wiedewitt,13945,13948,ich,wiedewitt
+gdc,tvcm.0,13752,14204,wiedewitt,14006,14012,meinen,wiedewitt
+gdc,tvcm.0,14321,14480,wiedewitt,14458,14474,die Schildbürger,die_schildbuerger
+gdc,tvcm.0,14485,15012,kaiser,14539,14542,mir,kaiser
+gdc,tvcm.0,14485,15012,kaiser,14563,14566,Ich,kaiser
+gdc,tvcm.0,14485,15012,kaiser,14629,14633,Mich,kaiser
+gdc,tvcm.0,14485,15012,kaiser,14711,14720,Wiedewitt,wiedewitt
+gdc,tvcm.0,14485,15012,kaiser,14725,14731,meiner,kaiser
+gdc,tvcm.0,14485,15012,kaiser,14751,14756,meine,kaiser
+gdc,tvcm.0,14797,15012,_stage,14946,14956,der Kaiser,kaiser
+gdc,tvcm.0,15016,15067,wiedewitt,15049,15055,meinem,wiedewitt
+gdc,tvcm.0,15227,15549,_stage,15352,15369,alle Schildbürger,die_schildbuerger
+gdc,tvcm.0,15227,15549,_stage,15388,15397,Wiedewitt,wiedewitt
+gdc,tvcm.0,15674,15820,_stage,15688,15704,die Schildbürger,die_schildbuerger
+gdc,tvcm.0,15674,15820,_stage,15781,15791,der Kaiser,kaiser
+gdc,tvcm.0,15824,16947,wiedewitt,16188,16198,der Kaiser,kaiser
+gdc,tvcm.0,15824,16947,wiedewitt,16319,16322,ich,wiedewitt
+gdc,tvcm.0,15824,16947,wiedewitt,16370,16373,ich,wiedewitt
+gdc,tvcm.0,16441,16934,_stage,16441,16450,Wiedewitt,wiedewitt
+gdc,tvcm.0,16441,16934,_stage,16482,16492,der Kaiser,kaiser
+gdc,tvcm.0,16441,16934,_stage,16703,16713,der Kaiser,kaiser

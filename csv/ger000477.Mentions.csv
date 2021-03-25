@@ -1,0 +1,1691 @@
+corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+gdc,ger000477,1760,2167,_stage,2093,2114,Direktor Hassenreuter,direktor_hassenreuter
+gdc,ger000477,2168,2559,_stage,2352,2373,Direktor Hassenreuter,direktor_hassenreuter
+gdc,ger000477,3012,3460,_stage,3012,3021,Frau John,frau_john
+gdc,ger000477,3012,3460,_stage,3017,3021,John,john
+gdc,ger000477,3012,3460,_stage,3125,3129,John,john
+gdc,ger000477,3012,3460,_stage,3216,3231,Die Piperkarcka,die_piperkarcka
+gdc,ger000477,3699,3739,_stage,3710,3725,die Piperkarcka,die_piperkarcka
+gdc,ger000477,3978,4106,die_piperkarcka,4005,4010,meine,die_piperkarcka
+gdc,ger000477,3978,4106,die_piperkarcka,4059,4062,mir,die_piperkarcka
+gdc,ger000477,4111,4809,frau_john,4284,4287,mir,frau_john
+gdc,ger000477,4814,5211,die_piperkarcka,4849,4852,mir,die_piperkarcka
+gdc,ger000477,4814,5211,die_piperkarcka,4966,4969,mir,die_piperkarcka
+gdc,ger000477,4814,5211,die_piperkarcka,5000,5003,mir,die_piperkarcka
+gdc,ger000477,4814,5211,die_piperkarcka,5115,5119,mich,die_piperkarcka
+gdc,ger000477,4814,5211,die_piperkarcka,5151,5155,mich,die_piperkarcka
+gdc,ger000477,5216,5887,frau_john,5237,5241,mein,frau_john
+gdc,ger000477,5216,5887,frau_john,5487,5490,mir,frau_john
+gdc,ger000477,5216,5887,frau_john,5515,5519,mein,frau_john
+gdc,ger000477,5892,6256,die_piperkarcka,5929,5932,mir,die_piperkarcka
+gdc,ger000477,5892,6256,die_piperkarcka,6004,6008,mein,die_piperkarcka
+gdc,ger000477,6261,6970,frau_john,6320,6329,Frau John,frau_john
+gdc,ger000477,6261,6970,frau_john,6325,6329,John,john
+gdc,ger000477,6261,6970,frau_john,6357,6372,die Piperkarcka,die_piperkarcka
+gdc,ger000477,6261,6970,frau_john,6440,6445,Bruno,bruno
+gdc,ger000477,6261,6970,frau_john,6510,6515,Bruno,bruno
+gdc,ger000477,7025,7076,frau_john,7054,7059,Bruno,bruno
+gdc,ger000477,7169,7287,frau_john,7241,7245,mein,frau_john
+gdc,ger000477,7395,7611,frau_john,7486,7490,mein,frau_john
+gdc,ger000477,7395,7611,frau_john,7518,7523,Bruno,bruno
+gdc,ger000477,7949,7982,die_piperkarcka,7972,7981,Frau John,frau_john
+gdc,ger000477,7949,7982,die_piperkarcka,7977,7981,John,john
+gdc,ger000477,7987,8072,frau_john,8050,8053,mir,frau_john
+gdc,ger000477,8077,8242,bruno,8204,8213,Frau John,frau_john
+gdc,ger000477,8077,8242,bruno,8209,8213,John,john
+gdc,ger000477,8443,8572,die_piperkarcka,8479,8482,mir,die_piperkarcka
+gdc,ger000477,8443,8572,die_piperkarcka,8494,8498,mich,die_piperkarcka
+gdc,ger000477,8443,8572,die_piperkarcka,8562,8571,Frau John,frau_john
+gdc,ger000477,8443,8572,die_piperkarcka,8567,8571,John,john
+gdc,ger000477,8577,9040,frau_john,8764,8769,meine,frau_john
+gdc,ger000477,8577,9040,frau_john,8847,8851,mich,frau_john
+gdc,ger000477,9045,9696,die_piperkarcka,9076,9081,meine,die_piperkarcka
+gdc,ger000477,9045,9696,die_piperkarcka,9105,9108,mir,die_piperkarcka
+gdc,ger000477,9045,9696,die_piperkarcka,9297,9300,Mir,die_piperkarcka
+gdc,ger000477,9045,9696,die_piperkarcka,9420,9423,mir,die_piperkarcka
+gdc,ger000477,9045,9696,die_piperkarcka,9459,9462,mir,die_piperkarcka
+gdc,ger000477,9045,9696,die_piperkarcka,9481,9485,mich,die_piperkarcka
+gdc,ger000477,9045,9696,die_piperkarcka,9504,9508,mich,die_piperkarcka
+gdc,ger000477,9701,10280,frau_john,9734,9739,meine,frau_john
+gdc,ger000477,9701,10280,frau_john,9981,9984,mir,frau_john
+gdc,ger000477,9701,10280,frau_john,10198,10201,mir,frau_john
+gdc,ger000477,10413,10690,die_piperkarcka,10529,10532,mir,die_piperkarcka
+gdc,ger000477,10413,10690,die_piperkarcka,10556,10559,mir,die_piperkarcka
+gdc,ger000477,10413,10690,die_piperkarcka,10587,10590,mir,die_piperkarcka
+gdc,ger000477,10413,10690,die_piperkarcka,10628,10631,mir,die_piperkarcka
+gdc,ger000477,10805,10902,_stage,10833,10838,Bruno,bruno
+gdc,ger000477,10979,11039,die_piperkarcka,11018,11021,mir,die_piperkarcka
+gdc,ger000477,10979,11039,die_piperkarcka,11030,11033,mir,die_piperkarcka
+gdc,ger000477,11054,11080,_stage,11070,11075,Bruno,bruno
+gdc,ger000477,11358,11439,_stage,11383,11398,die Piperkarcka,die_piperkarcka
+gdc,ger000477,11498,11549,_stage,11498,11503,Bruno,bruno
+gdc,ger000477,11563,11590,_stage,11584,11589,Bruno,bruno
+gdc,ger000477,11803,11881,bruno,11846,11849,mir,bruno
+gdc,ger000477,11923,12117,bruno,12099,12102,mir,bruno
+gdc,ger000477,12542,12842,_stage,12573,12588,die Piperkarcka,die_piperkarcka
+gdc,ger000477,12542,12842,_stage,12680,12689,Frau John,frau_john
+gdc,ger000477,12542,12842,_stage,12685,12689,John,john
+gdc,ger000477,12542,12842,_stage,12728,12743,die Piperkarcka,die_piperkarcka
+gdc,ger000477,12542,12842,_stage,12777,12792,Die Piperkarcka,die_piperkarcka
+gdc,ger000477,12542,12842,_stage,12807,12816,Frau John,frau_john
+gdc,ger000477,12542,12842,_stage,12812,12816,John,john
+gdc,ger000477,12542,12842,_stage,12821,12826,Bruno,bruno
+gdc,ger000477,12901,12952,frau_john,12947,12951,mich,frau_john
+gdc,ger000477,12957,13082,bruno,13056,13060,mich,bruno
+gdc,ger000477,13193,13250,frau_john,13232,13235,mir,frau_john
+gdc,ger000477,13255,13563,bruno,13347,13352,meine,bruno
+gdc,ger000477,13255,13563,bruno,13360,13363,Mir,bruno
+gdc,ger000477,13255,13563,bruno,13476,13480,mich,bruno
+gdc,ger000477,13568,13781,frau_john,13740,13744,mich,frau_john
+gdc,ger000477,13568,13781,frau_john,13746,13751,Bruno,bruno
+gdc,ger000477,13786,14099,bruno,14065,14069,mich,bruno
+gdc,ger000477,13786,14099,bruno,14083,14086,mir,bruno
+gdc,ger000477,14361,14673,frau_john,14395,14399,mich,frau_john
+gdc,ger000477,14361,14673,frau_john,14577,14581,mein,frau_john
+gdc,ger000477,14678,15069,bruno,14930,14933,mir,bruno
+gdc,ger000477,14678,15069,bruno,14938,14942,mein,bruno
+gdc,ger000477,14678,15069,bruno,15018,15021,mir,bruno
+gdc,ger000477,15221,15559,bruno,15260,15263,mir,bruno
+gdc,ger000477,15221,15559,bruno,15322,15325,mir,bruno
+gdc,ger000477,15221,15559,bruno,15418,15427,Frau John,frau_john
+gdc,ger000477,15221,15559,bruno,15423,15427,John,john
+gdc,ger000477,15861,16047,_stage,15894,15902,Walburga,walburga
+gdc,ger000477,16049,16453,walburga,16426,16435,Frau John,frau_john
+gdc,ger000477,16049,16453,walburga,16431,16435,John,john
+gdc,ger000477,16458,16568,frau_john,16481,16489,Walburga,walburga
+gdc,ger000477,16573,16656,walburga,16594,16597,ich,walburga
+gdc,ger000477,16573,16656,walburga,16646,16655,Frau John,frau_john
+gdc,ger000477,16573,16656,walburga,16651,16655,John,john
+gdc,ger000477,16741,16824,walburga,16772,16775,Mir,walburga
+gdc,ger000477,16741,16824,walburga,16814,16823,Frau John,frau_john
+gdc,ger000477,16741,16824,walburga,16819,16823,John,john
+gdc,ger000477,16829,17234,frau_john,16865,16873,Walburga,walburga
+gdc,ger000477,17239,17339,walburga,17249,17252,Ich,walburga
+gdc,ger000477,17239,17339,walburga,17258,17262,mich,walburga
+gdc,ger000477,17239,17339,walburga,17329,17338,Frau John,frau_john
+gdc,ger000477,17239,17339,walburga,17334,17338,John,john
+gdc,ger000477,17344,17633,frau_john,17467,17470,Mir,frau_john
+gdc,ger000477,17638,17694,walburga,17684,17693,Frau John,frau_john
+gdc,ger000477,17638,17694,walburga,17689,17693,John,john
+gdc,ger000477,18165,18214,walburga,18175,18178,Ich,walburga
+gdc,ger000477,18165,18214,walburga,18180,18183,Ich,walburga
+gdc,ger000477,18434,18676,frau_john,18503,18508,meine,frau_john
+gdc,ger000477,18681,18763,walburga,18737,18740,ich,walburga
+gdc,ger000477,18832,18905,walburga,18879,18885,Spitta,spitta
+gdc,ger000477,18832,18905,walburga,18891,18894,mir,walburga
+gdc,ger000477,19027,19133,walburga,19083,19086,ich,walburga
+gdc,ger000477,19138,19197,frau_john,19160,19166,Spitta,spitta
+gdc,ger000477,19202,19269,walburga,19259,19268,Frau John,frau_john
+gdc,ger000477,19202,19269,walburga,19264,19268,John,john
+gdc,ger000477,19525,19688,walburga,19577,19586,Frau John,frau_john
+gdc,ger000477,19525,19688,walburga,19582,19586,John,john
+gdc,ger000477,19525,19688,walburga,19616,19622,meiner,walburga
+gdc,ger000477,19525,19688,walburga,19642,19648,Spitta,spitta
+gdc,ger000477,19789,19855,walburga,19811,19820,Frau John,frau_john
+gdc,ger000477,19789,19855,walburga,19816,19820,John,john
+gdc,ger000477,19860,20000,frau_john,19913,19921,Walburga,walburga
+gdc,ger000477,20004,20824,_stage,20073,20089,Nathanael Jettel,nathanael_jettel
+gdc,ger000477,20826,21337,direktor_hassenreuter,20854,20858,John,john
+gdc,ger000477,20826,21337,direktor_hassenreuter,20862,20871,Frau John,frau_john
+gdc,ger000477,20826,21337,direktor_hassenreuter,20867,20871,John,john
+gdc,ger000477,20826,21337,direktor_hassenreuter,20897,20902,meine,direktor_hassenreuter
+gdc,ger000477,20826,21337,direktor_hassenreuter,20966,20969,ich,direktor_hassenreuter
+gdc,ger000477,20826,21337,direktor_hassenreuter,21022,21028,meiner,direktor_hassenreuter
+gdc,ger000477,20826,21337,direktor_hassenreuter,21119,21123,John,john
+gdc,ger000477,20826,21337,direktor_hassenreuter,21125,21129,John,john
+gdc,ger000477,20826,21337,direktor_hassenreuter,21279,21283,mein,direktor_hassenreuter
+gdc,ger000477,21342,21413,nathanael_jettel,21375,21380,meine,nathanael_jettel
+gdc,ger000477,21418,21704,direktor_hassenreuter,21441,21450,Frau John,frau_john
+gdc,ger000477,21418,21704,direktor_hassenreuter,21446,21450,John,john
+gdc,ger000477,21418,21704,direktor_hassenreuter,21454,21457,Ich,direktor_hassenreuter
+gdc,ger000477,21418,21704,direktor_hassenreuter,21693,21697,John,john
+gdc,ger000477,21418,21704,direktor_hassenreuter,21699,21703,John,john
+gdc,ger000477,21709,21783,nathanael_jettel,21778,21782,John,john
+gdc,ger000477,21788,22059,direktor_hassenreuter,21833,21836,ich,direktor_hassenreuter
+gdc,ger000477,21788,22059,direktor_hassenreuter,21916,21922,meinen,direktor_hassenreuter
+gdc,ger000477,21788,22059,direktor_hassenreuter,21962,21966,John,john
+gdc,ger000477,21788,22059,direktor_hassenreuter,22011,22014,ich,direktor_hassenreuter
+gdc,ger000477,22065,22149,nathanael_jettel,22122,22125,ich,nathanael_jettel
+gdc,ger000477,22065,22149,nathanael_jettel,22126,22131,meine,nathanael_jettel
+gdc,ger000477,22154,22772,direktor_hassenreuter,22231,22235,Mich,direktor_hassenreuter
+gdc,ger000477,22777,22902,nathanael_jettel,22819,22822,mir,nathanael_jettel
+gdc,ger000477,22907,23222,direktor_hassenreuter,22930,22934,Mein,direktor_hassenreuter
+gdc,ger000477,22907,23222,direktor_hassenreuter,22942,22945,ich,direktor_hassenreuter
+gdc,ger000477,22907,23222,direktor_hassenreuter,23053,23056,Ich,direktor_hassenreuter
+gdc,ger000477,22907,23222,direktor_hassenreuter,23063,23067,mich,direktor_hassenreuter
+gdc,ger000477,22907,23222,direktor_hassenreuter,23160,23165,meine,direktor_hassenreuter
+gdc,ger000477,23227,23590,nathanael_jettel,23255,23259,mich,nathanael_jettel
+gdc,ger000477,23227,23590,nathanael_jettel,23300,23304,mich,nathanael_jettel
+gdc,ger000477,23227,23590,nathanael_jettel,23445,23448,Ich,nathanael_jettel
+gdc,ger000477,23227,23590,nathanael_jettel,23548,23552,mich,nathanael_jettel
+gdc,ger000477,23595,23632,direktor_hassenreuter,23618,23622,Mein,direktor_hassenreuter
+gdc,ger000477,23637,23829,nathanael_jettel,23683,23686,ich,nathanael_jettel
+gdc,ger000477,23637,23829,nathanael_jettel,23705,23708,ich,nathanael_jettel
+gdc,ger000477,23637,23829,nathanael_jettel,23716,23722,meinem,nathanael_jettel
+gdc,ger000477,23834,25425,direktor_hassenreuter,23988,23991,ich,direktor_hassenreuter
+gdc,ger000477,23834,25425,direktor_hassenreuter,24055,24076,Direktor Hassenreuter,direktor_hassenreuter
+gdc,ger000477,23834,25425,direktor_hassenreuter,24996,25013,Alice Rütterbusch,alice_ruetterbusch
+gdc,ger000477,23834,25425,direktor_hassenreuter,25091,25094,Ich,direktor_hassenreuter
+gdc,ger000477,23834,25425,direktor_hassenreuter,25190,25196,meiner,direktor_hassenreuter
+gdc,ger000477,23834,25425,direktor_hassenreuter,25246,25249,ich,direktor_hassenreuter
+gdc,ger000477,23834,25425,direktor_hassenreuter,25278,25281,ich,direktor_hassenreuter
+gdc,ger000477,25896,26238,direktor_hassenreuter,26076,26079,ich,direktor_hassenreuter
+gdc,ger000477,25896,26238,direktor_hassenreuter,26161,26164,ich,direktor_hassenreuter
+gdc,ger000477,26243,26392,alice_ruetterbusch,26322,26325,mir,alice_ruetterbusch
+gdc,ger000477,26398,26776,direktor_hassenreuter,26699,26702,ich,direktor_hassenreuter
+gdc,ger000477,26398,26776,direktor_hassenreuter,26707,26713,meiner,direktor_hassenreuter
+gdc,ger000477,26865,27557,direktor_hassenreuter,26945,26950,meine,direktor_hassenreuter
+gdc,ger000477,26865,27557,direktor_hassenreuter,26959,26962,ich,direktor_hassenreuter
+gdc,ger000477,26865,27557,direktor_hassenreuter,27088,27092,mein,direktor_hassenreuter
+gdc,ger000477,26865,27557,direktor_hassenreuter,27200,27203,ich,direktor_hassenreuter
+gdc,ger000477,26865,27557,direktor_hassenreuter,27302,27308,meiner,direktor_hassenreuter
+gdc,ger000477,26865,27557,direktor_hassenreuter,27371,27377,meiner,direktor_hassenreuter
+gdc,ger000477,26865,27557,direktor_hassenreuter,27414,27417,ich,direktor_hassenreuter
+gdc,ger000477,26865,27557,direktor_hassenreuter,27456,27460,mich,direktor_hassenreuter
+gdc,ger000477,27562,27613,alice_ruetterbusch,27594,27599,meine,alice_ruetterbusch
+gdc,ger000477,27618,27997,direktor_hassenreuter,27894,27897,ich,direktor_hassenreuter
+gdc,ger000477,28002,28528,alice_ruetterbusch,28029,28032,mir,alice_ruetterbusch
+gdc,ger000477,28002,28528,alice_ruetterbusch,28090,28093,mir,alice_ruetterbusch
+gdc,ger000477,28002,28528,alice_ruetterbusch,28175,28178,mir,alice_ruetterbusch
+gdc,ger000477,28721,28790,alice_ruetterbusch,28764,28767,mir,alice_ruetterbusch
+gdc,ger000477,29121,29634,alice_ruetterbusch,29157,29160,mir,alice_ruetterbusch
+gdc,ger000477,29121,29634,alice_ruetterbusch,29260,29263,ich,alice_ruetterbusch
+gdc,ger000477,29121,29634,alice_ruetterbusch,29464,29480,Nathanael Jettel,nathanael_jettel
+gdc,ger000477,29639,29796,direktor_hassenreuter,29662,29665,Ich,direktor_hassenreuter
+gdc,ger000477,29639,29796,direktor_hassenreuter,29732,29735,ich,direktor_hassenreuter
+gdc,ger000477,29801,30173,alice_ruetterbusch,29935,29938,mir,alice_ruetterbusch
+gdc,ger000477,29801,30173,alice_ruetterbusch,30151,30154,mir,alice_ruetterbusch
+gdc,ger000477,30178,30916,direktor_hassenreuter,30882,30885,mir,direktor_hassenreuter
+gdc,ger000477,30921,31772,alice_ruetterbusch,31245,31248,ich,alice_ruetterbusch
+gdc,ger000477,30921,31772,alice_ruetterbusch,31508,31511,mir,alice_ruetterbusch
+gdc,ger000477,30921,31772,alice_ruetterbusch,31674,31695,Direktor Hassenreuter,direktor_hassenreuter
+gdc,ger000477,31777,32203,direktor_hassenreuter,32090,32093,Ich,direktor_hassenreuter
+gdc,ger000477,32293,33812,direktor_hassenreuter,33126,33129,Ich,direktor_hassenreuter
+gdc,ger000477,32293,33812,direktor_hassenreuter,33147,33155,Walburga,walburga
+gdc,ger000477,32293,33812,direktor_hassenreuter,33172,33180,Walburga,walburga
+gdc,ger000477,32293,33812,direktor_hassenreuter,33185,33188,ich,direktor_hassenreuter
+gdc,ger000477,32293,33812,direktor_hassenreuter,33196,33199,Ich,direktor_hassenreuter
+gdc,ger000477,32293,33812,direktor_hassenreuter,33223,33226,Ich,direktor_hassenreuter
+gdc,ger000477,32293,33812,direktor_hassenreuter,33264,33270,Spitta,spitta
+gdc,ger000477,32293,33812,direktor_hassenreuter,33291,33294,ich,direktor_hassenreuter
+gdc,ger000477,32293,33812,direktor_hassenreuter,33310,33313,Ich,direktor_hassenreuter
+gdc,ger000477,32293,33812,direktor_hassenreuter,33413,33419,Spitta,spitta
+gdc,ger000477,32293,33812,direktor_hassenreuter,33549,33555,Spitta,spitta
+gdc,ger000477,32293,33812,direktor_hassenreuter,33747,33753,meiner,direktor_hassenreuter
+gdc,ger000477,32293,33812,direktor_hassenreuter,33762,33770,Walburga,walburga
+gdc,ger000477,33817,33955,spitta,33825,33828,Ich,spitta
+gdc,ger000477,33817,33955,spitta,33883,33886,ich,spitta
+gdc,ger000477,33817,33955,spitta,33902,33910,Walburga,walburga
+gdc,ger000477,33960,34153,direktor_hassenreuter,34001,34005,mein,direktor_hassenreuter
+gdc,ger000477,33960,34153,direktor_hassenreuter,34013,34019,Spitta,spitta
+gdc,ger000477,33960,34153,direktor_hassenreuter,34021,34026,Meine,direktor_hassenreuter
+gdc,ger000477,33960,34153,direktor_hassenreuter,34035,34043,Walburga,walburga
+gdc,ger000477,33960,34153,direktor_hassenreuter,34106,34109,ich,direktor_hassenreuter
+gdc,ger000477,34158,34408,spitta,34200,34203,ich,spitta
+gdc,ger000477,34158,34408,spitta,34218,34221,Ich,spitta
+gdc,ger000477,34158,34408,spitta,34227,34230,mir,spitta
+gdc,ger000477,34158,34408,spitta,34266,34269,ich,spitta
+gdc,ger000477,34158,34408,spitta,34270,34273,mir,spitta
+gdc,ger000477,34158,34408,spitta,34374,34382,Walburga,walburga
+gdc,ger000477,34413,34655,direktor_hassenreuter,34480,34486,Spitta,spitta
+gdc,ger000477,34413,34655,direktor_hassenreuter,34488,34491,Ich,direktor_hassenreuter
+gdc,ger000477,34413,34655,direktor_hassenreuter,34507,34510,Ich,direktor_hassenreuter
+gdc,ger000477,34413,34655,direktor_hassenreuter,34561,34564,ich,direktor_hassenreuter
+gdc,ger000477,34413,34655,direktor_hassenreuter,34637,34641,mein,direktor_hassenreuter
+gdc,ger000477,34413,34655,direktor_hassenreuter,34648,34654,Spitta,spitta
+gdc,ger000477,34659,34721,_stage,34659,34665,Spitta,spitta
+gdc,ger000477,34784,35039,direktor_hassenreuter,34857,34860,ich,direktor_hassenreuter
+gdc,ger000477,34784,35039,direktor_hassenreuter,34958,34961,Ich,direktor_hassenreuter
+gdc,ger000477,34784,35039,direktor_hassenreuter,35006,35009,ich,direktor_hassenreuter
+gdc,ger000477,34784,35039,direktor_hassenreuter,35020,35026,meiner,direktor_hassenreuter
+gdc,ger000477,35096,35190,direktor_hassenreuter,35146,35149,ich,direktor_hassenreuter
+gdc,ger000477,35096,35190,direktor_hassenreuter,35180,35186,Spitta,spitta
+gdc,ger000477,35195,35382,spitta,35219,35222,ich,spitta
+gdc,ger000477,35195,35382,spitta,35227,35230,ich,spitta
+gdc,ger000477,35195,35382,spitta,35356,35359,ich,spitta
+gdc,ger000477,35387,35511,direktor_hassenreuter,35504,35510,Spitta,spitta
+gdc,ger000477,35516,35589,spitta,35554,35557,ich,spitta
+gdc,ger000477,35631,35677,spitta,35644,35647,ich,spitta
+gdc,ger000477,35682,36417,direktor_hassenreuter,35800,35803,ich,direktor_hassenreuter
+gdc,ger000477,35682,36417,direktor_hassenreuter,35973,35976,ich,direktor_hassenreuter
+gdc,ger000477,35682,36417,direktor_hassenreuter,36041,36044,mir,direktor_hassenreuter
+gdc,ger000477,35682,36417,direktor_hassenreuter,36237,36241,mein,direktor_hassenreuter
+gdc,ger000477,36422,36771,spitta,36574,36577,mir,spitta
+gdc,ger000477,36422,36771,spitta,36636,36640,mich,spitta
+gdc,ger000477,36422,36771,spitta,36708,36711,ich,spitta
+gdc,ger000477,36422,36771,spitta,36717,36720,ich,spitta
+gdc,ger000477,36422,36771,spitta,36737,36743,meines,spitta
+gdc,ger000477,36776,37080,direktor_hassenreuter,36833,36837,mich,direktor_hassenreuter
+gdc,ger000477,36776,37080,direktor_hassenreuter,36848,36852,mich,direktor_hassenreuter
+gdc,ger000477,36776,37080,direktor_hassenreuter,36857,36862,meine,direktor_hassenreuter
+gdc,ger000477,36776,37080,direktor_hassenreuter,36924,36927,ich,direktor_hassenreuter
+gdc,ger000477,36776,37080,direktor_hassenreuter,37043,37048,Meine,direktor_hassenreuter
+gdc,ger000477,37085,37201,spitta,37105,37108,ich,spitta
+gdc,ger000477,37085,37201,spitta,37167,37170,ich,spitta
+gdc,ger000477,37206,37880,direktor_hassenreuter,37234,37238,mein,direktor_hassenreuter
+gdc,ger000477,37206,37880,direktor_hassenreuter,37314,37317,Ich,direktor_hassenreuter
+gdc,ger000477,37206,37880,direktor_hassenreuter,37323,37327,mich,direktor_hassenreuter
+gdc,ger000477,37206,37880,direktor_hassenreuter,37500,37503,ich,direktor_hassenreuter
+gdc,ger000477,37206,37880,direktor_hassenreuter,37603,37606,ich,direktor_hassenreuter
+gdc,ger000477,37206,37880,direktor_hassenreuter,37607,37610,mir,direktor_hassenreuter
+gdc,ger000477,37206,37880,direktor_hassenreuter,37682,37685,ich,direktor_hassenreuter
+gdc,ger000477,37206,37880,direktor_hassenreuter,37702,37705,Ich,direktor_hassenreuter
+gdc,ger000477,37206,37880,direktor_hassenreuter,37873,37879,Spitta,spitta
+gdc,ger000477,37885,37992,spitta,37952,37955,mir,spitta
+gdc,ger000477,37885,37992,spitta,37988,37991,ich,spitta
+gdc,ger000477,38187,38546,spitta,38234,38238,mich,spitta
+gdc,ger000477,38187,38546,spitta,38303,38306,ich,spitta
+gdc,ger000477,38187,38546,spitta,38495,38499,mich,spitta
+gdc,ger000477,38187,38546,spitta,38505,38508,ich,spitta
+gdc,ger000477,38551,38990,direktor_hassenreuter,38636,38641,meine,direktor_hassenreuter
+gdc,ger000477,38551,38990,direktor_hassenreuter,38731,38734,ich,direktor_hassenreuter
+gdc,ger000477,38551,38990,direktor_hassenreuter,38868,38874,meinem,direktor_hassenreuter
+gdc,ger000477,38551,38990,direktor_hassenreuter,38955,38961,Spitta,spitta
+gdc,ger000477,38551,38990,direktor_hassenreuter,38963,38966,ich,direktor_hassenreuter
+gdc,ger000477,38995,39153,spitta,39003,39007,Mein,spitta
+gdc,ger000477,38995,39153,spitta,39038,39041,Ich,spitta
+gdc,ger000477,38995,39153,spitta,39117,39123,meiner,spitta
+gdc,ger000477,39158,39406,direktor_hassenreuter,39276,39279,mir,direktor_hassenreuter
+gdc,ger000477,39158,39406,direktor_hassenreuter,39281,39284,ich,direktor_hassenreuter
+gdc,ger000477,39158,39406,direktor_hassenreuter,39328,39334,Spitta,spitta
+gdc,ger000477,39410,39631,_stage,39537,39545,Walburga,walburga
+gdc,ger000477,39410,39631,_stage,39600,39609,Frau John,frau_john
+gdc,ger000477,39410,39631,_stage,39605,39609,John,john
+gdc,ger000477,39713,39840,walburga,39723,39732,Frau John,frau_john
+gdc,ger000477,39713,39840,walburga,39728,39732,John,john
+gdc,ger000477,39713,39840,walburga,39734,39737,ich,walburga
+gdc,ger000477,39713,39840,walburga,39747,39750,Ich,walburga
+gdc,ger000477,39713,39840,walburga,39795,39798,ich,walburga
+gdc,ger000477,39713,39840,walburga,39817,39821,mich,walburga
+gdc,ger000477,39713,39840,walburga,39830,39839,Frau John,frau_john
+gdc,ger000477,39713,39840,walburga,39835,39839,John,john
+gdc,ger000477,39939,40068,walburga,39999,40002,Ich,walburga
+gdc,ger000477,39939,40068,walburga,40024,40027,ich,walburga
+gdc,ger000477,39939,40068,walburga,40058,40067,Frau John,frau_john
+gdc,ger000477,39939,40068,walburga,40063,40067,John,john
+gdc,ger000477,40205,40332,frau_john,40256,40260,mein,frau_john
+gdc,ger000477,40205,40332,frau_john,40272,40276,mich,frau_john
+gdc,ger000477,40512,40570,walburga,40522,40525,Ich,walburga
+gdc,ger000477,40512,40570,walburga,40535,40538,Ich,walburga
+gdc,ger000477,40575,40926,frau_john,40643,40652,Frau John,frau_john
+gdc,ger000477,40575,40926,frau_john,40648,40652,John,john
+gdc,ger000477,40575,40926,frau_john,40677,40685,Walburga,walburga
+gdc,ger000477,40991,41587,direktor_hassenreuter,41126,41129,mir,direktor_hassenreuter
+gdc,ger000477,41608,42335,_stage,41624,41633,Frau John,frau_john
+gdc,ger000477,41608,42335,_stage,41629,41633,John,john
+gdc,ger000477,42336,42848,_stage,42564,42568,John,john
+gdc,ger000477,42336,42848,_stage,42581,42585,John,john
+gdc,ger000477,43897,44056,_stage,43910,43914,John,john
+gdc,ger000477,44057,44442,_stage,44057,44066,Frau John,frau_john
+gdc,ger000477,44057,44442,_stage,44062,44066,John,john
+gdc,ger000477,44444,44576,john,44545,44548,mir,john
+gdc,ger000477,45278,45501,frau_john,45301,45304,mir,frau_john
+gdc,ger000477,45278,45501,frau_john,45313,45318,meine,frau_john
+gdc,ger000477,45278,45501,frau_john,45429,45432,mir,frau_john
+gdc,ger000477,45728,46302,john,45836,45841,meine,john
+gdc,ger000477,45728,46302,john,46019,46022,mir,john
+gdc,ger000477,45728,46302,john,46083,46088,meine,john
+gdc,ger000477,46387,47019,john,46460,46463,mir,john
+gdc,ger000477,46387,47019,john,46494,46498,John,john
+gdc,ger000477,46387,47019,john,46795,46798,mir,john
+gdc,ger000477,46387,47019,john,46914,46917,mir,john
+gdc,ger000477,46387,47019,john,46948,46953,meine,john
+gdc,ger000477,47115,47249,john,47237,47240,mir,john
+gdc,ger000477,47633,47980,frau_john,47702,47707,Selma,selma
+gdc,ger000477,47633,47980,frau_john,47797,47806,Frau John,frau_john
+gdc,ger000477,47633,47980,frau_john,47802,47806,John,john
+gdc,ger000477,47633,47980,frau_john,47886,47891,Selma,selma
+gdc,ger000477,47985,48078,selma,48068,48077,Frau John,frau_john
+gdc,ger000477,47985,48078,selma,48073,48077,John,john
+gdc,ger000477,48084,48319,frau_john,48115,48120,Selma,selma
+gdc,ger000477,48084,48319,frau_john,48184,48188,mein,frau_john
+gdc,ger000477,48324,48646,selma,48606,48609,mir,selma
+gdc,ger000477,48776,48825,_stage,48792,48797,Selma,selma
+gdc,ger000477,48765,49146,frau_john,48981,48986,Selma,selma
+gdc,ger000477,48765,49146,frau_john,49075,49080,Selma,selma
+gdc,ger000477,48765,49146,frau_john,49105,49114,Frau John,frau_john
+gdc,ger000477,48765,49146,frau_john,49110,49114,John,john
+gdc,ger000477,49596,49642,_stage,49625,49629,John,john
+gdc,ger000477,49709,49894,frau_john,49761,49764,mir,frau_john
+gdc,ger000477,49899,49977,frau_direktor_hassenreuter,49942,49945,Ich,frau_direktor_hassenreuter
+gdc,ger000477,49899,49977,frau_direktor_hassenreuter,49950,49976,Frau Direktor Hassenreuter,frau_direktor_hassenreuter
+gdc,ger000477,49899,49977,frau_direktor_hassenreuter,49955,49976,Direktor Hassenreuter,direktor_hassenreuter
+gdc,ger000477,50116,50358,_stage,50116,50142,Frau Direktor Hassenreuter,frau_direktor_hassenreuter
+gdc,ger000477,50116,50358,_stage,50121,50142,Direktor Hassenreuter,direktor_hassenreuter
+gdc,ger000477,50116,50358,_stage,50164,50172,Walburga,walburga
+gdc,ger000477,50116,50358,_stage,50249,50257,Walburga,walburga
+gdc,ger000477,50360,50583,frau_direktor_hassenreuter,50399,50408,Frau John,frau_john
+gdc,ger000477,50360,50583,frau_direktor_hassenreuter,50404,50408,John,john
+gdc,ger000477,50360,50583,frau_direktor_hassenreuter,50410,50413,Ich,frau_direktor_hassenreuter
+gdc,ger000477,50360,50583,frau_direktor_hassenreuter,50441,50444,mir,frau_direktor_hassenreuter
+gdc,ger000477,50588,50662,frau_john,50607,50610,mir,frau_john
+gdc,ger000477,50667,50964,frau_direktor_hassenreuter,50735,50744,Frau John,frau_john
+gdc,ger000477,50667,50964,frau_direktor_hassenreuter,50740,50744,John,john
+gdc,ger000477,50667,50964,frau_direktor_hassenreuter,50919,50925,meinem,frau_direktor_hassenreuter
+gdc,ger000477,51197,51637,frau_john,51334,51337,mir,frau_john
+gdc,ger000477,51696,51987,frau_john,51834,51838,John,john
+gdc,ger000477,52098,52580,frau_direktor_hassenreuter,52134,52137,mir,frau_direktor_hassenreuter
+gdc,ger000477,52098,52580,frau_direktor_hassenreuter,52138,52142,mein,frau_direktor_hassenreuter
+gdc,ger000477,52098,52580,frau_direktor_hassenreuter,52152,52156,mein,frau_direktor_hassenreuter
+gdc,ger000477,52098,52580,frau_direktor_hassenreuter,52178,52181,mir,frau_direktor_hassenreuter
+gdc,ger000477,52098,52580,frau_direktor_hassenreuter,52182,52186,mein,frau_direktor_hassenreuter
+gdc,ger000477,52098,52580,frau_direktor_hassenreuter,52289,52293,mein,frau_direktor_hassenreuter
+gdc,ger000477,52595,52624,_stage,52602,52606,John,john
+gdc,ger000477,52868,53732,frau_direktor_hassenreuter,53150,53154,mein,frau_direktor_hassenreuter
+gdc,ger000477,52868,53732,frau_direktor_hassenreuter,53247,53250,ich,frau_direktor_hassenreuter
+gdc,ger000477,52868,53732,frau_direktor_hassenreuter,53265,53269,mein,frau_direktor_hassenreuter
+gdc,ger000477,52868,53732,frau_direktor_hassenreuter,53280,53285,meine,frau_direktor_hassenreuter
+gdc,ger000477,52868,53732,frau_direktor_hassenreuter,53298,53307,Frau John,frau_john
+gdc,ger000477,52868,53732,frau_direktor_hassenreuter,53303,53307,John,john
+gdc,ger000477,52868,53732,frau_direktor_hassenreuter,53547,53550,ich,frau_direktor_hassenreuter
+gdc,ger000477,52868,53732,frau_direktor_hassenreuter,53562,53565,ich,frau_direktor_hassenreuter
+gdc,ger000477,52868,53732,frau_direktor_hassenreuter,53625,53631,meines,frau_direktor_hassenreuter
+gdc,ger000477,52868,53732,frau_direktor_hassenreuter,53688,53696,Walburga,walburga
+gdc,ger000477,53736,53994,_stage,53736,53757,Direktor Hassenreuter,direktor_hassenreuter
+gdc,ger000477,53996,55083,direktor_hassenreuter,54085,54090,meine,direktor_hassenreuter
+gdc,ger000477,53996,55083,direktor_hassenreuter,54146,54152,meinen,direktor_hassenreuter
+gdc,ger000477,53996,55083,direktor_hassenreuter,54162,54168,Spitta,spitta
+gdc,ger000477,53996,55083,direktor_hassenreuter,54173,54183,Käferstein,kaeferstein
+gdc,ger000477,53996,55083,direktor_hassenreuter,54241,54250,Frau John,frau_john
+gdc,ger000477,53996,55083,direktor_hassenreuter,54246,54250,John,john
+gdc,ger000477,53996,55083,direktor_hassenreuter,54473,54477,John,john
+gdc,ger000477,53996,55083,direktor_hassenreuter,54713,54718,meine,direktor_hassenreuter
+gdc,ger000477,53996,55083,direktor_hassenreuter,54728,54733,meine,direktor_hassenreuter
+gdc,ger000477,53996,55083,direktor_hassenreuter,54784,54787,Ich,direktor_hassenreuter
+gdc,ger000477,53996,55083,direktor_hassenreuter,54799,54804,meine,direktor_hassenreuter
+gdc,ger000477,53996,55083,direktor_hassenreuter,54841,54849,Walburga,walburga
+gdc,ger000477,53996,55083,direktor_hassenreuter,54919,54923,John,john
+gdc,ger000477,53996,55083,direktor_hassenreuter,55006,55010,John,john
+gdc,ger000477,53996,55083,direktor_hassenreuter,55061,55065,John,john
+gdc,ger000477,55396,55555,frau_direktor_hassenreuter,55550,55554,John,john
+gdc,ger000477,55898,56019,frau_john,55995,56000,Bruno,bruno
+gdc,ger000477,56024,56083,direktor_hassenreuter,56052,56057,Bruno,bruno
+gdc,ger000477,56088,56199,john,56118,56123,Bruno,bruno
+gdc,ger000477,56088,56199,john,56164,56167,mir,john
+gdc,ger000477,56204,56410,frau_john,56259,56264,Bruno,bruno
+gdc,ger000477,56768,57075,john,56784,56787,mir,john
+gdc,ger000477,56768,57075,john,56808,56811,mir,john
+gdc,ger000477,56768,57075,john,56970,56974,mein,john
+gdc,ger000477,56768,57075,john,57061,57064,mir,john
+gdc,ger000477,57080,57251,frau_john,57111,57116,Bruno,bruno
+gdc,ger000477,57080,57251,frau_john,57181,57185,mein,frau_john
+gdc,ger000477,57080,57251,frau_john,57193,57197,mich,frau_john
+gdc,ger000477,57256,57304,john,57274,57277,mir,john
+gdc,ger000477,57366,57427,direktor_hassenreuter,57422,57426,John,john
+gdc,ger000477,57432,57571,john,57515,57520,meine,john
+gdc,ger000477,57576,58435,direktor_hassenreuter,57643,57646,Ich,direktor_hassenreuter
+gdc,ger000477,57576,58435,direktor_hassenreuter,57652,57658,meinen,direktor_hassenreuter
+gdc,ger000477,57576,58435,direktor_hassenreuter,57741,57744,mir,direktor_hassenreuter
+gdc,ger000477,57576,58435,direktor_hassenreuter,57948,57956,Walburga,walburga
+gdc,ger000477,58567,58734,_stage,58607,58617,Käferstein,kaeferstein
+gdc,ger000477,58567,58734,_stage,58622,58631,Dr. Kegel,dr_kegel
+gdc,ger000477,58736,58916,direktor_hassenreuter,58799,58804,meine,direktor_hassenreuter
+gdc,ger000477,58736,58916,direktor_hassenreuter,58813,58816,ich,direktor_hassenreuter
+gdc,ger000477,58736,58916,direktor_hassenreuter,58831,58834,Ich,direktor_hassenreuter
+gdc,ger000477,59313,59461,direktor_hassenreuter,59397,59402,meine,direktor_hassenreuter
+gdc,ger000477,59313,59461,direktor_hassenreuter,59435,59438,ich,direktor_hassenreuter
+gdc,ger000477,59466,59725,kaeferstein,59586,59592,Spitta,spitta
+gdc,ger000477,59785,60081,direktor_hassenreuter,59856,59865,Frau John,frau_john
+gdc,ger000477,59785,60081,direktor_hassenreuter,59861,59865,John,john
+gdc,ger000477,59785,60081,direktor_hassenreuter,59928,59934,Spitta,spitta
+gdc,ger000477,60205,60407,direktor_hassenreuter,60228,60234,Meiner,direktor_hassenreuter
+gdc,ger000477,60205,60407,direktor_hassenreuter,60279,60285,Spitta,spitta
+gdc,ger000477,60412,60494,frau_direktor_hassenreuter,60468,60474,Spitta,spitta
+gdc,ger000477,60499,60853,direktor_hassenreuter,60553,60556,mir,direktor_hassenreuter
+gdc,ger000477,60499,60853,direktor_hassenreuter,60655,60665,Käferstein,kaeferstein
+gdc,ger000477,60499,60853,direktor_hassenreuter,60721,60724,ich,direktor_hassenreuter
+gdc,ger000477,60499,60853,direktor_hassenreuter,60725,60731,meinen,direktor_hassenreuter
+gdc,ger000477,60858,61107,kaeferstein,60904,60907,ich,kaeferstein
+gdc,ger000477,61268,61342,direktor_hassenreuter,61332,61341,Frau John,frau_john
+gdc,ger000477,61268,61342,direktor_hassenreuter,61337,61341,John,john
+gdc,ger000477,61347,61626,john,61415,61419,John,john
+gdc,ger000477,61347,61626,john,61450,61455,meine,john
+gdc,ger000477,61347,61626,john,61482,61485,mir,john
+gdc,ger000477,61347,61626,john,61490,61495,meine,john
+gdc,ger000477,61347,61626,john,61521,61529,Walburga,walburga
+gdc,ger000477,61747,62352,john,61888,61891,mir,john
+gdc,ger000477,61747,62352,john,61946,61949,mir,john
+gdc,ger000477,61747,62352,john,61967,61971,mein,john
+gdc,ger000477,61747,62352,john,61988,61991,mir,john
+gdc,ger000477,61747,62352,john,62184,62187,mir,john
+gdc,ger000477,61747,62352,john,62303,62309,meinen,john
+gdc,ger000477,62379,62418,_stage,62386,62390,John,john
+gdc,ger000477,62563,62750,_stage,62578,62584,Spitta,spitta
+gdc,ger000477,62752,62837,spitta,62779,62782,ich,spitta
+gdc,ger000477,62752,62837,spitta,62783,62787,mich,spitta
+gdc,ger000477,62752,62837,spitta,62827,62836,Frau John,frau_john
+gdc,ger000477,62752,62837,spitta,62832,62836,John,john
+gdc,ger000477,62842,62936,direktor_hassenreuter,62929,62935,Spitta,spitta
+gdc,ger000477,62941,63023,spitta,62949,62952,Ich,spitta
+gdc,ger000477,63242,63429,spitta,63323,63326,ich,spitta
+gdc,ger000477,63434,63602,direktor_hassenreuter,63502,63508,Spitta,spitta
+gdc,ger000477,63607,63984,spitta,63825,63828,Ich,spitta
+gdc,ger000477,63607,63984,spitta,63931,63934,ich,spitta
+gdc,ger000477,63988,64125,_stage,63988,63997,Frau John,frau_john
+gdc,ger000477,63988,64125,_stage,63993,63997,John,john
+gdc,ger000477,64286,64827,spitta,64302,64305,mir,spitta
+gdc,ger000477,64286,64827,spitta,64347,64350,ich,spitta
+gdc,ger000477,64286,64827,spitta,64551,64557,Spitta,spitta
+gdc,ger000477,64286,64827,spitta,64609,64613,mich,spitta
+gdc,ger000477,64286,64827,spitta,64660,64663,Ich,spitta
+gdc,ger000477,64832,65146,frau_john,64906,64910,John,john
+gdc,ger000477,65151,65503,spitta,65159,65162,Ich,spitta
+gdc,ger000477,65151,65503,spitta,65168,65171,mir,spitta
+gdc,ger000477,65151,65503,spitta,65480,65483,ich,spitta
+gdc,ger000477,65514,65524,_stage,65517,65523,Spitta,spitta
+gdc,ger000477,65940,66334,direktor_hassenreuter,65999,66004,meine,direktor_hassenreuter
+gdc,ger000477,65940,66334,direktor_hassenreuter,66079,66084,Meine,direktor_hassenreuter
+gdc,ger000477,65940,66334,direktor_hassenreuter,66190,66195,meine,direktor_hassenreuter
+gdc,ger000477,65940,66334,direktor_hassenreuter,66270,66280,Käferstein,kaeferstein
+gdc,ger000477,65940,66334,direktor_hassenreuter,66285,66294,Dr. Kegel,dr_kegel
+gdc,ger000477,65940,66334,direktor_hassenreuter,66305,66309,John,john
+gdc,ger000477,66339,66412,john,66402,66406,John,john
+gdc,ger000477,66417,66466,spitta,66437,66440,mir,spitta
+gdc,ger000477,66471,67501,frau_john,66747,66751,mein,frau_john
+gdc,ger000477,66471,67501,frau_john,66765,66769,mein,frau_john
+gdc,ger000477,66471,67501,frau_john,67310,67318,Walburga,walburga
+gdc,ger000477,66471,67501,frau_john,67323,67329,Spitta,spitta
+gdc,ger000477,67507,67563,spitta,67553,67562,Frau John,frau_john
+gdc,ger000477,67507,67563,spitta,67558,67562,John,john
+gdc,ger000477,67674,67752,walburga,67730,67734,John,john
+gdc,ger000477,67757,67972,spitta,67820,67823,Ich,spitta
+gdc,ger000477,67757,67972,spitta,67858,67861,ich,spitta
+gdc,ger000477,67757,67972,spitta,67889,67892,ich,spitta
+gdc,ger000477,67977,68076,walburga,68000,68003,ich,walburga
+gdc,ger000477,68081,68132,spitta,68098,68106,Walburga,walburga
+gdc,ger000477,68081,68132,spitta,68108,68111,ich,spitta
+gdc,ger000477,68164,68208,spitta,68177,68180,ich,spitta
+gdc,ger000477,68291,68402,spitta,68328,68331,mir,spitta
+gdc,ger000477,68407,68458,walburga,68421,68424,ich,walburga
+gdc,ger000477,68407,68458,walburga,68430,68433,mir,walburga
+gdc,ger000477,68463,68517,spitta,68487,68495,Walburga,walburga
+gdc,ger000477,68522,68746,walburga,68532,68535,Ich,walburga
+gdc,ger000477,68522,68746,walburga,68584,68587,mir,walburga
+gdc,ger000477,68522,68746,walburga,68596,68599,ich,walburga
+gdc,ger000477,68522,68746,walburga,68675,68678,ich,walburga
+gdc,ger000477,68776,68892,walburga,68812,68815,mir,walburga
+gdc,ger000477,68897,69206,spitta,68905,68909,Mein,spitta
+gdc,ger000477,68897,69206,spitta,68935,68943,Walburga,walburga
+gdc,ger000477,68897,69206,spitta,69056,69059,ich,spitta
+gdc,ger000477,68897,69206,spitta,69128,69131,mir,spitta
+gdc,ger000477,68897,69206,spitta,69176,69181,meine,spitta
+gdc,ger000477,69211,69513,walburga,69329,69332,ich,walburga
+gdc,ger000477,69211,69513,walburga,69333,69339,meinen,walburga
+gdc,ger000477,69211,69513,walburga,69386,69389,ich,walburga
+gdc,ger000477,69211,69513,walburga,69432,69435,ich,walburga
+gdc,ger000477,69211,69513,walburga,69436,69439,mir,walburga
+gdc,ger000477,69211,69513,walburga,69451,69454,ich,walburga
+gdc,ger000477,69579,69728,walburga,69617,69620,Ich,walburga
+gdc,ger000477,69579,69728,walburga,69656,69659,ich,walburga
+gdc,ger000477,69733,70309,spitta,69741,69744,Ich,spitta
+gdc,ger000477,69733,70309,spitta,69760,69763,Ich,spitta
+gdc,ger000477,69733,70309,spitta,69781,69784,mir,spitta
+gdc,ger000477,69733,70309,spitta,69823,69826,ich,spitta
+gdc,ger000477,69733,70309,spitta,69906,69909,mir,spitta
+gdc,ger000477,69733,70309,spitta,70034,70038,mein,spitta
+gdc,ger000477,69733,70309,spitta,70134,70139,meine,spitta
+gdc,ger000477,70323,70337,_stage,70330,70336,Spitta,spitta
+gdc,ger000477,70393,70866,spitta,70426,70429,ich,spitta
+gdc,ger000477,70393,70866,spitta,70445,70448,Ich,spitta
+gdc,ger000477,70393,70866,spitta,70559,70562,ich,spitta
+gdc,ger000477,70393,70866,spitta,70585,70588,ich,spitta
+gdc,ger000477,70393,70866,spitta,70589,70593,mich,spitta
+gdc,ger000477,70393,70866,spitta,70625,70628,ich,spitta
+gdc,ger000477,70393,70866,spitta,70741,70744,Ich,spitta
+gdc,ger000477,70393,70866,spitta,70825,70830,meine,spitta
+gdc,ger000477,71078,71114,die_piperkarcka,71104,71113,Frau John,frau_john
+gdc,ger000477,71078,71114,die_piperkarcka,71109,71113,John,john
+gdc,ger000477,71170,71218,die_piperkarcka,71208,71217,Frau John,frau_john
+gdc,ger000477,71170,71218,die_piperkarcka,71213,71217,John,john
+gdc,ger000477,71286,71313,walburga,71303,71312,Frau John,frau_john
+gdc,ger000477,71286,71313,walburga,71308,71312,John,john
+gdc,ger000477,71318,71612,frau_john,71497,71503,Spitta,spitta
+gdc,ger000477,71318,71612,frau_john,71508,71516,Walburga,walburga
+gdc,ger000477,71318,71612,frau_john,71529,71538,Frau John,frau_john
+gdc,ger000477,71318,71612,frau_john,71534,71538,John,john
+gdc,ger000477,71617,71729,die_piperkarcka,71659,71662,mir,die_piperkarcka
+gdc,ger000477,72259,72319,die_piperkarcka,72309,72318,Frau John,frau_john
+gdc,ger000477,72259,72319,die_piperkarcka,72314,72318,John,john
+gdc,ger000477,72352,72382,die_piperkarcka,72369,72373,Mein,die_piperkarcka
+gdc,ger000477,72611,72811,die_piperkarcka,72689,72692,mir,die_piperkarcka
+gdc,ger000477,72611,72811,die_piperkarcka,72733,72736,mir,die_piperkarcka
+gdc,ger000477,72611,72811,die_piperkarcka,72786,72789,mir,die_piperkarcka
+gdc,ger000477,72611,72811,die_piperkarcka,72801,72810,Frau John,frau_john
+gdc,ger000477,72611,72811,die_piperkarcka,72806,72810,John,john
+gdc,ger000477,72816,73094,frau_john,72947,72950,mir,frau_john
+gdc,ger000477,73099,73262,die_piperkarcka,73126,73129,mir,die_piperkarcka
+gdc,ger000477,73099,73262,die_piperkarcka,73191,73194,mir,die_piperkarcka
+gdc,ger000477,73267,73373,frau_john,73310,73313,mir,frau_john
+gdc,ger000477,73576,73641,die_piperkarcka,73602,73606,mich,die_piperkarcka
+gdc,ger000477,73646,73978,frau_john,73698,73703,Meine,frau_john
+gdc,ger000477,73646,73978,frau_john,73885,73888,mir,frau_john
+gdc,ger000477,73983,74094,die_piperkarcka,74065,74069,mich,die_piperkarcka
+gdc,ger000477,73983,74094,die_piperkarcka,74084,74093,Frau John,frau_john
+gdc,ger000477,73983,74094,die_piperkarcka,74089,74093,John,john
+gdc,ger000477,74099,74578,frau_john,74236,74240,mich,frau_john
+gdc,ger000477,74099,74578,frau_john,74274,74279,meine,frau_john
+gdc,ger000477,74099,74578,frau_john,74374,74377,mir,frau_john
+gdc,ger000477,74099,74578,frau_john,74435,74439,mich,frau_john
+gdc,ger000477,74776,74901,die_piperkarcka,74842,74845,mir,die_piperkarcka
+gdc,ger000477,74776,74901,die_piperkarcka,74863,74867,mich,die_piperkarcka
+gdc,ger000477,74936,75179,die_piperkarcka,75005,75008,mir,die_piperkarcka
+gdc,ger000477,74936,75179,die_piperkarcka,75024,75027,mir,die_piperkarcka
+gdc,ger000477,74936,75179,die_piperkarcka,75041,75044,mir,die_piperkarcka
+gdc,ger000477,74936,75179,die_piperkarcka,75092,75097,meine,die_piperkarcka
+gdc,ger000477,74936,75179,die_piperkarcka,75109,75112,mir,die_piperkarcka
+gdc,ger000477,75184,75378,frau_john,75339,75343,mein,frau_john
+gdc,ger000477,75446,75504,die_piperkarcka,75494,75503,Frau John,frau_john
+gdc,ger000477,75446,75504,die_piperkarcka,75499,75503,John,john
+gdc,ger000477,75509,75673,frau_john,75579,75582,mir,frau_john
+gdc,ger000477,75678,75735,die_piperkarcka,75725,75734,Frau John,frau_john
+gdc,ger000477,75678,75735,die_piperkarcka,75730,75734,John,john
+gdc,ger000477,75909,76336,_stage,75909,75918,Frau John,frau_john
+gdc,ger000477,75909,76336,_stage,75914,75918,John,john
+gdc,ger000477,76567,76950,die_piperkarcka,76593,76596,mir,die_piperkarcka
+gdc,ger000477,76567,76950,die_piperkarcka,76646,76655,Frau John,frau_john
+gdc,ger000477,76567,76950,die_piperkarcka,76651,76655,John,john
+gdc,ger000477,76567,76950,die_piperkarcka,76657,76660,Mir,die_piperkarcka
+gdc,ger000477,76567,76950,die_piperkarcka,76675,76678,mir,die_piperkarcka
+gdc,ger000477,76567,76950,die_piperkarcka,76887,76891,mein,die_piperkarcka
+gdc,ger000477,76955,78237,frau_john,77573,77577,John,john
+gdc,ger000477,76955,78237,frau_john,77627,77632,meine,frau_john
+gdc,ger000477,78242,78301,die_piperkarcka,78275,78279,mein,die_piperkarcka
+gdc,ger000477,78242,78301,die_piperkarcka,78293,78297,John,john
+gdc,ger000477,78491,78548,die_piperkarcka,78517,78521,mein,die_piperkarcka
+gdc,ger000477,78655,78870,die_piperkarcka,78684,78688,mich,die_piperkarcka
+gdc,ger000477,78655,78870,die_piperkarcka,78707,78710,mir,die_piperkarcka
+gdc,ger000477,78655,78870,die_piperkarcka,78727,78730,mir,die_piperkarcka
+gdc,ger000477,78655,78870,die_piperkarcka,78830,78834,mich,die_piperkarcka
+gdc,ger000477,78939,79460,die_piperkarcka,79086,79101,Die Piperkarcka,die_piperkarcka
+gdc,ger000477,78939,79460,die_piperkarcka,79264,79273,Frau John,frau_john
+gdc,ger000477,78939,79460,die_piperkarcka,79269,79273,John,john
+gdc,ger000477,78939,79460,die_piperkarcka,79359,79374,Die Piperkarcka,die_piperkarcka
+gdc,ger000477,78939,79460,die_piperkarcka,79425,79428,mir,die_piperkarcka
+gdc,ger000477,78939,79460,die_piperkarcka,79438,79442,mein,die_piperkarcka
+gdc,ger000477,79465,79906,frau_john,79502,79505,mir,frau_john
+gdc,ger000477,79465,79906,frau_john,79534,79537,mir,frau_john
+gdc,ger000477,79465,79906,frau_john,79600,79603,ich,frau_john
+gdc,ger000477,79465,79906,frau_john,79616,79619,mir,frau_john
+gdc,ger000477,79465,79906,frau_john,79639,79654,Die Piperkarcka,die_piperkarcka
+gdc,ger000477,79911,79995,die_piperkarcka,79985,79994,Frau John,frau_john
+gdc,ger000477,79911,79995,die_piperkarcka,79990,79994,John,john
+gdc,ger000477,80000,80361,frau_john,80144,80148,mein,frau_john
+gdc,ger000477,80366,81085,die_piperkarcka,80416,80419,mir,die_piperkarcka
+gdc,ger000477,80366,81085,die_piperkarcka,80451,80465,Frau Kielbacke,frau_kielbacke
+gdc,ger000477,80366,81085,die_piperkarcka,80475,80478,mir,die_piperkarcka
+gdc,ger000477,80366,81085,die_piperkarcka,80513,80517,mich,die_piperkarcka
+gdc,ger000477,80366,81085,die_piperkarcka,80553,80556,mir,die_piperkarcka
+gdc,ger000477,80366,81085,die_piperkarcka,80590,80594,mich,die_piperkarcka
+gdc,ger000477,80366,81085,die_piperkarcka,80796,80800,mich,die_piperkarcka
+gdc,ger000477,80366,81085,die_piperkarcka,80867,80870,mir,die_piperkarcka
+gdc,ger000477,80366,81085,die_piperkarcka,80888,80897,Frau John,frau_john
+gdc,ger000477,80366,81085,die_piperkarcka,80893,80897,John,john
+gdc,ger000477,80366,81085,die_piperkarcka,81054,81057,mir,die_piperkarcka
+gdc,ger000477,81285,81459,die_piperkarcka,81366,81369,mir,die_piperkarcka
+gdc,ger000477,81558,81678,die_piperkarcka,81580,81584,mich,die_piperkarcka
+gdc,ger000477,81558,81678,die_piperkarcka,81585,81590,meine,die_piperkarcka
+gdc,ger000477,81558,81678,die_piperkarcka,81607,81621,Frau Kielbacke,frau_kielbacke
+gdc,ger000477,81558,81678,die_piperkarcka,81626,81630,mich,die_piperkarcka
+gdc,ger000477,81558,81678,die_piperkarcka,81647,81651,mich,die_piperkarcka
+gdc,ger000477,81744,81800,die_piperkarcka,81790,81799,Frau John,frau_john
+gdc,ger000477,81744,81800,die_piperkarcka,81795,81799,John,john
+gdc,ger000477,82175,82266,die_piperkarcka,82242,82251,Frau John,frau_john
+gdc,ger000477,82175,82266,die_piperkarcka,82247,82251,John,john
+gdc,ger000477,82322,82495,die_piperkarcka,82441,82445,mich,die_piperkarcka
+gdc,ger000477,82627,82696,die_piperkarcka,82661,82665,mein,die_piperkarcka
+gdc,ger000477,82627,82696,die_piperkarcka,82686,82695,Frau John,frau_john
+gdc,ger000477,82627,82696,die_piperkarcka,82691,82695,John,john
+gdc,ger000477,82893,83004,die_piperkarcka,82934,82937,mir,die_piperkarcka
+gdc,ger000477,83020,83111,_stage,83030,83045,die Piperkarcka,die_piperkarcka
+gdc,ger000477,83150,83761,_stage,83150,83159,Frau John,frau_john
+gdc,ger000477,83150,83761,_stage,83155,83159,John,john
+gdc,ger000477,83150,83761,_stage,83224,83239,die Piperkarcka,die_piperkarcka
+gdc,ger000477,83150,83761,_stage,83737,83742,Selma,selma
+gdc,ger000477,83763,84092,selma,83786,83795,Frau John,frau_john
+gdc,ger000477,83763,84092,selma,83791,83795,John,john
+gdc,ger000477,83763,84092,selma,83852,83861,Frau John,frau_john
+gdc,ger000477,83763,84092,selma,83857,83861,John,john
+gdc,ger000477,83763,84092,selma,83970,83975,Selma,selma
+gdc,ger000477,84430,85444,_stage,84430,84451,Direktor Hassenreuter,direktor_hassenreuter
+gdc,ger000477,84430,85444,_stage,84479,84485,Spitta,spitta
+gdc,ger000477,84430,85444,_stage,84487,84496,Dr. Kegel,dr_kegel
+gdc,ger000477,84430,85444,_stage,84501,84511,Käferstein,kaeferstein
+gdc,ger000477,84430,85444,_stage,84688,84698,Käferstein,kaeferstein
+gdc,ger000477,84430,85444,_stage,84716,84722,Spitta,spitta
+gdc,ger000477,84430,85444,_stage,84995,85003,Walburga,walburga
+gdc,ger000477,84430,85444,_stage,85102,85110,Quaquaro,quaquaro
+gdc,ger000477,85655,86100,direktor_hassenreuter,85847,85850,ich,direktor_hassenreuter
+gdc,ger000477,85655,86100,direktor_hassenreuter,85889,85894,meine,direktor_hassenreuter
+gdc,ger000477,85655,86100,direktor_hassenreuter,85917,85920,ich,direktor_hassenreuter
+gdc,ger000477,85655,86100,direktor_hassenreuter,85962,85967,meine,direktor_hassenreuter
+gdc,ger000477,85655,86100,direktor_hassenreuter,86051,86054,ich,direktor_hassenreuter
+gdc,ger000477,86260,86687,direktor_hassenreuter,86343,86348,meine,direktor_hassenreuter
+gdc,ger000477,86260,86687,direktor_hassenreuter,86560,86570,Käferstein,kaeferstein
+gdc,ger000477,86814,87429,direktor_hassenreuter,86932,86942,Käferstein,kaeferstein
+gdc,ger000477,86814,87429,direktor_hassenreuter,87014,87023,Dr. Kegel,dr_kegel
+gdc,ger000477,87434,87497,spitta,87472,87475,mir,spitta
+gdc,ger000477,87503,88692,direktor_hassenreuter,87544,87550,Spitta,spitta
+gdc,ger000477,87503,88692,direktor_hassenreuter,87683,87687,mein,direktor_hassenreuter
+gdc,ger000477,87503,88692,direktor_hassenreuter,87695,87701,Spitta,spitta
+gdc,ger000477,87503,88692,direktor_hassenreuter,87805,87808,ich,direktor_hassenreuter
+gdc,ger000477,87503,88692,direktor_hassenreuter,87909,87917,Quaquaro,quaquaro
+gdc,ger000477,87503,88692,direktor_hassenreuter,87972,87980,Quaquaro,quaquaro
+gdc,ger000477,87503,88692,direktor_hassenreuter,87998,88001,ich,direktor_hassenreuter
+gdc,ger000477,87503,88692,direktor_hassenreuter,88041,88044,ich,direktor_hassenreuter
+gdc,ger000477,87503,88692,direktor_hassenreuter,88074,88077,mir,direktor_hassenreuter
+gdc,ger000477,87503,88692,direktor_hassenreuter,88214,88217,ich,direktor_hassenreuter
+gdc,ger000477,87503,88692,direktor_hassenreuter,88222,88227,meine,direktor_hassenreuter
+gdc,ger000477,87503,88692,direktor_hassenreuter,88248,88251,ich,direktor_hassenreuter
+gdc,ger000477,87503,88692,direktor_hassenreuter,88287,88290,ich,direktor_hassenreuter
+gdc,ger000477,87503,88692,direktor_hassenreuter,88369,88372,ich,direktor_hassenreuter
+gdc,ger000477,88755,89077,direktor_hassenreuter,88807,88816,Frau John,frau_john
+gdc,ger000477,88755,89077,direktor_hassenreuter,88812,88816,John,john
+gdc,ger000477,88755,89077,direktor_hassenreuter,88862,88865,ich,direktor_hassenreuter
+gdc,ger000477,88755,89077,direktor_hassenreuter,88912,88917,meine,direktor_hassenreuter
+gdc,ger000477,89082,89450,kaeferstein,89103,89109,meiner,kaeferstein
+gdc,ger000477,89082,89450,kaeferstein,89306,89309,ich,kaeferstein
+gdc,ger000477,89455,89886,direktor_hassenreuter,89586,89596,Käferstein,kaeferstein
+gdc,ger000477,89455,89886,direktor_hassenreuter,89819,89825,meinem,direktor_hassenreuter
+gdc,ger000477,90481,91040,direktor_hassenreuter,90625,90628,Ich,direktor_hassenreuter
+gdc,ger000477,90481,91040,direktor_hassenreuter,90747,90750,ich,direktor_hassenreuter
+gdc,ger000477,90481,91040,direktor_hassenreuter,90852,90855,mir,direktor_hassenreuter
+gdc,ger000477,90481,91040,direktor_hassenreuter,90925,90933,Quaquaro,quaquaro
+gdc,ger000477,90481,91040,direktor_hassenreuter,91015,91021,Spitta,spitta
+gdc,ger000477,91045,91452,spitta,91111,91114,mir,spitta
+gdc,ger000477,91045,91452,spitta,91177,91180,ich,spitta
+gdc,ger000477,91045,91452,spitta,91210,91216,meines,spitta
+gdc,ger000477,91045,91452,spitta,91257,91260,ich,spitta
+gdc,ger000477,91045,91452,spitta,91289,91292,ich,spitta
+gdc,ger000477,91045,91452,spitta,91332,91335,ich,spitta
+gdc,ger000477,91045,91452,spitta,91362,91366,mich,spitta
+gdc,ger000477,91480,91650,_stage,91596,91602,Spitta,spitta
+gdc,ger000477,91458,92046,direktor_hassenreuter,91668,91674,Spitta,spitta
+gdc,ger000477,91458,92046,direktor_hassenreuter,91679,91682,Ich,direktor_hassenreuter
+gdc,ger000477,91458,92046,direktor_hassenreuter,91715,91721,Spitta,spitta
+gdc,ger000477,91458,92046,direktor_hassenreuter,91723,91726,ich,direktor_hassenreuter
+gdc,ger000477,91458,92046,direktor_hassenreuter,91811,91814,ich,direktor_hassenreuter
+gdc,ger000477,91458,92046,direktor_hassenreuter,91849,91852,ich,direktor_hassenreuter
+gdc,ger000477,91458,92046,direktor_hassenreuter,91898,91901,ich,direktor_hassenreuter
+gdc,ger000477,91458,92046,direktor_hassenreuter,91902,91906,mich,direktor_hassenreuter
+gdc,ger000477,91458,92046,direktor_hassenreuter,91964,91967,ich,direktor_hassenreuter
+gdc,ger000477,91458,92046,direktor_hassenreuter,91974,91977,ich,direktor_hassenreuter
+gdc,ger000477,92051,92216,spitta,92117,92120,mir,spitta
+gdc,ger000477,92051,92216,spitta,92140,92143,ich,spitta
+gdc,ger000477,92051,92216,spitta,92184,92187,mir,spitta
+gdc,ger000477,92390,92475,spitta,92398,92401,Ich,spitta
+gdc,ger000477,92480,92541,direktor_hassenreuter,92534,92540,Spitta,spitta
+gdc,ger000477,92676,93098,direktor_hassenreuter,92836,92840,mein,direktor_hassenreuter
+gdc,ger000477,92676,93098,direktor_hassenreuter,92864,92868,mein,direktor_hassenreuter
+gdc,ger000477,92676,93098,direktor_hassenreuter,92881,92884,Ich,direktor_hassenreuter
+gdc,ger000477,92676,93098,direktor_hassenreuter,92957,92960,Ich,direktor_hassenreuter
+gdc,ger000477,93103,93146,spitta,93121,93124,mir,spitta
+gdc,ger000477,94113,94646,spitta,94147,94150,mir,spitta
+gdc,ger000477,94113,94646,spitta,94179,94182,Ich,spitta
+gdc,ger000477,94113,94646,spitta,94191,94195,mich,spitta
+gdc,ger000477,94113,94646,spitta,94301,94304,Ich,spitta
+gdc,ger000477,94113,94646,spitta,94456,94459,mir,spitta
+gdc,ger000477,94980,95380,direktor_hassenreuter,95003,95011,Walburga,walburga
+gdc,ger000477,94980,95380,direktor_hassenreuter,95013,95016,Ich,direktor_hassenreuter
+gdc,ger000477,94980,95380,direktor_hassenreuter,95030,95036,Spitta,spitta
+gdc,ger000477,94980,95380,direktor_hassenreuter,95049,95053,mich,direktor_hassenreuter
+gdc,ger000477,94980,95380,direktor_hassenreuter,95060,95066,Spitta,spitta
+gdc,ger000477,94980,95380,direktor_hassenreuter,95133,95139,Spitta,spitta
+gdc,ger000477,95385,95439,spitta,95393,95396,Ich,spitta
+gdc,ger000477,95444,95760,direktor_hassenreuter,95475,95478,Ich,direktor_hassenreuter
+gdc,ger000477,95444,95760,direktor_hassenreuter,95537,95540,mir,direktor_hassenreuter
+gdc,ger000477,95444,95760,direktor_hassenreuter,95550,95553,ich,direktor_hassenreuter
+gdc,ger000477,95444,95760,direktor_hassenreuter,95587,95590,ich,direktor_hassenreuter
+gdc,ger000477,95444,95760,direktor_hassenreuter,95654,95660,meiner,direktor_hassenreuter
+gdc,ger000477,95765,96202,spitta,95841,95847,meiner,spitta
+gdc,ger000477,96206,96266,_stage,96206,96216,Käferstein,kaeferstein
+gdc,ger000477,96268,96575,direktor_hassenreuter,96322,96326,mein,direktor_hassenreuter
+gdc,ger000477,96268,96575,direktor_hassenreuter,96333,96339,Spitta,spitta
+gdc,ger000477,96268,96575,direktor_hassenreuter,96379,96400,Direktor Hassenreuter,direktor_hassenreuter
+gdc,ger000477,96268,96575,direktor_hassenreuter,96551,96557,Spitta,spitta
+gdc,ger000477,96580,96670,spitta,96597,96601,mich,spitta
+gdc,ger000477,96675,97226,direktor_hassenreuter,96712,96715,ich,direktor_hassenreuter
+gdc,ger000477,97230,97420,_stage,97230,97240,Käferstein,kaeferstein
+gdc,ger000477,97230,97420,_stage,97245,97254,Dr. Kegel,dr_kegel
+gdc,ger000477,97230,97420,_stage,97365,97373,Walburga,walburga
+gdc,ger000477,97230,97420,_stage,97393,97399,Spitta,spitta
+gdc,ger000477,97421,97529,_stage,97432,97441,Frau John,frau_john
+gdc,ger000477,97421,97529,_stage,97437,97441,John,john
+gdc,ger000477,97421,97529,_stage,97506,97514,Quaquaro,quaquaro
+gdc,ger000477,97553,97653,_stage,97561,97570,Frau John,frau_john
+gdc,ger000477,97553,97653,_stage,97566,97570,John,john
+gdc,ger000477,97531,97691,direktor_hassenreuter,97684,97690,Spitta,spitta
+gdc,ger000477,97696,97836,frau_john,97817,97820,mir,frau_john
+gdc,ger000477,97841,98067,direktor_hassenreuter,97893,97902,Frau John,frau_john
+gdc,ger000477,97841,98067,direktor_hassenreuter,97898,97902,John,john
+gdc,ger000477,98301,98404,frau_john,98395,98398,mir,frau_john
+gdc,ger000477,98409,98484,direktor_hassenreuter,98452,98460,Quaquaro,quaquaro
+gdc,ger000477,98489,98855,quaquaro,98556,98559,mir,quaquaro
+gdc,ger000477,98860,99002,frau_john,98945,98949,mich,frau_john
+gdc,ger000477,99007,99087,direktor_hassenreuter,99077,99086,Frau John,frau_john
+gdc,ger000477,99007,99087,direktor_hassenreuter,99082,99086,John,john
+gdc,ger000477,99092,99457,frau_john,99196,99199,mir,frau_john
+gdc,ger000477,99092,99457,frau_john,99346,99350,mich,frau_john
+gdc,ger000477,99092,99457,frau_john,99382,99387,meine,frau_john
+gdc,ger000477,99527,99805,quaquaro,99641,99645,John,john
+gdc,ger000477,99810,99870,direktor_hassenreuter,99842,99845,ich,direktor_hassenreuter
+gdc,ger000477,99929,100006,direktor_hassenreuter,99994,100002,Quaquaro,quaquaro
+gdc,ger000477,100011,100324,quaquaro,100217,100225,Schierke,schierke
+gdc,ger000477,100011,100324,quaquaro,100226,100229,mir,quaquaro
+gdc,ger000477,100329,100584,direktor_hassenreuter,100402,100405,Ich,direktor_hassenreuter
+gdc,ger000477,100589,100936,quaquaro,100787,100790,mir,quaquaro
+gdc,ger000477,100589,100936,quaquaro,100809,100813,mein,quaquaro
+gdc,ger000477,100589,100936,quaquaro,100825,100830,meine,quaquaro
+gdc,ger000477,100589,100936,quaquaro,100919,100927,Quaquaro,quaquaro
+gdc,ger000477,100941,102286,direktor_hassenreuter,101413,101416,ich,direktor_hassenreuter
+gdc,ger000477,100941,102286,direktor_hassenreuter,101498,101501,mir,direktor_hassenreuter
+gdc,ger000477,100941,102286,direktor_hassenreuter,101551,101557,meiner,direktor_hassenreuter
+gdc,ger000477,100941,102286,direktor_hassenreuter,101581,101584,mir,direktor_hassenreuter
+gdc,ger000477,100941,102286,direktor_hassenreuter,101612,101617,meine,direktor_hassenreuter
+gdc,ger000477,100941,102286,direktor_hassenreuter,101654,101662,Walburga,walburga
+gdc,ger000477,100941,102286,direktor_hassenreuter,101667,101673,Spitta,spitta
+gdc,ger000477,100941,102286,direktor_hassenreuter,101834,101844,Käferstein,kaeferstein
+gdc,ger000477,100941,102286,direktor_hassenreuter,101849,101858,Dr. Kegel,dr_kegel
+gdc,ger000477,100941,102286,direktor_hassenreuter,101939,101947,Walburga,walburga
+gdc,ger000477,100941,102286,direktor_hassenreuter,101952,101958,Spitta,spitta
+gdc,ger000477,100941,102286,direktor_hassenreuter,102019,102029,Käferstein,kaeferstein
+gdc,ger000477,100941,102286,direktor_hassenreuter,102065,102086,Direktor Hassenreuter,direktor_hassenreuter
+gdc,ger000477,100941,102286,direktor_hassenreuter,102133,102138,meine,direktor_hassenreuter
+gdc,ger000477,100941,102286,direktor_hassenreuter,102178,102182,mein,direktor_hassenreuter
+gdc,ger000477,100941,102286,direktor_hassenreuter,102189,102192,Ich,direktor_hassenreuter
+gdc,ger000477,100941,102286,direktor_hassenreuter,102217,102220,ich,direktor_hassenreuter
+gdc,ger000477,102290,102822,_stage,102313,102326,Pastor Spitta,pastor_spitta
+gdc,ger000477,102290,102822,_stage,102320,102326,Spitta,spitta
+gdc,ger000477,102290,102822,_stage,102345,102358,Pastor Spitta,pastor_spitta
+gdc,ger000477,102290,102822,_stage,102352,102358,Spitta,spitta
+gdc,ger000477,102824,102878,pastor_spitta,102855,102858,ich,pastor_spitta
+gdc,ger000477,102944,103250,pastor_spitta,103012,103016,mich,pastor_spitta
+gdc,ger000477,102944,103250,pastor_spitta,103034,103047,Pastor Spitta,pastor_spitta
+gdc,ger000477,102944,103250,pastor_spitta,103041,103047,Spitta,spitta
+gdc,ger000477,102944,103250,pastor_spitta,103096,103102,Spitta,spitta
+gdc,ger000477,102944,103250,pastor_spitta,103185,103191,Spitta,spitta
+gdc,ger000477,102944,103250,pastor_spitta,103201,103205,mein,pastor_spitta
+gdc,ger000477,102944,103250,pastor_spitta,103221,103224,ich,pastor_spitta
+gdc,ger000477,103255,103504,direktor_hassenreuter,103293,103296,ich,direktor_hassenreuter
+gdc,ger000477,103255,103504,direktor_hassenreuter,103297,103301,mich,direktor_hassenreuter
+gdc,ger000477,103255,103504,direktor_hassenreuter,103327,103330,Ich,direktor_hassenreuter
+gdc,ger000477,103509,103927,pastor_spitta,103528,103531,ich,pastor_spitta
+gdc,ger000477,103509,103927,pastor_spitta,103550,103553,Ich,pastor_spitta
+gdc,ger000477,103509,103927,pastor_spitta,103752,103755,ich,pastor_spitta
+gdc,ger000477,103509,103927,pastor_spitta,103816,103819,ich,pastor_spitta
+gdc,ger000477,103995,104304,pastor_spitta,104018,104021,ich,pastor_spitta
+gdc,ger000477,103995,104304,pastor_spitta,104030,104033,mir,pastor_spitta
+gdc,ger000477,103995,104304,pastor_spitta,104104,104108,mich,pastor_spitta
+gdc,ger000477,103995,104304,pastor_spitta,104128,104131,mir,pastor_spitta
+gdc,ger000477,104460,105744,direktor_hassenreuter,104505,104509,Mein,direktor_hassenreuter
+gdc,ger000477,104460,105744,direktor_hassenreuter,104515,104518,ich,direktor_hassenreuter
+gdc,ger000477,104460,105744,direktor_hassenreuter,104566,104569,ich,direktor_hassenreuter
+gdc,ger000477,104460,105744,direktor_hassenreuter,104582,104585,ich,direktor_hassenreuter
+gdc,ger000477,104460,105744,direktor_hassenreuter,104664,104667,ich,direktor_hassenreuter
+gdc,ger000477,104460,105744,direktor_hassenreuter,104699,104702,ich,direktor_hassenreuter
+gdc,ger000477,104460,105744,direktor_hassenreuter,104708,104711,ich,direktor_hassenreuter
+gdc,ger000477,104460,105744,direktor_hassenreuter,104724,104727,ich,direktor_hassenreuter
+gdc,ger000477,104460,105744,direktor_hassenreuter,104829,104832,ich,direktor_hassenreuter
+gdc,ger000477,104460,105744,direktor_hassenreuter,105061,105067,meinen,direktor_hassenreuter
+gdc,ger000477,104460,105744,direktor_hassenreuter,105247,105250,ich,direktor_hassenreuter
+gdc,ger000477,104460,105744,direktor_hassenreuter,105348,105351,ich,direktor_hassenreuter
+gdc,ger000477,104460,105744,direktor_hassenreuter,105380,105386,meines,direktor_hassenreuter
+gdc,ger000477,104460,105744,direktor_hassenreuter,105440,105443,ich,direktor_hassenreuter
+gdc,ger000477,104460,105744,direktor_hassenreuter,105485,105488,ich,direktor_hassenreuter
+gdc,ger000477,104460,105744,direktor_hassenreuter,105489,105495,meinen,direktor_hassenreuter
+gdc,ger000477,104460,105744,direktor_hassenreuter,105601,105604,ich,direktor_hassenreuter
+gdc,ger000477,104460,105744,direktor_hassenreuter,105644,105647,ich,direktor_hassenreuter
+gdc,ger000477,105749,106396,pastor_spitta,105764,105767,Ich,pastor_spitta
+gdc,ger000477,105749,106396,pastor_spitta,105799,105802,Ich,pastor_spitta
+gdc,ger000477,105749,106396,pastor_spitta,105817,105820,ich,pastor_spitta
+gdc,ger000477,105749,106396,pastor_spitta,106130,106133,ich,pastor_spitta
+gdc,ger000477,106760,108130,pastor_spitta,107000,107003,Ich,pastor_spitta
+gdc,ger000477,106760,108130,pastor_spitta,107247,107250,ich,pastor_spitta
+gdc,ger000477,106760,108130,pastor_spitta,107278,107284,meines,pastor_spitta
+gdc,ger000477,106760,108130,pastor_spitta,107369,107372,ich,pastor_spitta
+gdc,ger000477,106760,108130,pastor_spitta,107411,107414,mir,pastor_spitta
+gdc,ger000477,106760,108130,pastor_spitta,107445,107448,ich,pastor_spitta
+gdc,ger000477,106760,108130,pastor_spitta,107522,107525,Ich,pastor_spitta
+gdc,ger000477,106760,108130,pastor_spitta,107656,107660,mich,pastor_spitta
+gdc,ger000477,108136,108408,direktor_hassenreuter,108328,108332,mich,direktor_hassenreuter
+gdc,ger000477,108525,109018,direktor_hassenreuter,108576,108579,ich,direktor_hassenreuter
+gdc,ger000477,108525,109018,direktor_hassenreuter,108888,108891,ich,direktor_hassenreuter
+gdc,ger000477,108525,109018,direktor_hassenreuter,108991,108995,mich,direktor_hassenreuter
+gdc,ger000477,109023,109961,pastor_spitta,109098,109103,meine,pastor_spitta
+gdc,ger000477,109023,109961,pastor_spitta,109155,109158,mir,pastor_spitta
+gdc,ger000477,109023,109961,pastor_spitta,109189,109193,Mein,pastor_spitta
+gdc,ger000477,109023,109961,pastor_spitta,109200,109203,ich,pastor_spitta
+gdc,ger000477,109023,109961,pastor_spitta,109513,109516,ich,pastor_spitta
+gdc,ger000477,109023,109961,pastor_spitta,109544,109547,Ich,pastor_spitta
+gdc,ger000477,109023,109961,pastor_spitta,109617,109620,ich,pastor_spitta
+gdc,ger000477,109023,109961,pastor_spitta,109690,109693,Ich,pastor_spitta
+gdc,ger000477,109023,109961,pastor_spitta,109723,109727,mich,pastor_spitta
+gdc,ger000477,110229,110292,pastor_spitta,110282,110290,Walburga,walburga
+gdc,ger000477,110470,110572,direktor_hassenreuter,110531,110534,Ich,direktor_hassenreuter
+gdc,ger000477,110577,110776,pastor_spitta,110662,110667,meine,pastor_spitta
+gdc,ger000477,110577,110776,pastor_spitta,110719,110722,ich,pastor_spitta
+gdc,ger000477,110577,110776,pastor_spitta,110735,110741,meiner,pastor_spitta
+gdc,ger000477,110781,111169,direktor_hassenreuter,110827,110831,mich,direktor_hassenreuter
+gdc,ger000477,110781,111169,direktor_hassenreuter,110862,110865,ich,direktor_hassenreuter
+gdc,ger000477,110781,111169,direktor_hassenreuter,111106,111109,ich,direktor_hassenreuter
+gdc,ger000477,111174,111572,pastor_spitta,111189,111192,Ich,pastor_spitta
+gdc,ger000477,111174,111572,pastor_spitta,111207,111210,ich,pastor_spitta
+gdc,ger000477,111174,111572,pastor_spitta,111301,111304,Ich,pastor_spitta
+gdc,ger000477,111174,111572,pastor_spitta,111352,111355,ich,pastor_spitta
+gdc,ger000477,111174,111572,pastor_spitta,111458,111461,ich,pastor_spitta
+gdc,ger000477,111174,111572,pastor_spitta,111503,111509,meinem,pastor_spitta
+gdc,ger000477,111577,112126,direktor_hassenreuter,111636,111639,ich,direktor_hassenreuter
+gdc,ger000477,111577,112126,direktor_hassenreuter,111878,111884,Spitta,spitta
+gdc,ger000477,111577,112126,direktor_hassenreuter,111886,111894,Walburga,walburga
+gdc,ger000477,111577,112126,direktor_hassenreuter,111913,111921,Walburga,walburga
+gdc,ger000477,111577,112126,direktor_hassenreuter,111926,111932,Spitta,spitta
+gdc,ger000477,111577,112126,direktor_hassenreuter,111941,111962,Direktor Hassenreuter,direktor_hassenreuter
+gdc,ger000477,111577,112126,direktor_hassenreuter,111966,111974,Walburga,walburga
+gdc,ger000477,111577,112126,direktor_hassenreuter,112098,112104,Spitta,spitta
+gdc,ger000477,112178,112234,direktor_hassenreuter,112216,112219,mir,direktor_hassenreuter
+gdc,ger000477,112269,112971,direktor_hassenreuter,112319,112323,mich,direktor_hassenreuter
+gdc,ger000477,112269,112971,direktor_hassenreuter,112373,112376,Ich,direktor_hassenreuter
+gdc,ger000477,112269,112971,direktor_hassenreuter,112383,112387,mich,direktor_hassenreuter
+gdc,ger000477,112269,112971,direktor_hassenreuter,112653,112656,ich,direktor_hassenreuter
+gdc,ger000477,112269,112971,direktor_hassenreuter,112686,112692,Spitta,spitta
+gdc,ger000477,112269,112971,direktor_hassenreuter,112739,112760,Direktor Hassenreuter,direktor_hassenreuter
+gdc,ger000477,112269,112971,direktor_hassenreuter,112785,112793,Walburga,walburga
+gdc,ger000477,112269,112971,direktor_hassenreuter,112827,112832,meine,direktor_hassenreuter
+gdc,ger000477,112269,112971,direktor_hassenreuter,112935,112940,meine,direktor_hassenreuter
+gdc,ger000477,113004,113510,direktor_hassenreuter,113136,113139,ich,direktor_hassenreuter
+gdc,ger000477,113004,113510,direktor_hassenreuter,113155,113159,mein,direktor_hassenreuter
+gdc,ger000477,113004,113510,direktor_hassenreuter,113279,113282,Ich,direktor_hassenreuter
+gdc,ger000477,113004,113510,direktor_hassenreuter,113287,113291,mein,direktor_hassenreuter
+gdc,ger000477,113515,113571,walburga,113540,113543,ich,walburga
+gdc,ger000477,113576,113933,direktor_hassenreuter,113631,113636,meine,direktor_hassenreuter
+gdc,ger000477,113576,113933,direktor_hassenreuter,113676,113681,meine,direktor_hassenreuter
+gdc,ger000477,113576,113933,direktor_hassenreuter,113915,113918,ich,direktor_hassenreuter
+gdc,ger000477,114113,114177,walburga,114159,114176,Alice Rütterbusch,alice_ruetterbusch
+gdc,ger000477,114234,114448,direktor_hassenreuter,114387,114397,Käferstein,kaeferstein
+gdc,ger000477,114561,114692,_stage,114573,114579,Spitta,spitta
+gdc,ger000477,114561,114692,_stage,114591,114606,die Piperkarcka,die_piperkarcka
+gdc,ger000477,114561,114692,_stage,114636,114650,Frau Kielbacke,frau_kielbacke
+gdc,ger000477,114695,114778,direktor_hassenreuter,114773,114777,mich,direktor_hassenreuter
+gdc,ger000477,114783,114868,spitta,114804,114809,meine,spitta
+gdc,ger000477,114873,114945,frau_kielbacke,114931,114935,John,john
+gdc,ger000477,114950,115011,die_piperkarcka,115000,115009,Frau John,frau_john
+gdc,ger000477,114950,115011,die_piperkarcka,115005,115009,John,john
+gdc,ger000477,115016,115398,direktor_hassenreuter,115048,115051,ich,direktor_hassenreuter
+gdc,ger000477,115016,115398,direktor_hassenreuter,115161,115164,mir,direktor_hassenreuter
+gdc,ger000477,115016,115398,direktor_hassenreuter,115212,115215,ich,direktor_hassenreuter
+gdc,ger000477,115016,115398,direktor_hassenreuter,115310,115316,Spitta,spitta
+gdc,ger000477,115403,115471,die_piperkarcka,115461,115470,Frau John,frau_john
+gdc,ger000477,115403,115471,die_piperkarcka,115466,115470,John,john
+gdc,ger000477,115551,115656,frau_kielbacke,115636,115640,John,john
+gdc,ger000477,115661,115743,direktor_hassenreuter,115690,115694,mich,direktor_hassenreuter
+gdc,ger000477,115661,115743,direktor_hassenreuter,115726,115730,mich,direktor_hassenreuter
+gdc,ger000477,115661,115743,direktor_hassenreuter,115732,115742,Käferstein,kaeferstein
+gdc,ger000477,115748,116060,frau_kielbacke,115935,115944,Frau John,frau_john
+gdc,ger000477,115748,116060,frau_kielbacke,115940,115944,John,john
+gdc,ger000477,115748,116060,frau_kielbacke,116026,116035,Frau John,frau_john
+gdc,ger000477,115748,116060,frau_kielbacke,116031,116035,John,john
+gdc,ger000477,116127,116172,frau_kielbacke,116167,116171,John,john
+gdc,ger000477,116177,116414,direktor_hassenreuter,116330,116333,ich,direktor_hassenreuter
+gdc,ger000477,116177,116414,direktor_hassenreuter,116357,116363,Spitta,spitta
+gdc,ger000477,116177,116414,direktor_hassenreuter,116371,116374,mir,direktor_hassenreuter
+gdc,ger000477,116419,116480,spitta,116427,116430,Ich,spitta
+gdc,ger000477,116485,116675,direktor_hassenreuter,116527,116530,mir,direktor_hassenreuter
+gdc,ger000477,116485,116675,direktor_hassenreuter,116570,116575,meine,direktor_hassenreuter
+gdc,ger000477,116485,116675,direktor_hassenreuter,116588,116597,Frau John,frau_john
+gdc,ger000477,116485,116675,direktor_hassenreuter,116593,116597,John,john
+gdc,ger000477,116681,116787,kaeferstein,116693,116696,Ich,kaeferstein
+gdc,ger000477,116681,116787,kaeferstein,116715,116720,meine,kaeferstein
+gdc,ger000477,116792,117021,die_piperkarcka,116854,116858,mein,die_piperkarcka
+gdc,ger000477,116792,117021,die_piperkarcka,116983,116987,mich,die_piperkarcka
+gdc,ger000477,116792,117021,die_piperkarcka,116988,116992,mein,die_piperkarcka
+gdc,ger000477,117026,117197,direktor_hassenreuter,117071,117076,meine,direktor_hassenreuter
+gdc,ger000477,117026,117197,direktor_hassenreuter,117168,117172,John,john
+gdc,ger000477,117202,117456,die_piperkarcka,117223,117227,mein,die_piperkarcka
+gdc,ger000477,117202,117456,die_piperkarcka,117308,117317,Frau John,frau_john
+gdc,ger000477,117202,117456,die_piperkarcka,117313,117317,John,john
+gdc,ger000477,117202,117456,die_piperkarcka,117350,117354,mich,die_piperkarcka
+gdc,ger000477,117461,117643,direktor_hassenreuter,117484,117487,Ich,direktor_hassenreuter
+gdc,ger000477,117461,117643,direktor_hassenreuter,117589,117594,meine,direktor_hassenreuter
+gdc,ger000477,117461,117643,direktor_hassenreuter,117606,117615,Frau John,frau_john
+gdc,ger000477,117461,117643,direktor_hassenreuter,117611,117615,John,john
+gdc,ger000477,117705,117871,direktor_hassenreuter,117728,117737,Frau John,frau_john
+gdc,ger000477,117705,117871,direktor_hassenreuter,117733,117737,John,john
+gdc,ger000477,117705,117871,direktor_hassenreuter,117787,117790,mir,direktor_hassenreuter
+gdc,ger000477,117876,118051,die_piperkarcka,117927,117936,Frau John,frau_john
+gdc,ger000477,117876,118051,die_piperkarcka,117932,117936,John,john
+gdc,ger000477,117876,118051,die_piperkarcka,118012,118016,mich,die_piperkarcka
+gdc,ger000477,117876,118051,die_piperkarcka,118017,118021,mein,die_piperkarcka
+gdc,ger000477,118056,118117,direktor_hassenreuter,118089,118094,meine,direktor_hassenreuter
+gdc,ger000477,118122,118408,die_piperkarcka,118146,118150,mich,die_piperkarcka
+gdc,ger000477,118122,118408,die_piperkarcka,118168,118171,ich,die_piperkarcka
+gdc,ger000477,118122,118408,die_piperkarcka,118198,118202,mich,die_piperkarcka
+gdc,ger000477,118122,118408,die_piperkarcka,118203,118207,mein,die_piperkarcka
+gdc,ger000477,118122,118408,die_piperkarcka,118333,118337,mein,die_piperkarcka
+gdc,ger000477,118413,118817,direktor_hassenreuter,118485,118506,Direktor Hassenreuter,direktor_hassenreuter
+gdc,ger000477,118413,118817,direktor_hassenreuter,118609,118612,ich,direktor_hassenreuter
+gdc,ger000477,118413,118817,direktor_hassenreuter,118619,118628,Frau John,frau_john
+gdc,ger000477,118413,118817,direktor_hassenreuter,118624,118628,John,john
+gdc,ger000477,118413,118817,direktor_hassenreuter,118638,118647,Frau John,frau_john
+gdc,ger000477,118413,118817,direktor_hassenreuter,118643,118647,John,john
+gdc,ger000477,118413,118817,direktor_hassenreuter,118739,118748,Frau John,frau_john
+gdc,ger000477,118413,118817,direktor_hassenreuter,118744,118748,John,john
+gdc,ger000477,118822,119067,die_piperkarcka,118853,118862,Frau John,frau_john
+gdc,ger000477,118822,119067,die_piperkarcka,118858,118862,John,john
+gdc,ger000477,118822,119067,die_piperkarcka,118893,118896,mir,die_piperkarcka
+gdc,ger000477,118822,119067,die_piperkarcka,119033,119036,mir,die_piperkarcka
+gdc,ger000477,119072,119244,direktor_hassenreuter,119112,119116,mein,direktor_hassenreuter
+gdc,ger000477,119072,119244,direktor_hassenreuter,119132,119135,ich,direktor_hassenreuter
+gdc,ger000477,119072,119244,direktor_hassenreuter,119160,119169,Frau John,frau_john
+gdc,ger000477,119072,119244,direktor_hassenreuter,119165,119169,John,john
+gdc,ger000477,119249,119309,die_piperkarcka,119280,119284,mich,die_piperkarcka
+gdc,ger000477,119314,120019,direktor_hassenreuter,119445,119449,mich,direktor_hassenreuter
+gdc,ger000477,119314,120019,direktor_hassenreuter,119457,119460,ich,direktor_hassenreuter
+gdc,ger000477,119314,120019,direktor_hassenreuter,119469,119490,Direktor Hassenreuter,direktor_hassenreuter
+gdc,ger000477,119314,120019,direktor_hassenreuter,119496,119499,ich,direktor_hassenreuter
+gdc,ger000477,119314,120019,direktor_hassenreuter,119525,119531,meiner,direktor_hassenreuter
+gdc,ger000477,119314,120019,direktor_hassenreuter,119550,119559,Frau John,frau_john
+gdc,ger000477,119314,120019,direktor_hassenreuter,119555,119559,John,john
+gdc,ger000477,119314,120019,direktor_hassenreuter,119598,119601,Ich,direktor_hassenreuter
+gdc,ger000477,119314,120019,direktor_hassenreuter,119761,119764,ich,direktor_hassenreuter
+gdc,ger000477,119314,120019,direktor_hassenreuter,119816,119825,Frau John,frau_john
+gdc,ger000477,119314,120019,direktor_hassenreuter,119821,119825,John,john
+gdc,ger000477,119314,120019,direktor_hassenreuter,119869,119872,Ich,direktor_hassenreuter
+gdc,ger000477,119314,120019,direktor_hassenreuter,119931,119940,Frau John,frau_john
+gdc,ger000477,119314,120019,direktor_hassenreuter,119936,119940,John,john
+gdc,ger000477,119314,120019,direktor_hassenreuter,119952,119955,ich,direktor_hassenreuter
+gdc,ger000477,120305,120562,direktor_hassenreuter,120328,120331,Ich,direktor_hassenreuter
+gdc,ger000477,120305,120562,direktor_hassenreuter,120441,120444,Ich,direktor_hassenreuter
+gdc,ger000477,120305,120562,direktor_hassenreuter,120501,120505,mich,direktor_hassenreuter
+gdc,ger000477,120567,120806,frau_kielbacke,120710,120714,John,john
+gdc,ger000477,120567,120806,frau_kielbacke,120739,120748,Frau John,frau_john
+gdc,ger000477,120567,120806,frau_kielbacke,120744,120748,John,john
+gdc,ger000477,120567,120806,frau_kielbacke,120778,120782,John,john
+gdc,ger000477,120810,120859,_stage,120821,120829,Schierke,schierke
+gdc,ger000477,120862,120936,direktor_hassenreuter,120904,120912,Schierke,schierke
+gdc,ger000477,121162,121221,direktor_hassenreuter,121202,121208,meiner,direktor_hassenreuter
+gdc,ger000477,121226,121280,schierke,121253,121256,ich,schierke
+gdc,ger000477,121396,121415,_stage,121400,121414,Frau Kielbacke,frau_kielbacke
+gdc,ger000477,121436,121475,frau_kielbacke,121460,121474,Frau Kielbacke,frau_kielbacke
+gdc,ger000477,121906,122140,die_piperkarcka,122049,122053,mich,die_piperkarcka
+gdc,ger000477,121906,122140,die_piperkarcka,122074,122078,mein,die_piperkarcka
+gdc,ger000477,121906,122140,die_piperkarcka,122094,122103,Frau John,frau_john
+gdc,ger000477,121906,122140,die_piperkarcka,122099,122103,John,john
+gdc,ger000477,122555,122619,die_piperkarcka,122575,122579,mich,die_piperkarcka
+gdc,ger000477,122624,123256,direktor_hassenreuter,122667,122672,meine,direktor_hassenreuter
+gdc,ger000477,122624,123256,direktor_hassenreuter,122746,122750,John,john
+gdc,ger000477,122624,123256,direktor_hassenreuter,122866,122875,Frau John,frau_john
+gdc,ger000477,122624,123256,direktor_hassenreuter,122871,122875,John,john
+gdc,ger000477,122624,123256,direktor_hassenreuter,123139,123142,mir,direktor_hassenreuter
+gdc,ger000477,122624,123256,direktor_hassenreuter,123162,123170,Schierke,schierke
+gdc,ger000477,122624,123256,direktor_hassenreuter,123211,123214,ich,direktor_hassenreuter
+gdc,ger000477,122624,123256,direktor_hassenreuter,123227,123233,meinen,direktor_hassenreuter
+gdc,ger000477,123378,123440,die_piperkarcka,123409,123413,mich,die_piperkarcka
+gdc,ger000477,123378,123440,die_piperkarcka,123430,123439,Frau John,frau_john
+gdc,ger000477,123378,123440,die_piperkarcka,123435,123439,John,john
+gdc,ger000477,123779,124045,direktor_hassenreuter,123807,123815,Schierke,schierke
+gdc,ger000477,123779,124045,direktor_hassenreuter,123826,123829,mir,direktor_hassenreuter
+gdc,ger000477,123779,124045,direktor_hassenreuter,123868,123871,mir,direktor_hassenreuter
+gdc,ger000477,123779,124045,direktor_hassenreuter,123888,123891,ich,direktor_hassenreuter
+gdc,ger000477,123779,124045,direktor_hassenreuter,123918,123921,ich,direktor_hassenreuter
+gdc,ger000477,123779,124045,direktor_hassenreuter,123922,123926,mich,direktor_hassenreuter
+gdc,ger000477,123779,124045,direktor_hassenreuter,123954,123957,ich,direktor_hassenreuter
+gdc,ger000477,123779,124045,direktor_hassenreuter,124028,124033,meine,direktor_hassenreuter
+gdc,ger000477,124152,124229,die_piperkarcka,124199,124203,mein,die_piperkarcka
+gdc,ger000477,124234,124489,direktor_hassenreuter,124339,124354,die Piperkarcka,die_piperkarcka
+gdc,ger000477,124234,124489,direktor_hassenreuter,124418,124426,Schierke,schierke
+gdc,ger000477,124908,125424,frau_knobbe,125061,125064,ich,frau_knobbe
+gdc,ger000477,124908,125424,frau_knobbe,125105,125108,mir,frau_knobbe
+gdc,ger000477,124908,125424,frau_knobbe,125152,125155,ich,frau_knobbe
+gdc,ger000477,124908,125424,frau_knobbe,125195,125198,mir,frau_knobbe
+gdc,ger000477,124908,125424,frau_knobbe,125231,125237,meinem,frau_knobbe
+gdc,ger000477,124908,125424,frau_knobbe,125275,125278,Ich,frau_knobbe
+gdc,ger000477,124908,125424,frau_knobbe,125285,125289,mein,frau_knobbe
+gdc,ger000477,124908,125424,frau_knobbe,125351,125357,meiner,frau_knobbe
+gdc,ger000477,124908,125424,frau_knobbe,125384,125387,Ich,frau_knobbe
+gdc,ger000477,125429,125502,schierke,125497,125501,mich,schierke
+gdc,ger000477,125507,126478,frau_knobbe,125573,125576,Ich,frau_knobbe
+gdc,ger000477,125507,126478,frau_knobbe,125598,125604,meinem,frau_knobbe
+gdc,ger000477,125507,126478,frau_knobbe,125686,125689,ich,frau_knobbe
+gdc,ger000477,125507,126478,frau_knobbe,125695,125699,mich,frau_knobbe
+gdc,ger000477,125507,126478,frau_knobbe,125850,125855,meine,frau_knobbe
+gdc,ger000477,125507,126478,frau_knobbe,125856,125861,Selma,selma
+gdc,ger000477,125507,126478,frau_knobbe,125866,125872,meinem,frau_knobbe
+gdc,ger000477,125507,126478,frau_knobbe,125911,125914,mir,frau_knobbe
+gdc,ger000477,125507,126478,frau_knobbe,125978,125981,ich,frau_knobbe
+gdc,ger000477,125507,126478,frau_knobbe,126002,126005,ich,frau_knobbe
+gdc,ger000477,125507,126478,frau_knobbe,126108,126111,ich,frau_knobbe
+gdc,ger000477,125507,126478,frau_knobbe,126164,126170,meiner,frau_knobbe
+gdc,ger000477,125507,126478,frau_knobbe,126256,126259,Ich,frau_knobbe
+gdc,ger000477,125507,126478,frau_knobbe,126305,126309,mein,frau_knobbe
+gdc,ger000477,125507,126478,frau_knobbe,126372,126375,ich,frau_knobbe
+gdc,ger000477,125507,126478,frau_knobbe,126409,126412,Ich,frau_knobbe
+gdc,ger000477,125507,126478,frau_knobbe,126438,126441,mir,frau_knobbe
+gdc,ger000477,126545,126926,frau_knobbe,126591,126595,mich,frau_knobbe
+gdc,ger000477,126545,126926,frau_knobbe,126611,126615,mich,frau_knobbe
+gdc,ger000477,126545,126926,frau_knobbe,126627,126633,meinen,frau_knobbe
+gdc,ger000477,126545,126926,frau_knobbe,126661,126664,Ich,frau_knobbe
+gdc,ger000477,126545,126926,frau_knobbe,126797,126800,ich,frau_knobbe
+gdc,ger000477,126545,126926,frau_knobbe,126831,126837,meinen,frau_knobbe
+gdc,ger000477,126985,127471,frau_knobbe,127007,127011,mich,frau_knobbe
+gdc,ger000477,126985,127471,frau_knobbe,127017,127020,ich,frau_knobbe
+gdc,ger000477,126985,127471,frau_knobbe,127116,127120,Mein,frau_knobbe
+gdc,ger000477,126985,127471,frau_knobbe,127127,127130,ich,frau_knobbe
+gdc,ger000477,126985,127471,frau_knobbe,127193,127196,ich,frau_knobbe
+gdc,ger000477,126985,127471,frau_knobbe,127229,127233,mein,frau_knobbe
+gdc,ger000477,126985,127471,frau_knobbe,127244,127250,meiner,frau_knobbe
+gdc,ger000477,126985,127471,frau_knobbe,127269,127272,ich,frau_knobbe
+gdc,ger000477,126985,127471,frau_knobbe,127318,127321,ich,frau_knobbe
+gdc,ger000477,126985,127471,frau_knobbe,127353,127356,ich,frau_knobbe
+gdc,ger000477,126985,127471,frau_knobbe,127388,127394,meinem,frau_knobbe
+gdc,ger000477,126985,127471,frau_knobbe,127406,127412,meiner,frau_knobbe
+gdc,ger000477,127509,128142,frau_knobbe,127535,127539,Mein,frau_knobbe
+gdc,ger000477,127509,128142,frau_knobbe,127600,127603,ich,frau_knobbe
+gdc,ger000477,127509,128142,frau_knobbe,127614,127617,ich,frau_knobbe
+gdc,ger000477,127509,128142,frau_knobbe,127652,127658,meiner,frau_knobbe
+gdc,ger000477,127509,128142,frau_knobbe,127785,127788,ich,frau_knobbe
+gdc,ger000477,127509,128142,frau_knobbe,127808,127812,mich,frau_knobbe
+gdc,ger000477,127509,128142,frau_knobbe,127813,127817,mein,frau_knobbe
+gdc,ger000477,127509,128142,frau_knobbe,127859,127862,ich,frau_knobbe
+gdc,ger000477,127509,128142,frau_knobbe,127980,127986,meinen,frau_knobbe
+gdc,ger000477,127509,128142,frau_knobbe,128007,128010,Ich,frau_knobbe
+gdc,ger000477,127509,128142,frau_knobbe,128107,128110,ich,frau_knobbe
+gdc,ger000477,127509,128142,frau_knobbe,128111,128115,mich,frau_knobbe
+gdc,ger000477,128204,128416,direktor_hassenreuter,128239,128247,Schierke,schierke
+gdc,ger000477,128204,128416,direktor_hassenreuter,128249,128253,mich,direktor_hassenreuter
+gdc,ger000477,128421,128976,frau_knobbe,128488,128492,mich,frau_knobbe
+gdc,ger000477,128421,128976,frau_knobbe,128591,128594,ich,frau_knobbe
+gdc,ger000477,128421,128976,frau_knobbe,128716,128719,ich,frau_knobbe
+gdc,ger000477,128421,128976,frau_knobbe,128753,128757,mich,frau_knobbe
+gdc,ger000477,128421,128976,frau_knobbe,128936,128942,meines,frau_knobbe
+gdc,ger000477,129047,130141,frau_knobbe,129098,129101,ich,frau_knobbe
+gdc,ger000477,129047,130141,frau_knobbe,129119,129124,meine,frau_knobbe
+gdc,ger000477,129047,130141,frau_knobbe,129184,129187,ich,frau_knobbe
+gdc,ger000477,129047,130141,frau_knobbe,129456,129459,mir,frau_knobbe
+gdc,ger000477,129047,130141,frau_knobbe,129493,129497,mein,frau_knobbe
+gdc,ger000477,129047,130141,frau_knobbe,129555,129558,ich,frau_knobbe
+gdc,ger000477,129047,130141,frau_knobbe,129559,129563,mich,frau_knobbe
+gdc,ger000477,129047,130141,frau_knobbe,129577,129580,Ich,frau_knobbe
+gdc,ger000477,129047,130141,frau_knobbe,129603,129606,ich,frau_knobbe
+gdc,ger000477,129047,130141,frau_knobbe,129727,129730,Ich,frau_knobbe
+gdc,ger000477,129047,130141,frau_knobbe,129745,129748,mir,frau_knobbe
+gdc,ger000477,129047,130141,frau_knobbe,129784,129787,Ich,frau_knobbe
+gdc,ger000477,129047,130141,frau_knobbe,129849,129852,ich,frau_knobbe
+gdc,ger000477,129047,130141,frau_knobbe,129881,129886,meine,frau_knobbe
+gdc,ger000477,129047,130141,frau_knobbe,129917,129923,meinem,frau_knobbe
+gdc,ger000477,129047,130141,frau_knobbe,130065,130068,ich,frau_knobbe
+gdc,ger000477,130318,130484,_stage,130331,130346,die Piperkarcka,die_piperkarcka
+gdc,ger000477,130318,130484,_stage,130371,130382,Frau Knobbe,frau_knobbe
+gdc,ger000477,130318,130484,_stage,130443,130451,Schierke,schierke
+gdc,ger000477,130486,130821,die_piperkarcka,130518,130522,mich,die_piperkarcka
+gdc,ger000477,130486,130821,die_piperkarcka,130535,130538,mir,die_piperkarcka
+gdc,ger000477,130486,130821,die_piperkarcka,130644,130648,mich,die_piperkarcka
+gdc,ger000477,130486,130821,die_piperkarcka,130678,130682,mich,die_piperkarcka
+gdc,ger000477,130486,130821,die_piperkarcka,130687,130691,mein,die_piperkarcka
+gdc,ger000477,130486,130821,die_piperkarcka,130782,130785,mir,die_piperkarcka
+gdc,ger000477,130825,131112,_stage,130825,130836,Frau Knobbe,frau_knobbe
+gdc,ger000477,131114,131276,direktor_hassenreuter,131167,131178,Frau Knobbe,frau_knobbe
+gdc,ger000477,131114,131276,direktor_hassenreuter,131233,131244,Frau Knobbe,frau_knobbe
+gdc,ger000477,131280,131358,_stage,131280,131291,Frau Knobbe,frau_knobbe
+gdc,ger000477,131690,131846,frau_knobbe,131714,131717,Ich,frau_knobbe
+gdc,ger000477,131690,131846,frau_knobbe,131814,131817,ich,frau_knobbe
+gdc,ger000477,131918,132254,direktor_hassenreuter,132125,132128,mir,direktor_hassenreuter
+gdc,ger000477,132269,132348,_stage,132302,132313,Frau Knobbe,frau_knobbe
+gdc,ger000477,132928,133176,_stage,132928,132939,Frau Knobbe,frau_knobbe
+gdc,ger000477,132928,133176,_stage,133051,133059,Schierke,schierke
+gdc,ger000477,132928,133176,_stage,133108,133119,Frau Knobbe,frau_knobbe
+gdc,ger000477,133264,133348,direktor_hassenreuter,133341,133347,Spitta,spitta
+gdc,ger000477,133369,133461,_stage,133399,133403,John,john
+gdc,ger000477,133462,133687,_stage,133475,133479,John,john
+gdc,ger000477,133462,133687,_stage,133614,133622,Quaquaro,quaquaro
+gdc,ger000477,133743,133988,john,133785,133790,Meine,john
+gdc,ger000477,133743,133988,john,133818,133823,meine,john
+gdc,ger000477,133743,133988,john,133900,133904,John,john
+gdc,ger000477,135111,135748,john,135257,135262,meine,john
+gdc,ger000477,135111,135748,john,135543,135547,mein,john
+gdc,ger000477,135111,135748,john,135635,135638,mir,john
+gdc,ger000477,135856,136157,john,136019,136024,Selma,selma
+gdc,ger000477,136275,136430,john,136363,136366,mir,john
+gdc,ger000477,136435,136521,quaquaro,136460,136463,mir,quaquaro
+gdc,ger000477,136526,136650,john,136587,136590,mir,john
+gdc,ger000477,136739,136973,john,136838,136841,mir,john
+gdc,ger000477,137311,137645,quaquaro,137579,137583,mich,quaquaro
+gdc,ger000477,137870,138015,john,137905,137908,mir,john
+gdc,ger000477,138020,138478,quaquaro,138035,138039,mich,quaquaro
+gdc,ger000477,138020,138478,quaquaro,138111,138116,Bruno,bruno
+gdc,ger000477,138483,138871,john,138630,138633,mir,john
+gdc,ger000477,138483,138871,john,138700,138704,mich,john
+gdc,ger000477,138483,138871,john,138837,138840,mir,john
+gdc,ger000477,139037,139062,john,139046,139051,meine,john
+gdc,ger000477,139067,139356,quaquaro,139096,139101,Selma,selma
+gdc,ger000477,139493,139704,john,139523,139526,mir,john
+gdc,ger000477,140038,140057,_stage,140044,140050,Spitta,spitta
+gdc,ger000477,140059,140091,spitta,140086,140090,John,john
+gdc,ger000477,140096,140457,john,140121,140127,Spitta,spitta
+gdc,ger000477,140096,140457,john,140132,140140,Quaquaro,quaquaro
+gdc,ger000477,140096,140457,john,140202,140205,mir,john
+gdc,ger000477,140096,140457,john,140230,140238,Quaquaro,quaquaro
+gdc,ger000477,140096,140457,john,140243,140247,John,john
+gdc,ger000477,140096,140457,john,140294,140300,Spitta,spitta
+gdc,ger000477,140462,140533,spitta,140483,140491,Walburga,walburga
+gdc,ger000477,140462,140533,spitta,140510,140513,mir,spitta
+gdc,ger000477,140462,140533,spitta,140528,140532,John,john
+gdc,ger000477,140538,140708,john,140613,140618,Selma,selma
+gdc,ger000477,140538,140708,john,140638,140641,mir,john
+gdc,ger000477,140538,140708,john,140662,140667,Selma,selma
+gdc,ger000477,140712,140731,_stage,140712,140717,Selma,selma
+gdc,ger000477,141432,141580,john,141527,141532,meine,john
+gdc,ger000477,141733,141879,spitta,141844,141865,Direktor Hassenreuter,direktor_hassenreuter
+gdc,ger000477,141884,141988,john,141922,141928,Spitta,spitta
+gdc,ger000477,141993,142039,spitta,142022,142025,ich,spitta
+gdc,ger000477,142044,142255,selma,142091,142094,mir,selma
+gdc,ger000477,142044,142255,selma,142111,142119,Schierke,schierke
+gdc,ger000477,142445,142506,john,142466,142471,Selma,selma
+gdc,ger000477,142510,142680,_stage,142510,142515,Selma,selma
+gdc,ger000477,142510,142680,_stage,142563,142567,John,john
+gdc,ger000477,142510,142680,_stage,142580,142584,John,john
+gdc,ger000477,142682,142902,spitta,142725,142728,ich,spitta
+gdc,ger000477,142682,142902,spitta,142761,142765,John,john
+gdc,ger000477,142682,142902,spitta,142870,142873,Ich,spitta
+gdc,ger000477,142907,142967,john,142960,142966,Spitta,spitta
+gdc,ger000477,142972,143177,spitta,143004,143007,ich,spitta
+gdc,ger000477,142972,143177,spitta,143050,143055,meine,spitta
+gdc,ger000477,142972,143177,spitta,143091,143097,meiner,spitta
+gdc,ger000477,142972,143177,spitta,143146,143150,mich,spitta
+gdc,ger000477,143182,143233,john,143226,143232,Spitta,spitta
+gdc,ger000477,143238,143443,spitta,143288,143291,ich,spitta
+gdc,ger000477,143238,143443,spitta,143329,143332,ich,spitta
+gdc,ger000477,143238,143443,spitta,143375,143381,meinem,spitta
+gdc,ger000477,143238,143443,spitta,143396,143399,Ich,spitta
+gdc,ger000477,143541,143657,spitta,143564,143567,ich,spitta
+gdc,ger000477,143541,143657,spitta,143596,143600,John,john
+gdc,ger000477,143541,143657,spitta,143607,143610,ich,spitta
+gdc,ger000477,143541,143657,spitta,143633,143636,mir,spitta
+gdc,ger000477,143662,143874,john,143809,143813,John,john
+gdc,ger000477,143879,144215,spitta,143891,143894,mir,spitta
+gdc,ger000477,143879,144215,spitta,143928,143932,John,john
+gdc,ger000477,143879,144215,spitta,143938,143941,ich,spitta
+gdc,ger000477,143879,144215,spitta,144028,144031,Ich,spitta
+gdc,ger000477,143879,144215,spitta,144182,144185,ich,spitta
+gdc,ger000477,144383,144434,spitta,144410,144413,ich,spitta
+gdc,ger000477,144464,144617,spitta,144477,144480,Mir,spitta
+gdc,ger000477,144464,144617,spitta,144521,144525,John,john
+gdc,ger000477,144622,144828,john,144821,144827,Spitta,spitta
+gdc,ger000477,144981,145248,john,145072,145077,Selma,selma
+gdc,ger000477,145253,145431,spitta,145393,145396,ich,spitta
+gdc,ger000477,145436,145743,john,145611,145616,Selma,selma
+gdc,ger000477,145748,145989,selma,145781,145785,mich,selma
+gdc,ger000477,145748,145989,selma,145802,145805,mir,selma
+gdc,ger000477,146207,146234,_stage,146212,146217,Selma,selma
+gdc,ger000477,146202,146325,john,146295,146299,John,john
+gdc,ger000477,146202,146325,john,146304,146309,Selma,selma
+gdc,ger000477,146329,146470,_stage,146336,146340,John,john
+gdc,ger000477,146329,146470,_stage,146365,146371,Spitta,spitta
+gdc,ger000477,146329,146470,_stage,146418,146426,Walburga,walburga
+gdc,ger000477,146502,146552,spitta,146543,146551,Walburga,walburga
+gdc,ger000477,146557,147134,walburga,146573,146576,ich,walburga
+gdc,ger000477,146557,147134,walburga,146586,146589,Ich,walburga
+gdc,ger000477,146557,147134,walburga,146595,146599,mich,walburga
+gdc,ger000477,146557,147134,walburga,146760,146765,Meine,walburga
+gdc,ger000477,146557,147134,walburga,146788,146791,mir,walburga
+gdc,ger000477,146557,147134,walburga,146830,146833,Ich,walburga
+gdc,ger000477,146557,147134,walburga,146863,146867,mich,walburga
+gdc,ger000477,146557,147134,walburga,146960,146963,ich,walburga
+gdc,ger000477,146557,147134,walburga,147023,147026,Ich,walburga
+gdc,ger000477,146557,147134,walburga,147035,147038,Ich,walburga
+gdc,ger000477,146557,147134,walburga,147071,147074,ich,walburga
+gdc,ger000477,147139,147845,spitta,147180,147183,ich,spitta
+gdc,ger000477,147139,147845,spitta,147241,147244,ich,spitta
+gdc,ger000477,147139,147845,spitta,147252,147255,mir,spitta
+gdc,ger000477,147139,147845,spitta,147460,147463,Ich,spitta
+gdc,ger000477,147139,147845,spitta,147486,147491,meine,spitta
+gdc,ger000477,147139,147845,spitta,147517,147520,ich,spitta
+gdc,ger000477,147850,147924,walburga,147860,147863,Ich,walburga
+gdc,ger000477,147930,147975,spitta,147938,147942,Mein,spitta
+gdc,ger000477,147980,148658,walburga,148127,148130,ich,walburga
+gdc,ger000477,147980,148658,walburga,148162,148165,Ich,walburga
+gdc,ger000477,147980,148658,walburga,148278,148281,mir,walburga
+gdc,ger000477,147980,148658,walburga,148306,148309,ich,walburga
+gdc,ger000477,147980,148658,walburga,148324,148327,ich,walburga
+gdc,ger000477,147980,148658,walburga,148336,148340,mich,walburga
+gdc,ger000477,147980,148658,walburga,148365,148370,Meine,walburga
+gdc,ger000477,147980,148658,walburga,148387,148390,Ich,walburga
+gdc,ger000477,147980,148658,walburga,148460,148464,mich,walburga
+gdc,ger000477,147980,148658,walburga,148484,148488,mich,walburga
+gdc,ger000477,147980,148658,walburga,148558,148564,meinen,walburga
+gdc,ger000477,148670,148696,_stage,148676,148684,Walburga,walburga
+gdc,ger000477,148663,148872,spitta,148741,148744,ich,spitta
+gdc,ger000477,148663,148872,spitta,148755,148758,ich,spitta
+gdc,ger000477,148663,148872,spitta,148780,148783,ich,spitta
+gdc,ger000477,148663,148872,spitta,148863,148871,Walburga,walburga
+gdc,ger000477,148877,148954,walburga,148903,148906,Ich,walburga
+gdc,ger000477,148959,149508,spitta,149007,149015,Walburga,walburga
+gdc,ger000477,148959,149508,spitta,149042,149045,ich,spitta
+gdc,ger000477,148959,149508,spitta,149268,149271,mir,spitta
+gdc,ger000477,149513,149570,walburga,149553,149556,mir,walburga
+gdc,ger000477,149575,151324,spitta,149583,149591,Walburga,walburga
+gdc,ger000477,149575,151324,spitta,149593,149596,ich,spitta
+gdc,ger000477,149575,151324,spitta,149616,149622,meinem,spitta
+gdc,ger000477,149575,151324,spitta,149683,149689,meiner,spitta
+gdc,ger000477,149575,151324,spitta,149813,149816,mir,spitta
+gdc,ger000477,149575,151324,spitta,150199,150202,ich,spitta
+gdc,ger000477,149575,151324,spitta,150315,150319,mich,spitta
+gdc,ger000477,149575,151324,spitta,150346,150349,ich,spitta
+gdc,ger000477,149575,151324,spitta,150384,150390,meiner,spitta
+gdc,ger000477,149575,151324,spitta,150407,150410,mir,spitta
+gdc,ger000477,149575,151324,spitta,150801,150804,ich,spitta
+gdc,ger000477,149575,151324,spitta,150995,151001,meinem,spitta
+gdc,ger000477,149575,151324,spitta,151161,151169,Walburga,walburga
+gdc,ger000477,149575,151324,spitta,151230,151235,meine,spitta
+gdc,ger000477,151329,151753,walburga,151477,151481,mein,walburga
+gdc,ger000477,151329,151753,walburga,151531,151534,Ich,walburga
+gdc,ger000477,151329,151753,walburga,151556,151560,mein,walburga
+gdc,ger000477,151329,151753,walburga,151592,151596,mich,walburga
+gdc,ger000477,151329,151753,walburga,151637,151642,meine,walburga
+gdc,ger000477,151329,151753,walburga,151682,151685,ich,walburga
+gdc,ger000477,151329,151753,walburga,151719,151722,ich,walburga
+gdc,ger000477,151758,151844,spitta,151805,151808,Ich,spitta
+gdc,ger000477,151758,151844,spitta,151825,151828,Ich,spitta
+gdc,ger000477,151849,152062,walburga,151938,151941,ich,walburga
+gdc,ger000477,151849,152062,walburga,151966,151975,Frau John,frau_john
+gdc,ger000477,151849,152062,walburga,151971,151975,John,john
+gdc,ger000477,151849,152062,walburga,152011,152014,ich,walburga
+gdc,ger000477,152067,152173,spitta,152164,152172,Walburga,walburga
+gdc,ger000477,152178,152360,walburga,152188,152191,Ich,walburga
+gdc,ger000477,152178,152360,walburga,152196,152199,mir,walburga
+gdc,ger000477,152178,152360,walburga,152289,152293,mich,walburga
+gdc,ger000477,152178,152360,walburga,152351,152354,ich,walburga
+gdc,ger000477,152364,152464,_stage,152364,152373,Frau John,frau_john
+gdc,ger000477,152364,152464,_stage,152369,152373,John,john
+gdc,ger000477,152671,152746,walburga,152716,152721,meine,walburga
+gdc,ger000477,152671,152746,walburga,152736,152745,Frau John,frau_john
+gdc,ger000477,152671,152746,walburga,152741,152745,John,john
+gdc,ger000477,153003,153192,frau_john,153086,153094,Walburga,walburga
+gdc,ger000477,153197,153253,spitta,153223,153232,Frau John,frau_john
+gdc,ger000477,153197,153253,spitta,153228,153232,John,john
+gdc,ger000477,153484,153508,spitta,153498,153507,Frau John,frau_john
+gdc,ger000477,153484,153508,spitta,153503,153507,John,john
+gdc,ger000477,153671,154260,frau_john,153855,153861,Spitta,spitta
+gdc,ger000477,153671,154260,frau_john,154004,154010,Spitta,spitta
+gdc,ger000477,153671,154260,frau_john,154111,154116,meine,frau_john
+gdc,ger000477,154265,154309,walburga,154283,154287,John,john
+gdc,ger000477,154461,154486,spitta,154476,154485,Frau John,frau_john
+gdc,ger000477,154461,154486,spitta,154481,154485,John,john
+gdc,ger000477,154491,154813,frau_john,154630,154636,Spitta,spitta
+gdc,ger000477,154491,154813,frau_john,154638,154644,Spitta,spitta
+gdc,ger000477,154491,154813,frau_john,154649,154657,Walburga,walburga
+gdc,ger000477,154491,154813,frau_john,154662,154671,Frau John,frau_john
+gdc,ger000477,154491,154813,frau_john,154667,154671,John,john
+gdc,ger000477,154817,154880,_stage,154830,154834,John,john
+gdc,ger000477,155246,155486,john,155307,155310,mir,john
+gdc,ger000477,155246,155486,john,155331,155334,mir,john
+gdc,ger000477,155246,155486,john,155402,155406,mich,john
+gdc,ger000477,155901,156188,john,156021,156024,mir,john
+gdc,ger000477,156736,156896,john,156861,156864,mir,john
+gdc,ger000477,156901,156969,frau_john,156942,156947,Bruno,bruno
+gdc,ger000477,157309,157773,john,157337,157340,mir,john
+gdc,ger000477,157309,157773,john,157460,157463,mir,john
+gdc,ger000477,157309,157773,john,157485,157490,Bruno,bruno
+gdc,ger000477,157309,157773,john,157567,157576,Frau John,frau_john
+gdc,ger000477,157309,157773,john,157572,157576,John,john
+gdc,ger000477,158151,158338,frau_john,158205,158208,mir,frau_john
+gdc,ger000477,158151,158338,frau_john,158268,158271,mir,frau_john
+gdc,ger000477,158151,158338,frau_john,158315,158318,mir,frau_john
+gdc,ger000477,158617,159035,john,158667,158676,Frau John,frau_john
+gdc,ger000477,158617,159035,john,158672,158676,John,john
+gdc,ger000477,158617,159035,john,158890,158899,Frau John,frau_john
+gdc,ger000477,158617,159035,john,158895,158899,John,john
+gdc,ger000477,159381,159577,john,159570,159573,mir,john
+gdc,ger000477,159582,159799,frau_john,159644,159648,mich,frau_john
+gdc,ger000477,159859,159974,frau_john,159885,159888,mir,frau_john
+gdc,ger000477,159859,159974,frau_john,159929,159932,mir,frau_john
+gdc,ger000477,160026,160213,frau_john,160064,160067,mir,frau_john
+gdc,ger000477,161036,161154,frau_john,161080,161083,mir,frau_john
+gdc,ger000477,161036,161154,frau_john,161103,161107,mich,frau_john
+gdc,ger000477,161036,161154,frau_john,161112,161116,mein,frau_john
+gdc,ger000477,161159,161714,john,161354,161357,mir,john
+gdc,ger000477,161159,161714,john,161383,161386,mir,john
+gdc,ger000477,161839,161928,john,161862,161866,mich,john
+gdc,ger000477,161933,162462,frau_john,161973,161976,mir,frau_john
+gdc,ger000477,161933,162462,frau_john,162012,162016,mein,frau_john
+gdc,ger000477,161933,162462,frau_john,162060,162063,mir,frau_john
+gdc,ger000477,161933,162462,frau_john,162179,162182,mir,frau_john
+gdc,ger000477,161933,162462,frau_john,162293,162296,mir,frau_john
+gdc,ger000477,161933,162462,frau_john,162377,162380,mir,frau_john
+gdc,ger000477,162466,162686,_stage,162511,162516,Bruno,bruno
+gdc,ger000477,162466,162686,_stage,162638,162642,John,john
+gdc,ger000477,162698,162766,_stage,162702,162707,Bruno,bruno
+gdc,ger000477,162688,162784,frau_john,162767,162772,Bruno,bruno
+gdc,ger000477,163040,163287,_stage,163044,163049,Bruno,bruno
+gdc,ger000477,163040,163287,_stage,163260,163269,Frau John,frau_john
+gdc,ger000477,163040,163287,_stage,163265,163269,John,john
+gdc,ger000477,163035,163690,john,163579,163583,mich,john
+gdc,ger000477,163035,163690,john,163602,163607,meine,john
+gdc,ger000477,163695,163744,bruno,163735,163738,mir,bruno
+gdc,ger000477,163760,163852,_stage,163777,163781,John,john
+gdc,ger000477,163760,163852,_stage,163839,163844,Bruno,bruno
+gdc,ger000477,163749,163976,frau_john,163863,163866,mir,frau_john
+gdc,ger000477,163749,163976,frau_john,163884,163888,mein,frau_john
+gdc,ger000477,163749,163976,frau_john,163905,163909,John,john
+gdc,ger000477,164364,164606,bruno,164462,164467,meine,bruno
+gdc,ger000477,164682,164839,frau_john,164810,164815,Bruno,bruno
+gdc,ger000477,164682,164839,frau_john,164820,164824,mich,frau_john
+gdc,ger000477,164844,165420,john,164970,164975,Bruno,bruno
+gdc,ger000477,164844,165420,john,165271,165275,John,john
+gdc,ger000477,164844,165420,john,165335,165340,Bruno,bruno
+gdc,ger000477,164844,165420,john,165360,165364,John,john
+gdc,ger000477,165475,165524,frau_john,165503,165508,Bruno,bruno
+gdc,ger000477,165529,165592,bruno,165548,165552,mich,bruno
+gdc,ger000477,165854,165959,frau_john,165873,165881,Quaquaro,quaquaro
+gdc,ger000477,165854,165959,frau_john,165897,165902,Bruno,bruno
+gdc,ger000477,165964,166089,bruno,166016,166020,mein,bruno
+gdc,ger000477,166094,166138,frau_john,166132,166137,Bruno,bruno
+gdc,ger000477,166483,166760,bruno,166595,166599,mich,bruno
+gdc,ger000477,166483,166760,bruno,166665,166669,mich,bruno
+gdc,ger000477,166483,166760,bruno,166700,166703,mir,bruno
+gdc,ger000477,166829,167207,bruno,166843,166846,mir,bruno
+gdc,ger000477,166829,167207,bruno,166878,166882,mich,bruno
+gdc,ger000477,167241,167944,bruno,167864,167869,Bruno,bruno
+gdc,ger000477,168273,168458,bruno,168366,168370,mich,bruno
+gdc,ger000477,168463,168568,frau_john,168562,168567,Bruno,bruno
+gdc,ger000477,168676,168917,frau_john,168696,168700,mein,frau_john
+gdc,ger000477,168676,168917,frau_john,168802,168807,Bruno,bruno
+gdc,ger000477,168676,168917,frau_john,168809,168814,Bruno,bruno
+gdc,ger000477,168676,168917,frau_john,168824,168827,mir,frau_john
+gdc,ger000477,168676,168917,frau_john,168836,168841,Bruno,bruno
+gdc,ger000477,168676,168917,frau_john,168898,168902,mich,frau_john
+gdc,ger000477,169100,169146,frau_john,169111,169116,Bruno,bruno
+gdc,ger000477,169253,169324,frau_john,169318,169323,Bruno,bruno
+gdc,ger000477,169329,169527,bruno,169516,169519,mir,bruno
+gdc,ger000477,169532,169668,frau_john,169646,169651,Bruno,bruno
+gdc,ger000477,169673,170231,bruno,170090,170095,meine,bruno
+gdc,ger000477,169673,170231,bruno,170203,170207,mich,bruno
+gdc,ger000477,170259,170586,bruno,170331,170336,meine,bruno
+gdc,ger000477,171043,171297,bruno,171269,171273,mich,bruno
+gdc,ger000477,171604,171942,_stage,171604,171609,Bruno,bruno
+gdc,ger000477,171604,171942,_stage,171654,171663,Frau John,frau_john
+gdc,ger000477,171604,171942,_stage,171659,171663,John,john
+gdc,ger000477,172038,172195,_stage,172056,172065,Frau John,frau_john
+gdc,ger000477,172038,172195,_stage,172061,172065,John,john
+gdc,ger000477,172038,172195,_stage,172096,172104,Walburga,walburga
+gdc,ger000477,172038,172195,_stage,172109,172115,Spitta,spitta
+gdc,ger000477,172230,172288,walburga,172240,172249,Frau John,frau_john
+gdc,ger000477,172230,172288,walburga,172245,172249,John,john
+gdc,ger000477,172230,172288,walburga,172278,172287,Frau John,frau_john
+gdc,ger000477,172230,172288,walburga,172283,172287,John,john
+gdc,ger000477,172301,172334,_stage,172305,172313,Walburga,walburga
+gdc,ger000477,172458,172733,walburga,172500,172503,mir,walburga
+gdc,ger000477,172458,172733,walburga,172639,172642,Ich,walburga
+gdc,ger000477,172738,172801,spitta,172792,172800,Walburga,walburga
+gdc,ger000477,172806,173041,walburga,173013,173017,mich,walburga
+gdc,ger000477,173046,173221,spitta,173083,173091,Walburga,walburga
+gdc,ger000477,173226,173342,walburga,173259,173262,mir,walburga
+gdc,ger000477,173226,173342,walburga,173279,173282,ich,walburga
+gdc,ger000477,173406,173433,_stage,173410,173414,John,john
+gdc,ger000477,173435,173476,walburga,173471,173475,John,john
+gdc,ger000477,173677,173926,spitta,173685,173688,Ich,spitta
+gdc,ger000477,173677,173926,spitta,173731,173739,Walburga,walburga
+gdc,ger000477,173677,173926,spitta,173826,173829,Ich,spitta
+gdc,ger000477,173677,173926,spitta,173843,173846,Ich,spitta
+gdc,ger000477,173677,173926,spitta,173905,173911,Spitta,spitta
+gdc,ger000477,173930,174082,_stage,173930,173956,Frau Direktor Hassenreuter,frau_direktor_hassenreuter
+gdc,ger000477,173930,174082,_stage,173935,173956,Direktor Hassenreuter,direktor_hassenreuter
+gdc,ger000477,174084,174241,frau_direktor_hassenreuter,174153,174161,Walburga,walburga
+gdc,ger000477,174281,174330,walburga,174306,174309,ich,walburga
+gdc,ger000477,174335,174927,frau_direktor_hassenreuter,174468,174472,mich,frau_direktor_hassenreuter
+gdc,ger000477,174335,174927,frau_direktor_hassenreuter,174480,174488,Walburga,walburga
+gdc,ger000477,174335,174927,frau_direktor_hassenreuter,174536,174540,mich,frau_direktor_hassenreuter
+gdc,ger000477,174335,174927,frau_direktor_hassenreuter,174588,174591,Ich,frau_direktor_hassenreuter
+gdc,ger000477,174335,174927,frau_direktor_hassenreuter,174753,174756,Ich,frau_direktor_hassenreuter
+gdc,ger000477,174335,174927,frau_direktor_hassenreuter,174791,174797,Spitta,spitta
+gdc,ger000477,174335,174927,frau_direktor_hassenreuter,174876,174879,mir,frau_direktor_hassenreuter
+gdc,ger000477,174335,174927,frau_direktor_hassenreuter,174917,174926,Frau John,frau_john
+gdc,ger000477,174335,174927,frau_direktor_hassenreuter,174922,174926,John,john
+gdc,ger000477,174932,175072,walburga,174990,174993,Ich,walburga
+gdc,ger000477,174932,175072,walburga,175023,175026,Ich,walburga
+gdc,ger000477,175077,175445,frau_direktor_hassenreuter,175169,175175,Spitta,spitta
+gdc,ger000477,175450,175893,spitta,175462,175465,ich,spitta
+gdc,ger000477,175450,175893,spitta,175476,175479,Ich,spitta
+gdc,ger000477,175450,175893,spitta,175554,175557,mir,spitta
+gdc,ger000477,175450,175893,spitta,175558,175566,Walburga,walburga
+gdc,ger000477,175450,175893,spitta,175602,175606,mein,spitta
+gdc,ger000477,175450,175893,spitta,175629,175632,ich,spitta
+gdc,ger000477,175450,175893,spitta,175655,175660,meine,spitta
+gdc,ger000477,175450,175893,spitta,175718,175724,meinen,spitta
+gdc,ger000477,175450,175893,spitta,175736,175740,mich,spitta
+gdc,ger000477,175450,175893,spitta,175778,175786,Walburga,walburga
+gdc,ger000477,175898,176515,frau_direktor_hassenreuter,176078,176086,Walburga,walburga
+gdc,ger000477,175898,176515,frau_direktor_hassenreuter,176119,176122,ich,frau_direktor_hassenreuter
+gdc,ger000477,175898,176515,frau_direktor_hassenreuter,176293,176296,ich,frau_direktor_hassenreuter
+gdc,ger000477,176588,176644,frau_john,176638,176643,Bruno,bruno
+gdc,ger000477,176649,176729,frau_direktor_hassenreuter,176719,176728,Frau John,frau_john
+gdc,ger000477,176649,176729,frau_direktor_hassenreuter,176724,176728,John,john
+gdc,ger000477,176734,176759,frau_john,176748,176753,Bruno,bruno
+gdc,ger000477,176764,176811,frau_direktor_hassenreuter,176805,176810,Bruno,bruno
+gdc,ger000477,176816,176862,frau_john,176830,176835,Bruno,bruno
+gdc,ger000477,176975,177048,spitta,177038,177047,Frau John,frau_john
+gdc,ger000477,176975,177048,spitta,177043,177047,John,john
+gdc,ger000477,177053,177280,frau_john,177084,177090,Spitta,spitta
+gdc,ger000477,177285,177396,frau_direktor_hassenreuter,177386,177395,Frau John,frau_john
+gdc,ger000477,177285,177396,frau_direktor_hassenreuter,177391,177395,John,john
+gdc,ger000477,177653,177934,frau_john,177899,177904,Bruno,bruno
+gdc,ger000477,177967,177985,_stage,177975,177984,Frau John,frau_john
+gdc,ger000477,177967,177985,_stage,177980,177984,John,john
+gdc,ger000477,177940,178091,frau_direktor_hassenreuter,178013,178022,Frau John,frau_john
+gdc,ger000477,177940,178091,frau_direktor_hassenreuter,178018,178022,John,john
+gdc,ger000477,177940,178091,frau_direktor_hassenreuter,178024,178033,Frau John,frau_john
+gdc,ger000477,177940,178091,frau_direktor_hassenreuter,178029,178033,John,john
+gdc,ger000477,178096,178204,frau_john,178107,178112,Bruno,bruno
+gdc,ger000477,178209,178277,frau_direktor_hassenreuter,178267,178276,Frau John,frau_john
+gdc,ger000477,178209,178277,frau_direktor_hassenreuter,178272,178276,John,john
+gdc,ger000477,178282,178572,frau_john,178365,178368,mir,frau_john
+gdc,ger000477,178619,179698,direktor_hassenreuter,178795,178804,Frau John,frau_john
+gdc,ger000477,178619,179698,direktor_hassenreuter,178800,178804,John,john
+gdc,ger000477,178619,179698,direktor_hassenreuter,178809,178817,Walburga,walburga
+gdc,ger000477,178619,179698,direktor_hassenreuter,178827,178831,mein,direktor_hassenreuter
+gdc,ger000477,178619,179698,direktor_hassenreuter,179017,179023,Spitta,spitta
+gdc,ger000477,178619,179698,direktor_hassenreuter,179574,179577,mir,direktor_hassenreuter
+gdc,ger000477,178619,179698,direktor_hassenreuter,179631,179639,Walburga,walburga
+gdc,ger000477,178619,179698,direktor_hassenreuter,179644,179650,Spitta,spitta
+gdc,ger000477,179847,180973,direktor_hassenreuter,179939,179944,Meine,direktor_hassenreuter
+gdc,ger000477,179847,180973,direktor_hassenreuter,180394,180400,Spitta,spitta
+gdc,ger000477,179847,180973,direktor_hassenreuter,180506,180509,ich,direktor_hassenreuter
+gdc,ger000477,179847,180973,direktor_hassenreuter,180537,180543,Spitta,spitta
+gdc,ger000477,179847,180973,direktor_hassenreuter,180573,180576,ich,direktor_hassenreuter
+gdc,ger000477,179847,180973,direktor_hassenreuter,180681,180684,ich,direktor_hassenreuter
+gdc,ger000477,179847,180973,direktor_hassenreuter,180688,180697,Frau John,frau_john
+gdc,ger000477,179847,180973,direktor_hassenreuter,180693,180697,John,john
+gdc,ger000477,179847,180973,direktor_hassenreuter,180788,180791,ich,direktor_hassenreuter
+gdc,ger000477,179847,180973,direktor_hassenreuter,180842,180845,ich,direktor_hassenreuter
+gdc,ger000477,180978,181050,frau_direktor_hassenreuter,181020,181029,Frau John,frau_john
+gdc,ger000477,180978,181050,frau_direktor_hassenreuter,181025,181029,John,john
+gdc,ger000477,181055,182217,direktor_hassenreuter,181126,181129,ich,direktor_hassenreuter
+gdc,ger000477,181055,182217,direktor_hassenreuter,181236,181239,mir,direktor_hassenreuter
+gdc,ger000477,181055,182217,direktor_hassenreuter,181328,181334,meinem,direktor_hassenreuter
+gdc,ger000477,181055,182217,direktor_hassenreuter,181371,181374,Ich,direktor_hassenreuter
+gdc,ger000477,181055,182217,direktor_hassenreuter,181598,181601,ich,direktor_hassenreuter
+gdc,ger000477,181055,182217,direktor_hassenreuter,181630,181634,mich,direktor_hassenreuter
+gdc,ger000477,181055,182217,direktor_hassenreuter,181723,181726,ich,direktor_hassenreuter
+gdc,ger000477,181055,182217,direktor_hassenreuter,181747,181750,mir,direktor_hassenreuter
+gdc,ger000477,181055,182217,direktor_hassenreuter,181988,181993,meine,direktor_hassenreuter
+gdc,ger000477,181055,182217,direktor_hassenreuter,182066,182069,ich,direktor_hassenreuter
+gdc,ger000477,182578,182826,direktor_hassenreuter,182711,182714,mir,direktor_hassenreuter
+gdc,ger000477,182578,182826,direktor_hassenreuter,182755,182761,meinen,direktor_hassenreuter
+gdc,ger000477,182883,183111,direktor_hassenreuter,182915,182924,Frau John,frau_john
+gdc,ger000477,182883,183111,direktor_hassenreuter,182920,182924,John,john
+gdc,ger000477,182883,183111,direktor_hassenreuter,182933,182936,ich,direktor_hassenreuter
+gdc,ger000477,183116,183271,frau_john,183233,183237,mein,frau_john
+gdc,ger000477,183276,183585,direktor_hassenreuter,183327,183330,ich,direktor_hassenreuter
+gdc,ger000477,183276,183585,direktor_hassenreuter,183351,183354,ich,direktor_hassenreuter
+gdc,ger000477,183276,183585,direktor_hassenreuter,183355,183359,mich,direktor_hassenreuter
+gdc,ger000477,183276,183585,direktor_hassenreuter,183451,183457,meinem,direktor_hassenreuter
+gdc,ger000477,183276,183585,direktor_hassenreuter,183493,183501,Quaquaro,quaquaro
+gdc,ger000477,183693,183901,direktor_hassenreuter,183765,183768,ich,direktor_hassenreuter
+gdc,ger000477,183693,183901,direktor_hassenreuter,183885,183888,mir,direktor_hassenreuter
+gdc,ger000477,183905,183933,_stage,183918,183922,John,john
+gdc,ger000477,184021,184172,john,184036,184040,mich,john
+gdc,ger000477,184764,184832,direktor_hassenreuter,184804,184808,John,john
+gdc,ger000477,184837,184893,frau_john,184865,184869,Mein,frau_john
+gdc,ger000477,185502,185686,john,185533,185538,meine,john
+gdc,ger000477,185502,185686,john,185565,185569,mich,john
+gdc,ger000477,185502,185686,john,185570,185578,Quaquaro,quaquaro
+gdc,ger000477,186158,186338,john,186252,186255,mir,john
+gdc,ger000477,186158,186338,john,186304,186309,Bruno,bruno
+gdc,ger000477,186421,186638,john,186473,186478,meine,john
+gdc,ger000477,186421,186638,john,186546,186550,mein,john
+gdc,ger000477,186729,186944,frau_john,186918,186921,mir,frau_john
+gdc,ger000477,187216,187331,direktor_hassenreuter,187326,187330,John,john
+gdc,ger000477,187479,188025,frau_john,187954,187957,mir,frau_john
+gdc,ger000477,187479,188025,frau_john,187992,187997,Bruno,bruno
+gdc,ger000477,188030,188104,direktor_hassenreuter,188094,188103,Frau John,frau_john
+gdc,ger000477,188030,188104,direktor_hassenreuter,188099,188103,John,john
+gdc,ger000477,188240,188550,direktor_hassenreuter,188325,188329,John,john
+gdc,ger000477,188556,189140,john,189033,189038,Selma,selma
+gdc,ger000477,188556,189140,john,189040,189045,Selma,selma
+gdc,ger000477,188556,189140,john,189064,189067,mir,john
+gdc,ger000477,189145,189176,frau_john,189170,189175,Selma,selma
+gdc,ger000477,189181,189287,john,189187,189192,Selma,selma
+gdc,ger000477,189181,189287,john,189258,189262,mein,john
+gdc,ger000477,189181,189287,john,189271,189276,meine,john
+gdc,ger000477,189353,189503,john,189364,189368,mein,john
+gdc,ger000477,189353,189503,john,189429,189434,Bruno,bruno
+gdc,ger000477,189508,189576,frau_john,189571,189575,mich,frau_john
+gdc,ger000477,189581,189814,john,189808,189813,Selma,selma
+gdc,ger000477,189819,190384,frau_john,189930,189934,mein,frau_john
+gdc,ger000477,189819,190384,frau_john,189961,189965,mein,frau_john
+gdc,ger000477,189819,190384,frau_john,189992,189996,mein,frau_john
+gdc,ger000477,189819,190384,frau_john,190051,190054,mir,frau_john
+gdc,ger000477,189819,190384,frau_john,190066,190069,mir,frau_john
+gdc,ger000477,189819,190384,frau_john,190070,190074,mein,frau_john
+gdc,ger000477,189819,190384,frau_john,190097,190100,mir,frau_john
+gdc,ger000477,190389,190928,direktor_hassenreuter,190417,190421,John,john
+gdc,ger000477,190389,190928,direktor_hassenreuter,190470,190475,meine,direktor_hassenreuter
+gdc,ger000477,190933,191278,frau_john,190966,190972,meinen,frau_john
+gdc,ger000477,190933,191278,frau_john,191008,191014,meinen,frau_john
+gdc,ger000477,190933,191278,frau_john,191062,191066,mich,frau_john
+gdc,ger000477,190933,191278,frau_john,191083,191087,mich,frau_john
+gdc,ger000477,190933,191278,frau_john,191244,191248,mein,frau_john
+gdc,ger000477,191283,191625,john,191353,191357,mein,john
+gdc,ger000477,191283,191625,john,191606,191611,meine,john
+gdc,ger000477,191630,191801,frau_john,191689,191692,mir,frau_john
+gdc,ger000477,191805,191892,_stage,191805,191810,Selma,selma
+gdc,ger000477,191894,191944,selma,191922,191925,mir,selma
+gdc,ger000477,191894,191944,selma,191939,191943,John,john
+gdc,ger000477,191949,192154,john,191968,191973,Selma,selma
+gdc,ger000477,191949,192154,john,192016,192019,mir,john
+gdc,ger000477,191949,192154,john,192028,192033,meine,john
+gdc,ger000477,191949,192154,john,192111,192115,mein,john
+gdc,ger000477,191949,192154,john,192150,192153,mir,john
+gdc,ger000477,192159,192217,selma,192212,192216,John,john
+gdc,ger000477,192243,192351,selma,192267,192270,mir,selma
+gdc,ger000477,192243,192351,selma,192277,192281,John,john
+gdc,ger000477,192243,192351,selma,192311,192314,mir,selma
+gdc,ger000477,192416,192486,selma,192444,192452,Schierke,schierke
+gdc,ger000477,192416,192486,selma,192457,192461,mich,selma
+gdc,ger000477,192565,192943,selma,192604,192608,mich,selma
+gdc,ger000477,192565,192943,selma,192632,192636,mein,selma
+gdc,ger000477,192565,192943,selma,192680,192684,mein,selma
+gdc,ger000477,192565,192943,selma,192885,192888,Mir,selma
+gdc,ger000477,192565,192943,selma,192921,192930,Frau John,frau_john
+gdc,ger000477,192565,192943,selma,192926,192930,John,john
+gdc,ger000477,193129,193273,selma,193238,193247,Frau John,frau_john
+gdc,ger000477,193129,193273,selma,193243,193247,John,john
+gdc,ger000477,193424,193535,selma,193477,193481,mich,selma
+gdc,ger000477,193540,193653,frau_john,193579,193584,Selma,selma
+gdc,ger000477,193658,193709,selma,193699,193708,Frau John,frau_john
+gdc,ger000477,193658,193709,selma,193704,193708,John,john
+gdc,ger000477,193719,193771,_stage,193725,193730,Selma,selma
+gdc,ger000477,193714,194126,john,193915,193921,Spitta,spitta
+gdc,ger000477,193714,194126,john,193995,194000,Bruno,bruno
+gdc,ger000477,193714,194126,john,194086,194090,mich,john
+gdc,ger000477,194205,194434,john,194306,194311,meine,john
+gdc,ger000477,194439,194484,selma,194479,194483,John,john
+gdc,ger000477,194586,194675,john,194645,194650,Bruno,bruno
+gdc,ger000477,194733,194816,direktor_hassenreuter,194756,194759,Ich,direktor_hassenreuter
+gdc,ger000477,194821,195126,john,194889,194898,Frau John,frau_john
+gdc,ger000477,194821,195126,john,194894,194898,John,john
+gdc,ger000477,194821,195126,john,194919,194924,Selma,selma
+gdc,ger000477,194821,195126,john,194957,194966,Frau John,frau_john
+gdc,ger000477,194821,195126,john,194962,194966,John,john
+gdc,ger000477,195131,195504,walburga,195185,195194,Frau John,frau_john
+gdc,ger000477,195131,195504,walburga,195190,195194,John,john
+gdc,ger000477,195131,195504,walburga,195237,195240,ich,walburga
+gdc,ger000477,195131,195504,walburga,195308,195311,Ich,walburga
+gdc,ger000477,195131,195504,walburga,195360,195363,ich,walburga
+gdc,ger000477,195131,195504,walburga,195369,195372,mir,walburga
+gdc,ger000477,195131,195504,walburga,195451,195460,Frau John,frau_john
+gdc,ger000477,195131,195504,walburga,195456,195460,John,john
+gdc,ger000477,195509,195545,direktor_hassenreuter,195536,195544,Walburga,walburga
+gdc,ger000477,195550,195737,walburga,195589,195606,Alice Rütterbusch,alice_ruetterbusch
+gdc,ger000477,195550,195737,walburga,195612,195615,ich,walburga
+gdc,ger000477,195550,195737,walburga,195622,195626,mich,walburga
+gdc,ger000477,195550,195737,walburga,195674,195678,mich,walburga
+gdc,ger000477,195550,195737,walburga,195696,195699,ich,walburga
+gdc,ger000477,195742,195806,direktor_hassenreuter,195765,195768,Ich,direktor_hassenreuter
+gdc,ger000477,195742,195806,direktor_hassenreuter,195774,195778,mich,direktor_hassenreuter
+gdc,ger000477,195942,196282,direktor_hassenreuter,196196,196205,Frau John,frau_john
+gdc,ger000477,195942,196282,direktor_hassenreuter,196201,196205,John,john
+gdc,ger000477,196287,196674,john,196361,196365,mich,john
+gdc,ger000477,196287,196674,john,196385,196388,mir,john
+gdc,ger000477,196679,196743,frau_john,196706,196709,mir,frau_john
+gdc,ger000477,196748,196923,john,196793,196798,Selma,selma
+gdc,ger000477,196929,196980,selma,196975,196979,John,john
+gdc,ger000477,197084,197093,_stage,197087,197092,Selma,selma
+gdc,ger000477,197220,197324,selma,197319,197323,John,john
+gdc,ger000477,197329,197506,john,197371,197376,Selma,selma
+gdc,ger000477,197511,197701,frau_john,197680,197683,mir,frau_john
+gdc,ger000477,197706,198024,selma,197739,197743,mich,selma
+gdc,ger000477,197706,198024,selma,197786,197790,John,john
+gdc,ger000477,197706,198024,selma,197805,197808,mir,selma
+gdc,ger000477,198029,198093,frau_john,198061,198065,mein,frau_john
+gdc,ger000477,198029,198093,frau_john,198076,198080,mein,frau_john
+gdc,ger000477,198098,198162,selma,198152,198161,Frau John,frau_john
+gdc,ger000477,198098,198162,selma,198157,198161,John,john
+gdc,ger000477,198225,198281,john,198235,198239,mich,john
+gdc,ger000477,198225,198281,john,198259,198262,mir,john
+gdc,ger000477,198577,198911,john,198605,198608,mir,john
+gdc,ger000477,198916,199130,frau_john,199095,199099,mich,frau_john
+gdc,ger000477,199135,199262,john,199238,199241,mir,john
+gdc,ger000477,199377,199615,direktor_hassenreuter,199492,199501,Frau John,frau_john
+gdc,ger000477,199377,199615,direktor_hassenreuter,199497,199501,John,john
+gdc,ger000477,199620,199671,john,199644,199647,mir,john
+gdc,ger000477,199870,200338,frau_john,199894,199898,mein,frau_john
+gdc,ger000477,199870,200338,frau_john,199981,199984,mir,frau_john
+gdc,ger000477,199870,200338,frau_john,200144,200147,mir,frau_john
+gdc,ger000477,199870,200338,frau_john,200249,200258,Frau John,frau_john
+gdc,ger000477,199870,200338,frau_john,200254,200258,John,john
+gdc,ger000477,199870,200338,frau_john,200316,200324,Schierke,schierke
+gdc,ger000477,199870,200338,frau_john,200329,200337,Quaquaro,quaquaro
+gdc,ger000477,200643,200748,quaquaro,200676,200684,Schierke,schierke
+gdc,ger000477,201001,201136,frau_john,201108,201112,mich,frau_john
+gdc,ger000477,201141,201362,_stage,201141,201150,Frau John,frau_john
+gdc,ger000477,201141,201362,_stage,201146,201150,John,john
+gdc,ger000477,201141,201362,_stage,201280,201286,Spitta,spitta
+gdc,ger000477,201364,201813,direktor_hassenreuter,201405,201408,ich,direktor_hassenreuter
+gdc,ger000477,201364,201813,direktor_hassenreuter,201423,201426,ich,direktor_hassenreuter
+gdc,ger000477,201364,201813,direktor_hassenreuter,201547,201553,meinem,direktor_hassenreuter
+gdc,ger000477,201364,201813,direktor_hassenreuter,201580,201586,Spitta,spitta
+gdc,ger000477,201364,201813,direktor_hassenreuter,201601,201607,Spitta,spitta
+gdc,ger000477,201364,201813,direktor_hassenreuter,201735,201744,Frau John,frau_john
+gdc,ger000477,201364,201813,direktor_hassenreuter,201740,201744,John,john
+gdc,ger000477,201817,201841,_stage,201817,201826,Frau John,frau_john
+gdc,ger000477,201817,201841,_stage,201822,201826,John,john
+gdc,ger000477,202055,202208,_stage,202055,202060,Selma,selma
+gdc,ger000477,202055,202208,_stage,202062,202070,Schierke,schierke
+gdc,ger000477,202055,202208,_stage,202075,202079,John,john
+gdc,ger000477,202055,202208,_stage,202086,202095,Frau John,frau_john
+gdc,ger000477,202055,202208,_stage,202091,202095,John,john
+gdc,ger000477,202055,202208,_stage,202102,202108,Spitta,spitta
+gdc,ger000477,202055,202208,_stage,202142,202150,Walburga,walburga
+gdc,ger000477,202651,202717,direktor_hassenreuter,202691,202694,ich,direktor_hassenreuter
+gdc,ger000477,202722,202813,spitta,202730,202733,Mir,spitta
+gdc,ger000477,203620,203658,spitta,203633,203636,ich,spitta
+gdc,ger000477,203663,204034,direktor_hassenreuter,203701,203705,John,john
+gdc,ger000477,204282,204348,direktor_hassenreuter,204316,204319,ich,direktor_hassenreuter
+gdc,ger000477,204448,204544,direktor_hassenreuter,204512,204515,Ich,direktor_hassenreuter
+gdc,ger000477,204548,204583,_stage,204548,204553,Selma,selma
+gdc,ger000477,204585,204631,selma,204597,204601,John,john
+gdc,ger000477,204585,204631,selma,204608,204612,John,john
+gdc,ger000477,204636,204716,frau_direktor_hassenreuter,204669,204673,John,john
+gdc,ger000477,204636,204716,frau_direktor_hassenreuter,204710,204715,Selma,selma
+gdc,ger000477,204721,204769,selma,204733,204737,John,john
+gdc,ger000477,204774,204836,direktor_hassenreuter,204830,204835,Selma,selma
+gdc,ger000477,205090,205159,selma,205134,205138,John,john

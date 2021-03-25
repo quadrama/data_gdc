@@ -1,0 +1,1466 @@
+corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+gdc,ger000504,1880,2422,_stage,2157,2168,Gilgenessig,gilgenessig
+gdc,ger000504,1880,2422,_stage,2287,2308,Hans von Lichtenstein,hans_von_lichtenstein
+gdc,ger000504,1880,2422,_stage,2296,2308,Lichtenstein,lichtenstein
+gdc,ger000504,1880,2422,_stage,2344,2359,Heinz von Stein,heinz_von_stein
+gdc,ger000504,1880,2422,_stage,2369,2386,Wolf von Hanstein,wolf_von_hanstein
+gdc,ger000504,1880,2422,_stage,2396,2413,Hans von Grumbach,hans_von_grumbach
+gdc,ger000504,3385,3853,wolf_von_hanstein,3451,3454,Ich,wolf_von_hanstein
+gdc,ger000504,3385,3853,wolf_von_hanstein,3460,3465,meine,wolf_von_hanstein
+gdc,ger000504,4295,4370,wolf_von_hanstein,4343,4346,mir,wolf_von_hanstein
+gdc,ger000504,4709,4945,wolf_von_hanstein,4837,4840,ich,wolf_von_hanstein
+gdc,ger000504,5471,5593,_stage,5476,5492,Wolf von Kastell,wolf_von_kastell
+gdc,ger000504,6719,6869,gilgenessig,6753,6756,ich,gilgenessig
+gdc,ger000504,7151,8110,zweiter_ritter,7253,7256,Ich,zweiter_ritter
+gdc,ger000504,7151,8110,zweiter_ritter,7454,7457,ich,zweiter_ritter
+gdc,ger000504,7151,8110,zweiter_ritter,7565,7568,ich,zweiter_ritter
+gdc,ger000504,7151,8110,zweiter_ritter,7682,7685,mir,zweiter_ritter
+gdc,ger000504,7151,8110,zweiter_ritter,7825,7828,Ich,zweiter_ritter
+gdc,ger000504,7151,8110,zweiter_ritter,7845,7849,mein,zweiter_ritter
+gdc,ger000504,7151,8110,zweiter_ritter,8008,8011,ich,zweiter_ritter
+gdc,ger000504,8115,8410,wolf_von_kastell,8191,8194,ich,wolf_von_kastell
+gdc,ger000504,8115,8410,wolf_von_kastell,8195,8199,mich,wolf_von_kastell
+gdc,ger000504,8115,8410,wolf_von_kastell,8223,8226,ich,wolf_von_kastell
+gdc,ger000504,8115,8410,wolf_von_kastell,8227,8231,mich,wolf_von_kastell
+gdc,ger000504,8588,9031,wolf_von_kastell,8650,8654,Mein,wolf_von_kastell
+gdc,ger000504,8588,9031,wolf_von_kastell,8830,8834,mich,wolf_von_kastell
+gdc,ger000504,8588,9031,wolf_von_kastell,8915,8919,mich,wolf_von_kastell
+gdc,ger000504,8588,9031,wolf_von_kastell,8938,8941,ich,wolf_von_kastell
+gdc,ger000504,8588,9031,wolf_von_kastell,8942,8946,mich,wolf_von_kastell
+gdc,ger000504,9036,9281,hans_von_lichtenstein,9154,9168,Bischof Konrad,bischof_konrad
+gdc,ger000504,9552,9818,wolf_von_hanstein,9571,9574,Ich,wolf_von_hanstein
+gdc,ger000504,9823,10893,hans_von_lichtenstein,9906,9909,mir,hans_von_lichtenstein
+gdc,ger000504,9823,10893,hans_von_lichtenstein,10680,10683,mir,hans_von_lichtenstein
+gdc,ger000504,12705,12836,wolf_von_kastell,12746,12752,meinem,wolf_von_kastell
+gdc,ger000504,12705,12836,wolf_von_kastell,12796,12802,meinem,wolf_von_kastell
+gdc,ger000504,13855,14497,wolf_von_kastell,13883,13887,mich,wolf_von_kastell
+gdc,ger000504,14501,14547,_stage,14501,14518,Lorenz von Hutten,lorenz_von_hutten
+gdc,ger000504,14656,14871,lorenz_von_hutten,14717,14720,ich,lorenz_von_hutten
+gdc,ger000504,14656,14871,lorenz_von_hutten,14742,14745,mir,lorenz_von_hutten
+gdc,ger000504,14656,14871,lorenz_von_hutten,14800,14804,mein,lorenz_von_hutten
+gdc,ger000504,14656,14871,lorenz_von_hutten,14814,14817,ich,lorenz_von_hutten
+gdc,ger000504,14931,15506,lorenz_von_hutten,15374,15377,ich,lorenz_von_hutten
+gdc,ger000504,14931,15506,lorenz_von_hutten,15461,15464,ich,lorenz_von_hutten
+gdc,ger000504,16449,17148,lorenz_von_hutten,16472,16475,ich,lorenz_von_hutten
+gdc,ger000504,16449,17148,lorenz_von_hutten,16539,16542,ich,lorenz_von_hutten
+gdc,ger000504,16449,17148,lorenz_von_hutten,16821,16824,Ich,lorenz_von_hutten
+gdc,ger000504,17555,18050,wolf_von_hanstein,17586,17589,Mir,wolf_von_hanstein
+gdc,ger000504,17555,18050,wolf_von_hanstein,17939,17943,mich,wolf_von_hanstein
+gdc,ger000504,18535,18692,_stage,18535,18558,Sebastian von Rotenhahn,sebastian_von_rotenhahn
+gdc,ger000504,18694,18831,heinz_von_stein,18787,18800,Florian Geyer,florian_geyer
+gdc,ger000504,19434,19893,sebastian_von_rotenhahn,19493,19506,Florian Geyer,florian_geyer
+gdc,ger000504,19434,19893,sebastian_von_rotenhahn,19732,19746,Bischof Konrad,bischof_konrad
+gdc,ger000504,19898,20996,wolf_von_hanstein,19986,19989,ich,wolf_von_hanstein
+gdc,ger000504,19898,20996,wolf_von_hanstein,20795,20798,mir,wolf_von_hanstein
+gdc,ger000504,21001,21847,sebastian_von_rotenhahn,21172,21175,ich,sebastian_von_rotenhahn
+gdc,ger000504,21001,21847,sebastian_von_rotenhahn,21176,21180,mich,sebastian_von_rotenhahn
+gdc,ger000504,21001,21847,sebastian_von_rotenhahn,21807,21810,mir,sebastian_von_rotenhahn
+gdc,ger000504,21001,21847,sebastian_von_rotenhahn,21827,21830,ich,sebastian_von_rotenhahn
+gdc,ger000504,22114,22165,_stage,22118,22132,Bischof Konrad,bischof_konrad
+gdc,ger000504,22167,22309,wolf_von_kastell,22247,22261,Bischof Konrad,bischof_konrad
+gdc,ger000504,22567,26585,bischof_konrad,22598,22601,ich,bischof_konrad
+gdc,ger000504,22567,26585,bischof_konrad,22645,22648,mir,bischof_konrad
+gdc,ger000504,22567,26585,bischof_konrad,22660,22665,meine,bischof_konrad
+gdc,ger000504,22567,26585,bischof_konrad,22711,22714,ich,bischof_konrad
+gdc,ger000504,22567,26585,bischof_konrad,22764,22767,ich,bischof_konrad
+gdc,ger000504,22567,26585,bischof_konrad,22768,22772,mich,bischof_konrad
+gdc,ger000504,22567,26585,bischof_konrad,23164,23167,ich,bischof_konrad
+gdc,ger000504,22567,26585,bischof_konrad,23435,23438,ich,bischof_konrad
+gdc,ger000504,22567,26585,bischof_konrad,23439,23444,meine,bischof_konrad
+gdc,ger000504,22567,26585,bischof_konrad,23558,23561,ich,bischof_konrad
+gdc,ger000504,22567,26585,bischof_konrad,23562,23567,meine,bischof_konrad
+gdc,ger000504,22567,26585,bischof_konrad,23661,23666,meine,bischof_konrad
+gdc,ger000504,22567,26585,bischof_konrad,23796,23799,mir,bischof_konrad
+gdc,ger000504,22567,26585,bischof_konrad,23812,23815,mir,bischof_konrad
+gdc,ger000504,22567,26585,bischof_konrad,23951,23964,Florian Geyer,florian_geyer
+gdc,ger000504,22567,26585,bischof_konrad,23998,24001,ich,bischof_konrad
+gdc,ger000504,22567,26585,bischof_konrad,24062,24068,meinem,bischof_konrad
+gdc,ger000504,22567,26585,bischof_konrad,24324,24327,mir,bischof_konrad
+gdc,ger000504,22567,26585,bischof_konrad,24609,24612,ich,bischof_konrad
+gdc,ger000504,22567,26585,bischof_konrad,24613,24617,mich,bischof_konrad
+gdc,ger000504,22567,26585,bischof_konrad,24670,24675,meine,bischof_konrad
+gdc,ger000504,22567,26585,bischof_konrad,24832,24835,ich,bischof_konrad
+gdc,ger000504,22567,26585,bischof_konrad,24836,24840,mich,bischof_konrad
+gdc,ger000504,22567,26585,bischof_konrad,24916,24922,meiner,bischof_konrad
+gdc,ger000504,22567,26585,bischof_konrad,24977,24980,ich,bischof_konrad
+gdc,ger000504,22567,26585,bischof_konrad,25434,25437,ich,bischof_konrad
+gdc,ger000504,22567,26585,bischof_konrad,25692,25695,ich,bischof_konrad
+gdc,ger000504,22567,26585,bischof_konrad,25700,25706,meinen,bischof_konrad
+gdc,ger000504,22567,26585,bischof_konrad,25751,25755,mich,bischof_konrad
+gdc,ger000504,22567,26585,bischof_konrad,25808,25811,ich,bischof_konrad
+gdc,ger000504,22567,26585,bischof_konrad,25865,25871,meinem,bischof_konrad
+gdc,ger000504,22567,26585,bischof_konrad,25898,25901,mir,bischof_konrad
+gdc,ger000504,22567,26585,bischof_konrad,25959,25962,ich,bischof_konrad
+gdc,ger000504,22567,26585,bischof_konrad,26006,26009,ich,bischof_konrad
+gdc,ger000504,22567,26585,bischof_konrad,26114,26117,mir,bischof_konrad
+gdc,ger000504,22567,26585,bischof_konrad,26247,26250,mir,bischof_konrad
+gdc,ger000504,22567,26585,bischof_konrad,26255,26261,meinen,bischof_konrad
+gdc,ger000504,22567,26585,bischof_konrad,26291,26294,ich,bischof_konrad
+gdc,ger000504,22567,26585,bischof_konrad,26295,26299,mich,bischof_konrad
+gdc,ger000504,22567,26585,bischof_konrad,26442,26445,ich,bischof_konrad
+gdc,ger000504,22567,26585,bischof_konrad,26522,26525,ich,bischof_konrad
+gdc,ger000504,22567,26585,bischof_konrad,26566,26569,ich,bischof_konrad
+gdc,ger000504,27172,29025,sebastian_von_rotenhahn,27280,27285,Meine,sebastian_von_rotenhahn
+gdc,ger000504,30259,30497,_stage,30403,30417,Bischof Konrad,bischof_konrad
+gdc,ger000504,30498,30655,_stage,30586,30604,Markgraf Friedrich,markgraf_friedrich
+gdc,ger000504,30657,30738,kunz_von_der_muehlen,30686,30689,Ich,kunz_von_der_muehlen
+gdc,ger000504,30657,30738,kunz_von_der_muehlen,30699,30712,Florian Geyer,florian_geyer
+gdc,ger000504,30743,30797,erster_ritter,30775,30779,mein,erster_ritter
+gdc,ger000504,30802,30919,kunz_von_der_muehlen,30848,30861,Florian Geyer,florian_geyer
+gdc,ger000504,30945,30966,_stage,30948,30965,Wolf von Hanstein,wolf_von_hanstein
+gdc,ger000504,30924,31075,sebastian_von_geyer,30979,30982,ich,sebastian_von_geyer
+gdc,ger000504,30924,31075,sebastian_von_geyer,30988,30992,mich,sebastian_von_geyer
+gdc,ger000504,30924,31075,sebastian_von_geyer,31026,31032,meinen,sebastian_von_geyer
+gdc,ger000504,31099,31127,_stage,31107,31126,Kunz von der Mühlen,kunz_von_der_muehlen
+gdc,ger000504,31080,31230,wolf_von_hanstein,31132,31145,Florian Geyer,florian_geyer
+gdc,ger000504,31235,31305,kunz_von_der_muehlen,31260,31273,Florian Geyer,florian_geyer
+gdc,ger000504,31518,31667,kunz_von_der_muehlen,31551,31564,Florian Geyer,florian_geyer
+gdc,ger000504,31691,31720,_stage,31700,31719,Kunz von der Mühlen,kunz_von_der_muehlen
+gdc,ger000504,31672,32007,wolf_von_hanstein,31813,31816,ich,wolf_von_hanstein
+gdc,ger000504,31672,32007,wolf_von_hanstein,31920,31923,ich,wolf_von_hanstein
+gdc,ger000504,32376,32450,sebastian_von_geyer,32440,32443,mir,sebastian_von_geyer
+gdc,ger000504,32455,32487,wolf_von_hanstein,32483,32486,mir,wolf_von_hanstein
+gdc,ger000504,32524,32609,wolf_von_hanstein,32573,32576,Ich,wolf_von_hanstein
+gdc,ger000504,32614,32697,sebastian_von_geyer,32666,32669,mir,sebastian_von_geyer
+gdc,ger000504,32702,33171,markgraf_friedrich,32818,32821,ich,markgraf_friedrich
+gdc,ger000504,32702,33171,markgraf_friedrich,32851,32854,ich,markgraf_friedrich
+gdc,ger000504,33175,33239,_stage,33175,33192,Wolf von Hanstein,wolf_von_hanstein
+gdc,ger000504,33520,33594,stimmen_mehrzahl_rufe_geschrei_die_ritter_vorspiel,33566,33580,Bischof Konrad,bischof_konrad
+gdc,ger000504,33663,34394,_stage,33903,33909,Martin,martin
+gdc,ger000504,33663,34394,_stage,33959,33972,Finkenmäuslin,finkenmaeuslin
+gdc,ger000504,33663,34394,_stage,33977,33984,Kunzlin,kunzlin
+gdc,ger000504,33663,34394,_stage,34038,34048,Löffelholz,loeffelholz
+gdc,ger000504,33663,34394,_stage,34154,34171,Rektor Besenmeyer,rektor_besenmeyer
+gdc,ger000504,33663,34394,_stage,34184,34198,der Schultheiß,der_schultheiss
+gdc,ger000504,33663,34394,_stage,34290,34299,Menzingen,menzingen
+gdc,ger000504,34458,34682,rektor_besenmeyer,34637,34640,mir,rektor_besenmeyer
+gdc,ger000504,34756,34857,loeffelholz,34849,34853,Kohl,kohl
+gdc,ger000504,34862,34949,rektor_besenmeyer,34898,34902,Kohl,kohl
+gdc,ger000504,35770,35841,loeffelholz,35800,35809,Menzingen,menzingen
+gdc,ger000504,35846,35877,martin,35863,35876,Finkenmäuslin,finkenmaeuslin
+gdc,ger000504,35882,35949,loeffelholz,35906,35912,Martin,martin
+gdc,ger000504,35954,36220,martin,36031,36034,ich,martin
+gdc,ger000504,35954,36220,martin,36056,36059,mir,martin
+gdc,ger000504,35954,36220,martin,36094,36097,ich,martin
+gdc,ger000504,35954,36220,martin,36146,36159,Finkenmäuslin,finkenmaeuslin
+gdc,ger000504,35954,36220,martin,36169,36176,Kunzlin,kunzlin
+gdc,ger000504,36348,36395,martin,36374,36378,mein,martin
+gdc,ger000504,36400,36431,finkenmaeuslin,36415,36418,Ich,finkenmaeuslin
+gdc,ger000504,36526,36792,martin,36550,36553,ich,martin
+gdc,ger000504,36526,36792,martin,36743,36746,ich,martin
+gdc,ger000504,36526,36792,martin,36747,36751,mein,martin
+gdc,ger000504,36797,36851,finkenmaeuslin,36835,36838,ich,finkenmaeuslin
+gdc,ger000504,36984,37613,martin,37040,37043,ich,martin
+gdc,ger000504,36984,37613,martin,37089,37095,meinen,martin
+gdc,ger000504,37619,37684,menzingen,37650,37653,mir,menzingen
+gdc,ger000504,37619,37684,menzingen,37661,37664,ich,menzingen
+gdc,ger000504,38854,39182,martin,38898,38901,Ich,martin
+gdc,ger000504,38854,39182,martin,39049,39053,mich,martin
+gdc,ger000504,40059,40072,_stage,40062,40071,Menzingen,menzingen
+gdc,ger000504,40047,40285,loeffelholz,40250,40263,Florian Geyer,florian_geyer
+gdc,ger000504,40290,40598,martin,40310,40323,Florian Geyer,florian_geyer
+gdc,ger000504,40290,40598,martin,40557,40560,ich,martin
+gdc,ger000504,40603,42012,loeffelholz,40615,40618,Ich,loeffelholz
+gdc,ger000504,40603,42012,loeffelholz,41201,41214,Florian Geyer,florian_geyer
+gdc,ger000504,40603,42012,loeffelholz,41357,41360,ich,loeffelholz
+gdc,ger000504,40603,42012,loeffelholz,41495,41498,ich,loeffelholz
+gdc,ger000504,40603,42012,loeffelholz,41788,41808,Wilhelm von Grumbach,wilhelm_von_grumbach
+gdc,ger000504,42081,42167,martin,42094,42107,Florian Geyer,florian_geyer
+gdc,ger000504,42220,42280,wilhelm_von_grumbach,42242,42245,Ich,wilhelm_von_grumbach
+gdc,ger000504,42387,42462,wilhelm_von_grumbach,42458,42461,ich,wilhelm_von_grumbach
+gdc,ger000504,42587,42657,wilhelm_von_grumbach,42631,42634,ich,wilhelm_von_grumbach
+gdc,ger000504,42587,42657,wilhelm_von_grumbach,42646,42656,Löffelholz,loeffelholz
+gdc,ger000504,42662,42894,loeffelholz,42680,42683,ich,loeffelholz
+gdc,ger000504,42662,42894,loeffelholz,42699,42709,Löffelholz,loeffelholz
+gdc,ger000504,42662,42894,loeffelholz,42771,42774,ich,loeffelholz
+gdc,ger000504,42662,42894,loeffelholz,42792,42796,mich,loeffelholz
+gdc,ger000504,42662,42894,loeffelholz,42833,42836,ich,loeffelholz
+gdc,ger000504,43000,43014,_stage,43003,43013,Löffelholz,loeffelholz
+gdc,ger000504,42989,43101,menzingen,43076,43089,Florian Geyer,florian_geyer
+gdc,ger000504,43106,43169,loeffelholz,43130,43134,mich,loeffelholz
+gdc,ger000504,43174,43274,wilhelm_von_grumbach,43203,43206,mir,wilhelm_von_grumbach
+gdc,ger000504,43279,43366,loeffelholz,43297,43300,ich,loeffelholz
+gdc,ger000504,43454,43615,loeffelholz,43495,43498,Ich,loeffelholz
+gdc,ger000504,43454,43615,loeffelholz,43527,43530,Ich,loeffelholz
+gdc,ger000504,43454,43615,loeffelholz,43550,43553,mir,loeffelholz
+gdc,ger000504,43454,43615,loeffelholz,43589,43592,mir,loeffelholz
+gdc,ger000504,43620,43682,wilhelm_von_grumbach,43642,43645,Ich,wilhelm_von_grumbach
+gdc,ger000504,43620,43682,wilhelm_von_grumbach,43661,43681,Wilhelm von Grumbach,wilhelm_von_grumbach
+gdc,ger000504,43687,44312,loeffelholz,43769,43778,ein Bauer,ein_bauer
+gdc,ger000504,43687,44312,loeffelholz,43790,43793,ich,loeffelholz
+gdc,ger000504,43687,44312,loeffelholz,43964,43973,Menzingen,menzingen
+gdc,ger000504,43687,44312,loeffelholz,44167,44180,Florian Geyer,florian_geyer
+gdc,ger000504,44333,44353,_stage,44342,44352,Löffelholz,loeffelholz
+gdc,ger000504,44317,44405,der_schultheiss,44354,44357,Ich,der_schultheiss
+gdc,ger000504,44410,44608,loeffelholz,44437,44440,ich,loeffelholz
+gdc,ger000504,44859,44977,rektor_besenmeyer,44918,44921,ich,rektor_besenmeyer
+gdc,ger000504,44859,44977,rektor_besenmeyer,44944,44947,ich,rektor_besenmeyer
+gdc,ger000504,45627,45644,_stage,45627,45637,Bubenleben,bubenleben
+gdc,ger000504,45646,45740,martin,45699,45709,Bubenleben,bubenleben
+gdc,ger000504,45646,45740,martin,45715,45728,Florian Geyer,florian_geyer
+gdc,ger000504,45746,45901,loeffelholz,45765,45775,Bubenleben,bubenleben
+gdc,ger000504,45746,45901,loeffelholz,45777,45780,ich,loeffelholz
+gdc,ger000504,45917,45955,_stage,45944,45954,Löffelholz,loeffelholz
+gdc,ger000504,45906,46298,bubenleben,46113,46116,ich,bubenleben
+gdc,ger000504,46721,46840,martin,46761,46774,Florian Geyer,florian_geyer
+gdc,ger000504,46954,47005,_stage,46954,46964,Löffelholz,loeffelholz
+gdc,ger000504,46954,47005,_stage,46969,46983,der Schultheiß,der_schultheiss
+gdc,ger000504,47007,47098,bubenleben,47030,47033,ich,bubenleben
+gdc,ger000504,47102,47197,_stage,47102,47112,Tellermann,tellermann
+gdc,ger000504,47199,47922,tellermann,47424,47428,mich,tellermann
+gdc,ger000504,47199,47922,tellermann,47448,47451,ich,tellermann
+gdc,ger000504,47199,47922,tellermann,47461,47464,ich,tellermann
+gdc,ger000504,47199,47922,tellermann,47483,47486,mir,tellermann
+gdc,ger000504,47199,47922,tellermann,47520,47523,mir,tellermann
+gdc,ger000504,47199,47922,tellermann,47603,47606,ich,tellermann
+gdc,ger000504,47986,48292,tellermann,48189,48202,Florian Geyer,florian_geyer
+gdc,ger000504,48297,48346,der_schultheiss,48326,48329,Ich,der_schultheiss
+gdc,ger000504,48351,49467,tellermann,48583,48586,ich,tellermann
+gdc,ger000504,48351,49467,tellermann,48593,48606,Florian Geyer,florian_geyer
+gdc,ger000504,48351,49467,tellermann,48698,48701,ich,tellermann
+gdc,ger000504,48351,49467,tellermann,48708,48721,Florian Geyer,florian_geyer
+gdc,ger000504,48351,49467,tellermann,48771,48774,ich,tellermann
+gdc,ger000504,48351,49467,tellermann,48779,48782,mir,tellermann
+gdc,ger000504,48351,49467,tellermann,48842,48845,ich,tellermann
+gdc,ger000504,48351,49467,tellermann,49374,49384,Bubenleben,bubenleben
+gdc,ger000504,49577,49788,tellermann,49605,49608,ich,tellermann
+gdc,ger000504,49577,49788,tellermann,49769,49774,meine,tellermann
+gdc,ger000504,49793,49849,domherr_1_akt,49814,49818,mein,domherr_1_akt
+gdc,ger000504,49854,50696,tellermann,50003,50007,mich,tellermann
+gdc,ger000504,49854,50696,tellermann,50012,50015,Ich,tellermann
+gdc,ger000504,49854,50696,tellermann,50024,50034,Tellermann,tellermann
+gdc,ger000504,49854,50696,tellermann,50036,50039,ich,tellermann
+gdc,ger000504,49854,50696,tellermann,50056,50059,ich,tellermann
+gdc,ger000504,49854,50696,tellermann,50075,50078,ich,tellermann
+gdc,ger000504,49854,50696,tellermann,50106,50111,Meine,tellermann
+gdc,ger000504,49854,50696,tellermann,50268,50271,Ich,tellermann
+gdc,ger000504,49854,50696,tellermann,50296,50299,ich,tellermann
+gdc,ger000504,49854,50696,tellermann,50363,50366,Ich,tellermann
+gdc,ger000504,49854,50696,tellermann,50379,50382,ich,tellermann
+gdc,ger000504,49854,50696,tellermann,50654,50658,mich,tellermann
+gdc,ger000504,49854,50696,tellermann,50671,50674,ich,tellermann
+gdc,ger000504,50737,50952,tellermann,50882,50892,Tellermann,tellermann
+gdc,ger000504,50957,51218,der_schultheiss,50984,50994,Tellermann,tellermann
+gdc,ger000504,51656,51831,_stage,51692,51715,Sebastian von Rotenhahn,sebastian_von_rotenhahn
+gdc,ger000504,51656,51831,_stage,51717,51733,Wolf von Kastell,wolf_von_kastell
+gdc,ger000504,51656,51831,_stage,51735,51756,Hans von Lichtenstein,hans_von_lichtenstein
+gdc,ger000504,51656,51831,_stage,51744,51756,Lichtenstein,lichtenstein
+gdc,ger000504,51656,51831,_stage,51758,51775,Hans von Grumbach,hans_von_grumbach
+gdc,ger000504,51656,51831,_stage,51777,51796,Kunz von der Mühlen,kunz_von_der_muehlen
+gdc,ger000504,51656,51831,_stage,51821,51830,Sartorius,sartorius
+gdc,ger000504,51844,51954,_stage,51860,51870,Löffelholz,loeffelholz
+gdc,ger000504,51833,52035,sartorius,51966,51969,mir,sartorius
+gdc,ger000504,51833,52035,sartorius,51984,51987,Ich,sartorius
+gdc,ger000504,52073,52156,sartorius,52084,52087,Ich,sartorius
+gdc,ger000504,52162,52269,loeffelholz,52185,52189,mich,loeffelholz
+gdc,ger000504,52325,52619,_stage,52440,52460,Wilhelm von Grumbach,wilhelm_von_grumbach
+gdc,ger000504,52325,52619,_stage,52512,52521,Menzingen,menzingen
+gdc,ger000504,52718,52790,wilhelm_von_grumbach,52740,52743,Ich,wilhelm_von_grumbach
+gdc,ger000504,52867,52956,wilhelm_von_grumbach,52906,52909,mir,wilhelm_von_grumbach
+gdc,ger000504,52961,53043,sebastian_von_rotenhahn,52997,53006,Menzingen,menzingen
+gdc,ger000504,53048,53098,menzingen,53059,53062,Ich,menzingen
+gdc,ger000504,53236,53376,sebastian_von_rotenhahn,53266,53269,ich,sebastian_von_rotenhahn
+gdc,ger000504,53236,53376,sebastian_von_rotenhahn,53295,53298,ich,sebastian_von_rotenhahn
+gdc,ger000504,54132,54295,sebastian_von_rotenhahn,54256,54265,Menzingen,menzingen
+gdc,ger000504,54751,54874,wilhelm_von_grumbach,54773,54776,Ich,wilhelm_von_grumbach
+gdc,ger000504,55090,55355,wilhelm_von_grumbach,55134,55137,ich,wilhelm_von_grumbach
+gdc,ger000504,55090,55355,wilhelm_von_grumbach,55249,55253,mein,wilhelm_von_grumbach
+gdc,ger000504,55090,55355,wilhelm_von_grumbach,55313,55319,meinem,wilhelm_von_grumbach
+gdc,ger000504,55090,55355,wilhelm_von_grumbach,55341,55347,meinen,wilhelm_von_grumbach
+gdc,ger000504,55613,55885,wilhelm_von_grumbach,55785,55788,Ich,wilhelm_von_grumbach
+gdc,ger000504,56069,56098,_stage,56072,56081,Sartorius,sartorius
+gdc,ger000504,56142,56322,sartorius,56153,56156,Ich,sartorius
+gdc,ger000504,56142,56322,sartorius,56180,56186,meinen,sartorius
+gdc,ger000504,56142,56322,sartorius,56206,56209,Ich,sartorius
+gdc,ger000504,56142,56322,sartorius,56238,56244,meinem,sartorius
+gdc,ger000504,56142,56322,sartorius,56292,56298,meinem,sartorius
+gdc,ger000504,56665,56678,_stage,56668,56677,Sartorius,sartorius
+gdc,ger000504,56752,56807,sartorius,56772,56776,mich,sartorius
+gdc,ger000504,56950,57110,sartorius,56992,56995,Ich,sartorius
+gdc,ger000504,57208,57316,wilhelm_von_grumbach,57245,57249,mein,wilhelm_von_grumbach
+gdc,ger000504,57208,57316,wilhelm_von_grumbach,57289,57292,ich,wilhelm_von_grumbach
+gdc,ger000504,57464,57679,wilhelm_von_grumbach,57524,57527,ich,wilhelm_von_grumbach
+gdc,ger000504,57464,57679,wilhelm_von_grumbach,57562,57565,ich,wilhelm_von_grumbach
+gdc,ger000504,57736,57810,sartorius,57781,57784,mir,sartorius
+gdc,ger000504,57815,57882,wolf_von_kastell,57844,57847,ich,wolf_von_kastell
+gdc,ger000504,57886,57933,_stage,57890,57899,Sartorius,sartorius
+gdc,ger000504,57935,58467,rektor_besenmeyer,58385,58388,ich,rektor_besenmeyer
+gdc,ger000504,58471,60033,_stage,58531,58541,Tellermann,tellermann
+gdc,ger000504,58471,60033,_stage,58842,58849,Hippler,hippler
+gdc,ger000504,58471,60033,_stage,58880,58890,Löffelholz,loeffelholz
+gdc,ger000504,58471,60033,_stage,58975,58984,Sartorius,sartorius
+gdc,ger000504,58471,60033,_stage,59060,59064,Kohl,kohl
+gdc,ger000504,58471,60033,_stage,59103,59113,Bubenleben,bubenleben
+gdc,ger000504,58471,60033,_stage,59427,59448,Götz von Berlichingen,goetz
+gdc,ger000504,58471,60033,_stage,59529,59536,Metzler,metzler
+gdc,ger000504,58471,60033,_stage,59554,59561,Hippler,hippler
+gdc,ger000504,58471,60033,_stage,59598,59607,Sartorius,sartorius
+gdc,ger000504,58471,60033,_stage,59660,59680,Wilhelm von Grumbach,wilhelm_von_grumbach
+gdc,ger000504,58471,60033,_stage,59802,59815,Flammenbecker,flammenbecker
+gdc,ger000504,58471,60033,_stage,59817,59832,ein Weinsberger,ein_weinsberger
+gdc,ger000504,58471,60033,_stage,59868,59872,Link,link
+gdc,ger000504,60034,60386,_stage,60034,60047,Florian Geyer,florian_geyer
+gdc,ger000504,60388,61013,florian_geyer,60780,60783,Ich,florian_geyer
+gdc,ger000504,60388,61013,florian_geyer,60935,60938,Ich,florian_geyer
+gdc,ger000504,60388,61013,florian_geyer,60944,60947,mir,florian_geyer
+gdc,ger000504,61018,61102,rektor_besenmeyer,61078,61082,mich,rektor_besenmeyer
+gdc,ger000504,61107,61350,florian_geyer,61146,61149,ich,florian_geyer
+gdc,ger000504,61107,61350,florian_geyer,61162,61179,Rektor Besenmeyer,rektor_besenmeyer
+gdc,ger000504,61107,61350,florian_geyer,61185,61188,ich,florian_geyer
+gdc,ger000504,61107,61350,florian_geyer,61340,61349,Karlstatt,karlstatt
+gdc,ger000504,61787,61795,_stage,61790,61794,Kohl,kohl
+gdc,ger000504,61961,62164,bubenleben,61981,61984,ich,bubenleben
+gdc,ger000504,62228,62578,florian_geyer,62287,62290,ich,florian_geyer
+gdc,ger000504,62228,62578,florian_geyer,62301,62304,Ich,florian_geyer
+gdc,ger000504,62583,62875,rektor_besenmeyer,62631,62637,meiner,rektor_besenmeyer
+gdc,ger000504,62583,62875,rektor_besenmeyer,62806,62810,mich,rektor_besenmeyer
+gdc,ger000504,62880,62912,florian_geyer,62895,62898,Ich,florian_geyer
+gdc,ger000504,63489,63551,martin,63537,63550,Florian Geyer,florian_geyer
+gdc,ger000504,63555,63943,_stage,63629,63639,Tellermann,tellermann
+gdc,ger000504,63555,63943,_stage,63644,63658,der Schultheiß,der_schultheiss
+gdc,ger000504,63555,63943,_stage,63688,63695,Hippler,hippler
+gdc,ger000504,63555,63943,_stage,63703,63713,Löffelholz,loeffelholz
+gdc,ger000504,63555,63943,_stage,63735,63741,Martin,martin
+gdc,ger000504,63555,63943,_stage,63767,63774,Hippler,hippler
+gdc,ger000504,63555,63943,_stage,63785,63794,Sartorius,sartorius
+gdc,ger000504,63555,63943,_stage,63827,63836,Sartorius,sartorius
+gdc,ger000504,63555,63943,_stage,63911,63920,Menzingen,menzingen
+gdc,ger000504,64124,64278,_stage,64124,64145,Götz von Berlichingen,goetz
+gdc,ger000504,64124,64278,_stage,64222,64229,Metzler,metzler
+gdc,ger000504,64425,65407,loeffelholz,65343,65348,meine,loeffelholz
+gdc,ger000504,65549,65666,bubenleben,65572,65575,Ich,bubenleben
+gdc,ger000504,66424,66698,florian_geyer,66462,66465,ich,florian_geyer
+gdc,ger000504,66703,67291,link,66717,66720,ich,link
+gdc,ger000504,67296,67640,hippler,67451,67458,Hippler,hippler
+gdc,ger000504,67296,67640,hippler,67460,67470,Tellermann,tellermann
+gdc,ger000504,67296,67640,hippler,67472,67479,Metzler,metzler
+gdc,ger000504,67296,67640,hippler,67481,67491,Löffelholz,loeffelholz
+gdc,ger000504,67296,67640,hippler,67493,67502,Sartorius,sartorius
+gdc,ger000504,67644,67966,_stage,67644,67653,Sartorius,sartorius
+gdc,ger000504,67644,67966,_stage,67661,67668,Hippler,hippler
+gdc,ger000504,67644,67966,_stage,67750,67773,Sebastian von Rotenhahn,sebastian_von_rotenhahn
+gdc,ger000504,67644,67966,_stage,67775,67791,Wolf von Kastell,wolf_von_kastell
+gdc,ger000504,67644,67966,_stage,67793,67814,Hans von Lichtenstein,hans_von_lichtenstein
+gdc,ger000504,67644,67966,_stage,67802,67814,Lichtenstein,lichtenstein
+gdc,ger000504,67644,67966,_stage,67816,67835,Kunz von der Mühlen,kunz_von_der_muehlen
+gdc,ger000504,68835,69095,goetz,69062,69065,ich,goetz
+gdc,ger000504,69100,69486,bubenleben,69112,69115,Ich,bubenleben
+gdc,ger000504,69100,69486,bubenleben,69162,69169,Metzler,metzler
+gdc,ger000504,70594,70791,florian_geyer,70727,70730,ich,florian_geyer
+gdc,ger000504,70796,70863,sebastian_von_rotenhahn,70821,70824,Ich,sebastian_von_rotenhahn
+gdc,ger000504,70796,70863,sebastian_von_rotenhahn,70831,70835,mich,sebastian_von_rotenhahn
+gdc,ger000504,71517,71624,florian_geyer,71580,71589,Ein Bauer,ein_bauer
+gdc,ger000504,71517,71624,florian_geyer,71594,71597,ich,florian_geyer
+gdc,ger000504,71517,71624,florian_geyer,71614,71623,ein Bauer,ein_bauer
+gdc,ger000504,71629,71682,sebastian_von_rotenhahn,71658,71664,meinen,sebastian_von_rotenhahn
+gdc,ger000504,72492,72541,tellermann,72509,72512,ich,tellermann
+gdc,ger000504,72492,72541,tellermann,72513,72517,mich,tellermann
+gdc,ger000504,72546,72712,florian_geyer,72606,72611,meine,florian_geyer
+gdc,ger000504,73359,73370,_stage,73359,73366,Trabant,trabant
+gdc,ger000504,73729,75329,loeffelholz,73790,73793,mir,loeffelholz
+gdc,ger000504,73729,75329,loeffelholz,73957,73960,Ich,loeffelholz
+gdc,ger000504,73729,75329,loeffelholz,73981,73985,mich,loeffelholz
+gdc,ger000504,73729,75329,loeffelholz,74002,74005,Ich,loeffelholz
+gdc,ger000504,73729,75329,loeffelholz,74124,74127,ich,loeffelholz
+gdc,ger000504,73729,75329,loeffelholz,74305,74308,mir,loeffelholz
+gdc,ger000504,73729,75329,loeffelholz,74380,74384,mich,loeffelholz
+gdc,ger000504,73729,75329,loeffelholz,74389,74392,ich,loeffelholz
+gdc,ger000504,73729,75329,loeffelholz,75154,75158,mein,loeffelholz
+gdc,ger000504,73729,75329,loeffelholz,75194,75207,Florian Geyer,florian_geyer
+gdc,ger000504,75334,75395,metzler,75347,75368,Götz von Berlichingen,goetz
+gdc,ger000504,75757,76185,bubenleben,75854,75858,mich,bubenleben
+gdc,ger000504,76984,77070,der_schultheiss,77024,77034,Bubenleben,bubenleben
+gdc,ger000504,77075,77196,bubenleben,77097,77101,mich,bubenleben
+gdc,ger000504,77075,77196,bubenleben,77176,77180,Kohl,kohl
+gdc,ger000504,77425,77720,_stage,77552,77562,Tellermann,tellermann
+gdc,ger000504,77425,77720,_stage,77583,77593,Löffelholz,loeffelholz
+gdc,ger000504,77425,77720,_stage,77595,77602,Hippler,hippler
+gdc,ger000504,77425,77720,_stage,77647,77661,Der Schultheiß,der_schultheiss
+gdc,ger000504,77425,77720,_stage,77666,77676,Tellermann,tellermann
+gdc,ger000504,77722,77849,kohl,77793,77797,mich,kohl
+gdc,ger000504,77722,77849,kohl,77813,77818,Meine,kohl
+gdc,ger000504,77722,77849,kohl,77844,77848,mich,kohl
+gdc,ger000504,77903,78372,kohl,77950,77953,ich,kohl
+gdc,ger000504,77903,78372,kohl,77970,77973,mir,kohl
+gdc,ger000504,77903,78372,kohl,78039,78042,mir,kohl
+gdc,ger000504,77903,78372,kohl,78321,78324,ich,kohl
+gdc,ger000504,77903,78372,kohl,78334,78337,ich,kohl
+gdc,ger000504,77903,78372,kohl,78346,78350,mich,kohl
+gdc,ger000504,78442,78485,kohl,78480,78484,mich,kohl
+gdc,ger000504,78529,79041,kohl,78590,78594,mich,kohl
+gdc,ger000504,78529,79041,kohl,78596,78599,Ich,kohl
+gdc,ger000504,78529,79041,kohl,78605,78609,mich,kohl
+gdc,ger000504,78529,79041,kohl,78615,78621,meinem,kohl
+gdc,ger000504,78529,79041,kohl,78637,78640,mir,kohl
+gdc,ger000504,78529,79041,kohl,78696,78699,ich,kohl
+gdc,ger000504,78529,79041,kohl,78746,78749,ich,kohl
+gdc,ger000504,78529,79041,kohl,78750,78755,meine,kohl
+gdc,ger000504,78529,79041,kohl,78821,78824,ich,kohl
+gdc,ger000504,78529,79041,kohl,78841,78845,mich,kohl
+gdc,ger000504,78529,79041,kohl,78861,78865,mich,kohl
+gdc,ger000504,78529,79041,kohl,78878,78882,mich,kohl
+gdc,ger000504,78529,79041,kohl,78897,78900,ich,kohl
+gdc,ger000504,78529,79041,kohl,78940,78943,mir,kohl
+gdc,ger000504,78529,79041,kohl,78996,78999,ich,kohl
+gdc,ger000504,78529,79041,kohl,79000,79004,mich,kohl
+gdc,ger000504,79100,79144,kohl,79130,79143,Florian Geyer,florian_geyer
+gdc,ger000504,79975,80376,hippler,80005,80008,mir,hippler
+gdc,ger000504,80381,80434,florian_geyer,80396,80399,ich,florian_geyer
+gdc,ger000504,80381,80434,florian_geyer,80422,80426,mich,florian_geyer
+gdc,ger000504,80562,80630,flammenbecker,80613,80626,Florian Geyer,florian_geyer
+gdc,ger000504,80635,80768,bubenleben,80713,80716,ich,bubenleben
+gdc,ger000504,81199,81576,der_schultheiss,81219,81223,Link,link
+gdc,ger000504,81714,82144,florian_geyer,81990,81996,meiner,florian_geyer
+gdc,ger000504,82149,82274,goetz,82163,82166,ich,goetz
+gdc,ger000504,82279,82362,florian_geyer,82349,82352,ich,florian_geyer
+gdc,ger000504,82498,83344,tellermann,82579,82582,mir,tellermann
+gdc,ger000504,82498,83344,tellermann,82609,82616,Metzler,metzler
+gdc,ger000504,82498,83344,tellermann,82755,82768,Florian Geyer,florian_geyer
+gdc,ger000504,83676,83720,florian_geyer,83683,83686,Ich,florian_geyer
+gdc,ger000504,84059,84622,florian_geyer,84192,84197,Meine,florian_geyer
+gdc,ger000504,84751,84918,goetz,84877,84880,mir,goetz
+gdc,ger000504,85128,85169,massenruf_von_aussen,85155,85168,Florian Geyer,florian_geyer
+gdc,ger000504,85250,85989,florian_geyer,85340,85343,ich,florian_geyer
+gdc,ger000504,85250,85989,florian_geyer,85354,85357,ich,florian_geyer
+gdc,ger000504,85250,85989,florian_geyer,85363,85366,ich,florian_geyer
+gdc,ger000504,85250,85989,florian_geyer,85440,85443,mir,florian_geyer
+gdc,ger000504,85250,85989,florian_geyer,85569,85572,ich,florian_geyer
+gdc,ger000504,85250,85989,florian_geyer,85573,85577,mich,florian_geyer
+gdc,ger000504,85250,85989,florian_geyer,85671,85676,meine,florian_geyer
+gdc,ger000504,86146,86220,bubenleben,86162,86176,Bischof Konrad,bischof_konrad
+gdc,ger000504,86926,87004,wilhelm_von_grumbach,86952,86966,Bischof Konrad,bischof_konrad
+gdc,ger000504,87316,87762,_stage,87647,87654,Kratzer,kratzer
+gdc,ger000504,87316,87762,_stage,87740,87745,Marei,marei
+gdc,ger000504,87764,87942,rektor_besenmeyer,87888,87891,mir,rektor_besenmeyer
+gdc,ger000504,88494,88814,rektor_besenmeyer,88557,88560,mir,rektor_besenmeyer
+gdc,ger000504,88818,89074,_stage,88888,88893,Marei,marei
+gdc,ger000504,89386,89445,erster_buerger_tisch_1,89433,89444,Schäferhans,schaeferhans
+gdc,ger000504,89592,89864,schaeferhans,89738,89742,mich,schaeferhans
+gdc,ger000504,89592,89864,schaeferhans,89794,89797,ich,schaeferhans
+gdc,ger000504,89592,89864,schaeferhans,89809,89813,mich,schaeferhans
+gdc,ger000504,89592,89864,schaeferhans,89840,89845,meine,schaeferhans
+gdc,ger000504,89869,89962,zweiter_buerger_tisch_1,89894,89897,Ich,zweiter_buerger_tisch_1
+gdc,ger000504,90912,91128,entlaufener_moench,91027,91030,Ich,entlaufener_moench
+gdc,ger000504,90912,91128,entlaufener_moench,91072,91075,Ich,entlaufener_moench
+gdc,ger000504,91142,91157,_stage,91145,91156,Schäferhans,schaeferhans
+gdc,ger000504,91133,91197,kratzer,91185,91196,Schäferhans,schaeferhans
+gdc,ger000504,91203,91309,schaeferhans,91281,91284,mir,schaeferhans
+gdc,ger000504,91314,91442,zweiter_buerger_tisch_2,91394,91397,Ich,zweiter_buerger_tisch_2
+gdc,ger000504,91702,92443,hausierer,91720,91723,mir,hausierer
+gdc,ger000504,91702,92443,hausierer,91768,91777,Karlstatt,karlstatt
+gdc,ger000504,92448,92604,zweiter_buerger_tisch_2,92561,92564,ich,zweiter_buerger_tisch_2
+gdc,ger000504,92448,92604,zweiter_buerger_tisch_2,92581,92585,mich,zweiter_buerger_tisch_2
+gdc,ger000504,92921,92960,verschiedene_viele_stimmen_alle_2_akt,92943,92959,Der blinde Mönch,der_blinde_moench
+gdc,ger000504,94043,94154,der_blinde_moench,94102,94111,Karlstatt,karlstatt
+gdc,ger000504,94159,94336,kratzer,94183,94186,mir,kratzer
+gdc,ger000504,94341,96746,der_blinde_moench,94479,94488,Karlstatt,karlstatt
+gdc,ger000504,94341,96746,der_blinde_moench,94545,94552,Kratzer,kratzer
+gdc,ger000504,94341,96746,der_blinde_moench,96650,96653,ich,der_blinde_moench
+gdc,ger000504,94341,96746,der_blinde_moench,96681,96685,mein,der_blinde_moench
+gdc,ger000504,94341,96746,der_blinde_moench,96699,96704,meine,der_blinde_moench
+gdc,ger000504,96751,96850,verschiedene_viele_stimmen_alle_2_akt,96808,96824,der blinde Mönch,der_blinde_moench
+gdc,ger000504,96873,96884,_stage,96876,96883,Kratzer,kratzer
+gdc,ger000504,96963,97036,kratzer,96998,97001,ich,kratzer
+gdc,ger000504,97198,97327,schaeferhans,97269,97278,Karlstatt,karlstatt
+gdc,ger000504,97332,97390,der_blinde_moench,97372,97381,Karlstatt,karlstatt
+gdc,ger000504,97395,97587,schaeferhans,97429,97432,ich,schaeferhans
+gdc,ger000504,97395,97587,schaeferhans,97538,97541,ich,schaeferhans
+gdc,ger000504,97593,97751,kratzer,97713,97726,Florian Geyer,florian_geyer
+gdc,ger000504,99009,99064,_stage,99053,99060,Kratzer,kratzer
+gdc,ger000504,99001,99113,kilian,99065,99068,Ich,kilian
+gdc,ger000504,99001,99113,kilian,99078,99091,Florian Geyer,florian_geyer
+gdc,ger000504,99333,99352,_stage,99333,99339,Kilian,kilian
+gdc,ger000504,99365,99419,_stage,99411,99418,Kratzer,kratzer
+gdc,ger000504,99354,99469,menzingen,99428,99441,Florian Geyer,florian_geyer
+gdc,ger000504,99539,99829,menzingen,99781,99784,Ich,menzingen
+gdc,ger000504,99835,99901,verschiedene_viele_stimmen_alle_2_akt,99868,99877,Menzingen,menzingen
+gdc,ger000504,99976,100131,erster_buerger_tisch_2,100067,100070,mir,erster_buerger_tisch_2
+gdc,ger000504,99976,100131,erster_buerger_tisch_2,100097,100100,ich,erster_buerger_tisch_2
+gdc,ger000504,100136,100414,zweiter_buerger_tisch_2,100187,100190,ich,zweiter_buerger_tisch_2
+gdc,ger000504,100136,100414,zweiter_buerger_tisch_2,100209,100216,Goppolt,goppolt
+gdc,ger000504,100136,100414,zweiter_buerger_tisch_2,100226,100239,Florian Geyer,florian_geyer
+gdc,ger000504,101220,101345,menzingen,101245,101248,Ich,menzingen
+gdc,ger000504,101220,101345,menzingen,101307,101310,ich,menzingen
+gdc,ger000504,101350,101402,dritter_buerger_tisch_1,101392,101401,Menzingen,menzingen
+gdc,ger000504,101407,101845,hausierer,101454,101463,Menzingen,menzingen
+gdc,ger000504,101850,101926,kilian,101878,101881,Ich,kilian
+gdc,ger000504,101850,101926,kilian,101891,101904,Florian Geyer,florian_geyer
+gdc,ger000504,101932,101997,joerg_kumpf,101987,101996,Menzingen,menzingen
+gdc,ger000504,102363,102401,joerg_kumpf,102375,102378,Ich,joerg_kumpf
+gdc,ger000504,102494,102706,hausierer,102574,102577,mir,hausierer
+gdc,ger000504,102802,102893,erster_buerger_tisch_1,102851,102861,Jörg Kumpf,joerg_kumpf
+gdc,ger000504,103111,103141,_stage,103111,103121,Jörg Kumpf,joerg_kumpf
+gdc,ger000504,103143,103218,menzingen,103164,103170,meiner,menzingen
+gdc,ger000504,103279,103431,kilian,103342,103345,ich,kilian
+gdc,ger000504,103279,103431,kilian,103390,103396,meiner,kilian
+gdc,ger000504,103279,103431,kilian,103406,103409,ich,kilian
+gdc,ger000504,104286,104501,_stage,104390,104397,Kratzer,kratzer
+gdc,ger000504,104286,104501,_stage,104399,104408,Menzingen,menzingen
+gdc,ger000504,104286,104501,_stage,104410,104424,der Schultheiß,der_schultheiss
+gdc,ger000504,104286,104501,_stage,104429,104445,der blinde Mönch,der_blinde_moench
+gdc,ger000504,104586,104715,_stage,104586,104595,Menzingen,menzingen
+gdc,ger000504,104726,104773,_stage,104763,104772,Menzingen,menzingen
+gdc,ger000504,105001,105019,_stage,105001,105008,Feistle,feistle
+gdc,ger000504,105021,105192,kratzer,105184,105191,Feistle,feistle
+gdc,ger000504,105297,105372,feistle,105313,105316,ich,feistle
+gdc,ger000504,105377,105421,kratzer,105413,105420,Feistle,feistle
+gdc,ger000504,105426,105553,feistle,105435,105438,Ich,feistle
+gdc,ger000504,105426,105553,feistle,105446,105450,mein,feistle
+gdc,ger000504,105426,105553,feistle,105492,105495,Ich,feistle
+gdc,ger000504,105558,105655,menzingen,105588,105608,Wilhelm von Grumbach,wilhelm_von_grumbach
+gdc,ger000504,105660,105772,kratzer,105712,105719,Feistle,feistle
+gdc,ger000504,105776,105787,_stage,105776,105783,Feistle,feistle
+gdc,ger000504,105806,105817,_stage,105809,105816,Kratzer,kratzer
+gdc,ger000504,105790,105859,der_schultheiss,105831,105834,mir,der_schultheiss
+gdc,ger000504,105911,106044,der_schultheiss,105953,105957,mich,der_schultheiss
+gdc,ger000504,105911,106044,der_schultheiss,105984,105987,ich,der_schultheiss
+gdc,ger000504,106049,106137,menzingen,106076,106096,Wilhelm von Grumbach,wilhelm_von_grumbach
+gdc,ger000504,106142,106399,der_schultheiss,106268,106281,Florian Geyer,florian_geyer
+gdc,ger000504,106404,106625,menzingen,106423,106426,Ich,menzingen
+gdc,ger000504,107808,107902,menzingen,107828,107831,ich,menzingen
+gdc,ger000504,107808,107902,menzingen,107833,107836,ich,menzingen
+gdc,ger000504,107808,107902,menzingen,107864,107867,ich,menzingen
+gdc,ger000504,107969,108392,menzingen,107980,107983,Ich,menzingen
+gdc,ger000504,107969,108392,menzingen,107988,107992,mich,menzingen
+gdc,ger000504,107969,108392,menzingen,108096,108099,ich,menzingen
+gdc,ger000504,107969,108392,menzingen,108256,108259,Ich,menzingen
+gdc,ger000504,108397,108451,der_schultheiss,108420,108429,Menzingen,menzingen
+gdc,ger000504,108397,108451,der_schultheiss,108443,108446,mir,der_schultheiss
+gdc,ger000504,108631,108870,menzingen,108642,108645,Ich,menzingen
+gdc,ger000504,108631,108870,menzingen,108787,108790,ich,menzingen
+gdc,ger000504,108875,109319,der_schultheiss,108899,108903,Mein,der_schultheiss
+gdc,ger000504,108875,109319,der_schultheiss,108927,108930,ich,der_schultheiss
+gdc,ger000504,108875,109319,der_schultheiss,109016,109019,ich,der_schultheiss
+gdc,ger000504,108875,109319,der_schultheiss,109043,109047,mich,der_schultheiss
+gdc,ger000504,108875,109319,der_schultheiss,109152,109155,ich,der_schultheiss
+gdc,ger000504,108875,109319,der_schultheiss,109244,109247,ich,der_schultheiss
+gdc,ger000504,108875,109319,der_schultheiss,109256,109259,mir,der_schultheiss
+gdc,ger000504,108875,109319,der_schultheiss,109270,109273,Ich,der_schultheiss
+gdc,ger000504,110228,110400,_stage,110264,110273,Karlstatt,karlstatt
+gdc,ger000504,110228,110400,_stage,110327,110338,Schäferhans,schaeferhans
+gdc,ger000504,110228,110400,_stage,110340,110350,Jörg Kumpf,joerg_kumpf
+gdc,ger000504,110875,110916,_stage,110890,110899,Karlstatt,karlstatt
+gdc,ger000504,110875,110916,_stage,110904,110915,Schäferhans,schaeferhans
+gdc,ger000504,110864,110957,joerg_kumpf,110945,110956,Schäferhans,schaeferhans
+gdc,ger000504,110962,111114,schaeferhans,111030,111033,ich,schaeferhans
+gdc,ger000504,110962,111114,schaeferhans,111100,111109,Karlstatt,karlstatt
+gdc,ger000504,111119,111245,joerg_kumpf,111155,111158,ich,joerg_kumpf
+gdc,ger000504,111250,111438,schaeferhans,111334,111337,ich,schaeferhans
+gdc,ger000504,111250,111438,schaeferhans,111387,111390,ich,schaeferhans
+gdc,ger000504,111250,111438,schaeferhans,111417,111420,ich,schaeferhans
+gdc,ger000504,111443,111572,karlstatt,111462,111465,ich,karlstatt
+gdc,ger000504,111443,111572,karlstatt,111508,111511,ich,karlstatt
+gdc,ger000504,111443,111572,karlstatt,111512,111516,mich,karlstatt
+gdc,ger000504,111443,111572,karlstatt,111543,111546,mir,karlstatt
+gdc,ger000504,111577,111648,schaeferhans,111614,111617,ich,schaeferhans
+gdc,ger000504,111765,111786,_stage,111774,111785,Schäferhans,schaeferhans
+gdc,ger000504,111754,111856,ein_bauer,111797,111808,Schäferhans,schaeferhans
+gdc,ger000504,111754,111856,ein_bauer,111814,111823,Karlstatt,karlstatt
+gdc,ger000504,111922,112243,schaeferhans,112021,112024,Ich,schaeferhans
+gdc,ger000504,111922,112243,schaeferhans,112032,112036,mich,schaeferhans
+gdc,ger000504,111922,112243,schaeferhans,112065,112068,Ich,schaeferhans
+gdc,ger000504,111922,112243,schaeferhans,112164,112167,ich,schaeferhans
+gdc,ger000504,111922,112243,schaeferhans,112238,112242,mich,schaeferhans
+gdc,ger000504,112248,112278,kratzer,112270,112274,mich,kratzer
+gdc,ger000504,112283,112339,schaeferhans,112302,112306,mich,schaeferhans
+gdc,ger000504,112283,112339,schaeferhans,112330,112333,ich,schaeferhans
+gdc,ger000504,112344,112444,kratzer,112426,112429,mir,kratzer
+gdc,ger000504,112449,112497,verschiedene_viele_stimmen_alle_2_akt,112476,112489,Florian Geyer,florian_geyer
+gdc,ger000504,112502,112715,schaeferhans,112670,112673,ich,schaeferhans
+gdc,ger000504,112502,112715,schaeferhans,112674,112677,mir,schaeferhans
+gdc,ger000504,112719,112761,_stage,112729,112749,Wilhelm von Grumbach,wilhelm_von_grumbach
+gdc,ger000504,112792,113124,schaeferhans,112805,112808,Ich,schaeferhans
+gdc,ger000504,112792,113124,schaeferhans,112996,113000,mich,schaeferhans
+gdc,ger000504,113129,113152,florian_geyer,113147,113151,mich,florian_geyer
+gdc,ger000504,113157,114153,schaeferhans,113173,113176,ich,schaeferhans
+gdc,ger000504,113157,114153,schaeferhans,113196,113199,Ich,schaeferhans
+gdc,ger000504,113157,114153,schaeferhans,113240,113243,ich,schaeferhans
+gdc,ger000504,113157,114153,schaeferhans,113270,113274,mich,schaeferhans
+gdc,ger000504,113157,114153,schaeferhans,113318,113321,ich,schaeferhans
+gdc,ger000504,113157,114153,schaeferhans,113409,113413,mich,schaeferhans
+gdc,ger000504,113157,114153,schaeferhans,113426,113429,Ich,schaeferhans
+gdc,ger000504,113157,114153,schaeferhans,113510,113513,Ich,schaeferhans
+gdc,ger000504,113157,114153,schaeferhans,113540,113543,ich,schaeferhans
+gdc,ger000504,113157,114153,schaeferhans,113579,113583,mich,schaeferhans
+gdc,ger000504,113157,114153,schaeferhans,113595,113598,ich,schaeferhans
+gdc,ger000504,114323,114509,florian_geyer,114460,114469,Karlstatt,karlstatt
+gdc,ger000504,114323,114509,florian_geyer,114497,114508,Schäferhans,schaeferhans
+gdc,ger000504,114521,114545,_stage,114535,114544,Karlstatt,karlstatt
+gdc,ger000504,114623,114670,karlstatt,114660,114663,mir,karlstatt
+gdc,ger000504,114799,115115,karlstatt,114882,114886,mein,karlstatt
+gdc,ger000504,114799,115115,karlstatt,114913,114916,ich,karlstatt
+gdc,ger000504,114799,115115,karlstatt,115038,115041,ich,karlstatt
+gdc,ger000504,115120,115248,wilhelm_von_grumbach,115142,115145,Ich,wilhelm_von_grumbach
+gdc,ger000504,115120,115248,wilhelm_von_grumbach,115183,115188,meine,wilhelm_von_grumbach
+gdc,ger000504,115253,115742,karlstatt,115296,115299,ich,karlstatt
+gdc,ger000504,115253,115742,karlstatt,115316,115321,meine,karlstatt
+gdc,ger000504,115253,115742,karlstatt,115341,115344,mir,karlstatt
+gdc,ger000504,115253,115742,karlstatt,115398,115409,Schäferhans,schaeferhans
+gdc,ger000504,115253,115742,karlstatt,115483,115487,mich,karlstatt
+gdc,ger000504,115253,115742,karlstatt,115513,115516,mir,karlstatt
+gdc,ger000504,115253,115742,karlstatt,115545,115549,mich,karlstatt
+gdc,ger000504,116331,117420,karlstatt,116958,116961,ich,karlstatt
+gdc,ger000504,116331,117420,karlstatt,117001,117004,Ich,karlstatt
+gdc,ger000504,116331,117420,karlstatt,117028,117031,Ich,karlstatt
+gdc,ger000504,116331,117420,karlstatt,117071,117075,mich,karlstatt
+gdc,ger000504,116331,117420,karlstatt,117142,117146,mein,karlstatt
+gdc,ger000504,116331,117420,karlstatt,117167,117170,ich,karlstatt
+gdc,ger000504,116331,117420,karlstatt,117221,117224,ich,karlstatt
+gdc,ger000504,116331,117420,karlstatt,117278,117281,Mir,karlstatt
+gdc,ger000504,116331,117420,karlstatt,117317,117326,Karlstatt,karlstatt
+gdc,ger000504,117425,117723,florian_geyer,117671,117674,Ich,florian_geyer
+gdc,ger000504,117824,118014,florian_geyer,117841,117845,mich,florian_geyer
+gdc,ger000504,117824,118014,florian_geyer,117855,117858,ich,florian_geyer
+gdc,ger000504,117824,118014,florian_geyer,117944,117948,mich,florian_geyer
+gdc,ger000504,117824,118014,florian_geyer,117959,117962,ich,florian_geyer
+gdc,ger000504,118157,118325,florian_geyer,118216,118219,mir,florian_geyer
+gdc,ger000504,118157,118325,florian_geyer,118266,118269,ich,florian_geyer
+gdc,ger000504,118157,118325,florian_geyer,118312,118315,mir,florian_geyer
+gdc,ger000504,118502,118695,menzingen,118544,118553,Karlstatt,karlstatt
+gdc,ger000504,118950,119112,florian_geyer,118985,118988,mir,florian_geyer
+gdc,ger000504,118950,119112,florian_geyer,119003,119010,Kratzer,kratzer
+gdc,ger000504,118950,119112,florian_geyer,119012,119015,Ich,florian_geyer
+gdc,ger000504,119117,119187,wilhelm_von_grumbach,119158,119161,Ich,wilhelm_von_grumbach
+gdc,ger000504,119273,119684,florian_geyer,119446,119449,mir,florian_geyer
+gdc,ger000504,119273,119684,florian_geyer,119613,119616,ich,florian_geyer
+gdc,ger000504,119273,119684,florian_geyer,119639,119643,mich,florian_geyer
+gdc,ger000504,119273,119684,florian_geyer,119668,119673,meine,florian_geyer
+gdc,ger000504,119689,120005,wilhelm_von_grumbach,119733,119736,ich,wilhelm_von_grumbach
+gdc,ger000504,120394,120498,florian_geyer,120464,120477,Florian Geyer,florian_geyer
+gdc,ger000504,120744,121930,florian_geyer,120783,120786,Ich,florian_geyer
+gdc,ger000504,120744,121930,florian_geyer,120861,120864,Ich,florian_geyer
+gdc,ger000504,120744,121930,florian_geyer,121828,121831,Ich,florian_geyer
+gdc,ger000504,120744,121930,florian_geyer,121846,121849,ich,florian_geyer
+gdc,ger000504,120744,121930,florian_geyer,121856,121859,Ich,florian_geyer
+gdc,ger000504,120744,121930,florian_geyer,121866,121869,ich,florian_geyer
+gdc,ger000504,120744,121930,florian_geyer,121876,121879,ich,florian_geyer
+gdc,ger000504,120744,121930,florian_geyer,121909,121912,ich,florian_geyer
+gdc,ger000504,121934,122164,_stage,121979,121992,Florian Geyer,florian_geyer
+gdc,ger000504,122370,122478,rektor_besenmeyer,122413,122416,ich,rektor_besenmeyer
+gdc,ger000504,122482,122562,_stage,122492,122509,Rektor Besenmeyer,rektor_besenmeyer
+gdc,ger000504,122482,122562,_stage,122526,122531,Marei,marei
+gdc,ger000504,122564,123146,wilhelm_von_grumbach,122635,122638,ich,wilhelm_von_grumbach
+gdc,ger000504,122564,123146,wilhelm_von_grumbach,122751,122757,meinen,wilhelm_von_grumbach
+gdc,ger000504,122564,123146,wilhelm_von_grumbach,122816,122819,ich,wilhelm_von_grumbach
+gdc,ger000504,122564,123146,wilhelm_von_grumbach,122843,122848,meine,wilhelm_von_grumbach
+gdc,ger000504,123415,123519,joerg_kumpf,123459,123462,Ich,joerg_kumpf
+gdc,ger000504,123597,123626,_stage,123597,123602,Marei,marei
+gdc,ger000504,123692,123916,florian_geyer,123724,123734,Löffelholz,loeffelholz
+gdc,ger000504,123692,123916,florian_geyer,123779,123782,ich,florian_geyer
+gdc,ger000504,123692,123916,florian_geyer,123818,123835,Rektor Besenmeyer,rektor_besenmeyer
+gdc,ger000504,123957,124115,florian_geyer,123970,123973,ich,florian_geyer
+gdc,ger000504,123957,124115,florian_geyer,124020,124023,ich,florian_geyer
+gdc,ger000504,123957,124115,florian_geyer,124032,124035,mir,florian_geyer
+gdc,ger000504,123957,124115,florian_geyer,124066,124069,ich,florian_geyer
+gdc,ger000504,124442,124586,florian_geyer,124546,124552,meinem,florian_geyer
+gdc,ger000504,124442,124586,florian_geyer,124575,124585,Tellermann,tellermann
+gdc,ger000504,124591,124643,marei,124602,124612,Tellermann,tellermann
+gdc,ger000504,124648,124711,florian_geyer,124673,124683,Tellermann,tellermann
+gdc,ger000504,124716,124749,marei,124732,124735,Ich,marei
+gdc,ger000504,124977,125006,marei,124995,125005,Löffelholz,loeffelholz
+gdc,ger000504,125011,125051,florian_geyer,125040,125050,Löffelholz,loeffelholz
+gdc,ger000504,125105,125162,florian_geyer,125151,125161,Tellermann,tellermann
+gdc,ger000504,125167,125219,marei,125178,125188,Tellermann,tellermann
+gdc,ger000504,125279,125322,marei,125286,125289,Ich,marei
+gdc,ger000504,125388,125410,marei,125399,125409,Tellermann,tellermann
+gdc,ger000504,125415,125457,florian_geyer,125426,125436,Tellermann,tellermann
+gdc,ger000504,125415,125457,florian_geyer,125440,125446,Meinen,florian_geyer
+gdc,ger000504,125486,125538,florian_geyer,125507,125517,Tellermann,tellermann
+gdc,ger000504,125733,125799,wilhelm_von_grumbach,125755,125758,Ich,wilhelm_von_grumbach
+gdc,ger000504,126052,126226,rektor_besenmeyer,126105,126108,ich,rektor_besenmeyer
+gdc,ger000504,126052,126226,rektor_besenmeyer,126200,126210,Löffelholz,loeffelholz
+gdc,ger000504,126232,126296,kratzer,126267,126274,Hippler,hippler
+gdc,ger000504,126301,126425,menzingen,126322,126325,ich,menzingen
+gdc,ger000504,126628,126690,florian_geyer,126682,126689,Hippler,hippler
+gdc,ger000504,127860,128071,florian_geyer,127875,127878,ich,florian_geyer
+gdc,ger000504,128076,128146,rektor_besenmeyer,128126,128136,Löffelholz,loeffelholz
+gdc,ger000504,128151,128195,der_schultheiss,128184,128194,Löffelholz,loeffelholz
+gdc,ger000504,128208,128243,_stage,128211,128216,Marei,marei
+gdc,ger000504,128201,128322,florian_geyer,128260,128270,Tellermann,tellermann
+gdc,ger000504,128810,129011,der_schultheiss,128837,128840,mir,der_schultheiss
+gdc,ger000504,128810,129011,der_schultheiss,128889,128893,Kohl,kohl
+gdc,ger000504,129016,129322,florian_geyer,129033,129036,mir,florian_geyer
+gdc,ger000504,129016,129322,florian_geyer,129265,129268,ich,florian_geyer
+gdc,ger000504,129440,129680,der_schultheiss,129474,129477,ich,der_schultheiss
+gdc,ger000504,129692,129701,_stage,129695,129700,Marei,marei
+gdc,ger000504,129741,130421,marei,129969,129979,Tellermann,tellermann
+gdc,ger000504,129741,130421,marei,130334,130344,Tellermann,tellermann
+gdc,ger000504,130752,130816,florian_geyer,130799,130805,meinen,florian_geyer
+gdc,ger000504,130864,130921,florian_geyer,130910,130913,mir,florian_geyer
+gdc,ger000504,130864,130921,florian_geyer,130915,130920,Marei,marei
+gdc,ger000504,130985,131102,florian_geyer,130992,130995,Ich,florian_geyer
+gdc,ger000504,131152,131233,florian_geyer,131187,131190,ich,florian_geyer
+gdc,ger000504,131294,131339,florian_geyer,131328,131331,ich,florian_geyer
+gdc,ger000504,131568,131590,florian_geyer,131582,131585,ich,florian_geyer
+gdc,ger000504,131634,131819,florian_geyer,131650,131653,ich,florian_geyer
+gdc,ger000504,131634,131819,florian_geyer,131654,131657,mir,florian_geyer
+gdc,ger000504,131634,131819,florian_geyer,131718,131721,ich,florian_geyer
+gdc,ger000504,131824,131877,rektor_besenmeyer,131843,131856,Florian Geyer,florian_geyer
+gdc,ger000504,131882,131946,florian_geyer,131917,131921,mich,florian_geyer
+gdc,ger000504,132494,132793,_stage,132589,132599,Löffelholz,loeffelholz
+gdc,ger000504,132494,132793,_stage,132702,132711,Sartorius,sartorius
+gdc,ger000504,132494,132793,_stage,132785,132792,Jöslein,joeslein
+gdc,ger000504,133055,133435,joeslein,133152,133155,ich,joeslein
+gdc,ger000504,133055,133435,joeslein,133420,133424,Mein,joeslein
+gdc,ger000504,133055,133435,joeslein,133428,133432,Mein,joeslein
+gdc,ger000504,133486,133551,joeslein,133530,133550,Wilhelm von Grumbach,wilhelm_von_grumbach
+gdc,ger000504,133883,134052,joeslein,133892,133895,Ich,joeslein
+gdc,ger000504,133883,134052,joeslein,133919,133922,Ich,joeslein
+gdc,ger000504,133883,134052,joeslein,133955,133958,mir,joeslein
+gdc,ger000504,133883,134052,joeslein,133985,133988,ich,joeslein
+gdc,ger000504,134057,134232,sartorius,134082,134088,meinem,sartorius
+gdc,ger000504,134237,134300,loeffelholz,134249,134252,Ich,loeffelholz
+gdc,ger000504,134237,134300,loeffelholz,134263,134283,Wilhelm von Grumbach,wilhelm_von_grumbach
+gdc,ger000504,134988,135474,joeslein,134997,135000,Ich,joeslein
+gdc,ger000504,134988,135474,joeslein,135075,135078,mir,joeslein
+gdc,ger000504,134988,135474,joeslein,135123,135127,Mein,joeslein
+gdc,ger000504,134988,135474,joeslein,135131,135135,Mein,joeslein
+gdc,ger000504,134988,135474,joeslein,135139,135142,Ich,joeslein
+gdc,ger000504,134988,135474,joeslein,135175,135178,ich,joeslein
+gdc,ger000504,135479,135677,link,135598,135601,Ich,link
+gdc,ger000504,135682,135801,loeffelholz,135747,135751,Link,link
+gdc,ger000504,135950,136158,joeslein,135982,135985,Ich,joeslein
+gdc,ger000504,135950,136158,joeslein,136068,136071,mir,joeslein
+gdc,ger000504,135950,136158,joeslein,136134,136147,Flammenbecker,flammenbecker
+gdc,ger000504,136349,136529,flammenbecker,136480,136484,mich,flammenbecker
+gdc,ger000504,136611,136799,sartorius,136622,136625,Ich,sartorius
+gdc,ger000504,136932,137039,loeffelholz,136944,136947,Ich,loeffelholz
+gdc,ger000504,136932,137039,loeffelholz,136982,136986,mich,loeffelholz
+gdc,ger000504,136932,137039,loeffelholz,136992,136996,mich,loeffelholz
+gdc,ger000504,137102,137174,loeffelholz,137114,137117,Ich,loeffelholz
+gdc,ger000504,137102,137174,loeffelholz,137126,137130,mich,loeffelholz
+gdc,ger000504,137102,137174,loeffelholz,137142,137146,mich,loeffelholz
+gdc,ger000504,137385,137513,rektor_besenmeyer,137428,137432,Mich,rektor_besenmeyer
+gdc,ger000504,137616,137630,_stage,137619,137629,Löffelholz,loeffelholz
+gdc,ger000504,138397,138969,loeffelholz,138864,138867,mir,loeffelholz
+gdc,ger000504,138397,138969,loeffelholz,138884,138901,Rektor Besenmeyer,rektor_besenmeyer
+gdc,ger000504,138397,138969,loeffelholz,138916,138926,Löffelholz,loeffelholz
+gdc,ger000504,138974,139052,sartorius,139009,139015,meinem,sartorius
+gdc,ger000504,138974,139052,sartorius,139039,139049,Bubenleben,bubenleben
+gdc,ger000504,139822,140699,joeslein,139872,139876,Mein,joeslein
+gdc,ger000504,139822,140699,joeslein,139880,139884,Mein,joeslein
+gdc,ger000504,139822,140699,joeslein,139892,139895,ich,joeslein
+gdc,ger000504,139822,140699,joeslein,139982,139985,mir,joeslein
+gdc,ger000504,139822,140699,joeslein,140099,140103,Mein,joeslein
+gdc,ger000504,139822,140699,joeslein,140107,140111,Mein,joeslein
+gdc,ger000504,139822,140699,joeslein,140260,140263,Ich,joeslein
+gdc,ger000504,139822,140699,joeslein,140377,140380,ich,joeslein
+gdc,ger000504,139822,140699,joeslein,140615,140618,Ich,joeslein
+gdc,ger000504,139822,140699,joeslein,140629,140632,mir,joeslein
+gdc,ger000504,139822,140699,joeslein,140662,140665,ich,joeslein
+gdc,ger000504,140715,140782,_stage,140747,140754,Jöslein,joeslein
+gdc,ger000504,140705,140896,menzingen,140801,140808,Jöslein,joeslein
+gdc,ger000504,140901,141145,joeslein,141010,141013,Ich,joeslein
+gdc,ger000504,140901,141145,joeslein,141058,141061,mir,joeslein
+gdc,ger000504,141215,141424,menzingen,141292,141302,Jörg Kumpf,joerg_kumpf
+gdc,ger000504,141473,141526,menzingen,141492,141512,Wilhelm von Grumbach,wilhelm_von_grumbach
+gdc,ger000504,141531,141591,sartorius,141550,141553,ich,sartorius
+gdc,ger000504,141531,141591,sartorius,141581,141590,Menzingen,menzingen
+gdc,ger000504,141596,141722,menzingen,141607,141610,Ich,menzingen
+gdc,ger000504,141596,141722,menzingen,141701,141721,Wilhelm von Grumbach,wilhelm_von_grumbach
+gdc,ger000504,141975,142091,joeslein,141984,141987,Ich,joeslein
+gdc,ger000504,141975,142091,joeslein,141994,141998,mich,joeslein
+gdc,ger000504,141975,142091,joeslein,142045,142058,Florian Geyer,florian_geyer
+gdc,ger000504,141975,142091,joeslein,142081,142085,mich,joeslein
+gdc,ger000504,142189,142562,joeslein,142225,142228,ich,joeslein
+gdc,ger000504,142189,142562,joeslein,142419,142422,ich,joeslein
+gdc,ger000504,142189,142562,joeslein,142463,142466,ich,joeslein
+gdc,ger000504,142189,142562,joeslein,142547,142551,Mein,joeslein
+gdc,ger000504,142189,142562,joeslein,142555,142559,Mein,joeslein
+gdc,ger000504,142814,142894,menzingen,142844,142848,Kohl,kohl
+gdc,ger000504,142899,143158,kohl,142919,142922,mir,kohl
+gdc,ger000504,143163,143349,loeffelholz,143321,143324,ich,loeffelholz
+gdc,ger000504,143354,143404,kohl,143376,143386,Bubenleben,bubenleben
+gdc,ger000504,143409,143447,bubenleben,143442,143446,mich,bubenleben
+gdc,ger000504,143452,143511,kohl,143458,143461,Ich,kohl
+gdc,ger000504,143516,143598,martin,143556,143569,Florian Geyer,florian_geyer
+gdc,ger000504,143692,144712,loeffelholz,144672,144682,Tellermann,tellermann
+gdc,ger000504,144776,146097,loeffelholz,144935,144945,Bubenleben,bubenleben
+gdc,ger000504,144776,146097,loeffelholz,145831,145844,Florian Geyer,florian_geyer
+gdc,ger000504,146102,146143,kohl,146108,146111,Ich,kohl
+gdc,ger000504,146102,146143,kohl,146119,146124,meine,kohl
+gdc,ger000504,146148,146938,bubenleben,146192,146196,Kohl,kohl
+gdc,ger000504,147291,147388,menzingen,147356,147369,Florian Geyer,florian_geyer
+gdc,ger000504,147393,147761,bubenleben,147714,147717,ich,bubenleben
+gdc,ger000504,147766,148488,kohl,148184,148187,Ich,kohl
+gdc,ger000504,147766,148488,kohl,148319,148322,mir,kohl
+gdc,ger000504,148499,148521,_stage,148510,148520,Bubenleben,bubenleben
+gdc,ger000504,149134,149535,bubenleben,149146,149149,Ich,bubenleben
+gdc,ger000504,149134,149535,bubenleben,149167,149170,ich,bubenleben
+gdc,ger000504,149654,149862,verschiedene_stimmen_3_akt,149700,149713,Florian Geyer,florian_geyer
+gdc,ger000504,149654,149862,verschiedene_stimmen_3_akt,149767,149777,Löffelholz,loeffelholz
+gdc,ger000504,149654,149862,verschiedene_stimmen_3_akt,149794,149803,Sartorius,sartorius
+gdc,ger000504,149867,150209,florian_geyer,149900,149910,Löffelholz,loeffelholz
+gdc,ger000504,149867,150209,florian_geyer,149952,149962,Löffelholz,loeffelholz
+gdc,ger000504,149867,150209,florian_geyer,149984,149994,Löffelholz,loeffelholz
+gdc,ger000504,149867,150209,florian_geyer,150066,150076,Löffelholz,loeffelholz
+gdc,ger000504,149867,150209,florian_geyer,150160,150163,mir,florian_geyer
+gdc,ger000504,149867,150209,florian_geyer,150195,150199,mein,florian_geyer
+gdc,ger000504,150737,151049,florian_geyer,150831,150834,ich,florian_geyer
+gdc,ger000504,151054,151937,joeslein,151184,151187,ich,joeslein
+gdc,ger000504,151054,151937,joeslein,151525,151528,ich,joeslein
+gdc,ger000504,151942,152024,florian_geyer,151971,151975,mein,florian_geyer
+gdc,ger000504,151942,152024,florian_geyer,151994,151997,Ich,florian_geyer
+gdc,ger000504,152029,152872,joeslein,152038,152042,Mein,joeslein
+gdc,ger000504,152029,152872,joeslein,152046,152050,Mein,joeslein
+gdc,ger000504,152029,152872,joeslein,152072,152075,Ich,joeslein
+gdc,ger000504,152029,152872,joeslein,152296,152299,mir,joeslein
+gdc,ger000504,152029,152872,joeslein,152380,152383,ich,joeslein
+gdc,ger000504,152029,152872,joeslein,152388,152391,mir,joeslein
+gdc,ger000504,152029,152872,joeslein,152401,152404,ich,joeslein
+gdc,ger000504,152029,152872,joeslein,152509,152512,ich,joeslein
+gdc,ger000504,152029,152872,joeslein,152524,152527,mir,joeslein
+gdc,ger000504,152029,152872,joeslein,152547,152550,mir,joeslein
+gdc,ger000504,152029,152872,joeslein,152564,152577,Florian Geyer,florian_geyer
+gdc,ger000504,152029,152872,joeslein,152755,152758,ich,joeslein
+gdc,ger000504,152029,152872,joeslein,152783,152787,mich,joeslein
+gdc,ger000504,152029,152872,joeslein,152815,152818,ich,joeslein
+gdc,ger000504,152943,153112,_stage,152943,152957,Der Schultheiß,der_schultheiss
+gdc,ger000504,153166,153285,sartorius,153200,153203,ich,sartorius
+gdc,ger000504,153660,153723,sartorius,153671,153674,Ich,sartorius
+gdc,ger000504,153916,154158,sartorius,153999,154002,ich,sartorius
+gdc,ger000504,153916,154158,sartorius,154024,154027,Ich,sartorius
+gdc,ger000504,153916,154158,sartorius,154098,154104,meines,sartorius
+gdc,ger000504,153916,154158,sartorius,154132,154135,ich,sartorius
+gdc,ger000504,154226,154640,sartorius,154262,154265,mir,sartorius
+gdc,ger000504,154226,154640,sartorius,154282,154286,mich,sartorius
+gdc,ger000504,154226,154640,sartorius,154516,154519,ich,sartorius
+gdc,ger000504,154226,154640,sartorius,154585,154588,ich,sartorius
+gdc,ger000504,154226,154640,sartorius,154603,154607,mich,sartorius
+gdc,ger000504,154645,154696,kohl,154651,154654,Ich,kohl
+gdc,ger000504,154701,154819,florian_geyer,154755,154759,Kohl,kohl
+gdc,ger000504,154824,154874,kohl,154845,154848,mir,kohl
+gdc,ger000504,154886,154914,_stage,154891,154895,Kohl,kohl
+gdc,ger000504,155432,155596,joeslein,155504,155507,Ich,joeslein
+gdc,ger000504,155772,155844,_stage,155772,155786,Der Schultheiß,der_schultheiss
+gdc,ger000504,155772,155844,_stage,155788,155801,die alte Frau,die_alte_frau
+gdc,ger000504,155772,155844,_stage,155806,155826,der zerlumpte Mensch,der_zerlumpte_mensch
+gdc,ger000504,155846,155957,der_schultheiss,155917,155920,ich,der_schultheiss
+gdc,ger000504,156292,156583,der_schultheiss,156319,156322,ich,der_schultheiss
+gdc,ger000504,156588,156748,die_alte_frau,156663,156666,ich,die_alte_frau
+gdc,ger000504,156588,156748,die_alte_frau,156676,156680,mich,die_alte_frau
+gdc,ger000504,156588,156748,die_alte_frau,156735,156741,meinen,die_alte_frau
+gdc,ger000504,156802,157101,die_alte_frau,156959,156965,meinen,die_alte_frau
+gdc,ger000504,157575,157874,die_alte_frau,157602,157606,mein,die_alte_frau
+gdc,ger000504,157575,157874,die_alte_frau,157632,157636,mein,die_alte_frau
+gdc,ger000504,158228,159060,die_alte_frau,158609,158612,ich,die_alte_frau
+gdc,ger000504,158228,159060,die_alte_frau,158684,158688,mich,die_alte_frau
+gdc,ger000504,158228,159060,die_alte_frau,158857,158860,ich,die_alte_frau
+gdc,ger000504,158228,159060,die_alte_frau,158865,158868,mir,die_alte_frau
+gdc,ger000504,158228,159060,die_alte_frau,159028,159041,Florian Geyer,florian_geyer
+gdc,ger000504,159207,160093,die_alte_frau,159226,159229,ich,die_alte_frau
+gdc,ger000504,159207,160093,die_alte_frau,159307,159313,meines,die_alte_frau
+gdc,ger000504,159207,160093,die_alte_frau,159346,159349,mir,die_alte_frau
+gdc,ger000504,159207,160093,die_alte_frau,159463,159466,Ich,die_alte_frau
+gdc,ger000504,159207,160093,die_alte_frau,159481,159484,mir,die_alte_frau
+gdc,ger000504,159207,160093,die_alte_frau,159616,159619,ich,die_alte_frau
+gdc,ger000504,159207,160093,die_alte_frau,159620,159623,mir,die_alte_frau
+gdc,ger000504,159207,160093,die_alte_frau,159624,159630,meinen,die_alte_frau
+gdc,ger000504,159207,160093,die_alte_frau,159673,159676,ich,die_alte_frau
+gdc,ger000504,159207,160093,die_alte_frau,159789,159792,ich,die_alte_frau
+gdc,ger000504,159207,160093,die_alte_frau,160018,160022,mein,die_alte_frau
+gdc,ger000504,160783,160977,menzingen,160802,160805,ich,menzingen
+gdc,ger000504,160982,161319,loeffelholz,161023,161027,Kohl,kohl
+gdc,ger000504,160982,161319,loeffelholz,161161,161164,ich,loeffelholz
+gdc,ger000504,161552,161637,bubenleben,161575,161578,Ich,bubenleben
+gdc,ger000504,162012,162469,florian_geyer,162038,162042,Kohl,kohl
+gdc,ger000504,162012,162469,florian_geyer,162052,162057,meine,florian_geyer
+gdc,ger000504,162012,162469,florian_geyer,162082,162087,Meine,florian_geyer
+gdc,ger000504,162012,162469,florian_geyer,162112,162115,ich,florian_geyer
+gdc,ger000504,162012,162469,florian_geyer,162116,162119,mir,florian_geyer
+gdc,ger000504,162012,162469,florian_geyer,162194,162197,ich,florian_geyer
+gdc,ger000504,162012,162469,florian_geyer,162198,162201,mir,florian_geyer
+gdc,ger000504,162474,162791,kohl,162487,162491,mich,kohl
+gdc,ger000504,162474,162791,kohl,162601,162606,meine,kohl
+gdc,ger000504,162474,162791,kohl,162615,162618,Ich,kohl
+gdc,ger000504,162474,162791,kohl,162781,162785,mich,kohl
+gdc,ger000504,162796,163922,florian_geyer,163422,163425,Ich,florian_geyer
+gdc,ger000504,164828,165262,florian_geyer,164863,164866,mir,florian_geyer
+gdc,ger000504,164828,165262,florian_geyer,164992,164995,Ich,florian_geyer
+gdc,ger000504,164828,165262,florian_geyer,165061,165064,mir,florian_geyer
+gdc,ger000504,165266,165492,_stage,165350,165359,Sartorius,sartorius
+gdc,ger000504,165266,165492,_stage,165435,165444,Menzingen,menzingen
+gdc,ger000504,165266,165492,_stage,165458,165468,Löffelholz,loeffelholz
+gdc,ger000504,165266,165492,_stage,165479,165483,Kohl,kohl
+gdc,ger000504,165494,165794,florian_geyer,165725,165738,Finkenmäuslin,finkenmaeuslin
+gdc,ger000504,165494,165794,florian_geyer,165780,165793,Finkenmäuslin,finkenmaeuslin
+gdc,ger000504,165984,166158,florian_geyer,166041,166044,ich,florian_geyer
+gdc,ger000504,165984,166158,florian_geyer,166045,166049,mich,florian_geyer
+gdc,ger000504,165984,166158,florian_geyer,166105,166108,ich,florian_geyer
+gdc,ger000504,165984,166158,florian_geyer,166139,166142,ich,florian_geyer
+gdc,ger000504,165984,166158,florian_geyer,166147,166150,mir,florian_geyer
+gdc,ger000504,166272,166345,florian_geyer,166331,166335,mich,florian_geyer
+gdc,ger000504,166272,166345,florian_geyer,166337,166341,Kohl,kohl
+gdc,ger000504,166459,166487,florian_geyer,166477,166486,Sartorius,sartorius
+gdc,ger000504,166666,166811,loeffelholz,166726,166729,Ich,loeffelholz
+gdc,ger000504,166666,166811,loeffelholz,166767,166771,mich,loeffelholz
+gdc,ger000504,166666,166811,loeffelholz,166785,166788,ich,loeffelholz
+gdc,ger000504,167137,167228,loeffelholz,167156,167160,mich,loeffelholz
+gdc,ger000504,167137,167228,loeffelholz,167173,167177,mich,loeffelholz
+gdc,ger000504,167137,167228,loeffelholz,167187,167190,Ich,loeffelholz
+gdc,ger000504,167233,167326,florian_geyer,167315,167325,Löffelholz,loeffelholz
+gdc,ger000504,167331,167579,loeffelholz,167509,167513,mich,loeffelholz
+gdc,ger000504,167331,167579,loeffelholz,167540,167544,mich,loeffelholz
+gdc,ger000504,167600,168434,_stage,167706,167714,Töppelin,toeppelin
+gdc,ger000504,167600,168434,_stage,167743,167750,Goppolt,goppolt
+gdc,ger000504,167600,168434,_stage,167770,167776,Kunrat,kunrat
+gdc,ger000504,167600,168434,_stage,167783,167789,Beheim,beheim
+gdc,ger000504,167600,168434,_stage,167807,167818,Christheinz,christheinz
+gdc,ger000504,167600,168434,_stage,167927,167942,Jos Frankenheim,jos_frankenheim
+gdc,ger000504,167600,168434,_stage,167975,167983,Barchart,barchart
+gdc,ger000504,167600,168434,_stage,167985,167995,Ochsenhans,ochsenhans
+gdc,ger000504,167600,168434,_stage,168000,168006,Kilian,kilian
+gdc,ger000504,167600,168434,_stage,168046,168053,Kratzer,kratzer
+gdc,ger000504,167600,168434,_stage,168270,168278,Kläuslin,klaeuslin
+gdc,ger000504,167600,168434,_stage,168397,168402,Marei,marei
+gdc,ger000504,168477,168669,ein_buerger,168510,168523,Florian Geyer,florian_geyer
+gdc,ger000504,169340,169558,jos_frankenheim,169417,169420,ich,jos_frankenheim
+gdc,ger000504,169613,169700,jos_frankenheim,169635,169638,ich,jos_frankenheim
+gdc,ger000504,169613,169700,jos_frankenheim,169679,169685,Kilian,kilian
+gdc,ger000504,169826,170038,christheinz,169957,169966,Karlstatt,karlstatt
+gdc,ger000504,170043,170263,jos_frankenheim,170253,170260,Kratzer,kratzer
+gdc,ger000504,170268,170362,kratzer,170329,170332,ich,kratzer
+gdc,ger000504,170268,170362,kratzer,170337,170346,Karlstatt,karlstatt
+gdc,ger000504,171138,171217,christheinz,171173,171179,Kilian,kilian
+gdc,ger000504,171222,171438,kilian,171242,171245,ich,kilian
+gdc,ger000504,171222,171438,kilian,171317,171323,meinem,kilian
+gdc,ger000504,171222,171438,kilian,171377,171380,ich,kilian
+gdc,ger000504,171844,172017,christheinz,171968,171971,ich,christheinz
+gdc,ger000504,171844,172017,christheinz,171972,171975,mir,christheinz
+gdc,ger000504,172022,172067,goppolt,172042,172050,Kläuslin,klaeuslin
+gdc,ger000504,172211,172344,barchart,172229,172236,Kratzer,kratzer
+gdc,ger000504,172211,172344,barchart,172334,172343,Karlstatt,karlstatt
+gdc,ger000504,172480,172501,_stage,172484,172489,Marei,marei
+gdc,ger000504,172604,172686,christheinz,172671,172679,Kläuslin,klaeuslin
+gdc,ger000504,172691,172777,christheinz,172763,172776,Florian Geyer,florian_geyer
+gdc,ger000504,172782,173004,klaeuslin,172860,172863,ich,klaeuslin
+gdc,ger000504,172782,173004,klaeuslin,172901,172914,Florian Geyer,florian_geyer
+gdc,ger000504,173241,173387,kratzer,173319,173330,Christheinz,christheinz
+gdc,ger000504,173241,173387,kratzer,173336,173343,Goppolt,goppolt
+gdc,ger000504,173241,173387,kratzer,173345,173353,Kläuslin,klaeuslin
+gdc,ger000504,173750,173831,kratzer,173814,173817,mir,kratzer
+gdc,ger000504,174015,174139,jos_frankenheim,174058,174065,Kratzer,kratzer
+gdc,ger000504,174144,174189,barchart,174169,174180,Christheinz,christheinz
+gdc,ger000504,174711,174909,kilian,174741,174744,ich,kilian
+gdc,ger000504,174711,174909,kilian,174836,174840,mich,kilian
+gdc,ger000504,175001,175056,_stage,175014,175022,Barchart,barchart
+gdc,ger000504,175001,175056,_stage,175024,175034,Ochsenhans,ochsenhans
+gdc,ger000504,175001,175056,_stage,175039,175045,Kilian,kilian
+gdc,ger000504,175467,175581,christheinz,175493,175497,mich,christheinz
+gdc,ger000504,175467,175581,christheinz,175539,175542,mir,christheinz
+gdc,ger000504,175467,175581,christheinz,175557,175560,ich,christheinz
+gdc,ger000504,175586,175649,kratzer,175595,175598,Ich,kratzer
+gdc,ger000504,175586,175649,kratzer,175611,175620,Menzingen,menzingen
+gdc,ger000504,175764,175818,goppolt,175777,175783,Kilian,kilian
+gdc,ger000504,176270,176371,kratzer,176279,176282,Ich,kratzer
+gdc,ger000504,176522,177373,kratzer,176542,176545,ich,kratzer
+gdc,ger000504,176522,177373,kratzer,176575,176578,ich,kratzer
+gdc,ger000504,176522,177373,kratzer,176598,176607,Karlstatt,karlstatt
+gdc,ger000504,178074,178122,kratzer,178089,178092,ich,kratzer
+gdc,ger000504,178074,178122,kratzer,178114,178121,Feistle,feistle
+gdc,ger000504,178127,178340,christheinz,178197,178204,Kratzer,kratzer
+gdc,ger000504,178444,178496,kratzer,178453,178456,Ich,kratzer
+gdc,ger000504,178500,178550,_stage,178500,178511,Christheinz,christheinz
+gdc,ger000504,178500,178550,_stage,178513,178520,Goppolt,goppolt
+gdc,ger000504,178500,178550,_stage,178522,178528,Kunrat,kunrat
+gdc,ger000504,178500,178550,_stage,178530,178536,Beheim,beheim
+gdc,ger000504,178500,178550,_stage,178538,178546,Töppelin,toeppelin
+gdc,ger000504,178552,178877,kratzer,178801,178808,Feistle,feistle
+gdc,ger000504,178941,179146,marei,179049,179059,Tellermann,tellermann
+gdc,ger000504,179489,179501,karlstatt,179497,179500,Ich,karlstatt
+gdc,ger000504,179644,179732,kratzer,179678,179687,Karlstatt,karlstatt
+gdc,ger000504,179900,179976,karlstatt,179955,179959,mich,karlstatt
+gdc,ger000504,179981,180045,kratzer,180000,180003,ich,kratzer
+gdc,ger000504,180050,180087,karlstatt,180082,180086,mich,karlstatt
+gdc,ger000504,180129,180202,karlstatt,180168,180172,mein,karlstatt
+gdc,ger000504,180310,180506,karlstatt,180393,180396,Ich,karlstatt
+gdc,ger000504,180310,180506,karlstatt,180436,180440,mein,karlstatt
+gdc,ger000504,180310,180506,karlstatt,180476,180479,ich,karlstatt
+gdc,ger000504,180551,180639,karlstatt,180580,180583,Ich,karlstatt
+gdc,ger000504,180644,180725,kratzer,180670,180674,mein,kratzer
+gdc,ger000504,180644,180725,kratzer,180682,180685,ich,kratzer
+gdc,ger000504,180766,180925,kratzer,180822,180825,mir,kratzer
+gdc,ger000504,180766,180925,kratzer,180894,180897,ich,kratzer
+gdc,ger000504,181052,181512,karlstatt,181096,181099,mir,karlstatt
+gdc,ger000504,181052,181512,karlstatt,181202,181205,ich,karlstatt
+gdc,ger000504,181052,181512,karlstatt,181256,181262,meinen,karlstatt
+gdc,ger000504,181052,181512,karlstatt,181283,181287,mich,karlstatt
+gdc,ger000504,181052,181512,karlstatt,181307,181310,Ich,karlstatt
+gdc,ger000504,181052,181512,karlstatt,181350,181353,ich,karlstatt
+gdc,ger000504,181052,181512,karlstatt,181354,181360,meiner,karlstatt
+gdc,ger000504,181905,182511,karlstatt,181957,181960,mir,karlstatt
+gdc,ger000504,181905,182511,karlstatt,182060,182063,mir,karlstatt
+gdc,ger000504,181905,182511,karlstatt,182068,182071,ich,karlstatt
+gdc,ger000504,181905,182511,karlstatt,182095,182101,meinen,karlstatt
+gdc,ger000504,181905,182511,karlstatt,182299,182302,ich,karlstatt
+gdc,ger000504,181905,182511,karlstatt,182303,182306,mir,karlstatt
+gdc,ger000504,181905,182511,karlstatt,182370,182373,mir,karlstatt
+gdc,ger000504,181905,182511,karlstatt,182414,182417,ich,karlstatt
+gdc,ger000504,181905,182511,karlstatt,182422,182425,mir,karlstatt
+gdc,ger000504,182649,182825,kratzer,182724,182727,mir,kratzer
+gdc,ger000504,182830,182927,karlstatt,182873,182880,Kratzer,kratzer
+gdc,ger000504,182932,183195,kratzer,183123,183140,Rektor Besenmeyer,rektor_besenmeyer
+gdc,ger000504,183399,183427,_stage,183402,183409,Kratzer,kratzer
+gdc,ger000504,183388,183522,menzingen,183489,183493,mein,menzingen
+gdc,ger000504,183527,184054,kratzer,183806,183821,Jos Frankenheim,jos_frankenheim
+gdc,ger000504,183527,184054,kratzer,183907,183910,mir,kratzer
+gdc,ger000504,184690,184703,florian_geyer,184697,184702,Marei,marei
+gdc,ger000504,184732,184773,florian_geyer,184747,184750,mir,florian_geyer
+gdc,ger000504,184802,184865,florian_geyer,184826,184829,mir,florian_geyer
+gdc,ger000504,184909,185213,florian_geyer,184947,184951,Mein,florian_geyer
+gdc,ger000504,184909,185213,florian_geyer,184961,184964,mir,florian_geyer
+gdc,ger000504,184909,185213,florian_geyer,184998,185001,mir,florian_geyer
+gdc,ger000504,184909,185213,florian_geyer,185021,185024,mir,florian_geyer
+gdc,ger000504,184909,185213,florian_geyer,185055,185058,ich,florian_geyer
+gdc,ger000504,184909,185213,florian_geyer,185191,185196,meine,florian_geyer
+gdc,ger000504,185304,185512,florian_geyer,185335,185338,ich,florian_geyer
+gdc,ger000504,185304,185512,florian_geyer,185439,185443,mich,florian_geyer
+gdc,ger000504,186114,186158,_stage,186114,186123,Karlstatt,karlstatt
+gdc,ger000504,186114,186158,_stage,186147,186154,Kratzer,kratzer
+gdc,ger000504,186481,186753,karlstatt,186652,186655,ich,karlstatt
+gdc,ger000504,186481,186753,karlstatt,186665,186668,ich,karlstatt
+gdc,ger000504,186881,186986,kratzer,186898,186901,ich,kratzer
+gdc,ger000504,187223,187566,florian_geyer,187285,187291,Meines,florian_geyer
+gdc,ger000504,187223,187566,florian_geyer,187306,187309,Ich,florian_geyer
+gdc,ger000504,187223,187566,florian_geyer,187339,187342,ich,florian_geyer
+gdc,ger000504,187223,187566,florian_geyer,187406,187409,ich,florian_geyer
+gdc,ger000504,187223,187566,florian_geyer,187503,187507,mich,florian_geyer
+gdc,ger000504,187223,187566,florian_geyer,187523,187527,mich,florian_geyer
+gdc,ger000504,187223,187566,florian_geyer,187561,187565,mich,florian_geyer
+gdc,ger000504,187715,187807,florian_geyer,187756,187759,mir,florian_geyer
+gdc,ger000504,187715,187807,florian_geyer,187783,187786,ich,florian_geyer
+gdc,ger000504,188130,188331,florian_geyer,188192,188197,Marei,marei
+gdc,ger000504,188130,188331,florian_geyer,188214,188219,Marei,marei
+gdc,ger000504,188130,188331,florian_geyer,188260,188267,Kratzer,kratzer
+gdc,ger000504,188336,188452,kratzer,188418,188421,ich,kratzer
+gdc,ger000504,188636,188693,kratzer,188670,188675,Marei,marei
+gdc,ger000504,188636,188693,kratzer,188684,188689,Marei,marei
+gdc,ger000504,189206,189533,rektor_besenmeyer,189249,189252,ich,rektor_besenmeyer
+gdc,ger000504,189206,189533,rektor_besenmeyer,189258,189261,ich,rektor_besenmeyer
+gdc,ger000504,189206,189533,rektor_besenmeyer,189262,189265,mir,rektor_besenmeyer
+gdc,ger000504,189206,189533,rektor_besenmeyer,189295,189298,mir,rektor_besenmeyer
+gdc,ger000504,189865,190180,florian_geyer,190059,190064,Marei,marei
+gdc,ger000504,189865,190180,florian_geyer,190139,190142,Ich,florian_geyer
+gdc,ger000504,190185,190273,karlstatt,190196,190199,Ich,karlstatt
+gdc,ger000504,190278,190690,florian_geyer,190297,190302,Marei,marei
+gdc,ger000504,190278,190690,florian_geyer,190311,190314,ich,florian_geyer
+gdc,ger000504,190695,190757,marei,190702,190705,Ich,marei
+gdc,ger000504,190762,190898,florian_geyer,190776,190781,Marei,marei
+gdc,ger000504,190762,190898,florian_geyer,190814,190819,Marei,marei
+gdc,ger000504,190762,190898,florian_geyer,190842,190845,mir,florian_geyer
+gdc,ger000504,190903,191040,rektor_besenmeyer,190990,190999,Karlstatt,karlstatt
+gdc,ger000504,191408,191574,florian_geyer,191548,191551,Ich,florian_geyer
+gdc,ger000504,191731,191846,rektor_besenmeyer,191767,191770,ich,rektor_besenmeyer
+gdc,ger000504,191731,191846,rektor_besenmeyer,191829,191832,ich,rektor_besenmeyer
+gdc,ger000504,192068,192291,karlstatt,192096,192099,ich,karlstatt
+gdc,ger000504,192068,192291,karlstatt,192255,192272,Rektor Besenmeyer,rektor_besenmeyer
+gdc,ger000504,192405,192787,rektor_besenmeyer,192424,192427,Ich,rektor_besenmeyer
+gdc,ger000504,192879,192899,florian_geyer,192886,192891,Marei,marei
+gdc,ger000504,192962,192990,florian_geyer,192980,192983,ich,florian_geyer
+gdc,ger000504,192995,193113,kratzer,193030,193033,mir,kratzer
+gdc,ger000504,193118,193210,menzingen,193179,193182,Ich,menzingen
+gdc,ger000504,193118,193210,menzingen,193198,193204,meinem,menzingen
+gdc,ger000504,193215,193289,kratzer,193265,193268,Ich,kratzer
+gdc,ger000504,193497,193654,kratzer,193643,193650,Kratzer,kratzer
+gdc,ger000504,193930,193995,florian_geyer,193953,193963,Tellermann,tellermann
+gdc,ger000504,193930,193995,florian_geyer,193991,193994,ich,florian_geyer
+gdc,ger000504,194282,194306,florian_geyer,194297,194300,ich,florian_geyer
+gdc,ger000504,194424,194585,florian_geyer,194443,194453,Tellermann,tellermann
+gdc,ger000504,194424,194585,florian_geyer,194489,194494,Marei,marei
+gdc,ger000504,194424,194585,florian_geyer,194504,194514,Tellermann,tellermann
+gdc,ger000504,194424,194585,florian_geyer,194530,194535,Marei,marei
+gdc,ger000504,194977,195353,tellermann,195278,195281,ich,tellermann
+gdc,ger000504,195358,195396,florian_geyer,195372,195382,Tellermann,tellermann
+gdc,ger000504,195401,196132,tellermann,195711,195720,Menzingen,menzingen
+gdc,ger000504,195401,196132,tellermann,195798,195805,Kratzer,kratzer
+gdc,ger000504,195401,196132,tellermann,195904,195913,Karlstatt,karlstatt
+gdc,ger000504,195401,196132,tellermann,195939,195946,Kratzer,kratzer
+gdc,ger000504,196137,196230,florian_geyer,196194,196204,Tellermann,tellermann
+gdc,ger000504,196137,196230,florian_geyer,196219,196229,Tellermann,tellermann
+gdc,ger000504,196234,196423,_stage,196234,196243,Karlstatt,karlstatt
+gdc,ger000504,196234,196423,_stage,196332,196341,Menzingen,menzingen
+gdc,ger000504,196555,196630,_stage,196555,196565,Tellermann,tellermann
+gdc,ger000504,196773,196872,menzingen,196797,196800,ich,menzingen
+gdc,ger000504,196876,196904,_stage,196886,196896,Tellermann,tellermann
+gdc,ger000504,197034,197088,karlstatt,197075,197078,ich,karlstatt
+gdc,ger000504,197123,197267,karlstatt,197201,197204,mir,karlstatt
+gdc,ger000504,197123,197267,karlstatt,197226,197229,ich,karlstatt
+gdc,ger000504,197123,197267,karlstatt,197230,197234,mich,karlstatt
+gdc,ger000504,197325,197486,florian_geyer,197348,197351,Ich,florian_geyer
+gdc,ger000504,197325,197486,florian_geyer,197440,197443,ich,florian_geyer
+gdc,ger000504,197553,198086,florian_geyer,197586,197589,mir,florian_geyer
+gdc,ger000504,197553,198086,florian_geyer,197595,197598,ich,florian_geyer
+gdc,ger000504,197553,198086,florian_geyer,197637,197640,ich,florian_geyer
+gdc,ger000504,197553,198086,florian_geyer,197646,197650,mich,florian_geyer
+gdc,ger000504,197553,198086,florian_geyer,197741,197751,Tellermann,tellermann
+gdc,ger000504,197553,198086,florian_geyer,197756,197759,ich,florian_geyer
+gdc,ger000504,198156,198649,florian_geyer,198195,198198,ich,florian_geyer
+gdc,ger000504,198156,198649,florian_geyer,198241,198244,ich,florian_geyer
+gdc,ger000504,198156,198649,florian_geyer,198264,198269,Marei,marei
+gdc,ger000504,198156,198649,florian_geyer,198277,198280,mir,florian_geyer
+gdc,ger000504,198156,198649,florian_geyer,198315,198318,Ich,florian_geyer
+gdc,ger000504,198156,198649,florian_geyer,198328,198331,ich,florian_geyer
+gdc,ger000504,198156,198649,florian_geyer,198412,198415,ich,florian_geyer
+gdc,ger000504,198156,198649,florian_geyer,198444,198454,Tellermann,tellermann
+gdc,ger000504,198156,198649,florian_geyer,198486,198489,mir,florian_geyer
+gdc,ger000504,198156,198649,florian_geyer,198510,198515,Marei,marei
+gdc,ger000504,198156,198649,florian_geyer,198561,198566,Marei,marei
+gdc,ger000504,198766,198914,florian_geyer,198781,198784,ich,florian_geyer
+gdc,ger000504,198919,199008,klaeuslin,198974,198987,Florian Geyer,florian_geyer
+gdc,ger000504,199013,199099,florian_geyer,199090,199095,Marei,marei
+gdc,ger000504,199304,199388,florian_geyer,199329,199332,ich,florian_geyer
+gdc,ger000504,199304,199388,florian_geyer,199340,199344,mich,florian_geyer
+gdc,ger000504,199304,199388,florian_geyer,199359,199362,Ich,florian_geyer
+gdc,ger000504,199304,199388,florian_geyer,199374,199378,mich,florian_geyer
+gdc,ger000504,199443,200477,florian_geyer,199466,199471,Marei,marei
+gdc,ger000504,199443,200477,florian_geyer,199473,199476,ich,florian_geyer
+gdc,ger000504,199443,200477,florian_geyer,199785,199788,Ich,florian_geyer
+gdc,ger000504,199443,200477,florian_geyer,199802,199805,ich,florian_geyer
+gdc,ger000504,199443,200477,florian_geyer,199837,199840,ich,florian_geyer
+gdc,ger000504,199443,200477,florian_geyer,199846,199849,ich,florian_geyer
+gdc,ger000504,199443,200477,florian_geyer,199886,199889,ich,florian_geyer
+gdc,ger000504,199443,200477,florian_geyer,199921,199926,Marei,marei
+gdc,ger000504,199443,200477,florian_geyer,199940,199943,mir,florian_geyer
+gdc,ger000504,199443,200477,florian_geyer,199992,199996,mich,florian_geyer
+gdc,ger000504,199443,200477,florian_geyer,200056,200059,ich,florian_geyer
+gdc,ger000504,199443,200477,florian_geyer,200065,200069,mich,florian_geyer
+gdc,ger000504,199443,200477,florian_geyer,200104,200108,mein,florian_geyer
+gdc,ger000504,199443,200477,florian_geyer,200133,200136,ich,florian_geyer
+gdc,ger000504,199443,200477,florian_geyer,200239,200242,ich,florian_geyer
+gdc,ger000504,199443,200477,florian_geyer,200344,200347,mir,florian_geyer
+gdc,ger000504,200482,200706,karlstatt,200567,200570,ich,karlstatt
+gdc,ger000504,200786,201463,florian_geyer,200979,200989,Tellermann,tellermann
+gdc,ger000504,200786,201463,florian_geyer,201322,201325,ich,florian_geyer
+gdc,ger000504,201467,201510,_stage,201474,201481,Kratzer,kratzer
+gdc,ger000504,201467,201510,_stage,201483,201492,Menzingen,menzingen
+gdc,ger000504,201467,201510,_stage,201497,201506,Karlstatt,karlstatt
+gdc,ger000504,202076,202138,rektor_besenmeyer,202108,202111,mir,rektor_besenmeyer
+gdc,ger000504,202076,202138,rektor_besenmeyer,202115,202118,Ich,rektor_besenmeyer
+gdc,ger000504,202159,202477,_stage,202387,202400,Frau Grumbach,frau_grumbach
+gdc,ger000504,202159,202477,_stage,202436,202441,Marei,marei
+gdc,ger000504,202479,202529,frau_grumbach,202515,202518,mir,frau_grumbach
+gdc,ger000504,202534,202583,marei,202549,202552,mir,marei
+gdc,ger000504,202630,202663,marei,202637,202640,Ich,marei
+gdc,ger000504,202668,202791,frau_grumbach,202695,202715,Wilhelm von Grumbach,wilhelm_von_grumbach
+gdc,ger000504,202668,202791,frau_grumbach,202739,202742,ich,frau_grumbach
+gdc,ger000504,202668,202791,frau_grumbach,202765,202778,Florian Geyer,florian_geyer
+gdc,ger000504,202796,202824,marei,202812,202816,mich,marei
+gdc,ger000504,202829,202936,frau_grumbach,202844,202848,Mein,frau_grumbach
+gdc,ger000504,202829,202936,frau_grumbach,202922,202925,mir,frau_grumbach
+gdc,ger000504,202941,202969,marei,202948,202951,Ich,marei
+gdc,ger000504,202974,203090,frau_grumbach,203017,203022,Peter,peter
+gdc,ger000504,203102,203120,_stage,203114,203119,Marei,marei
+gdc,ger000504,203203,203231,marei,203210,203213,Ich,marei
+gdc,ger000504,203236,203441,frau_grumbach,203391,203404,Florian Geyer,florian_geyer
+gdc,ger000504,203236,203441,frau_grumbach,203424,203429,meine,frau_grumbach
+gdc,ger000504,203446,203502,marei,203474,203477,mir,marei
+gdc,ger000504,203507,203778,frau_grumbach,203608,203611,ich,frau_grumbach
+gdc,ger000504,203783,203844,marei,203798,203801,mir,marei
+gdc,ger000504,203783,203844,marei,203835,203838,Ich,marei
+gdc,ger000504,203849,204017,frau_grumbach,203921,203926,Peter,peter
+gdc,ger000504,204022,204291,peter,204069,204082,Florian Geyer,florian_geyer
+gdc,ger000504,204296,204651,frau_grumbach,204320,204323,ich,frau_grumbach
+gdc,ger000504,204296,204651,frau_grumbach,204341,204344,mir,frau_grumbach
+gdc,ger000504,204296,204651,frau_grumbach,204354,204357,Ich,frau_grumbach
+gdc,ger000504,204296,204651,frau_grumbach,204531,204534,ich,frau_grumbach
+gdc,ger000504,204655,204806,_stage,204655,204660,Peter,peter
+gdc,ger000504,204655,204806,_stage,204665,204670,Marei,marei
+gdc,ger000504,204655,204806,_stage,204675,204688,Frau Grumbach,frau_grumbach
+gdc,ger000504,204655,204806,_stage,204769,204774,Ursel,ursel
+gdc,ger000504,204843,204868,ursel,204850,204853,Ich,ursel
+gdc,ger000504,204999,205055,frau_grumbach,205049,205054,Ursel,ursel
+gdc,ger000504,205668,205764,frau_grumbach,205683,205688,Ursel,ursel
+gdc,ger000504,205668,205764,frau_grumbach,205690,205693,ich,frau_grumbach
+gdc,ger000504,205668,205764,frau_grumbach,205717,205720,mir,frau_grumbach
+gdc,ger000504,205769,205839,ursel,205776,205779,Ich,ursel
+gdc,ger000504,205902,206004,ursel,205917,205920,ich,ursel
+gdc,ger000504,206009,206211,frau_grumbach,206024,206029,Ursel,ursel
+gdc,ger000504,206009,206211,frau_grumbach,206031,206034,ich,frau_grumbach
+gdc,ger000504,206009,206211,frau_grumbach,206039,206043,mein,frau_grumbach
+gdc,ger000504,206009,206211,frau_grumbach,206151,206156,Ursel,ursel
+gdc,ger000504,206009,206211,frau_grumbach,206158,206162,mich,frau_grumbach
+gdc,ger000504,206009,206211,frau_grumbach,206175,206179,mich,frau_grumbach
+gdc,ger000504,206009,206211,frau_grumbach,206196,206199,ich,frau_grumbach
+gdc,ger000504,206304,206508,frau_grumbach,206319,206322,Ich,frau_grumbach
+gdc,ger000504,206304,206508,frau_grumbach,206329,206332,ich,frau_grumbach
+gdc,ger000504,206304,206508,frau_grumbach,206344,206349,Ursel,ursel
+gdc,ger000504,206304,206508,frau_grumbach,206416,206419,mir,frau_grumbach
+gdc,ger000504,206513,206586,ursel,206528,206531,ich,ursel
+gdc,ger000504,206513,206586,ursel,206541,206544,ich,ursel
+gdc,ger000504,206591,206700,frau_grumbach,206680,206686,meines,frau_grumbach
+gdc,ger000504,206712,206780,_stage,206715,206728,Frau Grumbach,frau_grumbach
+gdc,ger000504,206705,207730,ursel,206789,206792,ich,ursel
+gdc,ger000504,206705,207730,ursel,207331,207334,ich,ursel
+gdc,ger000504,206705,207730,ursel,207708,207711,ich,ursel
+gdc,ger000504,207750,207768,_stage,207754,207759,Ursel,ursel
+gdc,ger000504,207735,207812,frau_grumbach,207779,207782,mir,frau_grumbach
+gdc,ger000504,207735,207812,frau_grumbach,207784,207789,Ursel,ursel
+gdc,ger000504,207735,207812,frau_grumbach,207791,207796,Ursel,ursel
+gdc,ger000504,207735,207812,frau_grumbach,207808,207811,mir,frau_grumbach
+gdc,ger000504,208036,208201,sartorius,208068,208072,mich,sartorius
+gdc,ger000504,208036,208201,sartorius,208094,208097,Ich,sartorius
+gdc,ger000504,208206,208426,frau_grumbach,208230,208233,ich,frau_grumbach
+gdc,ger000504,208431,208673,sartorius,208454,208457,mir,sartorius
+gdc,ger000504,208431,208673,sartorius,208478,208481,ich,sartorius
+gdc,ger000504,208431,208673,sartorius,208511,208514,ich,sartorius
+gdc,ger000504,208431,208673,sartorius,208583,208586,ich,sartorius
+gdc,ger000504,208431,208673,sartorius,208605,208609,mich,sartorius
+gdc,ger000504,208860,209116,frau_grumbach,208905,208908,mir,frau_grumbach
+gdc,ger000504,209121,209361,sartorius,209216,209219,ich,sartorius
+gdc,ger000504,209121,209361,sartorius,209333,209336,Ich,sartorius
+gdc,ger000504,209366,209620,frau_grumbach,209424,209427,mir,frau_grumbach
+gdc,ger000504,209366,209620,frau_grumbach,209450,209456,meinem,frau_grumbach
+gdc,ger000504,209625,209924,sartorius,209659,209662,mir,sartorius
+gdc,ger000504,209625,209924,sartorius,209690,209694,mich,sartorius
+gdc,ger000504,209929,210317,frau_grumbach,210123,210127,Mich,frau_grumbach
+gdc,ger000504,209929,210317,frau_grumbach,210172,210175,Ich,frau_grumbach
+gdc,ger000504,210322,210614,sartorius,210407,210410,ich,sartorius
+gdc,ger000504,210322,210614,sartorius,210421,210424,Ich,sartorius
+gdc,ger000504,210322,210614,sartorius,210429,210433,mich,sartorius
+gdc,ger000504,210619,210673,frau_grumbach,210661,210665,mich,frau_grumbach
+gdc,ger000504,210733,210811,frau_grumbach,210781,210786,Peter,peter
+gdc,ger000504,210733,210811,frau_grumbach,210792,210797,Peter,peter
+gdc,ger000504,210930,210975,_stage,210963,210974,Schäferhans,schaeferhans
+gdc,ger000504,211059,211125,_stage,211063,211074,Schäferhans,schaeferhans
+gdc,ger000504,211048,211239,sartorius,211202,211205,Ich,sartorius
+gdc,ger000504,211244,211555,schaeferhans,211369,211372,ich,schaeferhans
+gdc,ger000504,211244,211555,schaeferhans,211506,211515,Sartorius,sartorius
+gdc,ger000504,211574,211682,_stage,211631,211640,Sartorius,sartorius
+gdc,ger000504,211574,211682,_stage,211655,211666,Schäferhans,schaeferhans
+gdc,ger000504,211878,211907,_stage,211878,211887,Sartorius,sartorius
+gdc,ger000504,211878,211907,_stage,211892,211903,Schäferhans,schaeferhans
+gdc,ger000504,211909,211976,wilhelm_von_grumbach,211957,211960,ich,wilhelm_von_grumbach
+gdc,ger000504,211981,212261,frau_grumbach,212004,212007,mir,frau_grumbach
+gdc,ger000504,211981,212261,frau_grumbach,212040,212043,Ich,frau_grumbach
+gdc,ger000504,211981,212261,frau_grumbach,212089,212092,ich,frau_grumbach
+gdc,ger000504,212266,212387,wilhelm_von_grumbach,212324,212327,ich,wilhelm_von_grumbach
+gdc,ger000504,212266,212387,wilhelm_von_grumbach,212359,212367,Hartheim,hartheim
+gdc,ger000504,212266,212387,wilhelm_von_grumbach,212376,212379,mir,wilhelm_von_grumbach
+gdc,ger000504,212583,212972,wilhelm_von_grumbach,212811,212814,ich,wilhelm_von_grumbach
+gdc,ger000504,212583,212972,wilhelm_von_grumbach,212857,212865,Hartheim,hartheim
+gdc,ger000504,213187,213229,wilhelm_von_grumbach,213223,213228,Ursel,ursel
+gdc,ger000504,213234,213383,frau_grumbach,213267,213272,Ursel,ursel
+gdc,ger000504,213234,213383,frau_grumbach,213374,213379,Ursel,ursel
+gdc,ger000504,213736,213804,wilhelm_von_grumbach,213758,213761,Ich,wilhelm_von_grumbach
+gdc,ger000504,213809,213954,frau_grumbach,213878,213882,mein,frau_grumbach
+gdc,ger000504,213959,214063,wilhelm_von_grumbach,214018,214021,mir,wilhelm_von_grumbach
+gdc,ger000504,213959,214063,wilhelm_von_grumbach,214037,214040,ich,wilhelm_von_grumbach
+gdc,ger000504,214068,214270,frau_grumbach,214087,214090,ich,frau_grumbach
+gdc,ger000504,214315,214490,frau_grumbach,214451,214459,Hartheim,hartheim
+gdc,ger000504,214794,214967,wilhelm_von_grumbach,214937,214940,Ich,wilhelm_von_grumbach
+gdc,ger000504,214972,215472,frau_grumbach,215100,215103,Ich,frau_grumbach
+gdc,ger000504,214972,215472,frau_grumbach,215111,215117,meinem,frau_grumbach
+gdc,ger000504,215664,215818,wilhelm_von_grumbach,215803,215814,Schäferhans,schaeferhans
+gdc,ger000504,215976,216072,hartheim,215992,215995,mir,hartheim
+gdc,ger000504,215976,216072,hartheim,216028,216031,ich,hartheim
+gdc,ger000504,216350,216482,lorenz_von_hutten,216417,216430,Florian Geyer,florian_geyer
+gdc,ger000504,216350,216482,lorenz_von_hutten,216468,216481,Florian Geyer,florian_geyer
+gdc,ger000504,216487,216596,wilhelm_von_grumbach,216513,216516,mir,wilhelm_von_grumbach
+gdc,ger000504,216487,216596,wilhelm_von_grumbach,216526,216529,ich,wilhelm_von_grumbach
+gdc,ger000504,217148,217426,lorenz_von_hutten,217177,217180,ich,lorenz_von_hutten
+gdc,ger000504,217148,217426,lorenz_von_hutten,217239,217243,mich,lorenz_von_hutten
+gdc,ger000504,217148,217426,lorenz_von_hutten,217308,217311,ich,lorenz_von_hutten
+gdc,ger000504,217431,217551,wilhelm_von_grumbach,217493,217496,Ich,wilhelm_von_grumbach
+gdc,ger000504,217786,218243,wilhelm_von_grumbach,217866,217870,mein,wilhelm_von_grumbach
+gdc,ger000504,217786,218243,wilhelm_von_grumbach,217898,217901,ich,wilhelm_von_grumbach
+gdc,ger000504,217786,218243,wilhelm_von_grumbach,217938,217942,mich,wilhelm_von_grumbach
+gdc,ger000504,217786,218243,wilhelm_von_grumbach,218095,218098,mir,wilhelm_von_grumbach
+gdc,ger000504,217786,218243,wilhelm_von_grumbach,218100,218103,Ich,wilhelm_von_grumbach
+gdc,ger000504,217786,218243,wilhelm_von_grumbach,218112,218118,meinen,wilhelm_von_grumbach
+gdc,ger000504,217786,218243,wilhelm_von_grumbach,218194,218197,ich,wilhelm_von_grumbach
+gdc,ger000504,218248,218465,lorenz_von_hutten,218421,218435,Bischof Konrad,bischof_konrad
+gdc,ger000504,218470,218739,wilhelm_von_grumbach,218500,218504,mich,wilhelm_von_grumbach
+gdc,ger000504,218470,218739,wilhelm_von_grumbach,218580,218583,ich,wilhelm_von_grumbach
+gdc,ger000504,218470,218739,wilhelm_von_grumbach,218610,218613,mir,wilhelm_von_grumbach
+gdc,ger000504,218744,218869,lorenz_von_hutten,218851,218864,Florian Geyer,florian_geyer
+gdc,ger000504,218874,219246,wilhelm_von_grumbach,219037,219041,mich,wilhelm_von_grumbach
+gdc,ger000504,218874,219246,wilhelm_von_grumbach,219120,219126,meiner,wilhelm_von_grumbach
+gdc,ger000504,218874,219246,wilhelm_von_grumbach,219198,219201,Ich,wilhelm_von_grumbach
+gdc,ger000504,218874,219246,wilhelm_von_grumbach,219215,219228,Florian Geyer,florian_geyer
+gdc,ger000504,219250,219352,_stage,219250,219259,Schertlin,schertlin
+gdc,ger000504,219250,219352,_stage,219264,219272,Hartheim,hartheim
+gdc,ger000504,219489,219660,lorenz_von_hutten,219560,219569,Schertlin,schertlin
+gdc,ger000504,220056,220174,frau_grumbach,220127,220130,Ich,frau_grumbach
+gdc,ger000504,220179,220244,wilhelm_von_grumbach,220211,220217,meinem,wilhelm_von_grumbach
+gdc,ger000504,220249,220385,schertlin,220281,220284,Ich,schertlin
+gdc,ger000504,220616,220657,schaeferhans,220644,220647,ich,schaeferhans
+gdc,ger000504,220662,220901,schertlin,220872,220875,ich,schertlin
+gdc,ger000504,221033,221366,schaeferhans,221046,221049,Ich,schaeferhans
+gdc,ger000504,221033,221366,schaeferhans,221099,221103,mich,schaeferhans
+gdc,ger000504,221033,221366,schaeferhans,221188,221191,ich,schaeferhans
+gdc,ger000504,221033,221366,schaeferhans,221201,221206,meine,schaeferhans
+gdc,ger000504,221033,221366,schaeferhans,221283,221286,ich,schaeferhans
+gdc,ger000504,221371,221459,schertlin,221444,221455,Schäferhans,schaeferhans
+gdc,ger000504,221463,221667,_stage,221463,221482,Kunz von der Mühlen,kunz_von_der_muehlen
+gdc,ger000504,221463,221667,_stage,221487,221503,Wolf von Kastell,wolf_von_kastell
+gdc,ger000504,221669,221808,wilhelm_von_grumbach,221769,221775,meinem,wilhelm_von_grumbach
+gdc,ger000504,222000,222450,wilhelm_von_grumbach,222031,222034,ich,wilhelm_von_grumbach
+gdc,ger000504,222000,222450,wilhelm_von_grumbach,222150,222156,meinem,wilhelm_von_grumbach
+gdc,ger000504,222000,222450,wilhelm_von_grumbach,222303,222309,meiner,wilhelm_von_grumbach
+gdc,ger000504,222000,222450,wilhelm_von_grumbach,222353,222356,mir,wilhelm_von_grumbach
+gdc,ger000504,222000,222450,wilhelm_von_grumbach,222379,222382,mir,wilhelm_von_grumbach
+gdc,ger000504,222455,224406,lorenz_von_hutten,223996,224015,Kunz von der Mühlen,kunz_von_der_muehlen
+gdc,ger000504,222455,224406,lorenz_von_hutten,224021,224037,Wolf von Kastell,wolf_von_kastell
+gdc,ger000504,222455,224406,lorenz_von_hutten,224042,224045,ich,lorenz_von_hutten
+gdc,ger000504,224467,224538,_stage,224467,224476,Schertlin,schertlin
+gdc,ger000504,224540,224676,wolf_von_kastell,224570,224573,ich,wolf_von_kastell
+gdc,ger000504,224680,224697,_stage,224680,224693,Frau Grumbach,frau_grumbach
+gdc,ger000504,224912,225257,kunz_von_der_muehlen,224937,224943,meinen,kunz_von_der_muehlen
+gdc,ger000504,224912,225257,kunz_von_der_muehlen,224954,224957,ich,kunz_von_der_muehlen
+gdc,ger000504,224912,225257,kunz_von_der_muehlen,225006,225009,ich,kunz_von_der_muehlen
+gdc,ger000504,224912,225257,kunz_von_der_muehlen,225085,225088,ich,kunz_von_der_muehlen
+gdc,ger000504,225262,225663,wolf_von_kastell,225319,225323,mich,wolf_von_kastell
+gdc,ger000504,225668,226242,wilhelm_von_grumbach,225826,225832,meiner,wilhelm_von_grumbach
+gdc,ger000504,225668,226242,wilhelm_von_grumbach,225873,225877,mein,wilhelm_von_grumbach
+gdc,ger000504,225668,226242,wilhelm_von_grumbach,225889,225892,ich,wilhelm_von_grumbach
+gdc,ger000504,225668,226242,wilhelm_von_grumbach,225918,225922,mich,wilhelm_von_grumbach
+gdc,ger000504,225668,226242,wilhelm_von_grumbach,226037,226041,mich,wilhelm_von_grumbach
+gdc,ger000504,225668,226242,wilhelm_von_grumbach,226093,226098,meine,wilhelm_von_grumbach
+gdc,ger000504,226246,226608,_stage,226485,226496,Schäferhans,schaeferhans
+gdc,ger000504,227391,227486,erster_bauer,227471,227475,mich,erster_bauer
+gdc,ger000504,227491,227623,schaeferhans,227527,227531,mich,schaeferhans
+gdc,ger000504,227628,227732,erster_reisiger,227695,227698,Ich,erster_reisiger
+gdc,ger000504,227949,228311,zweiter_reisiger,228019,228023,mein,zweiter_reisiger
+gdc,ger000504,228860,229216,wolf_von_kastell,229186,229199,Florian Geyer,florian_geyer
+gdc,ger000504,229423,229669,schaeferhans,229451,229454,ich,schaeferhans
+gdc,ger000504,229423,229669,schaeferhans,229460,229463,ich,schaeferhans
+gdc,ger000504,229423,229669,schaeferhans,229470,229474,mein,schaeferhans
+gdc,ger000504,229423,229669,schaeferhans,229517,229520,Ich,schaeferhans
+gdc,ger000504,229423,229669,schaeferhans,229571,229574,ich,schaeferhans
+gdc,ger000504,229423,229669,schaeferhans,229591,229594,ich,schaeferhans
+gdc,ger000504,229423,229669,schaeferhans,229595,229599,mein,schaeferhans
+gdc,ger000504,230016,230182,lorenz_von_hutten,230069,230072,ich,lorenz_von_hutten
+gdc,ger000504,230187,230354,wolf_von_kastell,230205,230208,Ich,wolf_von_kastell
+gdc,ger000504,230402,230605,erster_bauer,230425,230428,mir,erster_bauer
+gdc,ger000504,230402,230605,erster_bauer,230435,230438,ich,erster_bauer
+gdc,ger000504,230945,231075,schaeferhans,230958,230961,Ich,schaeferhans
+gdc,ger000504,233240,233857,_stage,233240,233245,Marei,marei
+gdc,ger000504,233240,233857,_stage,233508,233513,Marei,marei
+gdc,ger000504,234045,234082,florian_geyer,234066,234069,mir,florian_geyer
+gdc,ger000504,234165,234785,_stage,234165,234170,Marei,marei
+gdc,ger000504,234165,234785,_stage,234245,234250,Marei,marei
+gdc,ger000504,234165,234785,_stage,234309,234314,Marei,marei
+gdc,ger000504,234933,234968,florian_geyer,234964,234967,ich,florian_geyer
+gdc,ger000504,235034,235072,florian_geyer,235041,235044,Ich,florian_geyer
+gdc,ger000504,235077,235155,marei,235115,235118,ich,marei
+gdc,ger000504,235160,235228,florian_geyer,235206,235209,Ich,florian_geyer
+gdc,ger000504,235233,235583,lorenz_von_hutten,235428,235431,ich,lorenz_von_hutten
+gdc,ger000504,235658,235752,marei,235665,235668,Ich,marei
+gdc,ger000504,235757,235798,florian_geyer,235780,235797,Lorenz von Hutten,lorenz_von_hutten
+gdc,ger000504,235803,235823,marei,235810,235813,Ich,marei
+gdc,ger000504,236018,236041,florian_geyer,236032,236036,mich,florian_geyer
+gdc,ger000504,236046,236115,wilhelm_von_grumbach,236096,236099,Ich,wilhelm_von_grumbach
+gdc,ger000504,236120,236170,florian_geyer,236154,236158,mich,florian_geyer
+gdc,ger000504,236175,236387,wilhelm_von_grumbach,236248,236252,mich,wilhelm_von_grumbach
+gdc,ger000504,236175,236387,wilhelm_von_grumbach,236262,236265,ich,wilhelm_von_grumbach
+gdc,ger000504,236175,236387,wilhelm_von_grumbach,236266,236270,mich,wilhelm_von_grumbach
+gdc,ger000504,236175,236387,wilhelm_von_grumbach,236302,236308,meinen,wilhelm_von_grumbach
+gdc,ger000504,236175,236387,wilhelm_von_grumbach,236368,236371,ich,wilhelm_von_grumbach
+gdc,ger000504,236443,236770,wilhelm_von_grumbach,236465,236468,Ich,wilhelm_von_grumbach
+gdc,ger000504,236443,236770,wilhelm_von_grumbach,236503,236506,mir,wilhelm_von_grumbach
+gdc,ger000504,236775,236824,florian_geyer,236782,236785,Ich,florian_geyer
+gdc,ger000504,236775,236824,florian_geyer,236792,236795,ich,florian_geyer
+gdc,ger000504,236829,237113,wilhelm_von_grumbach,236887,236890,mir,wilhelm_von_grumbach
+gdc,ger000504,236829,237113,wilhelm_von_grumbach,236897,236900,ich,wilhelm_von_grumbach
+gdc,ger000504,236829,237113,wilhelm_von_grumbach,236924,236927,mir,wilhelm_von_grumbach
+gdc,ger000504,236829,237113,wilhelm_von_grumbach,236991,236995,mich,wilhelm_von_grumbach
+gdc,ger000504,236829,237113,wilhelm_von_grumbach,237026,237029,ich,wilhelm_von_grumbach
+gdc,ger000504,237118,237293,florian_geyer,237188,237191,ich,florian_geyer
+gdc,ger000504,237118,237293,florian_geyer,237253,237256,ich,florian_geyer
+gdc,ger000504,237118,237293,florian_geyer,237281,237285,mich,florian_geyer
+gdc,ger000504,237298,237378,wilhelm_von_grumbach,237320,237323,Ich,wilhelm_von_grumbach
+gdc,ger000504,237298,237378,wilhelm_von_grumbach,237364,237367,mir,wilhelm_von_grumbach
+gdc,ger000504,237383,237483,florian_geyer,237395,237398,ich,florian_geyer
+gdc,ger000504,237383,237483,florian_geyer,237425,237428,mir,florian_geyer
+gdc,ger000504,237488,237636,wilhelm_von_grumbach,237510,237513,Ich,wilhelm_von_grumbach
+gdc,ger000504,237488,237636,wilhelm_von_grumbach,237533,237536,ich,wilhelm_von_grumbach
+gdc,ger000504,237759,237925,wilhelm_von_grumbach,237796,237799,ich,wilhelm_von_grumbach
+gdc,ger000504,237759,237925,wilhelm_von_grumbach,237860,237863,ich,wilhelm_von_grumbach
+gdc,ger000504,238109,238205,wilhelm_von_grumbach,238141,238144,mir,wilhelm_von_grumbach
+gdc,ger000504,238109,238205,wilhelm_von_grumbach,238167,238170,ich,wilhelm_von_grumbach
+gdc,ger000504,238210,238730,florian_geyer,238232,238235,ich,florian_geyer
+gdc,ger000504,238210,238730,florian_geyer,238249,238252,ich,florian_geyer
+gdc,ger000504,238210,238730,florian_geyer,238276,238279,ich,florian_geyer
+gdc,ger000504,238210,238730,florian_geyer,238304,238307,ich,florian_geyer
+gdc,ger000504,238210,238730,florian_geyer,238347,238350,mir,florian_geyer
+gdc,ger000504,238210,238730,florian_geyer,238646,238650,mich,florian_geyer
+gdc,ger000504,238210,238730,florian_geyer,238696,238699,ich,florian_geyer
+gdc,ger000504,238210,238730,florian_geyer,238704,238708,mein,florian_geyer
+gdc,ger000504,238735,238920,wilhelm_von_grumbach,238812,238815,ich,wilhelm_von_grumbach
+gdc,ger000504,238735,238920,wilhelm_von_grumbach,238849,238852,ich,wilhelm_von_grumbach
+gdc,ger000504,239036,239145,florian_geyer,239054,239057,Ich,florian_geyer
+gdc,ger000504,239036,239145,florian_geyer,239126,239131,Marei,marei
+gdc,ger000504,239193,239241,wilhelm_von_grumbach,239237,239240,mir,wilhelm_von_grumbach
+gdc,ger000504,239648,239692,wilhelm_von_grumbach,239688,239691,mir,wilhelm_von_grumbach
+gdc,ger000504,239744,239859,wilhelm_von_grumbach,239793,239796,ich,wilhelm_von_grumbach
+gdc,ger000504,239744,239859,wilhelm_von_grumbach,239844,239848,mich,wilhelm_von_grumbach
+gdc,ger000504,239913,239969,wilhelm_von_grumbach,239935,239938,Ich,wilhelm_von_grumbach
+gdc,ger000504,239913,239969,wilhelm_von_grumbach,239952,239955,ich,wilhelm_von_grumbach
+gdc,ger000504,240061,240121,wilhelm_von_grumbach,240088,240091,ich,wilhelm_von_grumbach
+gdc,ger000504,240061,240121,wilhelm_von_grumbach,240110,240114,mich,wilhelm_von_grumbach
+gdc,ger000504,240126,240239,frau_grumbach,240161,240165,mich,frau_grumbach
+gdc,ger000504,240356,241306,schertlin,240576,240582,meiner,schertlin
+gdc,ger000504,240356,241306,schertlin,240877,240880,ich,schertlin
+gdc,ger000504,240356,241306,schertlin,240980,240983,ich,schertlin
+gdc,ger000504,240356,241306,schertlin,241073,241076,mir,schertlin
+gdc,ger000504,240356,241306,schertlin,241210,241213,mir,schertlin
+gdc,ger000504,240356,241306,schertlin,241271,241274,mir,schertlin
+gdc,ger000504,241310,241382,_stage,241310,241323,Frau Grumbach,frau_grumbach
+gdc,ger000504,241405,241451,_stage,241422,241430,Hartheim,hartheim
+gdc,ger000504,241489,241680,schertlin,241583,241587,mich,schertlin
+gdc,ger000504,241489,241680,schertlin,241625,241628,ich,schertlin
+gdc,ger000504,241685,241769,wolf_von_kastell,241726,241729,ich,wolf_von_kastell
+gdc,ger000504,241685,241769,wolf_von_kastell,241751,241755,mich,wolf_von_kastell
+gdc,ger000504,241774,241974,schertlin,241798,241801,Ich,schertlin
+gdc,ger000504,241774,241974,schertlin,241871,241874,mir,schertlin
+gdc,ger000504,241774,241974,schertlin,241937,241940,ich,schertlin
+gdc,ger000504,241979,242150,wolf_von_kastell,242079,242087,Hartheim,hartheim
+gdc,ger000504,241979,242150,wolf_von_kastell,242137,242140,mir,wolf_von_kastell
+gdc,ger000504,242155,242225,hartheim,242221,242224,ich,hartheim
+gdc,ger000504,242269,242328,wolf_von_kastell,242287,242290,Ich,wolf_von_kastell
+gdc,ger000504,242371,242512,_stage,242371,242380,Schertlin,schertlin
+gdc,ger000504,242371,242512,_stage,242382,242390,Hartheim,hartheim
+gdc,ger000504,242599,242656,frau_grumbach,242634,242647,Florian Geyer,florian_geyer
+gdc,ger000504,242661,242717,lorenz_von_hutten,242703,242716,Florian Geyer,florian_geyer
+gdc,ger000504,242860,242931,lorenz_von_hutten,242883,242886,Ich,lorenz_von_hutten
+gdc,ger000504,242860,242931,lorenz_von_hutten,242904,242907,ich,lorenz_von_hutten
+gdc,ger000504,242997,243024,_stage,242997,243017,Wilhelm von Grumbach,wilhelm_von_grumbach
+gdc,ger000504,243134,243182,wilhelm_von_grumbach,243170,243174,mich,wilhelm_von_grumbach
+gdc,ger000504,243187,243422,lorenz_von_hutten,243225,243228,ich,lorenz_von_hutten
+gdc,ger000504,243187,243422,lorenz_von_hutten,243382,243388,meinem,lorenz_von_hutten
+gdc,ger000504,243471,243520,lorenz_von_hutten,243494,243507,Florian Geyer,florian_geyer
+gdc,ger000504,243612,243820,wilhelm_von_grumbach,243698,243701,Ich,wilhelm_von_grumbach
+gdc,ger000504,243612,243820,wilhelm_von_grumbach,243733,243736,ich,wilhelm_von_grumbach
+gdc,ger000504,243911,243953,hartheim,243943,243947,mein,hartheim
+gdc,ger000504,244230,244321,lorenz_von_hutten,244306,244309,Ich,lorenz_von_hutten
+gdc,ger000504,244325,244365,_stage,244325,244336,Schäferhans,schaeferhans
+gdc,ger000504,244378,244393,_stage,244381,244392,Schäferhans,schaeferhans
+gdc,ger000504,244440,244487,_stage,244440,244460,Wilhelm von Grumbach,wilhelm_von_grumbach
+gdc,ger000504,244609,245054,_stage,244609,244622,Frau Grumbach,frau_grumbach
+gdc,ger000504,244609,245054,_stage,244919,244924,Marei,marei
+gdc,ger000504,245166,245527,_stage,245166,245183,Lorenz von Hutten,lorenz_von_hutten
+gdc,ger000504,245608,245653,schertlin,245623,245636,Florian Geyer,florian_geyer
+gdc,ger000504,245658,245706,florian_geyer,245688,245691,ich,florian_geyer
+gdc,ger000504,245711,245741,schertlin,245732,245736,mich,schertlin
+gdc,ger000504,245763,245827,schertlin,245798,245807,Schertlin,schertlin
+gdc,ger000504,245832,245923,florian_geyer,245845,245848,ich,florian_geyer
+gdc,ger000504,245928,245971,lorenz_von_hutten,245957,245961,mich,lorenz_von_hutten
+gdc,ger000504,246014,246065,lorenz_von_hutten,246033,246050,Lorenz von Hutten,lorenz_von_hutten
+gdc,ger000504,246014,246065,lorenz_von_hutten,246055,246059,mein,lorenz_von_hutten
+gdc,ger000504,246605,246793,florian_geyer,246661,246664,mir,florian_geyer
+gdc,ger000504,246605,246793,florian_geyer,246685,246689,mich,florian_geyer
+gdc,ger000504,246605,246793,florian_geyer,246711,246715,mich,florian_geyer
+gdc,ger000504,246605,246793,florian_geyer,246747,246750,mir,florian_geyer
+gdc,ger000504,247400,247535,_stage,247439,247450,Schäferhans,schaeferhans
+gdc,ger000504,247856,247921,florian_geyer,247877,247880,Ich,florian_geyer
+gdc,ger000504,247856,247921,florian_geyer,247896,247902,meines,florian_geyer
+gdc,ger000504,248199,248334,florian_geyer,248206,248209,Ich,florian_geyer
+gdc,ger000504,248713,248754,schertlin,248728,248734,meinem,schertlin
+gdc,ger000504,248801,248865,_stage,248801,248812,Schäferhans,schaeferhans
+gdc,ger000504,249002,249129,schaeferhans,249061,249064,ich,schaeferhans
+gdc,ger000504,249134,249261,kunz_von_der_muehlen,249188,249201,Florian Geyer,florian_geyer
+gdc,ger000504,249134,249261,kunz_von_der_muehlen,249239,249252,Florian Geyer,florian_geyer
+gdc,ger000504,249369,249516,lorenz_von_hutten,249392,249395,mir,lorenz_von_hutten
+gdc,ger000504,249369,249516,lorenz_von_hutten,249452,249455,Ich,lorenz_von_hutten
+gdc,ger000504,249521,249576,schertlin,249540,249543,mir,schertlin
+gdc,ger000504,249730,249802,kunz_von_der_muehlen,249780,249793,Florian Geyer,florian_geyer

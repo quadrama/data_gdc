@@ -1,6 +1,6 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,tvgp.0,MOSSINO,mossino,,
-gdc,tvgp.0,MARIKANNO,marikanno,,
-gdc,tvgp.0,PASSECK,passeck,,
-gdc,tvgp.0,KEFINSKA,kefinska,,
-gdc,tvgp.0,LISSAMÁTSCH,lissamátsch,,
+gdc,tvgp.0,Lissamátsch,lissamatsch,FEMALE,
+gdc,tvgp.0,Mossino,mossino,MALE,
+gdc,tvgp.0,Kefinska,kefinska,FEMALE,
+gdc,tvgp.0,Passeck,passeck,MALE,
+gdc,tvgp.0,Marikanno,marikanno,FEMALE,

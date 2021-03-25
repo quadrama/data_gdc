@@ -1,7 +1,7 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,wc9q.0,FRAU GISELIUS,frau_giselius,,
-gdc,wc9q.0,PROFESSOR GISELIUS,professor_giselius,,
-gdc,wc9q.0,BABETTE,babette,,
-gdc,wc9q.0,CÖLESTINE,cölestine,,
-gdc,wc9q.0,DR,dr,,
-gdc,wc9q.0,LOTTCHEN,lottchen,,
+gdc,wc9q.0,Professor Giselius,professor_giselius,MALE,
+gdc,wc9q.0,Lottchen,lottchen,FEMALE,
+gdc,wc9q.0,Cölestine,coelestine,FEMALE,
+gdc,wc9q.0,Frau Giselius,frau_giselius,FEMALE,
+gdc,wc9q.0,Babette,babette,FEMALE,
+gdc,wc9q.0,Dr. Appel,dr_appel,MALE,

@@ -1,3 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,tvbm.0,ARABELLA,arabella,,
-gdc,tvbm.0,CHRISTINE,christine,,
+gdc,tvbm.0,Arabella,arabella,FEMALE,
+gdc,tvbm.0,Ko-Bo-So,ko-bo-so,MALE,
+gdc,tvbm.0,Christine,christine,FEMALE,

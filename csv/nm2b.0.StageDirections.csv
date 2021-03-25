@@ -1,0 +1,660 @@
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc,nm2b.0,11794,11821,_Stage,_Stage,Jungfer,ADJA,jungfer,27693,,(0
+gdc,nm2b.0,11794,11821,_Stage,_Stage,Luischen,NN,luischen,27693,,0)
+gdc,nm2b.0,11794,11821,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,11794,11821,_Stage,_Stage,Cathrine,NE,cathrine,27693,,(1)
+gdc,nm2b.0,11794,11821,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,18979,19047,_Stage,_Stage,Frau,NN,frau,27693,,(2
+gdc,nm2b.0,18979,19047,_Stage,_Stage,Glaubeleichtin,NE,glaubeleichtin,27693,,2)
+gdc,nm2b.0,18979,19047,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,18979,19047,_Stage,_Stage,Jungfer,NE,jungfer,27693,,(3
+gdc,nm2b.0,18979,19047,_Stage,_Stage,Dorchen,NE,dorchen,27693,,3)
+gdc,nm2b.0,18979,19047,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,18979,19047,_Stage,_Stage,Jungfer,ADJA,jungfer,27693,,(0
+gdc,nm2b.0,18979,19047,_Stage,_Stage,Luischen,NN,luischen,27693,,0)
+gdc,nm2b.0,18979,19047,_Stage,_Stage,und,KON,und,27693,,
+gdc,nm2b.0,18979,19047,_Stage,_Stage,Cathrine,NE,cathrine,27693,,(1)
+gdc,nm2b.0,18979,19047,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,22726,22733,Frau Glaubeleichtin,frau_glaubeleichtin,lieset,VVFIN,liesen,27693,,
+gdc,nm2b.0,22726,22733,Frau Glaubeleichtin,frau_glaubeleichtin,.,$.,--,27693,,
+gdc,nm2b.0,23387,23396,Frau Glaubeleichtin,frau_glaubeleichtin,Gehen,NN,gehen,27693,,
+gdc,nm2b.0,23387,23396,Frau Glaubeleichtin,frau_glaubeleichtin,ab,PTKVZ,ab,27693,,
+gdc,nm2b.0,23387,23396,Frau Glaubeleichtin,frau_glaubeleichtin,.,$.,--,27693,,
+gdc,nm2b.0,23422,23456,_Stage,_Stage,Jungfer,ADJA,jungfer,27693,,(3
+gdc,nm2b.0,23422,23456,_Stage,_Stage,Dorchen,NN,dorchen,27693,,3)
+gdc,nm2b.0,23422,23456,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,23422,23456,_Stage,_Stage,Jungfer,ADJA,jungfer,27693,,(0
+gdc,nm2b.0,23422,23456,_Stage,_Stage,Luischen,NN,luischen,27693,,0)
+gdc,nm2b.0,23422,23456,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,26196,26233,_Stage,_Stage,Frau,NN,frau,27693,,(2
+gdc,nm2b.0,26196,26233,_Stage,_Stage,Glaubeleichtin,NE,glaubeleichtin,27693,,2)
+gdc,nm2b.0,26196,26233,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,26196,26233,_Stage,_Stage,Herr,NN,herr,27693,,(4
+gdc,nm2b.0,26196,26233,_Stage,_Stage,Wackermann,NE,wackermann,27693,,4)
+gdc,nm2b.0,26196,26233,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,30138,30193,_Stage,_Stage,Frau,NN,frau,27693,,(2
+gdc,nm2b.0,30138,30193,_Stage,_Stage,Glaubeleichtin,NE,glaubeleichtin,27693,,2)
+gdc,nm2b.0,30138,30193,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,30138,30193,_Stage,_Stage,Herr,NN,herr,27693,,(4
+gdc,nm2b.0,30138,30193,_Stage,_Stage,Wackermann,NE,wackermann,27693,,4)
+gdc,nm2b.0,30138,30193,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,30138,30193,_Stage,_Stage,Jungfer,ADJA,jungfer,27693,,(0
+gdc,nm2b.0,30138,30193,_Stage,_Stage,Luischen,NN,luischen,27693,,0)
+gdc,nm2b.0,30138,30193,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,34399,34407,Jungfer Luischen,jungfer_luischen,Geht,VVFIN,gehen,27693,,
+gdc,nm2b.0,34399,34407,Jungfer Luischen,jungfer_luischen,ab,PTKVZ,ab,27693,,
+gdc,nm2b.0,34399,34407,Jungfer Luischen,jungfer_luischen,.,$.,--,27693,,
+gdc,nm2b.0,34434,34481,_Stage,_Stage,Frau,NN,frau,27693,,(2
+gdc,nm2b.0,34434,34481,_Stage,_Stage,Glaubeleichtin,NE,glaubeleichtin,27693,,2)
+gdc,nm2b.0,34434,34481,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,34434,34481,_Stage,_Stage,Herr,NN,herr,27693,,(4
+gdc,nm2b.0,34434,34481,_Stage,_Stage,Wackermann,NE,wackermann,27693,,4)
+gdc,nm2b.0,34434,34481,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,34434,34481,_Stage,_Stage,Cathrine,NE,cathrine,27693,,(1)
+gdc,nm2b.0,34434,34481,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,38911,38930,Frau Glaubeleichtin,frau_glaubeleichtin,spöttisch,ADJD,spöttisch,27693,,
+gdc,nm2b.0,38911,38930,Frau Glaubeleichtin,frau_glaubeleichtin,lächelnd,ADJD,lächelnd,27693,,
+gdc,nm2b.0,38911,38930,Frau Glaubeleichtin,frau_glaubeleichtin,.,$.,--,27693,,
+gdc,nm2b.0,40952,40970,Frau Glaubeleichtin,frau_glaubeleichtin,fällt,VVFIN,fallen,27693,,
+gdc,nm2b.0,40952,40970,Frau Glaubeleichtin,frau_glaubeleichtin,in,APPR,in,27693,,
+gdc,nm2b.0,40952,40970,Frau Glaubeleichtin,frau_glaubeleichtin,Ohnmacht,NE,ohnmacht,27693,,
+gdc,nm2b.0,40952,40970,Frau Glaubeleichtin,frau_glaubeleichtin,.,$.,--,27693,,
+gdc,nm2b.0,41579,41591,Cathrine,cathrine,Sie,PPER,sie,27693,,
+gdc,nm2b.0,41579,41591,Cathrine,cathrine,schreyt,VVFIN,schreyt,27693,,
+gdc,nm2b.0,41579,41591,Cathrine,cathrine,.,$.,--,27693,,
+gdc,nm2b.0,41892,41904,Cathrine,cathrine,Sie,PPER,sie,27693,,
+gdc,nm2b.0,41892,41904,Cathrine,cathrine,schreyt,VVFIN,schreyt,27693,,
+gdc,nm2b.0,41892,41904,Cathrine,cathrine,.,$.,--,27693,,
+gdc,nm2b.0,42022,42039,Frau Glaubeleichtin,frau_glaubeleichtin,richtet,VVFIN,richten,27693,,
+gdc,nm2b.0,42022,42039,Frau Glaubeleichtin,frau_glaubeleichtin,sich,PRF,sich,27693,,
+gdc,nm2b.0,42022,42039,Frau Glaubeleichtin,frau_glaubeleichtin,auf,PTKVZ,auf,27693,,
+gdc,nm2b.0,42022,42039,Frau Glaubeleichtin,frau_glaubeleichtin,.,$.,--,27693,,
+gdc,nm2b.0,42584,42592,Frau Glaubeleichtin,frau_glaubeleichtin,Geht,VVFIN,gehen,27693,,
+gdc,nm2b.0,42584,42592,Frau Glaubeleichtin,frau_glaubeleichtin,ab,PTKVZ,ab,27693,,
+gdc,nm2b.0,42584,42592,Frau Glaubeleichtin,frau_glaubeleichtin,.,$.,--,27693,,
+gdc,nm2b.0,42821,42829,Herr Wackermann,herr_wackermann,Geht,VVFIN,gehen,27693,,
+gdc,nm2b.0,42821,42829,Herr Wackermann,herr_wackermann,ab,PTKVZ,ab,27693,,
+gdc,nm2b.0,42821,42829,Herr Wackermann,herr_wackermann,.,$.,--,27693,,
+gdc,nm2b.0,42874,42898,_Stage,_Stage,Herr,NN,herr,27693,,(5
+gdc,nm2b.0,42874,42898,_Stage,_Stage,Liebmann,NE,liebmann,27693,,5)
+gdc,nm2b.0,42874,42898,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,42874,42898,_Stage,_Stage,Cathrine,NE,cathrine,27693,,(1)
+gdc,nm2b.0,42874,42898,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,43691,43709,Herr Liebmann,herr_liebmann,gantz,ADJD,gantz,27693,,
+gdc,nm2b.0,43691,43709,Herr Liebmann,herr_liebmann,erschrocken,VVINF,erschrocken,27693,,
+gdc,nm2b.0,43691,43709,Herr Liebmann,herr_liebmann,.,$.,--,27693,,
+gdc,nm2b.0,44668,44676,Cathrine,cathrine,Geht,VVFIN,gehen,27693,,
+gdc,nm2b.0,44668,44676,Cathrine,cathrine,ab,PTKVZ,ab,27693,,
+gdc,nm2b.0,44668,44676,Cathrine,cathrine,.,$.,--,27693,,
+gdc,nm2b.0,44702,44734,_Stage,_Stage,Herr,NN,herr,27693,,
+gdc,nm2b.0,44702,44734,_Stage,_Stage,Mag,VMFIN,mögen,27693,,
+gdc,nm2b.0,44702,44734,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,44702,44734,_Stage,_Stage,Scheinfromm,NE,scheinfromm,27693,,
+gdc,nm2b.0,44702,44734,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,44702,44734,_Stage,_Stage,Cathrine,NE,cathrine,27693,,(1)
+gdc,nm2b.0,44702,44734,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,44753,44791,Herr Scheinfromm,herr_scheinfromm,mit,APPR,mit,27693,,
+gdc,nm2b.0,44753,44791,Herr Scheinfromm,herr_scheinfromm,einer,ART,ein,27693,,
+gdc,nm2b.0,44753,44791,Herr Scheinfromm,herr_scheinfromm,andächtigen,ADJA,andächtig,27693,,
+gdc,nm2b.0,44753,44791,Herr Scheinfromm,herr_scheinfromm,Mine,NN,mine,27693,,
+gdc,nm2b.0,44753,44791,Herr Scheinfromm,herr_scheinfromm,und,KON,und,27693,,
+gdc,nm2b.0,44753,44791,Herr Scheinfromm,herr_scheinfromm,Stimme,NN,stimme,27693,,
+gdc,nm2b.0,44753,44791,Herr Scheinfromm,herr_scheinfromm,.,$.,--,27693,,
+gdc,nm2b.0,45352,45361,Herr Scheinfromm,herr_scheinfromm,beyseite,VVFIN,beyseiten,27693,,
+gdc,nm2b.0,45352,45361,Herr Scheinfromm,herr_scheinfromm,.,$.,--,27693,,
+gdc,nm2b.0,45410,45415,Herr Scheinfromm,herr_scheinfromm,Laut,NN,laut,27693,,
+gdc,nm2b.0,45410,45415,Herr Scheinfromm,herr_scheinfromm,.,$.,--,27693,,
+gdc,nm2b.0,45643,45652,Herr Scheinfromm,herr_scheinfromm,beyseite,VVFIN,beyseiten,27693,,
+gdc,nm2b.0,45643,45652,Herr Scheinfromm,herr_scheinfromm,.,$.,--,27693,,
+gdc,nm2b.0,45676,45681,Herr Scheinfromm,herr_scheinfromm,Laut,NN,laut,27693,,
+gdc,nm2b.0,45676,45681,Herr Scheinfromm,herr_scheinfromm,.,$.,--,27693,,
+gdc,nm2b.0,51578,51596,Herr Scheinfromm,herr_scheinfromm,Er,PPER,er,27693,,
+gdc,nm2b.0,51578,51596,Herr Scheinfromm,herr_scheinfromm,steckt,VVFIN,stecken,27693,,
+gdc,nm2b.0,51578,51596,Herr Scheinfromm,herr_scheinfromm,ihn,PPER,ihn,27693,,
+gdc,nm2b.0,51578,51596,Herr Scheinfromm,herr_scheinfromm,ein,PTKVZ,ein,27693,,
+gdc,nm2b.0,51578,51596,Herr Scheinfromm,herr_scheinfromm,.,$.,--,27693,,
+gdc,nm2b.0,51755,51763,Herr Scheinfromm,herr_scheinfromm,Geht,VVFIN,gehen,27693,,
+gdc,nm2b.0,51755,51763,Herr Scheinfromm,herr_scheinfromm,ab,PTKVZ,ab,27693,,
+gdc,nm2b.0,51755,51763,Herr Scheinfromm,herr_scheinfromm,.,$.,--,27693,,
+gdc,nm2b.0,51964,52032,_Stage,_Stage,Jungfer,ADJA,jungfer,27693,,(0
+gdc,nm2b.0,51964,52032,_Stage,_Stage,Luischen,NN,luischen,27693,,0)
+gdc,nm2b.0,51964,52032,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,51964,52032,_Stage,_Stage,welche,PRELS,welcher,27693,,
+gdc,nm2b.0,51964,52032,_Stage,_Stage,die,ART,der,27693,,
+gdc,nm2b.0,51964,52032,_Stage,_Stage,Thüre,NN,thüre,27693,,
+gdc,nm2b.0,51964,52032,_Stage,_Stage,eröffnet,VVFIN,eröffnen,27693,,
+gdc,nm2b.0,51964,52032,_Stage,_Stage,Herr,NN,herr,27693,,(5
+gdc,nm2b.0,51964,52032,_Stage,_Stage,Liebmann,NE,liebmann,27693,,5)
+gdc,nm2b.0,51964,52032,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,51964,52032,_Stage,_Stage,Cathrine,NE,cathrine,27693,,(1)
+gdc,nm2b.0,51964,52032,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,55606,55629,Jungfer Luischen,jungfer_luischen,Sie,PPER,sie,27693,,
+gdc,nm2b.0,55606,55629,Jungfer Luischen,jungfer_luischen,steht,VVFIN,stehen,27693,,
+gdc,nm2b.0,55606,55629,Jungfer Luischen,jungfer_luischen,in,APPR,in,27693,,
+gdc,nm2b.0,55606,55629,Jungfer Luischen,jungfer_luischen,Gedancken,NN,gedancke,27693,,
+gdc,nm2b.0,55606,55629,Jungfer Luischen,jungfer_luischen,.,$.,--,27693,,
+gdc,nm2b.0,56535,56548,Cathrine,cathrine,zum,APPRART,zu,27693,,
+gdc,nm2b.0,56535,56548,Cathrine,cathrine,Liebmann,NN,liebmann,27693,,
+gdc,nm2b.0,56535,56548,Cathrine,cathrine,.,$.,--,27693,,
+gdc,nm2b.0,56610,56627,Cathrine,cathrine,Liebmann,NE,liebmann,27693,,
+gdc,nm2b.0,56610,56627,Cathrine,cathrine,geht,VVFIN,gehen,27693,,
+gdc,nm2b.0,56610,56627,Cathrine,cathrine,ab,PTKVZ,ab,27693,,
+gdc,nm2b.0,56610,56627,Cathrine,cathrine,.,$.,--,27693,,
+gdc,nm2b.0,56642,56654,Cathrine,cathrine,zur,APPRART,zu,27693,,
+gdc,nm2b.0,56642,56654,Cathrine,cathrine,Jungfer,NN,jungfer,27693,,
+gdc,nm2b.0,56642,56654,Cathrine,cathrine,.,$.,--,27693,,
+gdc,nm2b.0,57009,57021,Cathrine,cathrine,Sie,PPER,sie,27693,,
+gdc,nm2b.0,57009,57021,Cathrine,cathrine,geht,VVFIN,gehen,27693,,
+gdc,nm2b.0,57009,57021,Cathrine,cathrine,ab,PTKVZ,ab,27693,,
+gdc,nm2b.0,57009,57021,Cathrine,cathrine,.,$.,--,27693,,
+gdc,nm2b.0,57046,57102,_Stage,_Stage,Jungfer,ADJA,jungfer,27693,,(0
+gdc,nm2b.0,57046,57102,_Stage,_Stage,Luischen,NN,luischen,27693,,0)
+gdc,nm2b.0,57046,57102,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,57046,57102,_Stage,_Stage,Herr,NN,herr,27693,,(6
+gdc,nm2b.0,57046,57102,_Stage,_Stage,Scheinfromm,NN,scheinfromm,27693,,6)
+gdc,nm2b.0,57046,57102,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,57046,57102,_Stage,_Stage,Frau,NN,frau,27693,,(2
+gdc,nm2b.0,57046,57102,_Stage,_Stage,Glaubeleichtin,NE,glaubeleichtin,27693,,2)
+gdc,nm2b.0,57046,57102,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,57811,57823,Frau Glaubeleichtin,frau_glaubeleichtin,Sie,PPER,sie,27693,,
+gdc,nm2b.0,57811,57823,Frau Glaubeleichtin,frau_glaubeleichtin,geht,VVFIN,gehen,27693,,
+gdc,nm2b.0,57811,57823,Frau Glaubeleichtin,frau_glaubeleichtin,ab,PTKVZ,ab,27693,,
+gdc,nm2b.0,57811,57823,Frau Glaubeleichtin,frau_glaubeleichtin,.,$.,--,27693,,
+gdc,nm2b.0,57848,57883,_Stage,_Stage,Herr,NN,herr,27693,,(6
+gdc,nm2b.0,57848,57883,_Stage,_Stage,Scheinfromm,NE,scheinfromm,27693,,6)
+gdc,nm2b.0,57848,57883,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,57848,57883,_Stage,_Stage,Jungfer,ADJA,jungfer,27693,,(0
+gdc,nm2b.0,57848,57883,_Stage,_Stage,Luischen,NN,luischen,27693,,0)
+gdc,nm2b.0,57848,57883,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,58660,58669,Herr Scheinfromm,herr_scheinfromm,beyseits,ADV,beyseits,27693,,
+gdc,nm2b.0,58660,58669,Herr Scheinfromm,herr_scheinfromm,.,$.,--,27693,,
+gdc,nm2b.0,58702,58707,Herr Scheinfromm,herr_scheinfromm,Laut,NN,laut,27693,,
+gdc,nm2b.0,58702,58707,Herr Scheinfromm,herr_scheinfromm,.,$.,--,27693,,
+gdc,nm2b.0,62920,62976,_Stage,_Stage,Frau,NN,frau,27693,,(2
+gdc,nm2b.0,62920,62976,_Stage,_Stage,Glaubeleichtin,NE,glaubeleichtin,27693,,2)
+gdc,nm2b.0,62920,62976,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,62920,62976,_Stage,_Stage,Jungfer,ADJA,jungfer,27693,,(0
+gdc,nm2b.0,62920,62976,_Stage,_Stage,Luischen,NN,luischen,27693,,0)
+gdc,nm2b.0,62920,62976,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,62920,62976,_Stage,_Stage,Herr,NN,herr,27693,,(6
+gdc,nm2b.0,62920,62976,_Stage,_Stage,Scheinfromm,NE,scheinfromm,27693,,6)
+gdc,nm2b.0,62920,62976,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,63558,63566,Herr Scheinfromm,herr_scheinfromm,Geht,VVFIN,gehen,27693,,
+gdc,nm2b.0,63558,63566,Herr Scheinfromm,herr_scheinfromm,ab,PTKVZ,ab,27693,,
+gdc,nm2b.0,63558,63566,Herr Scheinfromm,herr_scheinfromm,.,$.,--,27693,,
+gdc,nm2b.0,63666,63716,_Stage,_Stage,Frau,NN,frau,27693,,(2
+gdc,nm2b.0,63666,63716,_Stage,_Stage,Glaubeleichtin,NE,glaubeleichtin,27693,,2)
+gdc,nm2b.0,63666,63716,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,63666,63716,_Stage,_Stage,Jungfer,ADJA,jungfer,27693,,(0
+gdc,nm2b.0,63666,63716,_Stage,_Stage,Luischen,NN,luischen,27693,,0)
+gdc,nm2b.0,63666,63716,_Stage,_Stage,setzen,VVFIN,setzen,27693,,
+gdc,nm2b.0,63666,63716,_Stage,_Stage,sich,PRF,sich,27693,,
+gdc,nm2b.0,63666,63716,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,64068,64126,Frau Glaubeleichtin,frau_glaubeleichtin,Indem,KOUS,indem,27693,,
+gdc,nm2b.0,64068,64126,Frau Glaubeleichtin,frau_glaubeleichtin,sie,PPER,sie,27693,,
+gdc,nm2b.0,64068,64126,Frau Glaubeleichtin,frau_glaubeleichtin,so,ADV,so,27693,,
+gdc,nm2b.0,64068,64126,Frau Glaubeleichtin,frau_glaubeleichtin,redet,VVFIN,reden,27693,,
+gdc,nm2b.0,64068,64126,Frau Glaubeleichtin,frau_glaubeleichtin,",","$,",--,27693,,
+gdc,nm2b.0,64068,64126,Frau Glaubeleichtin,frau_glaubeleichtin,sitzet,VVFIN,sitzen,27693,,
+gdc,nm2b.0,64068,64126,Frau Glaubeleichtin,frau_glaubeleichtin,die,ART,der,27693,,
+gdc,nm2b.0,64068,64126,Frau Glaubeleichtin,frau_glaubeleichtin,Tochter,NN,tochter,27693,,
+gdc,nm2b.0,64068,64126,Frau Glaubeleichtin,frau_glaubeleichtin,immer,ADV,immer,27693,,
+gdc,nm2b.0,64068,64126,Frau Glaubeleichtin,frau_glaubeleichtin,in,APPR,in,27693,,
+gdc,nm2b.0,64068,64126,Frau Glaubeleichtin,frau_glaubeleichtin,Gedancken,NN,gedancke,27693,,
+gdc,nm2b.0,64068,64126,Frau Glaubeleichtin,frau_glaubeleichtin,.,$.,--,27693,,
+gdc,nm2b.0,64467,64477,Jungfer Luischen,jungfer_luischen,Bey,NE,bey,27693,,
+gdc,nm2b.0,64467,64477,Jungfer Luischen,jungfer_luischen,Seite,NN,seite,27693,,
+gdc,nm2b.0,64467,64477,Jungfer Luischen,jungfer_luischen,.,$.,--,27693,,
+gdc,nm2b.0,65484,65507,Frau Glaubeleichtin,frau_glaubeleichtin,Luischen,PIS,luischen,27693,,
+gdc,nm2b.0,65484,65507,Frau Glaubeleichtin,frau_glaubeleichtin,entsetzt,VVFIN,entsetzen,27693,,
+gdc,nm2b.0,65484,65507,Frau Glaubeleichtin,frau_glaubeleichtin,sich,PRF,sich,27693,,
+gdc,nm2b.0,65484,65507,Frau Glaubeleichtin,frau_glaubeleichtin,.,$.,--,27693,,
+gdc,nm2b.0,67111,67155,Jungfer Luischen,jungfer_luischen,Sie,PPER,sie,27693,,
+gdc,nm2b.0,67111,67155,Jungfer Luischen,jungfer_luischen,wirfft,VVFIN,wirffen,27693,,
+gdc,nm2b.0,67111,67155,Jungfer Luischen,jungfer_luischen,sich,PRF,sich,27693,,
+gdc,nm2b.0,67111,67155,Jungfer Luischen,jungfer_luischen,vor,APPR,vor,27693,,
+gdc,nm2b.0,67111,67155,Jungfer Luischen,jungfer_luischen,der,ART,der,27693,,
+gdc,nm2b.0,67111,67155,Jungfer Luischen,jungfer_luischen,Mutter,NN,mutter,27693,,
+gdc,nm2b.0,67111,67155,Jungfer Luischen,jungfer_luischen,auf,APPR,auf,27693,,
+gdc,nm2b.0,67111,67155,Jungfer Luischen,jungfer_luischen,die,ART,der,27693,,
+gdc,nm2b.0,67111,67155,Jungfer Luischen,jungfer_luischen,Knie,NN,knie,27693,,
+gdc,nm2b.0,67111,67155,Jungfer Luischen,jungfer_luischen,.,$.,--,27693,,
+gdc,nm2b.0,68757,68770,Frau Glaubeleichtin,frau_glaubeleichtin,Sie,PPER,sie,27693,,
+gdc,nm2b.0,68757,68770,Frau Glaubeleichtin,frau_glaubeleichtin,gehet,VVFIN,gehet,27693,,
+gdc,nm2b.0,68757,68770,Frau Glaubeleichtin,frau_glaubeleichtin,ab,PTKVZ,ab,27693,,
+gdc,nm2b.0,68757,68770,Frau Glaubeleichtin,frau_glaubeleichtin,.,$.,--,27693,,
+gdc,nm2b.0,68795,68822,_Stage,_Stage,Jungfer,ADJA,jungfer,27693,,(0
+gdc,nm2b.0,68795,68822,_Stage,_Stage,Luischen,NN,luischen,27693,,0)
+gdc,nm2b.0,68795,68822,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,68795,68822,_Stage,_Stage,Cathrine,NE,cathrine,27693,,(1)
+gdc,nm2b.0,68795,68822,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,69958,69986,_Stage,_Stage,Frau,NN,frau,27693,,(7
+gdc,nm2b.0,69958,69986,_Stage,_Stage,Bettelsackin,NE,bettelsackin,27693,,7)
+gdc,nm2b.0,69958,69986,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,69958,69986,_Stage,_Stage,Cathrine,NE,cathrine,27693,,(1)
+gdc,nm2b.0,69958,69986,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,71298,71306,Frau Bettelsackin,frau_bettelsackin,alleine,ADV,alleine,27693,,
+gdc,nm2b.0,71298,71306,Frau Bettelsackin,frau_bettelsackin,.,$.,--,27693,,
+gdc,nm2b.0,71561,71571,Frau Bettelsackin,frau_bettelsackin,Sie,PPER,sie,27693,,
+gdc,nm2b.0,71561,71571,Frau Bettelsackin,frau_bettelsackin,liest,VVFIN,lesen,27693,,
+gdc,nm2b.0,71561,71571,Frau Bettelsackin,frau_bettelsackin,.,$.,--,27693,,
+gdc,nm2b.0,73399,73438,_Stage,_Stage,Frau,NN,frau,27693,,(2
+gdc,nm2b.0,73399,73438,_Stage,_Stage,Glaubeleichtin,NE,glaubeleichtin,27693,,2)
+gdc,nm2b.0,73399,73438,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,73399,73438,_Stage,_Stage,Frau,NN,frau,27693,,(7
+gdc,nm2b.0,73399,73438,_Stage,_Stage,Bettelsackin,NE,bettelsackin,27693,,7)
+gdc,nm2b.0,73399,73438,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,76221,76230,Frau Bettelsackin,frau_bettelsackin,Beyseite,NN,beyseite,27693,,
+gdc,nm2b.0,76221,76230,Frau Bettelsackin,frau_bettelsackin,.,$.,--,27693,,
+gdc,nm2b.0,77238,77268,_Stage,_Stage,Frau,NN,frau,27693,,(2
+gdc,nm2b.0,77238,77268,_Stage,_Stage,Glaubeleichtin,NE,glaubeleichtin,27693,,2)
+gdc,nm2b.0,77238,77268,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,77238,77268,_Stage,_Stage,Cathrine,NE,cathrine,27693,,(1)
+gdc,nm2b.0,77238,77268,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,77461,77470,Cathrine,cathrine,Beyseite,NN,beyseite,27693,,
+gdc,nm2b.0,77461,77470,Cathrine,cathrine,.,$.,--,27693,,
+gdc,nm2b.0,77600,77671,_Stage,_Stage,Frau,NN,frau,27693,,(2
+gdc,nm2b.0,77600,77671,_Stage,_Stage,Glaubeleichtin,NE,glaubeleichtin,27693,,2)
+gdc,nm2b.0,77600,77671,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,77600,77671,_Stage,_Stage,Herr,NN,herr,27693,,(6
+gdc,nm2b.0,77600,77671,_Stage,_Stage,Scheinfromm,NE,scheinfromm,27693,,6)
+gdc,nm2b.0,77600,77671,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,77600,77671,_Stage,_Stage,der,ART,der,27693,,
+gdc,nm2b.0,77600,77671,_Stage,_Stage,junge,ADJA,jung,27693,,
+gdc,nm2b.0,77600,77671,_Stage,_Stage,Herr,NN,herr,27693,,(8
+gdc,nm2b.0,77600,77671,_Stage,_Stage,von,APPR,von,27693,,
+gdc,nm2b.0,77600,77671,_Stage,_Stage,Muckersdorff,NE,muckersdorff,27693,,8)
+gdc,nm2b.0,77600,77671,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,79885,79974,_Stage,_Stage,Herr,NN,herr,27693,,(6
+gdc,nm2b.0,79885,79974,_Stage,_Stage,Scheinfromm,NE,scheinfromm,27693,,6)
+gdc,nm2b.0,79885,79974,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,79885,79974,_Stage,_Stage,Frau,NN,frau,27693,,(2
+gdc,nm2b.0,79885,79974,_Stage,_Stage,Glaubeleichtin,NE,glaubeleichtin,27693,,2)
+gdc,nm2b.0,79885,79974,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,79885,79974,_Stage,_Stage,Herr,NN,herr,27693,,(8
+gdc,nm2b.0,79885,79974,_Stage,_Stage,von,APPR,von,27693,,
+gdc,nm2b.0,79885,79974,_Stage,_Stage,Muckersdorff,NE,muckersdorff,27693,,8)
+gdc,nm2b.0,79885,79974,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,79885,79974,_Stage,_Stage,Jungfer,ADJA,jungfer,27693,,(0
+gdc,nm2b.0,79885,79974,_Stage,_Stage,Luischen,NN,luischen,27693,,0)
+gdc,nm2b.0,79885,79974,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,79885,79974,_Stage,_Stage,Cathrine,NE,cathrine,27693,,(1)
+gdc,nm2b.0,79885,79974,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,79998,80011,Herr von Muckersdorff,herr_von_muckersdorff,zu,PTKZU,zu,27693,,
+gdc,nm2b.0,79998,80011,Herr von Muckersdorff,herr_von_muckersdorff,Cathrinen,VVINF,cathrinen,27693,,
+gdc,nm2b.0,79998,80011,Herr von Muckersdorff,herr_von_muckersdorff,.,$.,--,27693,,
+gdc,nm2b.0,80067,80082,Herr von Muckersdorff,herr_von_muckersdorff,Cathrine,NE,cathrine,27693,,(1)
+gdc,nm2b.0,80067,80082,Herr von Muckersdorff,herr_von_muckersdorff,lacht,VVFIN,lachen,27693,,
+gdc,nm2b.0,80067,80082,Herr von Muckersdorff,herr_von_muckersdorff,.,$.,--,27693,,
+gdc,nm2b.0,80972,81004,Herr von Muckersdorff,herr_von_muckersdorff,Er,PPER,er,27693,,
+gdc,nm2b.0,80972,81004,Herr von Muckersdorff,herr_von_muckersdorff,macht,VVFIN,machen,27693,,
+gdc,nm2b.0,80972,81004,Herr von Muckersdorff,herr_von_muckersdorff,den,ART,der,27693,,
+gdc,nm2b.0,80972,81004,Herr von Muckersdorff,herr_von_muckersdorff,Welschen,ADJA,welsch,27693,,
+gdc,nm2b.0,80972,81004,Herr von Muckersdorff,herr_von_muckersdorff,Hahn,NN,hahn,27693,,
+gdc,nm2b.0,80972,81004,Herr von Muckersdorff,herr_von_muckersdorff,nach,PTKVZ,nach,27693,,
+gdc,nm2b.0,80972,81004,Herr von Muckersdorff,herr_von_muckersdorff,.,$.,--,27693,,
+gdc,nm2b.0,81061,81079,Herr Scheinfromm,herr_scheinfromm,zieht,VVFIN,ziehen,27693,,
+gdc,nm2b.0,81061,81079,Herr Scheinfromm,herr_scheinfromm,die,ART,der,27693,,
+gdc,nm2b.0,81061,81079,Herr Scheinfromm,herr_scheinfromm,Achseln,NN,achsel,27693,,
+gdc,nm2b.0,81061,81079,Herr Scheinfromm,herr_scheinfromm,.,$.,--,27693,,
+gdc,nm2b.0,81915,81931,Frau Glaubeleichtin,frau_glaubeleichtin,zum,APPRART,zu,27693,,
+gdc,nm2b.0,81915,81931,Frau Glaubeleichtin,frau_glaubeleichtin,Scheinfromm,NN,scheinfromm,27693,,
+gdc,nm2b.0,81915,81931,Frau Glaubeleichtin,frau_glaubeleichtin,.,$.,--,27693,,
+gdc,nm2b.0,82774,82783,Cathrine,cathrine,beyseite,VVFIN,beyseiten,27693,,
+gdc,nm2b.0,82774,82783,Cathrine,cathrine,.,$.,--,27693,,
+gdc,nm2b.0,83187,83210,Herr von Muckersdorff,herr_von_muckersdorff,macht,VVFIN,machen,27693,,
+gdc,nm2b.0,83187,83210,Herr von Muckersdorff,herr_von_muckersdorff,viel,PIAT,viel,27693,,
+gdc,nm2b.0,83187,83210,Herr von Muckersdorff,herr_von_muckersdorff,Reverentzen,NN,reverentzen,27693,,
+gdc,nm2b.0,83187,83210,Herr von Muckersdorff,herr_von_muckersdorff,.,$.,--,27693,,
+gdc,nm2b.0,83459,83493,_Stage,_Stage,Jungfer,ADJA,jungfer,27693,,(3
+gdc,nm2b.0,83459,83493,_Stage,_Stage,Dorchen,NN,dorchen,27693,,3)
+gdc,nm2b.0,83459,83493,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,83459,83493,_Stage,_Stage,Jungfer,ADJA,jungfer,27693,,(0
+gdc,nm2b.0,83459,83493,_Stage,_Stage,Luischen,NN,luischen,27693,,0)
+gdc,nm2b.0,83459,83493,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,85150,85181,_Stage,_Stage,Jungfer,ADJA,jungfer,27693,,(3
+gdc,nm2b.0,85150,85181,_Stage,_Stage,Dorchen,NN,dorchen,27693,,3)
+gdc,nm2b.0,85150,85181,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,85150,85181,_Stage,_Stage,Herr,NN,herr,27693,,(5
+gdc,nm2b.0,85150,85181,_Stage,_Stage,Liebmann,NE,liebmann,27693,,5)
+gdc,nm2b.0,85150,85181,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,85757,85770,Herr Liebmann,herr_liebmann,in,APPR,in,27693,,
+gdc,nm2b.0,85757,85770,Herr Liebmann,herr_liebmann,Gedancken,NN,gedancke,27693,,
+gdc,nm2b.0,85757,85770,Herr Liebmann,herr_liebmann,.,$.,--,27693,,
+gdc,nm2b.0,86791,86804,Herr Liebmann,herr_liebmann,in,APPR,in,27693,,
+gdc,nm2b.0,86791,86804,Herr Liebmann,herr_liebmann,Gedancken,NN,gedancke,27693,,
+gdc,nm2b.0,86791,86804,Herr Liebmann,herr_liebmann,.,$.,--,27693,,
+gdc,nm2b.0,88988,89019,_Stage,_Stage,Herr,NN,herr,27693,,(5
+gdc,nm2b.0,88988,89019,_Stage,_Stage,Liebmann,NE,liebmann,27693,,5)
+gdc,nm2b.0,88988,89019,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,88988,89019,_Stage,_Stage,Herr,NN,herr,27693,,(4
+gdc,nm2b.0,88988,89019,_Stage,_Stage,Wackermann,NE,wackermann,27693,,4)
+gdc,nm2b.0,88988,89019,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,91093,91150,_Stage,_Stage,Frau,NN,frau,27693,,(2
+gdc,nm2b.0,91093,91150,_Stage,_Stage,Glaubeleichtin,NE,glaubeleichtin,27693,,2)
+gdc,nm2b.0,91093,91150,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,91093,91150,_Stage,_Stage,Frau,NN,frau,27693,,(9
+gdc,nm2b.0,91093,91150,_Stage,_Stage,Zanckenheimin,NE,zanckenheimin,27693,,9)
+gdc,nm2b.0,91093,91150,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,91093,91150,_Stage,_Stage,Frau,NN,frau,27693,,(10
+gdc,nm2b.0,91093,91150,_Stage,_Stage,Seuffzerin,NE,seuffzerin,27693,,10)
+gdc,nm2b.0,91093,91150,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,95924,95954,Frau Seuffzerin,frau_seuffzerin,Leise,ADV,leise,27693,,
+gdc,nm2b.0,95924,95954,Frau Seuffzerin,frau_seuffzerin,zur,APPRART,zu,27693,,
+gdc,nm2b.0,95924,95954,Frau Seuffzerin,frau_seuffzerin,Frau,NN,frau,27693,,(2
+gdc,nm2b.0,95924,95954,Frau Seuffzerin,frau_seuffzerin,Glaubeleichtin,NE,glaubeleichtin,27693,,2)
+gdc,nm2b.0,95924,95954,Frau Seuffzerin,frau_seuffzerin,.,$.,--,27693,,
+gdc,nm2b.0,96071,96100,Frau Seuffzerin,frau_seuffzerin,Leise,ADV,leise,27693,,
+gdc,nm2b.0,96071,96100,Frau Seuffzerin,frau_seuffzerin,zur,APPRART,zu,27693,,
+gdc,nm2b.0,96071,96100,Frau Seuffzerin,frau_seuffzerin,Frau,NN,frau,27693,,(9
+gdc,nm2b.0,96071,96100,Frau Seuffzerin,frau_seuffzerin,Zanckenheimin,NE,zanckenheimin,27693,,9)
+gdc,nm2b.0,96071,96100,Frau Seuffzerin,frau_seuffzerin,.,$.,--,27693,,
+gdc,nm2b.0,98699,98774,_Stage,_Stage,Frau,NN,frau,27693,,(2
+gdc,nm2b.0,98699,98774,_Stage,_Stage,Glaubeleichtin,NE,glaubeleichtin,27693,,2)
+gdc,nm2b.0,98699,98774,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,98699,98774,_Stage,_Stage,Frau,NN,frau,27693,,(9
+gdc,nm2b.0,98699,98774,_Stage,_Stage,Zanckenheimin,NE,zanckenheimin,27693,,9)
+gdc,nm2b.0,98699,98774,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,98699,98774,_Stage,_Stage,Frau,NN,frau,27693,,(10
+gdc,nm2b.0,98699,98774,_Stage,_Stage,Seuffzerin,NN,seuffzerin,27693,,10)
+gdc,nm2b.0,98699,98774,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,98699,98774,_Stage,_Stage,Herr,NN,herr,27693,,(6
+gdc,nm2b.0,98699,98774,_Stage,_Stage,Scheinfromm,NE,scheinfromm,27693,,6)
+gdc,nm2b.0,98699,98774,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,100356,100375,Frau Glaubeleichtin,frau_glaubeleichtin,Alle,PIS,aller,27693,,
+gdc,nm2b.0,100356,100375,Frau Glaubeleichtin,frau_glaubeleichtin,drey,NE,drey,27693,,
+gdc,nm2b.0,100356,100375,Frau Glaubeleichtin,frau_glaubeleichtin,zusammen,PTKVZ,zusammen,27693,,
+gdc,nm2b.0,100356,100375,Frau Glaubeleichtin,frau_glaubeleichtin,.,$.,--,27693,,
+gdc,nm2b.0,102402,102415,Herr Scheinfromm,herr_scheinfromm,Alle,PIS,aller,27693,,
+gdc,nm2b.0,102402,102415,Herr Scheinfromm,herr_scheinfromm,zusammen,PTKVZ,zusammen,27693,,
+gdc,nm2b.0,102968,102977,Herr Scheinfromm,herr_scheinfromm,Alle,PIS,aller,27693,,
+gdc,nm2b.0,102968,102977,Herr Scheinfromm,herr_scheinfromm,drey,NE,drey,27693,,
+gdc,nm2b.0,103478,103492,Herr Scheinfromm,herr_scheinfromm,nachdencklich,ADJD,nachdencklich,27693,,
+gdc,nm2b.0,103478,103492,Herr Scheinfromm,herr_scheinfromm,.,$.,--,27693,,
+gdc,nm2b.0,105872,105968,_Stage,_Stage,Frau,NN,frau,27693,,(2
+gdc,nm2b.0,105872,105968,_Stage,_Stage,Glaubeleichtin,NE,glaubeleichtin,27693,,2)
+gdc,nm2b.0,105872,105968,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,105872,105968,_Stage,_Stage,Frau,NN,frau,27693,,(10
+gdc,nm2b.0,105872,105968,_Stage,_Stage,Seuffzerin,NN,seuffzerin,27693,,10)
+gdc,nm2b.0,105872,105968,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,105872,105968,_Stage,_Stage,Frau,NN,frau,27693,,(9
+gdc,nm2b.0,105872,105968,_Stage,_Stage,Zanckenheimin,NE,zanckenheimin,27693,,9)
+gdc,nm2b.0,105872,105968,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,105872,105968,_Stage,_Stage,Herr,NN,herr,27693,,
+gdc,nm2b.0,105872,105968,_Stage,_Stage,Magister,NN,magister,27693,,
+gdc,nm2b.0,105872,105968,_Stage,_Stage,Scheinfromm,NE,scheinfromm,27693,,
+gdc,nm2b.0,105872,105968,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,105872,105968,_Stage,_Stage,ein,ART,ein,27693,,
+gdc,nm2b.0,105872,105968,_Stage,_Stage,Diener,NN,diener,27693,,
+gdc,nm2b.0,105872,105968,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,106386,106491,_Stage,_Stage,Frau,NN,frau,27693,,(2
+gdc,nm2b.0,106386,106491,_Stage,_Stage,Glaubeleichtin,NE,glaubeleichtin,27693,,2)
+gdc,nm2b.0,106386,106491,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,106386,106491,_Stage,_Stage,Frau,NN,frau,27693,,
+gdc,nm2b.0,106386,106491,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,106386,106491,_Stage,_Stage,Zanckenheimin,NN,zanckenheimin,27693,,
+gdc,nm2b.0,106386,106491,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,106386,106491,_Stage,_Stage,Herr,NN,herr,27693,,
+gdc,nm2b.0,106386,106491,_Stage,_Stage,Magister,NN,magister,27693,,
+gdc,nm2b.0,106386,106491,_Stage,_Stage,Scheinfromm,NN,scheinfromm,27693,,
+gdc,nm2b.0,106386,106491,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,106386,106491,_Stage,_Stage,Frau,NN,frau,27693,,(10
+gdc,nm2b.0,106386,106491,_Stage,_Stage,Seuffzerin,NN,seuffzerin,27693,,10)
+gdc,nm2b.0,106386,106491,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,106386,106491,_Stage,_Stage,und,KON,und,27693,,
+gdc,nm2b.0,106386,106491,_Stage,_Stage,Frau,NN,frau,27693,,(12
+gdc,nm2b.0,106386,106491,_Stage,_Stage,Ehrlichen,NN,ehrlichen,27693,,12)
+gdc,nm2b.0,106386,106491,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,107655,107679,Frau Ehrlichen,frau_ehrlichen,Zur,APPRART,zu,27693,,
+gdc,nm2b.0,107655,107679,Frau Ehrlichen,frau_ehrlichen,Frau,NN,frau,27693,,(2
+gdc,nm2b.0,107655,107679,Frau Ehrlichen,frau_ehrlichen,Glaubeleichtin,NE,glaubeleichtin,27693,,2)
+gdc,nm2b.0,107655,107679,Frau Ehrlichen,frau_ehrlichen,.,$.,--,27693,,
+gdc,nm2b.0,109616,109655,Frau Ehrlichen,frau_ehrlichen,Sie,PPER,sie,27693,,
+gdc,nm2b.0,109616,109655,Frau Ehrlichen,frau_ehrlichen,zieht,VVFIN,ziehen,27693,,
+gdc,nm2b.0,109616,109655,Frau Ehrlichen,frau_ehrlichen,ihn,PPER,ihn,27693,,
+gdc,nm2b.0,109616,109655,Frau Ehrlichen,frau_ehrlichen,beym,ADJD,beym,27693,,
+gdc,nm2b.0,109616,109655,Frau Ehrlichen,frau_ehrlichen,Ermel,NN,ermel,27693,,
+gdc,nm2b.0,109616,109655,Frau Ehrlichen,frau_ehrlichen,.,$.,--,27693,,
+gdc,nm2b.0,109616,109655,Frau Ehrlichen,frau_ehrlichen,Er,PPER,er,27693,,
+gdc,nm2b.0,109616,109655,Frau Ehrlichen,frau_ehrlichen,entflieht,VVFIN,entfliehen,27693,,
+gdc,nm2b.0,109616,109655,Frau Ehrlichen,frau_ehrlichen,.,$.,--,27693,,
+gdc,nm2b.0,109703,109715,Frau Ehrlichen,frau_ehrlichen,Sie,PPER,sie,27693,,
+gdc,nm2b.0,109703,109715,Frau Ehrlichen,frau_ehrlichen,geht,VVFIN,gehen,27693,,
+gdc,nm2b.0,109703,109715,Frau Ehrlichen,frau_ehrlichen,ab,PTKVZ,ab,27693,,
+gdc,nm2b.0,109703,109715,Frau Ehrlichen,frau_ehrlichen,.,$.,--,27693,,
+gdc,nm2b.0,109741,109798,_Stage,_Stage,Frau,NN,frau,27693,,(2
+gdc,nm2b.0,109741,109798,_Stage,_Stage,Glaubeleichtin,NE,glaubeleichtin,27693,,2)
+gdc,nm2b.0,109741,109798,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,109741,109798,_Stage,_Stage,Frau,NN,frau,27693,,(10
+gdc,nm2b.0,109741,109798,_Stage,_Stage,Seuffzerin,NN,seuffzerin,27693,,10)
+gdc,nm2b.0,109741,109798,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,109741,109798,_Stage,_Stage,Frau,NN,frau,27693,,(9
+gdc,nm2b.0,109741,109798,_Stage,_Stage,Zanckenheimin,NE,zanckenheimin,27693,,9)
+gdc,nm2b.0,109741,109798,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,111194,111276,_Stage,_Stage,Frau,NN,frau,27693,,(2
+gdc,nm2b.0,111194,111276,_Stage,_Stage,Glaubeleichtin,NE,glaubeleichtin,27693,,2)
+gdc,nm2b.0,111194,111276,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,111194,111276,_Stage,_Stage,Frau,NN,frau,27693,,(10
+gdc,nm2b.0,111194,111276,_Stage,_Stage,Seuffzerin,NN,seuffzerin,27693,,10)
+gdc,nm2b.0,111194,111276,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,111194,111276,_Stage,_Stage,Frau,NN,frau,27693,,(9
+gdc,nm2b.0,111194,111276,_Stage,_Stage,Zanckenheimin,NE,zanckenheimin,27693,,9)
+gdc,nm2b.0,111194,111276,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,111194,111276,_Stage,_Stage,der,ART,der,27693,,
+gdc,nm2b.0,111194,111276,_Stage,_Stage,Bücher-Krämer,NN,bücher-krämer,27693,,
+gdc,nm2b.0,111194,111276,_Stage,_Stage,Jacob,NE,jacob,27693,,(13)
+gdc,nm2b.0,111194,111276,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,111442,111448,Frau Glaubeleichtin,frau_glaubeleichtin,liest,VVFIN,lesen,27693,,
+gdc,nm2b.0,111442,111448,Frau Glaubeleichtin,frau_glaubeleichtin,.,$.,--,27693,,
+gdc,nm2b.0,111925,111931,Frau Seuffzerin,frau_seuffzerin,liest,VVFIN,lesen,27693,,
+gdc,nm2b.0,111925,111931,Frau Seuffzerin,frau_seuffzerin,.,$.,--,27693,,
+gdc,nm2b.0,112258,112264,Frau Zanckenheimin,frau_zanckenheimin,liest,VVFIN,lesen,27693,,
+gdc,nm2b.0,112258,112264,Frau Zanckenheimin,frau_zanckenheimin,.,$.,--,27693,,
+gdc,nm2b.0,114016,114022,Frau Glaubeleichtin,frau_glaubeleichtin,liest,VVFIN,lesen,27693,,
+gdc,nm2b.0,114016,114022,Frau Glaubeleichtin,frau_glaubeleichtin,.,$.,--,27693,,
+gdc,nm2b.0,122918,122926,Jacob,jacob,Geht,VVFIN,gehen,27693,,
+gdc,nm2b.0,122918,122926,Jacob,jacob,ab,PTKVZ,ab,27693,,
+gdc,nm2b.0,122918,122926,Jacob,jacob,.,$.,--,27693,,
+gdc,nm2b.0,123178,123251,_Stage,_Stage,Frau,NN,frau,27693,,(2
+gdc,nm2b.0,123178,123251,_Stage,_Stage,Glaubeleichtin,NE,glaubeleichtin,27693,,2)
+gdc,nm2b.0,123178,123251,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,123178,123251,_Stage,_Stage,Frau,NN,frau,27693,,(10
+gdc,nm2b.0,123178,123251,_Stage,_Stage,Seuffzerin,NN,seuffzerin,27693,,10)
+gdc,nm2b.0,123178,123251,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,123178,123251,_Stage,_Stage,Frau,NN,frau,27693,,
+gdc,nm2b.0,123178,123251,_Stage,_Stage,Zanckenhemin,NE,zanckenhemin,27693,,
+gdc,nm2b.0,123178,123251,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,123178,123251,_Stage,_Stage,Herr,NN,herr,27693,,(4
+gdc,nm2b.0,123178,123251,_Stage,_Stage,Wackermann,NE,wackermann,27693,,4)
+gdc,nm2b.0,123178,123251,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,123580,123594,Frau Glaubeleichtin,frau_glaubeleichtin,zu,APPR,zu,27693,,
+gdc,nm2b.0,123580,123594,Frau Glaubeleichtin,frau_glaubeleichtin,den,ART,der,27693,,
+gdc,nm2b.0,123580,123594,Frau Glaubeleichtin,frau_glaubeleichtin,andern,PIS,anderer,27693,,
+gdc,nm2b.0,123580,123594,Frau Glaubeleichtin,frau_glaubeleichtin,.,$.,--,27693,,
+gdc,nm2b.0,128205,128242,_Stage,_Stage,Frau,NN,frau,27693,,(2
+gdc,nm2b.0,128205,128242,_Stage,_Stage,Glaubeleichtin,NE,glaubeleichtin,27693,,2)
+gdc,nm2b.0,128205,128242,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,128205,128242,_Stage,_Stage,Herr,NN,herr,27693,,(4
+gdc,nm2b.0,128205,128242,_Stage,_Stage,Wackermann,NE,wackermann,27693,,4)
+gdc,nm2b.0,128205,128242,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,132077,132089,Frau Glaubeleichtin,frau_glaubeleichtin,Sie,PPER,sie,27693,,
+gdc,nm2b.0,132077,132089,Frau Glaubeleichtin,frau_glaubeleichtin,geht,VVFIN,gehen,27693,,
+gdc,nm2b.0,132077,132089,Frau Glaubeleichtin,frau_glaubeleichtin,ab,PTKVZ,ab,27693,,
+gdc,nm2b.0,132077,132089,Frau Glaubeleichtin,frau_glaubeleichtin,.,$.,--,27693,,
+gdc,nm2b.0,132646,132673,_Stage,_Stage,Jungfer,ADJA,jungfer,27693,,(0
+gdc,nm2b.0,132646,132673,_Stage,_Stage,Luischen,NN,luischen,27693,,0)
+gdc,nm2b.0,132646,132673,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,132646,132673,_Stage,_Stage,Cathrine,NE,cathrine,27693,,(1)
+gdc,nm2b.0,132646,132673,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,134239,134302,_Stage,_Stage,Herr,NN,herr,27693,,(4
+gdc,nm2b.0,134239,134302,_Stage,_Stage,Wackermann,NE,wackermann,27693,,4)
+gdc,nm2b.0,134239,134302,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,134239,134302,_Stage,_Stage,Herr,NN,herr,27693,,(14
+gdc,nm2b.0,134239,134302,_Stage,_Stage,Glaubeleicht,NN,glaubeleicht,27693,,14)
+gdc,nm2b.0,134239,134302,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,134239,134302,_Stage,_Stage,Jungfer,NN,jungfer,27693,,(0
+gdc,nm2b.0,134239,134302,_Stage,_Stage,Luischen,NE,luischen,27693,,0)
+gdc,nm2b.0,134239,134302,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,134239,134302,_Stage,_Stage,Cathrine,NE,cathrine,27693,,(1)
+gdc,nm2b.0,134239,134302,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,134321,134340,Jungfer Luischen,jungfer_luischen,umarmt,APPR,umarmen,27693,,
+gdc,nm2b.0,134321,134340,Jungfer Luischen,jungfer_luischen,ihren,PPOSAT,ihr,27693,,
+gdc,nm2b.0,134321,134340,Jungfer Luischen,jungfer_luischen,Vater,NN,vater,27693,,
+gdc,nm2b.0,134321,134340,Jungfer Luischen,jungfer_luischen,.,$.,--,27693,,
+gdc,nm2b.0,135103,135138,_Stage,_Stage,Herr,NN,herr,27693,,(14
+gdc,nm2b.0,135103,135138,_Stage,_Stage,Glaubeleicht,NN,glaubeleicht,27693,,14)
+gdc,nm2b.0,135103,135138,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,135103,135138,_Stage,_Stage,Herr,NN,herr,27693,,(4
+gdc,nm2b.0,135103,135138,_Stage,_Stage,Wackermann,NE,wackermann,27693,,4)
+gdc,nm2b.0,135103,135138,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,137560,137618,_Stage,_Stage,Herr,NN,herr,27693,,
+gdc,nm2b.0,137560,137618,_Stage,_Stage,Mag,VMFIN,mögen,27693,,
+gdc,nm2b.0,137560,137618,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,137560,137618,_Stage,_Stage,Scheinfromm,NN,scheinfromm,27693,,
+gdc,nm2b.0,137560,137618,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,137560,137618,_Stage,_Stage,Herr,NN,herr,27693,,(8
+gdc,nm2b.0,137560,137618,_Stage,_Stage,von,APPR,von,27693,,
+gdc,nm2b.0,137560,137618,_Stage,_Stage,Muckersdorff,NE,muckersdorff,27693,,8)
+gdc,nm2b.0,137560,137618,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,137560,137618,_Stage,_Stage,ein,ART,ein,27693,,
+gdc,nm2b.0,137560,137618,_Stage,_Stage,Advocat,NN,advocat,27693,,
+gdc,nm2b.0,137560,137618,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,137809,137825,Herr Scheinfromm,herr_scheinfromm,liest,VVFIN,lesen,27693,,
+gdc,nm2b.0,137809,137825,Herr Scheinfromm,herr_scheinfromm,ihn,PPER,ihn,27693,,
+gdc,nm2b.0,137809,137825,Herr Scheinfromm,herr_scheinfromm,durch,PTKVZ,durch,27693,,
+gdc,nm2b.0,137809,137825,Herr Scheinfromm,herr_scheinfromm,.,$.,--,27693,,
+gdc,nm2b.0,138551,138560,Der Advocat,der_advocat,Beyseits,ADV,beyseits,27693,,
+gdc,nm2b.0,138551,138560,Der Advocat,der_advocat,.,$.,--,27693,,
+gdc,nm2b.0,139814,139889,_Stage,_Stage,Herr,NN,herr,27693,,(4
+gdc,nm2b.0,139814,139889,_Stage,_Stage,Wackermann,NE,wackermann,27693,,4)
+gdc,nm2b.0,139814,139889,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,139814,139889,_Stage,_Stage,Herr,NN,herr,27693,,
+gdc,nm2b.0,139814,139889,_Stage,_Stage,Mag,NN,mögen,27693,,
+gdc,nm2b.0,139814,139889,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,139814,139889,_Stage,_Stage,Scheinfromm,NN,scheinfromm,27693,,
+gdc,nm2b.0,139814,139889,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,139814,139889,_Stage,_Stage,Herr,NN,herr,27693,,(8
+gdc,nm2b.0,139814,139889,_Stage,_Stage,von,APPR,von,27693,,
+gdc,nm2b.0,139814,139889,_Stage,_Stage,Muckersdorff,NE,muckersdorff,27693,,8)
+gdc,nm2b.0,139814,139889,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,139814,139889,_Stage,_Stage,der,ART,der,27693,,(15
+gdc,nm2b.0,139814,139889,_Stage,_Stage,Advocat,NN,advocat,27693,,15)
+gdc,nm2b.0,139814,139889,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,143302,143403,_Stage,_Stage,Frau,NN,frau,27693,,(2
+gdc,nm2b.0,143302,143403,_Stage,_Stage,Glaubeleichtin,NE,glaubeleichtin,27693,,2)
+gdc,nm2b.0,143302,143403,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,143302,143403,_Stage,_Stage,Herr,NN,herr,27693,,(4
+gdc,nm2b.0,143302,143403,_Stage,_Stage,Wackermann,NE,wackermann,27693,,4)
+gdc,nm2b.0,143302,143403,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,143302,143403,_Stage,_Stage,Herr,NN,herr,27693,,(6
+gdc,nm2b.0,143302,143403,_Stage,_Stage,Scheinfromm,NE,scheinfromm,27693,,6)
+gdc,nm2b.0,143302,143403,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,143302,143403,_Stage,_Stage,Herr,NN,herr,27693,,(8
+gdc,nm2b.0,143302,143403,_Stage,_Stage,von,APPR,von,27693,,
+gdc,nm2b.0,143302,143403,_Stage,_Stage,Muckersdorff,NE,muckersdorff,27693,,8)
+gdc,nm2b.0,143302,143403,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,143302,143403,_Stage,_Stage,Cathrine,NE,cathrine,27693,,(1)
+gdc,nm2b.0,143302,143403,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,143302,143403,_Stage,_Stage,der,ART,der,27693,,(15
+gdc,nm2b.0,143302,143403,_Stage,_Stage,Advocat,NN,advocat,27693,,15)
+gdc,nm2b.0,143302,143403,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,143425,143441,Frau Glaubeleichtin,frau_glaubeleichtin,zum,APPRART,zu,27693,,
+gdc,nm2b.0,143425,143441,Frau Glaubeleichtin,frau_glaubeleichtin,Scheinfromm,NN,scheinfromm,27693,,
+gdc,nm2b.0,143425,143441,Frau Glaubeleichtin,frau_glaubeleichtin,.,$.,--,27693,,
+gdc,nm2b.0,143741,143863,_Stage,_Stage,Frau,NN,frau,27693,,(2
+gdc,nm2b.0,143741,143863,_Stage,_Stage,Glaubeleichtin,NE,glaubeleichtin,27693,,2)
+gdc,nm2b.0,143741,143863,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,143741,143863,_Stage,_Stage,Jungfer,ADJA,jungfer,27693,,(0
+gdc,nm2b.0,143741,143863,_Stage,_Stage,Luischen,NN,luischen,27693,,0)
+gdc,nm2b.0,143741,143863,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,143741,143863,_Stage,_Stage,Herr,NN,herr,27693,,(4
+gdc,nm2b.0,143741,143863,_Stage,_Stage,Wackermann,NE,wackermann,27693,,4)
+gdc,nm2b.0,143741,143863,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,143741,143863,_Stage,_Stage,Herr,NN,herr,27693,,(6
+gdc,nm2b.0,143741,143863,_Stage,_Stage,Scheinfromm,NE,scheinfromm,27693,,6)
+gdc,nm2b.0,143741,143863,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,143741,143863,_Stage,_Stage,Herr,NN,herr,27693,,(8
+gdc,nm2b.0,143741,143863,_Stage,_Stage,von,APPR,von,27693,,
+gdc,nm2b.0,143741,143863,_Stage,_Stage,Muckersdorff,NE,muckersdorff,27693,,8)
+gdc,nm2b.0,143741,143863,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,143741,143863,_Stage,_Stage,Cathrine,NE,cathrine,27693,,(1)
+gdc,nm2b.0,143741,143863,_Stage,_Stage,und,KON,und,27693,,
+gdc,nm2b.0,143741,143863,_Stage,_Stage,der,ART,der,27693,,(15
+gdc,nm2b.0,143741,143863,_Stage,_Stage,Advocat,NN,advocat,27693,,15)
+gdc,nm2b.0,143741,143863,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,144587,144596,Herr Wackermann,herr_wackermann,Er,PPER,er,27693,,
+gdc,nm2b.0,144587,144596,Herr Wackermann,herr_wackermann,liest,VVFIN,lesen,27693,,
+gdc,nm2b.0,144587,144596,Herr Wackermann,herr_wackermann,.,$.,--,27693,,
+gdc,nm2b.0,144721,144767,Herr Wackermann,herr_wackermann,Er,PPER,er,27693,,
+gdc,nm2b.0,144721,144767,Herr Wackermann,herr_wackermann,sieht,VVFIN,sehen,27693,,
+gdc,nm2b.0,144721,144767,Herr Wackermann,herr_wackermann,",","$,",--,27693,,
+gdc,nm2b.0,144721,144767,Herr Wackermann,herr_wackermann,daß,KOUS,daß,27693,,
+gdc,nm2b.0,144721,144767,Herr Wackermann,herr_wackermann,die,ART,der,27693,,
+gdc,nm2b.0,144721,144767,Herr Wackermann,herr_wackermann,Jungfer,NN,jungfer,27693,,
+gdc,nm2b.0,144721,144767,Herr Wackermann,herr_wackermann,und,KON,und,27693,,
+gdc,nm2b.0,144721,144767,Herr Wackermann,herr_wackermann,die,ART,der,27693,,
+gdc,nm2b.0,144721,144767,Herr Wackermann,herr_wackermann,Magd,NN,magd,27693,,
+gdc,nm2b.0,144721,144767,Herr Wackermann,herr_wackermann,lachen,VVINF,lachen,27693,,
+gdc,nm2b.0,144721,144767,Herr Wackermann,herr_wackermann,.,$.,--,27693,,
+gdc,nm2b.0,144859,144878,Herr Wackermann,herr_wackermann,Er,PPER,er,27693,,
+gdc,nm2b.0,144859,144878,Herr Wackermann,herr_wackermann,liest,VVFIN,lesen,27693,,
+gdc,nm2b.0,144859,144878,Herr Wackermann,herr_wackermann,die,ART,der,27693,,
+gdc,nm2b.0,144859,144878,Herr Wackermann,herr_wackermann,Verse,NN,vers,27693,,
+gdc,nm2b.0,144859,144878,Herr Wackermann,herr_wackermann,.,$.,--,27693,,
+gdc,nm2b.0,145021,145060,Herr Wackermann,herr_wackermann,Jungfer,NN,jungfer,27693,,(0
+gdc,nm2b.0,145021,145060,Herr Wackermann,herr_wackermann,Luischen,NE,luischen,27693,,0)
+gdc,nm2b.0,145021,145060,Herr Wackermann,herr_wackermann,macht,VVFIN,machen,27693,,
+gdc,nm2b.0,145021,145060,Herr Wackermann,herr_wackermann,einen,ART,ein,27693,,
+gdc,nm2b.0,145021,145060,Herr Wackermann,herr_wackermann,Reverentz,NN,reverentz,27693,,
+gdc,nm2b.0,145021,145060,Herr Wackermann,herr_wackermann,.,$.,--,27693,,
+gdc,nm2b.0,145062,145071,Herr Wackermann,herr_wackermann,Er,PPER,er,27693,,
+gdc,nm2b.0,145062,145071,Herr Wackermann,herr_wackermann,liest,VVFIN,lesen,27693,,
+gdc,nm2b.0,145062,145071,Herr Wackermann,herr_wackermann,.,$.,--,27693,,
+gdc,nm2b.0,145363,145402,Cathrine,cathrine,Jungfer,NN,jungfer,27693,,(0
+gdc,nm2b.0,145363,145402,Cathrine,cathrine,Luischen,NE,luischen,27693,,0)
+gdc,nm2b.0,145363,145402,Cathrine,cathrine,macht,VVFIN,machen,27693,,
+gdc,nm2b.0,145363,145402,Cathrine,cathrine,einen,ART,ein,27693,,
+gdc,nm2b.0,145363,145402,Cathrine,cathrine,Reverentz,NN,reverentz,27693,,
+gdc,nm2b.0,145363,145402,Cathrine,cathrine,.,$.,--,27693,,
+gdc,nm2b.0,148481,148505,Herr Wackermann,herr_wackermann,reisst,VVFIN,reissen,27693,,
+gdc,nm2b.0,148481,148505,Herr Wackermann,herr_wackermann,die,ART,der,27693,,
+gdc,nm2b.0,148481,148505,Herr Wackermann,herr_wackermann,Schrifft,NN,schrifft,27693,,
+gdc,nm2b.0,148481,148505,Herr Wackermann,herr_wackermann,weg,PTKVZ,weg,27693,,
+gdc,nm2b.0,148481,148505,Herr Wackermann,herr_wackermann,.,$.,--,27693,,
+gdc,nm2b.0,150263,150288,Herr Wackermann,herr_wackermann,hält,VVFIN,halten,27693,,
+gdc,nm2b.0,150263,150288,Herr Wackermann,herr_wackermann,Scheinfromm,NN,scheinfromm,27693,,
+gdc,nm2b.0,150263,150288,Herr Wackermann,herr_wackermann,zurücke,VVFIN,zurücken,27693,,
+gdc,nm2b.0,150263,150288,Herr Wackermann,herr_wackermann,.,$.,--,27693,,
+gdc,nm2b.0,150835,150841,Frau Glaubeleichtin,frau_glaubeleichtin,liest,VVFIN,lesen,27693,,
+gdc,nm2b.0,150835,150841,Frau Glaubeleichtin,frau_glaubeleichtin,.,$.,--,27693,,
+gdc,nm2b.0,154033,154070,_Stage,_Stage,Frau,NN,frau,27693,,
+gdc,nm2b.0,154033,154070,_Stage,_Stage,Glauheleichtin,NE,glauheleichtin,27693,,
+gdc,nm2b.0,154033,154070,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,154033,154070,_Stage,_Stage,Herr,NN,herr,27693,,(4
+gdc,nm2b.0,154033,154070,_Stage,_Stage,Wackermann,NE,wackermann,27693,,4)
+gdc,nm2b.0,154033,154070,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,157174,157294,_Stage,_Stage,Herr,NN,herr,27693,,(14
+gdc,nm2b.0,157174,157294,_Stage,_Stage,Glaubeleicht,NN,glaubeleicht,27693,,14)
+gdc,nm2b.0,157174,157294,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,157174,157294,_Stage,_Stage,Frau,NN,frau,27693,,(2
+gdc,nm2b.0,157174,157294,_Stage,_Stage,Glaubeleichtin,NE,glaubeleichtin,27693,,2)
+gdc,nm2b.0,157174,157294,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,157174,157294,_Stage,_Stage,Jungfer,ADJA,jungfer,27693,,(0
+gdc,nm2b.0,157174,157294,_Stage,_Stage,Luischen,NN,luischen,27693,,0)
+gdc,nm2b.0,157174,157294,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,157174,157294,_Stage,_Stage,Jungfer,NN,jungfer,27693,,(3
+gdc,nm2b.0,157174,157294,_Stage,_Stage,Dorchen,NE,dorchen,27693,,3)
+gdc,nm2b.0,157174,157294,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,157174,157294,_Stage,_Stage,Herr,NN,herr,27693,,(4
+gdc,nm2b.0,157174,157294,_Stage,_Stage,Wackermann,NE,wackermann,27693,,4)
+gdc,nm2b.0,157174,157294,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,157174,157294,_Stage,_Stage,Cathrine,NE,cathrine,27693,,(1)
+gdc,nm2b.0,157174,157294,_Stage,_Stage,",","$,",--,27693,,
+gdc,nm2b.0,157174,157294,_Stage,_Stage,und,KON,und,27693,,
+gdc,nm2b.0,157174,157294,_Stage,_Stage,Herr,NN,herr,27693,,(5
+gdc,nm2b.0,157174,157294,_Stage,_Stage,Liebmann,NE,liebmann,27693,,5)
+gdc,nm2b.0,157174,157294,_Stage,_Stage,.,$.,--,27693,,
+gdc,nm2b.0,157316,157335,Frau Glaubeleichtin,frau_glaubeleichtin,umarmet,VVFIN,umarmen,27693,,
+gdc,nm2b.0,157316,157335,Frau Glaubeleichtin,frau_glaubeleichtin,ihren,PPOSAT,ihr,27693,,
+gdc,nm2b.0,157316,157335,Frau Glaubeleichtin,frau_glaubeleichtin,Mann,NN,mann,27693,,
+gdc,nm2b.0,157316,157335,Frau Glaubeleichtin,frau_glaubeleichtin,.,$.,--,27693,,

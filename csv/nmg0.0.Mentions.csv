@@ -1,0 +1,1406 @@
+corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+gdc,nmg0.0,443,488,_stage,443,451,Don Juan,don_juan
+gdc,nmg0.0,443,488,_stage,478,487,Leporello,leporello
+gdc,nmg0.0,490,980,don_juan,829,833,mich,don_juan
+gdc,nmg0.0,1159,1219,don_juan,1176,1185,Leporello,leporello
+gdc,nmg0.0,1391,1439,leporello,1408,1411,ich,leporello
+gdc,nmg0.0,1391,1439,leporello,1427,1430,Ich,leporello
+gdc,nmg0.0,1581,1651,don_juan,1619,1622,ich,don_juan
+gdc,nmg0.0,1581,1651,don_juan,1627,1631,Mich,don_juan
+gdc,nmg0.0,1735,1854,don_juan,1832,1838,meinem,don_juan
+gdc,nmg0.0,1920,1969,don_juan,1951,1954,ich,don_juan
+gdc,nmg0.0,2093,2256,leporello,2112,2126,der Gouverneur,der_gouverneur
+gdc,nmg0.0,2492,2631,don_juan,2614,2617,ich,don_juan
+gdc,nmg0.0,2694,2834,don_juan,2727,2730,Ich,don_juan
+gdc,nmg0.0,2694,2834,don_juan,2738,2742,mich,don_juan
+gdc,nmg0.0,2840,3040,leporello,2910,2921,Don Octavio,don_octavio
+gdc,nmg0.0,3046,3331,don_juan,3305,3308,mir,don_juan
+gdc,nmg0.0,3337,3513,leporello,3365,3368,mir,leporello
+gdc,nmg0.0,3337,3513,leporello,3402,3406,Mein,leporello
+gdc,nmg0.0,3337,3513,leporello,3462,3466,mich,leporello
+gdc,nmg0.0,3519,3719,don_juan,3558,3561,mir,don_juan
+gdc,nmg0.0,3519,3719,don_juan,3572,3575,ich,don_juan
+gdc,nmg0.0,3725,3882,leporello,3747,3750,Ich,leporello
+gdc,nmg0.0,3725,3882,leporello,3767,3771,mich,leporello
+gdc,nmg0.0,3725,3882,leporello,3810,3814,mein,leporello
+gdc,nmg0.0,3888,4060,don_juan,3903,3907,Mich,don_juan
+gdc,nmg0.0,4064,4125,leporello,4111,4114,ich,leporello
+gdc,nmg0.0,4131,4264,don_juan,4175,4178,Ich,don_juan
+gdc,nmg0.0,4131,4264,don_juan,4212,4215,ich,don_juan
+gdc,nmg0.0,4131,4264,don_juan,4223,4226,Ich,don_juan
+gdc,nmg0.0,4270,4450,leporello,4295,4298,ich,leporello
+gdc,nmg0.0,4270,4450,leporello,4434,4437,ich,leporello
+gdc,nmg0.0,4270,4450,leporello,4438,4442,mich,leporello
+gdc,nmg0.0,4456,4832,don_juan,4493,4502,Leporello,leporello
+gdc,nmg0.0,4456,4832,don_juan,4771,4774,mir,don_juan
+gdc,nmg0.0,4456,4832,don_juan,4811,4814,ich,don_juan
+gdc,nmg0.0,4838,4906,leporello,4860,4864,Mein,leporello
+gdc,nmg0.0,4838,4906,leporello,4870,4873,Ich,leporello
+gdc,nmg0.0,4964,5014,_stage,4964,4973,Leporello,leporello
+gdc,nmg0.0,5018,5080,der_gouverneur,5063,5066,mir,der_gouverneur
+gdc,nmg0.0,5018,5080,der_gouverneur,5068,5079,Don Octavio,don_octavio
+gdc,nmg0.0,5085,5150,don_octavio,5129,5132,ich,don_octavio
+gdc,nmg0.0,5492,5660,_stage,5607,5617,Donna Anna,donna_anna
+gdc,nmg0.0,5673,5697,_stage,5686,5696,Donna Anna,donna_anna
+gdc,nmg0.0,5664,6006,don_juan,5874,5877,ich,don_juan
+gdc,nmg0.0,5664,6006,don_juan,5936,5939,ich,don_juan
+gdc,nmg0.0,5954,6006,_stage,5954,5964,Donna Anna,donna_anna
+gdc,nmg0.0,6010,6238,don_juan,6047,6051,mich,don_juan
+gdc,nmg0.0,6010,6238,don_juan,6064,6067,Ich,don_juan
+gdc,nmg0.0,6010,6238,don_juan,6093,6096,ich,don_juan
+gdc,nmg0.0,6161,6238,_stage,6161,6175,Der Gouverneur,der_gouverneur
+gdc,nmg0.0,6161,6238,_stage,6177,6188,Don Octavio,don_octavio
+gdc,nmg0.0,6242,6350,der_gouverneur,6270,6276,meiner,der_gouverneur
+gdc,nmg0.0,6356,6432,don_octavio,6370,6373,Ich,don_octavio
+gdc,nmg0.0,6438,6726,der_gouverneur,6455,6458,Ich,der_gouverneur
+gdc,nmg0.0,6438,6726,der_gouverneur,6520,6523,ich,der_gouverneur
+gdc,nmg0.0,6438,6726,der_gouverneur,6564,6567,ich,der_gouverneur
+gdc,nmg0.0,6438,6726,der_gouverneur,6615,6620,meine,der_gouverneur
+gdc,nmg0.0,6438,6726,der_gouverneur,6660,6663,ich,der_gouverneur
+gdc,nmg0.0,6732,6831,don_octavio,6818,6824,meiner,don_octavio
+gdc,nmg0.0,6837,6983,der_gouverneur,6890,6894,mein,der_gouverneur
+gdc,nmg0.0,6837,6983,der_gouverneur,6951,6955,Mich,der_gouverneur
+gdc,nmg0.0,7092,7164,don_juan,7135,7138,Ich,don_juan
+gdc,nmg0.0,7210,7268,don_juan,7221,7224,Ich,don_juan
+gdc,nmg0.0,7210,7268,don_juan,7259,7267,Don Juan,don_juan
+gdc,nmg0.0,7274,7361,der_gouverneur,7295,7303,Don Juan,don_juan
+gdc,nmg0.0,7401,7483,der_gouverneur,7423,7426,mir,der_gouverneur
+gdc,nmg0.0,7401,7483,der_gouverneur,7471,7475,mein,der_gouverneur
+gdc,nmg0.0,7489,8246,don_juan,7506,7509,ich,don_juan
+gdc,nmg0.0,7489,8246,don_juan,7571,7574,ich,don_juan
+gdc,nmg0.0,7489,8246,don_juan,7624,7627,ich,don_juan
+gdc,nmg0.0,7489,8246,don_juan,7642,7647,meine,don_juan
+gdc,nmg0.0,7489,8246,don_juan,7721,7724,ich,don_juan
+gdc,nmg0.0,7489,8246,don_juan,7953,7957,mein,don_juan
+gdc,nmg0.0,8252,8425,don_octavio,8313,8316,Ich,don_octavio
+gdc,nmg0.0,8431,8812,don_juan,8545,8548,Mir,don_juan
+gdc,nmg0.0,8431,8812,don_juan,8625,8628,ich,don_juan
+gdc,nmg0.0,8881,8938,don_juan,8891,8894,Ich,don_juan
+gdc,nmg0.0,8943,9186,der_gouverneur,9148,9151,ich,der_gouverneur
+gdc,nmg0.0,8943,9186,der_gouverneur,9164,9170,meiner,der_gouverneur
+gdc,nmg0.0,9541,9584,der_gouverneur,9578,9583,Faust,faust
+gdc,nmg0.0,9589,9824,don_juan,9794,9798,Mein,don_juan
+gdc,nmg0.0,9830,10393,der_gouverneur,9847,9850,Ich,der_gouverneur
+gdc,nmg0.0,9830,10393,der_gouverneur,10124,10129,Meine,der_gouverneur
+gdc,nmg0.0,9830,10393,der_gouverneur,10172,10177,Faust,faust
+gdc,nmg0.0,9830,10393,der_gouverneur,10247,10257,Donna Anna,donna_anna
+gdc,nmg0.0,10399,10840,don_juan,10442,10447,meine,don_juan
+gdc,nmg0.0,10946,10958,_stage,10949,10957,Don Juan,don_juan
+gdc,nmg0.0,10988,11186,don_juan,11048,11053,meine,don_juan
+gdc,nmg0.0,10988,11186,don_juan,11064,11067,Ich,don_juan
+gdc,nmg0.0,10988,11186,don_juan,11091,11094,ich,don_juan
+gdc,nmg0.0,11192,11359,der_gouverneur,11218,11221,ich,der_gouverneur
+gdc,nmg0.0,11192,11359,der_gouverneur,11273,11284,Don Octavio,don_octavio
+gdc,nmg0.0,11192,11359,der_gouverneur,11290,11296,meiner,der_gouverneur
+gdc,nmg0.0,11365,11398,don_juan,11391,11394,ich,don_juan
+gdc,nmg0.0,11445,11503,don_juan,11455,11458,Ich,don_juan
+gdc,nmg0.0,11445,11503,don_juan,11490,11496,meiner,don_juan
+gdc,nmg0.0,11594,11624,_stage,11594,11608,Der Gouverneur,der_gouverneur
+gdc,nmg0.0,11628,12560,don_juan,11745,11748,mir,don_juan
+gdc,nmg0.0,11628,12560,don_juan,11849,11853,Mich,don_juan
+gdc,nmg0.0,11628,12560,don_juan,11872,11875,ich,don_juan
+gdc,nmg0.0,11628,12560,don_juan,11880,11885,Faust,faust
+gdc,nmg0.0,11628,12560,don_juan,12143,12146,Ich,don_juan
+gdc,nmg0.0,11628,12560,don_juan,12157,12160,mir,don_juan
+gdc,nmg0.0,11628,12560,don_juan,12180,12194,Der Gouverneur,der_gouverneur
+gdc,nmg0.0,11628,12560,don_juan,12252,12256,mein,don_juan
+gdc,nmg0.0,11628,12560,don_juan,12539,12548,Leporello,leporello
+gdc,nmg0.0,11628,12560,don_juan,12550,12559,Leporello,leporello
+gdc,nmg0.0,12566,12920,leporello,12584,12588,Mein,leporello
+gdc,nmg0.0,12566,12920,leporello,12594,12598,mein,leporello
+gdc,nmg0.0,12566,12920,leporello,12817,12820,ich,leporello
+gdc,nmg0.0,12566,12920,leporello,12871,12876,meine,leporello
+gdc,nmg0.0,12926,13068,don_juan,12937,12940,Ich,don_juan
+gdc,nmg0.0,13074,13151,leporello,13108,13111,Ich,leporello
+gdc,nmg0.0,13157,13487,don_juan,13207,13211,mein,don_juan
+gdc,nmg0.0,13679,13861,leporello,13841,13844,mir,leporello
+gdc,nmg0.0,13679,13861,leporello,13846,13849,mir,leporello
+gdc,nmg0.0,13867,14211,don_juan,13896,13900,mich,don_juan
+gdc,nmg0.0,13867,14211,don_juan,13960,13963,ich,don_juan
+gdc,nmg0.0,13867,14211,don_juan,13992,13995,ich,don_juan
+gdc,nmg0.0,14406,14521,don_juan,14471,14481,Donna Anna,donna_anna
+gdc,nmg0.0,14527,14577,leporello,14549,14552,Ich,leporello
+gdc,nmg0.0,14583,14834,don_juan,14638,14641,ich,don_juan
+gdc,nmg0.0,14840,15002,leporello,14875,14878,Ich,leporello
+gdc,nmg0.0,15051,15440,leporello,15367,15371,mich,leporello
+gdc,nmg0.0,15051,15440,leporello,15399,15402,Ich,leporello
+gdc,nmg0.0,15483,15936,leporello,15512,15515,ich,leporello
+gdc,nmg0.0,15483,15936,leporello,15703,15706,mir,leporello
+gdc,nmg0.0,15483,15936,leporello,15712,15716,mein,leporello
+gdc,nmg0.0,15483,15936,leporello,15731,15735,mein,leporello
+gdc,nmg0.0,15483,15936,leporello,15760,15763,mir,leporello
+gdc,nmg0.0,15483,15936,leporello,15779,15787,Don Juan,don_juan
+gdc,nmg0.0,15483,15936,leporello,15874,15877,mir,leporello
+gdc,nmg0.0,15984,16684,leporello,16020,16023,ich,leporello
+gdc,nmg0.0,15984,16684,leporello,16434,16437,ich,leporello
+gdc,nmg0.0,15984,16684,leporello,16470,16474,mich,leporello
+gdc,nmg0.0,15984,16684,leporello,16475,16480,meine,leporello
+gdc,nmg0.0,15984,16684,leporello,16488,16497,Leporello,leporello
+gdc,nmg0.0,15984,16684,leporello,16532,16539,Lisette,lisette
+gdc,nmg0.0,15984,16684,leporello,16611,16614,ich,leporello
+gdc,nmg0.0,15984,16684,leporello,16669,16673,mich,leporello
+gdc,nmg0.0,17174,17256,leporello,17232,17236,mich,leporello
+gdc,nmg0.0,17335,17592,leporello,17373,17376,ich,leporello
+gdc,nmg0.0,17748,17893,leporello,17779,17786,Lisette,lisette
+gdc,nmg0.0,17748,17893,leporello,17798,17802,mich,leporello
+gdc,nmg0.0,17748,17893,leporello,17839,17842,ich,leporello
+gdc,nmg0.0,17748,17893,leporello,17860,17863,ich,leporello
+gdc,nmg0.0,18051,18076,lisette,18065,18074,Leporello,leporello
+gdc,nmg0.0,18147,18200,leporello,18171,18174,Ich,leporello
+gdc,nmg0.0,18205,18421,lisette,18219,18228,Leporello,leporello
+gdc,nmg0.0,18205,18421,lisette,18287,18290,ich,lisette
+gdc,nmg0.0,18205,18421,lisette,18296,18299,ich,lisette
+gdc,nmg0.0,18205,18421,lisette,18340,18343,ich,lisette
+gdc,nmg0.0,18205,18421,lisette,18363,18367,mich,lisette
+gdc,nmg0.0,18205,18421,lisette,18392,18395,Ich,lisette
+gdc,nmg0.0,18426,18631,leporello,18480,18485,meine,leporello
+gdc,nmg0.0,18426,18631,leporello,18511,18519,Don Juan,don_juan
+gdc,nmg0.0,18426,18631,leporello,18593,18596,ich,leporello
+gdc,nmg0.0,18426,18631,leporello,18597,18600,mir,leporello
+gdc,nmg0.0,18636,18740,lisette,18672,18675,ich,lisette
+gdc,nmg0.0,18746,19130,leporello,18767,18770,Ich,leporello
+gdc,nmg0.0,18746,19130,leporello,18799,18804,meine,leporello
+gdc,nmg0.0,18746,19130,leporello,18970,18973,mir,leporello
+gdc,nmg0.0,18746,19130,leporello,19010,19014,mich,leporello
+gdc,nmg0.0,18746,19130,leporello,19021,19024,ich,leporello
+gdc,nmg0.0,18746,19130,leporello,19055,19058,ich,leporello
+gdc,nmg0.0,18746,19130,leporello,19066,19076,Donna Anna,donna_anna
+gdc,nmg0.0,18746,19130,leporello,19094,19097,Ich,leporello
+gdc,nmg0.0,19136,19196,lisette,19146,19156,Donna Anna,donna_anna
+gdc,nmg0.0,19272,19347,leporello,19293,19296,ich,leporello
+gdc,nmg0.0,19353,19405,lisette,19372,19376,mich,lisette
+gdc,nmg0.0,19410,19579,leporello,19464,19467,ich,leporello
+gdc,nmg0.0,19410,19579,leporello,19528,19532,mein,leporello
+gdc,nmg0.0,19585,19636,lisette,19631,19635,mein,lisette
+gdc,nmg0.0,19642,19701,don_juan,19691,19694,Ich,don_juan
+gdc,nmg0.0,19733,19929,don_juan,19869,19875,meiner,don_juan
+gdc,nmg0.0,19733,19929,don_juan,19900,19903,mir,don_juan
+gdc,nmg0.0,19935,20128,lisette,19951,19955,mein,lisette
+gdc,nmg0.0,19935,20128,lisette,19978,19982,mein,lisette
+gdc,nmg0.0,19935,20128,lisette,20003,20007,mich,lisette
+gdc,nmg0.0,19935,20128,lisette,20034,20037,ich,lisette
+gdc,nmg0.0,19935,20128,lisette,20094,20098,Mein,lisette
+gdc,nmg0.0,19935,20128,lisette,20119,20122,ich,lisette
+gdc,nmg0.0,20143,20156,_stage,20146,20155,Leporello,leporello
+gdc,nmg0.0,20134,20382,don_juan,20229,20232,mir,don_juan
+gdc,nmg0.0,20134,20382,don_juan,20284,20294,Donna Anna,donna_anna
+gdc,nmg0.0,20134,20382,don_juan,20328,20337,Leporello,leporello
+gdc,nmg0.0,20134,20382,don_juan,20378,20381,mir,don_juan
+gdc,nmg0.0,20423,20736,don_juan,20438,20442,mein,don_juan
+gdc,nmg0.0,20423,20736,don_juan,20593,20596,ich,don_juan
+gdc,nmg0.0,20423,20736,don_juan,20635,20638,ich,don_juan
+gdc,nmg0.0,20796,20943,don_juan,20870,20873,ich,don_juan
+gdc,nmg0.0,20947,21138,leporello,21019,21022,ich,leporello
+gdc,nmg0.0,20947,21138,leporello,21073,21076,ich,leporello
+gdc,nmg0.0,21159,21223,_stage,21182,21187,Faust,faust
+gdc,nmg0.0,21225,32705,faust,21314,21317,mir,faust
+gdc,nmg0.0,21225,32705,faust,21948,21951,ich,faust
+gdc,nmg0.0,21225,32705,faust,22003,22006,ich,faust
+gdc,nmg0.0,21225,32705,faust,22080,22083,ich,faust
+gdc,nmg0.0,21225,32705,faust,22276,22279,Ich,faust
+gdc,nmg0.0,21225,32705,faust,22336,22339,mir,faust
+gdc,nmg0.0,21225,32705,faust,22375,22378,ich,faust
+gdc,nmg0.0,21225,32705,faust,22435,22438,Mir,faust
+gdc,nmg0.0,21225,32705,faust,22514,22517,ich,faust
+gdc,nmg0.0,21225,32705,faust,22559,22562,mir,faust
+gdc,nmg0.0,21225,32705,faust,23110,23114,mich,faust
+gdc,nmg0.0,21225,32705,faust,23290,23294,mich,faust
+gdc,nmg0.0,21225,32705,faust,23344,23347,mir,faust
+gdc,nmg0.0,21225,32705,faust,23764,23767,ich,faust
+gdc,nmg0.0,21225,32705,faust,23849,23852,ich,faust
+gdc,nmg0.0,21225,32705,faust,23870,23874,mich,faust
+gdc,nmg0.0,21225,32705,faust,23927,23930,ich,faust
+gdc,nmg0.0,21225,32705,faust,23937,23940,ich,faust
+gdc,nmg0.0,21225,32705,faust,24026,24029,ich,faust
+gdc,nmg0.0,21225,32705,faust,24041,24045,mich,faust
+gdc,nmg0.0,21225,32705,faust,24220,24223,ich,faust
+gdc,nmg0.0,21225,32705,faust,24274,24277,mir,faust
+gdc,nmg0.0,21225,32705,faust,24382,24387,Faust,faust
+gdc,nmg0.0,21225,32705,faust,24392,24395,ich,faust
+gdc,nmg0.0,21225,32705,faust,24402,24405,ich,faust
+gdc,nmg0.0,21225,32705,faust,24498,24501,ich,faust
+gdc,nmg0.0,21225,32705,faust,25694,25700,meiner,faust
+gdc,nmg0.0,21225,32705,faust,25737,25743,meiner,faust
+gdc,nmg0.0,21225,32705,faust,26470,26473,mir,faust
+gdc,nmg0.0,21225,32705,faust,26483,26486,ich,faust
+gdc,nmg0.0,21225,32705,faust,26487,26493,meinen,faust
+gdc,nmg0.0,21225,32705,faust,26574,26577,ich,faust
+gdc,nmg0.0,21225,32705,faust,26716,26719,ich,faust
+gdc,nmg0.0,21225,32705,faust,26728,26732,mich,faust
+gdc,nmg0.0,21225,32705,faust,26761,26764,Ich,faust
+gdc,nmg0.0,21225,32705,faust,26782,26785,mir,faust
+gdc,nmg0.0,21225,32705,faust,26825,26829,mich,faust
+gdc,nmg0.0,21225,32705,faust,27342,27345,mir,faust
+gdc,nmg0.0,21225,32705,faust,28083,28091,Don Juan,don_juan
+gdc,nmg0.0,21225,32705,faust,28408,28411,Ich,faust
+gdc,nmg0.0,21225,32705,faust,28477,28480,Ich,faust
+gdc,nmg0.0,21225,32705,faust,28567,28570,Ich,faust
+gdc,nmg0.0,21225,32705,faust,28657,28661,mich,faust
+gdc,nmg0.0,21225,32705,faust,28673,28676,ich,faust
+gdc,nmg0.0,21225,32705,faust,28701,28704,Ich,faust
+gdc,nmg0.0,21225,32705,faust,28724,28727,ich,faust
+gdc,nmg0.0,21225,32705,faust,28792,28797,meine,faust
+gdc,nmg0.0,21225,32705,faust,28874,28878,Mein,faust
+gdc,nmg0.0,28924,28979,_stage,28955,28960,Faust,faust
+gdc,nmg0.0,21225,32705,faust,29003,29006,ich,faust
+gdc,nmg0.0,21225,32705,faust,29265,29268,ich,faust
+gdc,nmg0.0,21225,32705,faust,29508,29511,mir,faust
+gdc,nmg0.0,21225,32705,faust,29633,29636,ich,faust
+gdc,nmg0.0,21225,32705,faust,29637,29640,mir,faust
+gdc,nmg0.0,21225,32705,faust,29677,29680,mir,faust
+gdc,nmg0.0,29684,29863,_stage,29815,29820,Faust,faust
+gdc,nmg0.0,21225,32705,faust,29893,29896,ich,faust
+gdc,nmg0.0,21225,32705,faust,29983,29986,Ich,faust
+gdc,nmg0.0,21225,32705,faust,29988,29991,ich,faust
+gdc,nmg0.0,21225,32705,faust,30464,30468,mich,faust
+gdc,nmg0.0,21225,32705,faust,30555,30558,Ich,faust
+gdc,nmg0.0,21225,32705,faust,30794,30797,ich,faust
+gdc,nmg0.0,21225,32705,faust,30903,30907,mich,faust
+gdc,nmg0.0,21225,32705,faust,30979,30982,ich,faust
+gdc,nmg0.0,21225,32705,faust,30999,31002,Ich,faust
+gdc,nmg0.0,21225,32705,faust,31347,31350,ich,faust
+gdc,nmg0.0,21225,32705,faust,31387,31390,Mir,faust
+gdc,nmg0.0,21225,32705,faust,31538,31543,meine,faust
+gdc,nmg0.0,21225,32705,faust,31652,31657,meine,faust
+gdc,nmg0.0,21225,32705,faust,31865,31868,mir,faust
+gdc,nmg0.0,21225,32705,faust,31880,31883,Ich,faust
+gdc,nmg0.0,21225,32705,faust,31934,31938,mein,faust
+gdc,nmg0.0,21225,32705,faust,31945,31949,mich,faust
+gdc,nmg0.0,32023,32077,_stage,32060,32065,Faust,faust
+gdc,nmg0.0,21225,32705,faust,32083,32086,mir,faust
+gdc,nmg0.0,21225,32705,faust,32137,32140,mir,faust
+gdc,nmg0.0,21225,32705,faust,32207,32212,meine,faust
+gdc,nmg0.0,21225,32705,faust,32404,32407,ich,faust
+gdc,nmg0.0,21225,32705,faust,32466,32469,ich,faust
+gdc,nmg0.0,32827,32846,_stage,32831,32836,Faust,faust
+gdc,nmg0.0,32866,32987,faust,32926,32930,mich,faust
+gdc,nmg0.0,33070,33183,faust,33110,33114,mein,faust
+gdc,nmg0.0,33070,33183,faust,33130,33134,Mein,faust
+gdc,nmg0.0,33399,33506,der_ritter,33415,33418,ich,der_ritter
+gdc,nmg0.0,33399,33506,der_ritter,33442,33445,ich,der_ritter
+gdc,nmg0.0,33399,33506,der_ritter,33464,33468,mich,der_ritter
+gdc,nmg0.0,33571,33604,der_ritter,33598,33603,Faust,faust
+gdc,nmg0.0,33645,33887,der_ritter,33724,33729,meine,der_ritter
+gdc,nmg0.0,33645,33887,der_ritter,33852,33857,meine,der_ritter
+gdc,nmg0.0,33945,34954,der_ritter,34132,34135,Ich,der_ritter
+gdc,nmg0.0,33945,34954,der_ritter,34181,34184,ich,der_ritter
+gdc,nmg0.0,33945,34954,der_ritter,34789,34792,mir,der_ritter
+gdc,nmg0.0,34960,35014,faust,34999,35002,ich,faust
+gdc,nmg0.0,35019,35331,der_ritter,35094,35097,ich,der_ritter
+gdc,nmg0.0,35337,35429,faust,35387,35390,ich,faust
+gdc,nmg0.0,35543,36232,faust,35681,35685,mein,faust
+gdc,nmg0.0,35543,36232,faust,35704,35707,Ich,faust
+gdc,nmg0.0,35543,36232,faust,35741,35744,ich,faust
+gdc,nmg0.0,35543,36232,faust,35798,35801,ich,faust
+gdc,nmg0.0,35543,36232,faust,36004,36007,mir,faust
+gdc,nmg0.0,35543,36232,faust,36083,36086,ich,faust
+gdc,nmg0.0,35543,36232,faust,36097,36100,ich,faust
+gdc,nmg0.0,35543,36232,faust,36101,36105,mich,faust
+gdc,nmg0.0,35543,36232,faust,36120,36123,mir,faust
+gdc,nmg0.0,35543,36232,faust,36194,36197,ich,faust
+gdc,nmg0.0,36371,36525,der_ritter,36401,36404,ich,der_ritter
+gdc,nmg0.0,36789,36845,der_ritter,36817,36821,mein,der_ritter
+gdc,nmg0.0,36850,36922,faust,36900,36903,ich,faust
+gdc,nmg0.0,36850,36922,faust,36918,36921,mir,faust
+gdc,nmg0.0,36928,36986,der_ritter,36959,36962,Ich,der_ritter
+gdc,nmg0.0,37174,37601,der_ritter,37187,37191,Mein,der_ritter
+gdc,nmg0.0,37174,37601,der_ritter,37383,37391,Don Juan,don_juan
+gdc,nmg0.0,37607,38086,faust,37685,37688,mir,faust
+gdc,nmg0.0,37607,38086,faust,37704,37707,ich,faust
+gdc,nmg0.0,37607,38086,faust,37708,37712,mich,faust
+gdc,nmg0.0,37607,38086,faust,37836,37839,Ich,faust
+gdc,nmg0.0,37607,38086,faust,37877,37880,ich,faust
+gdc,nmg0.0,37607,38086,faust,38029,38034,Faust,faust
+gdc,nmg0.0,38092,38253,der_ritter,38173,38178,meine,der_ritter
+gdc,nmg0.0,38259,38373,faust,38301,38304,Ich,faust
+gdc,nmg0.0,38259,38373,faust,38338,38341,ich,faust
+gdc,nmg0.0,38379,38692,der_ritter,38525,38535,Donna Anna,donna_anna
+gdc,nmg0.0,38698,38892,faust,38713,38716,ich,faust
+gdc,nmg0.0,38698,38892,faust,38746,38749,ich,faust
+gdc,nmg0.0,38698,38892,faust,38774,38778,mich,faust
+gdc,nmg0.0,38698,38892,faust,38792,38795,ich,faust
+gdc,nmg0.0,38898,39018,der_ritter,38944,38954,Donna Anna,donna_anna
+gdc,nmg0.0,39329,39581,faust,39365,39371,meiner,faust
+gdc,nmg0.0,39329,39581,faust,39388,39392,mich,faust
+gdc,nmg0.0,39329,39581,faust,39495,39499,mein,faust
+gdc,nmg0.0,39329,39581,faust,39555,39559,mein,faust
+gdc,nmg0.0,39587,39729,der_ritter,39619,39622,ich,der_ritter
+gdc,nmg0.0,39735,39813,faust,39795,39798,mir,faust
+gdc,nmg0.0,39819,40327,der_ritter,39841,39844,Ich,der_ritter
+gdc,nmg0.0,39819,40327,der_ritter,40314,40317,mir,der_ritter
+gdc,nmg0.0,40333,40583,faust,40373,40376,ich,faust
+gdc,nmg0.0,40333,40583,faust,40423,40426,ich,faust
+gdc,nmg0.0,40333,40583,faust,40478,40481,ich,faust
+gdc,nmg0.0,40333,40583,faust,40499,40502,ich,faust
+gdc,nmg0.0,40333,40583,faust,40520,40524,mein,faust
+gdc,nmg0.0,40589,40902,der_ritter,40628,40632,mich,der_ritter
+gdc,nmg0.0,40589,40902,der_ritter,40643,40647,mein,der_ritter
+gdc,nmg0.0,40829,40851,_stage,40845,40850,Faust,faust
+gdc,nmg0.0,40852,40902,_stage,40852,40866,Der Gouverneur,der_gouverneur
+gdc,nmg0.0,40852,40902,_stage,40868,40879,Don Octavio,don_octavio
+gdc,nmg0.0,41068,41141,der_gouverneur,41085,41090,Faust,faust
+gdc,nmg0.0,41147,41202,don_octavio,41160,41163,Ich,don_octavio
+gdc,nmg0.0,41351,41555,don_octavio,41521,41524,ich,don_octavio
+gdc,nmg0.0,41620,41654,_stage,41620,41628,Don Juan,don_juan
+gdc,nmg0.0,41620,41654,_stage,41633,41642,Leporello,leporello
+gdc,nmg0.0,42260,42461,leporello,42443,42446,mir,leporello
+gdc,nmg0.0,42467,42819,don_juan,42770,42780,Donna Anna,donna_anna
+gdc,nmg0.0,42825,43051,leporello,42920,42927,Lisette,lisette
+gdc,nmg0.0,42825,43051,leporello,42934,42941,Lisette,lisette
+gdc,nmg0.0,42825,43051,leporello,42982,42985,ich,leporello
+gdc,nmg0.0,43393,43417,don_juan,43403,43406,Ich,don_juan
+gdc,nmg0.0,43422,43884,leporello,43768,43771,Mir,leporello
+gdc,nmg0.0,43890,43937,don_juan,43925,43930,meine,don_juan
+gdc,nmg0.0,44074,44167,_stage,44074,44083,Leporello,leporello
+gdc,nmg0.0,44074,44167,_stage,44099,44109,Donna Anna,donna_anna
+gdc,nmg0.0,44074,44167,_stage,44122,44130,Don Juan,don_juan
+gdc,nmg0.0,44171,45218,donna_anna,44285,44289,Mich,donna_anna
+gdc,nmg0.0,44171,45218,donna_anna,44316,44319,ich,donna_anna
+gdc,nmg0.0,44171,45218,donna_anna,44389,44393,mein,donna_anna
+gdc,nmg0.0,44171,45218,donna_anna,44456,44461,meine,donna_anna
+gdc,nmg0.0,44171,45218,donna_anna,44503,44506,ich,donna_anna
+gdc,nmg0.0,44171,45218,donna_anna,44517,44522,meine,donna_anna
+gdc,nmg0.0,44171,45218,donna_anna,44564,44567,ich,donna_anna
+gdc,nmg0.0,44171,45218,donna_anna,44668,44671,ich,donna_anna
+gdc,nmg0.0,44171,45218,donna_anna,44687,44691,mein,donna_anna
+gdc,nmg0.0,44171,45218,donna_anna,44718,44721,ich,donna_anna
+gdc,nmg0.0,44171,45218,donna_anna,44766,44769,ich,donna_anna
+gdc,nmg0.0,44171,45218,donna_anna,44770,44773,mir,donna_anna
+gdc,nmg0.0,44171,45218,donna_anna,44840,44843,ich,donna_anna
+gdc,nmg0.0,44171,45218,donna_anna,45026,45029,mir,donna_anna
+gdc,nmg0.0,44171,45218,donna_anna,45036,45039,ich,donna_anna
+gdc,nmg0.0,44171,45218,donna_anna,45082,45085,ich,donna_anna
+gdc,nmg0.0,44171,45218,donna_anna,45101,45105,mein,donna_anna
+gdc,nmg0.0,45222,45856,don_juan,45244,45247,ich,don_juan
+gdc,nmg0.0,45222,45856,don_juan,45303,45306,ich,don_juan
+gdc,nmg0.0,45222,45856,don_juan,45418,45422,mich,don_juan
+gdc,nmg0.0,45222,45856,don_juan,45778,45788,Donna Anna,donna_anna
+gdc,nmg0.0,45816,45840,_stage,45829,45839,Donna Anna,donna_anna
+gdc,nmg0.0,45861,46005,donna_anna,45970,45974,mich,donna_anna
+gdc,nmg0.0,46011,46191,don_juan,46106,46109,Ich,don_juan
+gdc,nmg0.0,46011,46191,don_juan,46186,46190,mich,don_juan
+gdc,nmg0.0,46197,46236,donna_anna,46231,46235,mich,donna_anna
+gdc,nmg0.0,46241,46340,don_juan,46275,46278,ich,don_juan
+gdc,nmg0.0,46241,46340,don_juan,46305,46309,mich,don_juan
+gdc,nmg0.0,46241,46340,don_juan,46319,46323,mich,don_juan
+gdc,nmg0.0,46379,46460,don_juan,46430,46434,mich,don_juan
+gdc,nmg0.0,46500,46580,don_juan,46530,46536,meinem,don_juan
+gdc,nmg0.0,46500,46580,don_juan,46542,46545,ich,don_juan
+gdc,nmg0.0,46749,46929,donna_anna,46869,46872,Ich,donna_anna
+gdc,nmg0.0,46749,46929,donna_anna,46881,46884,Ich,donna_anna
+gdc,nmg0.0,46935,47202,don_juan,46946,46950,Mich,don_juan
+gdc,nmg0.0,46935,47202,don_juan,46961,46965,Mich,don_juan
+gdc,nmg0.0,47208,47478,donna_anna,47240,47244,Mich,donna_anna
+gdc,nmg0.0,47208,47478,donna_anna,47331,47335,Mein,donna_anna
+gdc,nmg0.0,47208,47478,donna_anna,47354,47357,mir,donna_anna
+gdc,nmg0.0,47208,47478,donna_anna,47407,47410,ich,donna_anna
+gdc,nmg0.0,47530,47585,donna_anna,47562,47566,mich,donna_anna
+gdc,nmg0.0,47590,48470,don_juan,47629,47633,mich,don_juan
+gdc,nmg0.0,47590,48470,don_juan,47700,47704,Mein,don_juan
+gdc,nmg0.0,47590,48470,don_juan,48318,48321,Ich,don_juan
+gdc,nmg0.0,47590,48470,don_juan,48334,48337,ich,don_juan
+gdc,nmg0.0,47590,48470,don_juan,48425,48429,mich,don_juan
+gdc,nmg0.0,47590,48470,don_juan,48451,48455,mich,don_juan
+gdc,nmg0.0,48476,48567,donna_anna,48489,48492,Ich,donna_anna
+gdc,nmg0.0,48476,48567,donna_anna,48551,48554,ich,donna_anna
+gdc,nmg0.0,48573,48783,don_juan,48594,48598,mich,don_juan
+gdc,nmg0.0,48573,48783,don_juan,48631,48637,meines,don_juan
+gdc,nmg0.0,48573,48783,don_juan,48734,48737,mir,don_juan
+gdc,nmg0.0,49163,49230,donna_anna,49176,49184,Don Juan,don_juan
+gdc,nmg0.0,49163,49230,donna_anna,49186,49189,ich,donna_anna
+gdc,nmg0.0,49163,49230,donna_anna,49202,49205,ich,donna_anna
+gdc,nmg0.0,49236,49441,don_juan,49288,49291,Ich,don_juan
+gdc,nmg0.0,49236,49441,don_juan,49349,49352,mir,don_juan
+gdc,nmg0.0,49236,49441,don_juan,49384,49387,mir,don_juan
+gdc,nmg0.0,49445,49581,donna_anna,49472,49476,mich,donna_anna
+gdc,nmg0.0,49445,49581,donna_anna,49519,49522,ich,donna_anna
+gdc,nmg0.0,49445,49581,donna_anna,49540,49543,ich,donna_anna
+gdc,nmg0.0,49445,49581,donna_anna,49577,49580,ich,donna_anna
+gdc,nmg0.0,49587,49660,don_juan,49642,49645,Ich,don_juan
+gdc,nmg0.0,49666,49756,donna_anna,49744,49747,ich,donna_anna
+gdc,nmg0.0,49762,50036,don_juan,49777,49780,ich,don_juan
+gdc,nmg0.0,49762,50036,don_juan,49865,49870,meine,don_juan
+gdc,nmg0.0,49762,50036,don_juan,49956,49961,meine,don_juan
+gdc,nmg0.0,50042,50099,donna_anna,50062,50065,ich,donna_anna
+gdc,nmg0.0,50104,50380,don_juan,50134,50137,ich,don_juan
+gdc,nmg0.0,50386,50490,donna_anna,50466,50469,ich,donna_anna
+gdc,nmg0.0,50678,50879,don_juan,50709,50712,ich,don_juan
+gdc,nmg0.0,50678,50879,don_juan,50734,50740,Meinem,don_juan
+gdc,nmg0.0,50678,50879,don_juan,50839,50842,mir,don_juan
+gdc,nmg0.0,50909,51711,don_juan,50965,50969,mich,don_juan
+gdc,nmg0.0,50909,51711,don_juan,51046,51049,ich,don_juan
+gdc,nmg0.0,51715,52134,donna_anna,51754,51757,ich,donna_anna
+gdc,nmg0.0,51715,52134,donna_anna,51759,51763,Mich,donna_anna
+gdc,nmg0.0,51715,52134,donna_anna,51780,51783,ich,donna_anna
+gdc,nmg0.0,51715,52134,donna_anna,51803,51806,ich,donna_anna
+gdc,nmg0.0,51715,52134,donna_anna,51808,51812,Mich,donna_anna
+gdc,nmg0.0,51715,52134,donna_anna,51854,51862,Don Juan,don_juan
+gdc,nmg0.0,51715,52134,donna_anna,51863,51867,mich,donna_anna
+gdc,nmg0.0,52163,52177,_stage,52166,52176,Donna Anna,donna_anna
+gdc,nmg0.0,52278,52355,don_octavio,52350,52354,mich,don_octavio
+gdc,nmg0.0,52922,53291,don_octavio,52965,52968,ich,don_octavio
+gdc,nmg0.0,52922,53291,don_octavio,53002,53005,Ich,don_octavio
+gdc,nmg0.0,52922,53291,don_octavio,53006,53010,mich,don_octavio
+gdc,nmg0.0,52922,53291,don_octavio,53040,53043,Ich,don_octavio
+gdc,nmg0.0,52922,53291,don_octavio,53075,53079,mich,don_octavio
+gdc,nmg0.0,52922,53291,don_octavio,53108,53112,mich,don_octavio
+gdc,nmg0.0,52922,53291,don_octavio,53127,53130,mir,don_octavio
+gdc,nmg0.0,52922,53291,don_octavio,53192,53195,ich,don_octavio
+gdc,nmg0.0,52922,53291,don_octavio,53257,53260,mir,don_octavio
+gdc,nmg0.0,53297,53516,don_juan,53355,53358,Ich,don_juan
+gdc,nmg0.0,53522,53621,don_octavio,53597,53601,mich,don_octavio
+gdc,nmg0.0,53627,53680,don_juan,53646,53650,Mich,don_juan
+gdc,nmg0.0,53627,53680,don_juan,53652,53655,Ich,don_juan
+gdc,nmg0.0,53685,53750,don_octavio,53717,53720,ich,don_octavio
+gdc,nmg0.0,53685,53750,don_octavio,53732,53735,ich,don_octavio
+gdc,nmg0.0,53818,53898,donna_anna,53840,53843,ich,donna_anna
+gdc,nmg0.0,53818,53898,donna_anna,53883,53887,mich,donna_anna
+gdc,nmg0.0,53905,53980,don_octavio,53919,53922,Ich,don_octavio
+gdc,nmg0.0,54225,54326,don_octavio,54260,54263,ich,don_octavio
+gdc,nmg0.0,54624,54681,don_octavio,54664,54667,Ich,don_octavio
+gdc,nmg0.0,54687,54765,donna_anna,54710,54713,ich,donna_anna
+gdc,nmg0.0,54687,54765,donna_anna,54727,54730,Ich,donna_anna
+gdc,nmg0.0,54771,54856,don_octavio,54807,54810,ich,don_octavio
+gdc,nmg0.0,54826,54856,_stage,54826,54837,Don Octavio,don_octavio
+gdc,nmg0.0,54826,54856,_stage,54842,54852,Donna Anna,donna_anna
+gdc,nmg0.0,54860,55279,don_juan,55266,55269,ich,don_juan
+gdc,nmg0.0,54860,55279,don_juan,55270,55278,Don Juan,don_juan
+gdc,nmg0.0,55329,55378,don_juan,55370,55377,Lisette,lisette
+gdc,nmg0.0,55384,55552,leporello,55423,55433,Donna Anna,donna_anna
+gdc,nmg0.0,55384,55552,leporello,55478,55482,mich,leporello
+gdc,nmg0.0,55384,55552,leporello,55536,55540,mich,leporello
+gdc,nmg0.0,55623,55738,leporello,55660,55663,Ich,leporello
+gdc,nmg0.0,55833,55970,don_juan,55933,55936,mir,don_juan
+gdc,nmg0.0,55976,56027,leporello,55996,56006,Donna Anna,donna_anna
+gdc,nmg0.0,56070,56167,leporello,56154,56158,mich,leporello
+gdc,nmg0.0,56173,56461,don_juan,56311,56315,mich,don_juan
+gdc,nmg0.0,56173,56461,don_juan,56383,56386,ich,don_juan
+gdc,nmg0.0,56467,56552,leporello,56529,56532,mir,leporello
+gdc,nmg0.0,56558,56613,don_juan,56577,56580,ich,don_juan
+gdc,nmg0.0,56619,56703,leporello,56638,56641,ich,leporello
+gdc,nmg0.0,56619,56703,leporello,56669,56672,Ich,leporello
+gdc,nmg0.0,56737,57274,leporello,56805,56809,mich,leporello
+gdc,nmg0.0,56737,57274,leporello,56838,56841,ich,leporello
+gdc,nmg0.0,56737,57274,leporello,56860,56866,meines,leporello
+gdc,nmg0.0,56737,57274,leporello,56935,56938,Ich,leporello
+gdc,nmg0.0,56737,57274,leporello,57039,57042,ich,leporello
+gdc,nmg0.0,56737,57274,leporello,57168,57171,ich,leporello
+gdc,nmg0.0,56737,57274,leporello,57179,57182,ich,leporello
+gdc,nmg0.0,56737,57274,leporello,57217,57220,ich,leporello
+gdc,nmg0.0,57242,57274,_stage,57242,57252,Der Ritter,der_ritter
+gdc,nmg0.0,57242,57274,_stage,57257,57262,Faust,faust
+gdc,nmg0.0,57383,57706,der_ritter,57414,57418,mich,der_ritter
+gdc,nmg0.0,57383,57706,der_ritter,57656,57659,Ich,der_ritter
+gdc,nmg0.0,57712,58620,faust,57773,57777,mich,faust
+gdc,nmg0.0,57712,58620,faust,57793,57796,ich,faust
+gdc,nmg0.0,57712,58620,faust,58196,58199,mir,faust
+gdc,nmg0.0,57712,58620,faust,58222,58225,ich,faust
+gdc,nmg0.0,57712,58620,faust,58261,58264,ich,faust
+gdc,nmg0.0,57712,58620,faust,58265,58268,mir,faust
+gdc,nmg0.0,57712,58620,faust,58312,58315,ich,faust
+gdc,nmg0.0,57712,58620,faust,58316,58319,mir,faust
+gdc,nmg0.0,57712,58620,faust,58375,58378,ich,faust
+gdc,nmg0.0,57712,58620,faust,58407,58410,Mir,faust
+gdc,nmg0.0,57712,58620,faust,58578,58581,ich,faust
+gdc,nmg0.0,58626,58718,der_ritter,58697,58700,ich,der_ritter
+gdc,nmg0.0,59160,59293,faust,59229,59232,ich,faust
+gdc,nmg0.0,59160,59293,faust,59265,59268,mir,faust
+gdc,nmg0.0,59440,59644,faust,59541,59544,mir,faust
+gdc,nmg0.0,59650,59888,der_ritter,59705,59708,ich,der_ritter
+gdc,nmg0.0,59650,59888,der_ritter,59817,59820,Ich,der_ritter
+gdc,nmg0.0,60026,60128,faust,60117,60120,mir,faust
+gdc,nmg0.0,60247,60348,der_ritter,60340,60343,mir,der_ritter
+gdc,nmg0.0,60354,60421,faust,60362,60365,Ich,faust
+gdc,nmg0.0,60969,61223,faust,61191,61194,Ich,faust
+gdc,nmg0.0,60969,61223,faust,61200,61204,mich,faust
+gdc,nmg0.0,61267,61507,faust,61298,61301,ich,faust
+gdc,nmg0.0,61267,61507,faust,61383,61386,ich,faust
+gdc,nmg0.0,61267,61507,faust,61481,61484,mir,faust
+gdc,nmg0.0,61513,61896,der_ritter,61532,61535,ich,der_ritter
+gdc,nmg0.0,61513,61896,der_ritter,61653,61656,mir,der_ritter
+gdc,nmg0.0,61513,61896,der_ritter,61667,61670,ich,der_ritter
+gdc,nmg0.0,61902,61941,faust,61924,61927,Ich,faust
+gdc,nmg0.0,61985,62018,faust,61993,61996,Ich,faust
+gdc,nmg0.0,62082,62236,faust,62101,62104,ich,faust
+gdc,nmg0.0,62082,62236,faust,62186,62189,ich,faust
+gdc,nmg0.0,62242,63016,der_ritter,62698,62701,mir,der_ritter
+gdc,nmg0.0,62804,62837,_stage,62808,62813,Faust,faust
+gdc,nmg0.0,62242,63016,der_ritter,62954,62957,mir,der_ritter
+gdc,nmg0.0,63022,63397,faust,63089,63092,ich,faust
+gdc,nmg0.0,63022,63397,faust,63211,63214,Ich,faust
+gdc,nmg0.0,63022,63397,faust,63253,63256,Ich,faust
+gdc,nmg0.0,63403,63455,der_ritter,63419,63429,Donna Anna,donna_anna
+gdc,nmg0.0,63460,63860,faust,63468,63471,Ich,faust
+gdc,nmg0.0,63460,63860,faust,63511,63514,Ich,faust
+gdc,nmg0.0,63460,63860,faust,63541,63544,ich,faust
+gdc,nmg0.0,63460,63860,faust,63570,63574,mich,faust
+gdc,nmg0.0,63460,63860,faust,63653,63657,mich,faust
+gdc,nmg0.0,63979,64100,faust,64015,64019,mich,faust
+gdc,nmg0.0,63979,64100,faust,64063,64066,ich,faust
+gdc,nmg0.0,63979,64100,faust,64087,64090,ich,faust
+gdc,nmg0.0,64205,64291,faust,64217,64220,ich,faust
+gdc,nmg0.0,64205,64291,faust,64221,64225,mich,faust
+gdc,nmg0.0,64205,64291,faust,64240,64243,mir,faust
+gdc,nmg0.0,64205,64291,faust,64272,64282,Donna Anna,donna_anna
+gdc,nmg0.0,64329,64389,faust,64345,64349,mich,faust
+gdc,nmg0.0,64329,64389,faust,64382,64385,Ich,faust
+gdc,nmg0.0,64446,64534,faust,64464,64468,mich,faust
+gdc,nmg0.0,64446,64534,faust,64501,64505,mein,faust
+gdc,nmg0.0,64540,64649,der_ritter,64553,64556,Ich,der_ritter
+gdc,nmg0.0,64764,64952,faust,64801,64805,mich,faust
+gdc,nmg0.0,64764,64952,faust,64872,64875,ich,faust
+gdc,nmg0.0,64764,64952,faust,64894,64897,Mir,faust
+gdc,nmg0.0,64764,64952,faust,64933,64936,ich,faust
+gdc,nmg0.0,64764,64952,faust,64937,64940,mir,faust
+gdc,nmg0.0,64958,65080,der_ritter,64971,64979,Don Juan,don_juan
+gdc,nmg0.0,64958,65080,der_ritter,65055,65065,Donna Anna,donna_anna
+gdc,nmg0.0,65086,65325,faust,65149,65153,mich,faust
+gdc,nmg0.0,65086,65325,faust,65259,65262,Ich,faust
+gdc,nmg0.0,65331,65387,der_ritter,65375,65380,meine,der_ritter
+gdc,nmg0.0,65535,65671,faust,65548,65551,mir,faust
+gdc,nmg0.0,65535,65671,faust,65622,65625,mir,faust
+gdc,nmg0.0,65535,65671,faust,65656,65660,mich,faust
+gdc,nmg0.0,65715,65728,_stage,65719,65724,Faust,faust
+gdc,nmg0.0,65748,65898,_stage,65808,65822,mehrere andere,mehrere_andere
+gdc,nmg0.0,65899,65936,_stage,65899,65911,Signor Rubio,signor_rubio
+gdc,nmg0.0,65899,65936,_stage,65916,65928,Signor Negro,signor_negro
+gdc,nmg0.0,65938,66056,signor_rubio,65987,66001,der Gouverneur,der_gouverneur
+gdc,nmg0.0,66062,66335,signor_negro,66165,66168,ich,signor_negro
+gdc,nmg0.0,66062,66335,signor_negro,66190,66193,ich,signor_negro
+gdc,nmg0.0,66614,66709,signor_rubio,66638,66642,mich,signor_rubio
+gdc,nmg0.0,66614,66709,signor_rubio,66654,66657,ich,signor_rubio
+gdc,nmg0.0,66853,67116,signor_rubio,66980,66985,meine,signor_rubio
+gdc,nmg0.0,66853,67116,signor_rubio,67095,67098,ich,signor_rubio
+gdc,nmg0.0,67285,67435,signor_rubio,67309,67312,ich,signor_rubio
+gdc,nmg0.0,67285,67435,signor_rubio,67365,67368,ich,signor_rubio
+gdc,nmg0.0,67285,67435,signor_rubio,67394,67397,ich,signor_rubio
+gdc,nmg0.0,67481,67859,signor_rubio,67808,67811,mir,signor_rubio
+gdc,nmg0.0,67863,67976,signor_negro,67935,67938,ich,signor_negro
+gdc,nmg0.0,67981,68086,signor_rubio,68021,68024,ich,signor_rubio
+gdc,nmg0.0,68191,68225,_stage,68191,68199,Don Juan,don_juan
+gdc,nmg0.0,68191,68225,_stage,68204,68213,Leporello,leporello
+gdc,nmg0.0,68333,68358,_stage,68337,68345,Don Juan,don_juan
+gdc,nmg0.0,68091,68441,signor_negro,68429,68432,ich,signor_negro
+gdc,nmg0.0,68456,68469,_stage,68459,68468,Leporello,leporello
+gdc,nmg0.0,68819,68873,_stage,68819,68833,Der Gouverneur,der_gouverneur
+gdc,nmg0.0,68819,68873,_stage,68835,68845,Donna Anna,donna_anna
+gdc,nmg0.0,68819,68873,_stage,68850,68861,Don Octavio,don_octavio
+gdc,nmg0.0,68984,69069,don_juan,69052,69055,ich,don_juan
+gdc,nmg0.0,69075,69166,der_gouverneur,69160,69165,meine,der_gouverneur
+gdc,nmg0.0,69322,69416,donna_anna,69401,69404,Ich,donna_anna
+gdc,nmg0.0,69522,69563,_stage,69554,69562,Don Juan,don_juan
+gdc,nmg0.0,69511,69649,donna_anna,69582,69586,Mein,donna_anna
+gdc,nmg0.0,69511,69649,donna_anna,69596,69600,mein,donna_anna
+gdc,nmg0.0,69511,69649,donna_anna,69628,69631,ich,donna_anna
+gdc,nmg0.0,69795,69910,signor_negro,69827,69831,Mein,signor_negro
+gdc,nmg0.0,69795,69910,signor_negro,69838,69841,ich,signor_negro
+gdc,nmg0.0,69795,69910,signor_negro,69889,69900,Don Octavio,don_octavio
+gdc,nmg0.0,69916,69957,der_gouverneur,69932,69935,Ich,der_gouverneur
+gdc,nmg0.0,70241,70298,_stage,70241,70255,Der Gouverneur,der_gouverneur
+gdc,nmg0.0,70241,70298,_stage,70260,70272,Signor Negro,signor_negro
+gdc,nmg0.0,70302,70631,don_juan,70321,70325,mich,don_juan
+gdc,nmg0.0,70302,70631,don_juan,70382,70385,Ich,don_juan
+gdc,nmg0.0,70302,70631,don_juan,70405,70408,ich,don_juan
+gdc,nmg0.0,70302,70631,don_juan,70570,70576,meines,don_juan
+gdc,nmg0.0,70637,70705,leporello,70677,70680,ich,leporello
+gdc,nmg0.0,70637,70705,leporello,70685,70696,Don Octavio,don_octavio
+gdc,nmg0.0,70711,70789,don_juan,70744,70747,ich,don_juan
+gdc,nmg0.0,70949,71020,_stage,70995,71004,Leporello,leporello
+gdc,nmg0.0,71021,71113,_stage,71021,71031,Der Ritter,der_ritter
+gdc,nmg0.0,71021,71113,_stage,71036,71041,Faust,faust
+gdc,nmg0.0,71117,71733,der_ritter,71162,71167,Faust,faust
+gdc,nmg0.0,71117,71733,der_ritter,71647,71657,Donna Anna,donna_anna
+gdc,nmg0.0,71924,72091,der_ritter,71941,71945,mein,der_ritter
+gdc,nmg0.0,72379,72430,faust,72417,72421,mich,faust
+gdc,nmg0.0,72508,72618,_stage,72521,72526,Faust,faust
+gdc,nmg0.0,72508,72618,_stage,72544,72558,Der Gouverneur,der_gouverneur
+gdc,nmg0.0,72508,72618,_stage,72560,72572,Signor Negro,signor_negro
+gdc,nmg0.0,73039,73184,signor_negro,73088,73091,Ich,signor_negro
+gdc,nmg0.0,73190,73277,der_gouverneur,73252,73258,meiner,der_gouverneur
+gdc,nmg0.0,73283,73525,signor_negro,73309,73313,mein,signor_negro
+gdc,nmg0.0,73283,73525,signor_negro,73314,73317,ich,signor_negro
+gdc,nmg0.0,73531,73818,der_gouverneur,73626,73631,meine,der_gouverneur
+gdc,nmg0.0,73824,74155,signor_negro,73969,73973,mich,signor_negro
+gdc,nmg0.0,73824,74155,signor_negro,73989,73992,ich,signor_negro
+gdc,nmg0.0,74073,74155,_stage,74113,74118,Faust,faust
+gdc,nmg0.0,74073,74155,_stage,74123,74133,der Ritter,der_ritter
+gdc,nmg0.0,74159,74380,faust,74193,74196,ich,faust
+gdc,nmg0.0,74159,74380,faust,74203,74208,Faust,faust
+gdc,nmg0.0,74159,74380,faust,74346,74350,mich,faust
+gdc,nmg0.0,74387,75271,der_ritter,75200,75203,ich,der_ritter
+gdc,nmg0.0,75637,75816,faust,75645,75653,Don Juan,don_juan
+gdc,nmg0.0,75963,76549,faust,75984,75987,mir,faust
+gdc,nmg0.0,76657,76792,faust,76718,76721,ich,faust
+gdc,nmg0.0,76807,76845,_stage,76811,76820,Leporello,leporello
+gdc,nmg0.0,76798,77085,don_juan,76970,76979,Leporello,leporello
+gdc,nmg0.0,76983,77085,_stage,76983,76993,Donna Anna,donna_anna
+gdc,nmg0.0,76983,77085,_stage,76995,77006,Don Octavio,don_octavio
+gdc,nmg0.0,77099,77111,_stage,77102,77110,Don Juan,don_juan
+gdc,nmg0.0,77142,77157,_stage,77145,77156,Don Octavio,don_octavio
+gdc,nmg0.0,77089,77203,leporello,77176,77179,ich,leporello
+gdc,nmg0.0,77246,77327,leporello,77258,77262,Mein,leporello
+gdc,nmg0.0,77246,77327,leporello,77278,77281,ich,leporello
+gdc,nmg0.0,77345,77383,_stage,77365,77374,Leporello,leporello
+gdc,nmg0.0,77422,77607,leporello,77451,77455,mich,leporello
+gdc,nmg0.0,77422,77607,leporello,77502,77505,Ich,leporello
+gdc,nmg0.0,77613,77654,don_octavio,77642,77645,ich,don_octavio
+gdc,nmg0.0,77659,77731,leporello,77686,77690,mein,leporello
+gdc,nmg0.0,77659,77731,leporello,77699,77707,Don Juan,don_juan
+gdc,nmg0.0,77810,77916,donna_anna,77860,77864,mein,donna_anna
+gdc,nmg0.0,77810,77916,donna_anna,77881,77885,mein,donna_anna
+gdc,nmg0.0,77922,77992,ein_diener,77935,77949,Der Gouverneur,der_gouverneur
+gdc,nmg0.0,77922,77992,ein_diener,77966,77978,Signor Negro,signor_negro
+gdc,nmg0.0,78062,78074,_stage,78065,78073,Don Juan,don_juan
+gdc,nmg0.0,78050,78143,don_octavio,78129,78133,mich,don_octavio
+gdc,nmg0.0,78159,78171,_stage,78162,78170,Don Juan,don_juan
+gdc,nmg0.0,78149,78374,leporello,78200,78204,mich,leporello
+gdc,nmg0.0,78149,78374,leporello,78227,78231,mich,leporello
+gdc,nmg0.0,78149,78374,leporello,78238,78241,ich,leporello
+gdc,nmg0.0,78149,78374,leporello,78287,78290,ich,leporello
+gdc,nmg0.0,78149,78374,leporello,78348,78352,mich,leporello
+gdc,nmg0.0,78380,78452,don_juan,78406,78409,mir,don_juan
+gdc,nmg0.0,78380,78452,don_juan,78430,78434,mich,don_juan
+gdc,nmg0.0,78513,78525,_stage,78516,78524,Don Juan,don_juan
+gdc,nmg0.0,78654,78835,don_octavio,78695,78698,mir,don_octavio
+gdc,nmg0.0,78654,78835,don_octavio,78718,78722,Mein,don_octavio
+gdc,nmg0.0,78654,78835,don_octavio,78730,78733,ich,don_octavio
+gdc,nmg0.0,78839,79020,der_gouverneur,78964,78974,Donna Anna,donna_anna
+gdc,nmg0.0,78839,79020,der_gouverneur,78983,78994,Don Octavio,don_octavio
+gdc,nmg0.0,79024,79110,don_juan,79089,79093,mein,don_juan
+gdc,nmg0.0,79116,79148,leporello,79134,79138,mein,leporello
+gdc,nmg0.0,79159,79211,_stage,79172,79180,Don Juan,don_juan
+gdc,nmg0.0,79260,79359,donna_anna,79297,79300,ich,donna_anna
+gdc,nmg0.0,79260,79359,donna_anna,79349,79353,Mein,donna_anna
+gdc,nmg0.0,79381,79416,_stage,79385,79393,Don Juan,don_juan
+gdc,nmg0.0,79381,79416,_stage,79398,79403,Faust,faust
+gdc,nmg0.0,79459,79639,faust,79499,79502,Ich,faust
+gdc,nmg0.0,79459,79639,faust,79511,79516,Faust,faust
+gdc,nmg0.0,79459,79639,faust,79537,79540,mir,faust
+gdc,nmg0.0,79459,79639,faust,79542,79545,ich,faust
+gdc,nmg0.0,79459,79639,faust,79579,79582,ich,faust
+gdc,nmg0.0,79459,79639,faust,79598,79601,ich,faust
+gdc,nmg0.0,79697,79726,_stage,79709,79717,Don Juan,don_juan
+gdc,nmg0.0,79686,80060,der_ritter,79728,79731,Ich,der_ritter
+gdc,nmg0.0,79818,79860,_stage,79849,79859,Donna Anna,donna_anna
+gdc,nmg0.0,79958,79997,_stage,79958,79963,Faust,faust
+gdc,nmg0.0,79958,79997,_stage,79968,79978,der Ritter,der_ritter
+gdc,nmg0.0,79958,79997,_stage,79983,79993,Donna Anna,donna_anna
+gdc,nmg0.0,79998,80060,_stage,79998,80012,Der Gouverneur,der_gouverneur
+gdc,nmg0.0,79998,80060,_stage,80014,80026,Signor Negro,signor_negro
+gdc,nmg0.0,80064,80157,der_gouverneur,80092,80098,meines,der_gouverneur
+gdc,nmg0.0,80064,80157,der_gouverneur,80113,80117,mein,der_gouverneur
+gdc,nmg0.0,80064,80157,der_gouverneur,80143,80148,meine,der_gouverneur
+gdc,nmg0.0,80163,80238,don_juan,80178,80181,ich,don_juan
+gdc,nmg0.0,80163,80238,don_juan,80215,80220,Faust,faust
+gdc,nmg0.0,80244,80360,der_gouverneur,80261,80265,Mein,der_gouverneur
+gdc,nmg0.0,80244,80360,der_gouverneur,80290,80293,ich,der_gouverneur
+gdc,nmg0.0,80244,80360,der_gouverneur,80319,80323,mich,der_gouverneur
+gdc,nmg0.0,80427,80487,signor_negro,80446,80457,Don Octavio,don_octavio
+gdc,nmg0.0,80493,80565,der_gouverneur,80523,80526,ich,der_gouverneur
+gdc,nmg0.0,80601,80665,der_gouverneur,80624,80628,Mein,der_gouverneur
+gdc,nmg0.0,80671,80719,don_juan,80711,80714,ich,don_juan
+gdc,nmg0.0,80776,80804,don_juan,80786,80789,Ich,don_juan
+gdc,nmg0.0,80833,80926,don_juan,80844,80850,Meinen,don_juan
+gdc,nmg0.0,80833,80926,don_juan,80895,80898,ich,don_juan
+gdc,nmg0.0,80833,80926,don_juan,80921,80925,mich,don_juan
+gdc,nmg0.0,81098,81238,signor_negro,81113,81116,Ich,signor_negro
+gdc,nmg0.0,81098,81238,signor_negro,81225,81237,Signor Rubio,signor_rubio
+gdc,nmg0.0,81244,81333,die_anwesenden,81316,81324,Don Juan,don_juan
+gdc,nmg0.0,81387,81677,don_juan,81413,81416,Ich,don_juan
+gdc,nmg0.0,81387,81677,don_juan,81472,81475,ich,don_juan
+gdc,nmg0.0,81387,81677,don_juan,81516,81519,ich,don_juan
+gdc,nmg0.0,81387,81677,don_juan,81555,81558,ich,don_juan
+gdc,nmg0.0,81683,82187,der_gouverneur,81773,81776,ich,der_gouverneur
+gdc,nmg0.0,81683,82187,der_gouverneur,81793,81799,meinen,der_gouverneur
+gdc,nmg0.0,81683,82187,der_gouverneur,81838,81841,ich,der_gouverneur
+gdc,nmg0.0,81683,82187,der_gouverneur,81852,81855,ich,der_gouverneur
+gdc,nmg0.0,81683,82187,der_gouverneur,81870,81876,meiner,der_gouverneur
+gdc,nmg0.0,81683,82187,der_gouverneur,81918,81921,ich,der_gouverneur
+gdc,nmg0.0,81683,82187,der_gouverneur,81969,81972,mir,der_gouverneur
+gdc,nmg0.0,81683,82187,der_gouverneur,82093,82098,Faust,faust
+gdc,nmg0.0,81683,82187,der_gouverneur,82108,82111,ich,der_gouverneur
+gdc,nmg0.0,81683,82187,der_gouverneur,82147,82155,Don Juan,don_juan
+gdc,nmg0.0,81683,82187,der_gouverneur,82166,82169,ich,der_gouverneur
+gdc,nmg0.0,81683,82187,der_gouverneur,82174,82178,mein,der_gouverneur
+gdc,nmg0.0,82193,82261,leporello,82214,82228,Der Gouverneur,der_gouverneur
+gdc,nmg0.0,82267,82727,don_juan,82278,82281,Ich,don_juan
+gdc,nmg0.0,82267,82727,don_juan,82302,82311,Leporello,leporello
+gdc,nmg0.0,82267,82727,don_juan,82459,82473,der Gouverneur,der_gouverneur
+gdc,nmg0.0,82267,82727,don_juan,82545,82548,ich,don_juan
+gdc,nmg0.0,82267,82727,don_juan,82550,82555,Faust,faust
+gdc,nmg0.0,82753,82797,don_juan,82782,82785,Ich,don_juan
+gdc,nmg0.0,82909,83011,der_gouverneur,82933,82936,ich,der_gouverneur
+gdc,nmg0.0,82909,83011,der_gouverneur,82982,82989,Gasparo,gasparo
+gdc,nmg0.0,82909,83011,der_gouverneur,83002,83005,mir,der_gouverneur
+gdc,nmg0.0,83126,83138,_stage,83129,83137,Don Juan,don_juan
+gdc,nmg0.0,83162,83216,_stage,83162,83176,Der Gouverneur,der_gouverneur
+gdc,nmg0.0,83162,83216,_stage,83181,83189,Don Juan,don_juan
+gdc,nmg0.0,83162,83216,_stage,83191,83198,Gasparo,gasparo
+gdc,nmg0.0,83162,83216,_stage,83203,83212,Leporello,leporello
+gdc,nmg0.0,83220,83478,signor_negro,83426,83429,ich,signor_negro
+gdc,nmg0.0,83636,83708,_stage,83636,83650,Der Gouverneur,der_gouverneur
+gdc,nmg0.0,83636,83708,_stage,83664,83671,Gasparo,gasparo
+gdc,nmg0.0,83636,83708,_stage,83673,83681,Don Juan,don_juan
+gdc,nmg0.0,83636,83708,_stage,83686,83695,Leporello,leporello
+gdc,nmg0.0,83710,83759,der_gouverneur,83751,83758,Gasparo,gasparo
+gdc,nmg0.0,83781,83832,der_gouverneur,83802,83810,Don Juan,don_juan
+gdc,nmg0.0,83971,84054,der_gouverneur,84006,84016,Donna Anna,donna_anna
+gdc,nmg0.0,83971,84054,der_gouverneur,84041,84046,meine,der_gouverneur
+gdc,nmg0.0,84060,84198,don_juan,84174,84177,ich,don_juan
+gdc,nmg0.0,84485,84560,der_gouverneur,84520,84524,mich,der_gouverneur
+gdc,nmg0.0,84549,84560,_stage,84549,84556,Gasparo,gasparo
+gdc,nmg0.0,84701,85229,der_gouverneur,84756,84759,ich,der_gouverneur
+gdc,nmg0.0,84701,85229,der_gouverneur,84791,84794,ich,der_gouverneur
+gdc,nmg0.0,84701,85229,der_gouverneur,84810,84813,mir,der_gouverneur
+gdc,nmg0.0,84701,85229,der_gouverneur,84935,84938,mir,der_gouverneur
+gdc,nmg0.0,84701,85229,der_gouverneur,85087,85092,meine,der_gouverneur
+gdc,nmg0.0,84701,85229,der_gouverneur,85103,85106,Ich,der_gouverneur
+gdc,nmg0.0,85338,85415,don_juan,85388,85391,mir,don_juan
+gdc,nmg0.0,85421,85802,der_gouverneur,85442,85450,Don Juan,don_juan
+gdc,nmg0.0,85421,85802,der_gouverneur,85577,85581,mich,der_gouverneur
+gdc,nmg0.0,85421,85802,der_gouverneur,85619,85622,ich,der_gouverneur
+gdc,nmg0.0,85421,85802,der_gouverneur,85689,85694,meine,der_gouverneur
+gdc,nmg0.0,85421,85802,der_gouverneur,85759,85764,Faust,faust
+gdc,nmg0.0,85808,87187,don_juan,85845,85849,mein,don_juan
+gdc,nmg0.0,85808,87187,don_juan,86011,86014,ich,don_juan
+gdc,nmg0.0,85808,87187,don_juan,86096,86106,Donna Anna,donna_anna
+gdc,nmg0.0,85808,87187,don_juan,86140,86144,Mein,don_juan
+gdc,nmg0.0,85808,87187,don_juan,86193,86196,ich,don_juan
+gdc,nmg0.0,85808,87187,don_juan,86240,86243,ich,don_juan
+gdc,nmg0.0,85808,87187,don_juan,86299,86303,Mein,don_juan
+gdc,nmg0.0,85808,87187,don_juan,86344,86347,Ich,don_juan
+gdc,nmg0.0,85808,87187,don_juan,86422,86425,mir,don_juan
+gdc,nmg0.0,85808,87187,don_juan,86461,86464,ich,don_juan
+gdc,nmg0.0,85808,87187,don_juan,86492,86496,mich,don_juan
+gdc,nmg0.0,85808,87187,don_juan,86510,86513,ich,don_juan
+gdc,nmg0.0,85808,87187,don_juan,86521,86525,Mich,don_juan
+gdc,nmg0.0,85808,87187,don_juan,86550,86553,ich,don_juan
+gdc,nmg0.0,85808,87187,don_juan,86634,86637,ich,don_juan
+gdc,nmg0.0,85808,87187,don_juan,86656,86662,meiner,don_juan
+gdc,nmg0.0,85808,87187,don_juan,86720,86724,Mich,don_juan
+gdc,nmg0.0,85808,87187,don_juan,86749,86753,mich,don_juan
+gdc,nmg0.0,85808,87187,don_juan,86830,86842,Der Priester,der_priester
+gdc,nmg0.0,85808,87187,don_juan,87039,87042,ich,don_juan
+gdc,nmg0.0,85808,87187,don_juan,87126,87129,mir,don_juan
+gdc,nmg0.0,85808,87187,don_juan,87172,87176,mich,don_juan
+gdc,nmg0.0,87193,87292,der_gouverneur,87212,87217,meine,der_gouverneur
+gdc,nmg0.0,87193,87292,der_gouverneur,87259,87262,Mir,der_gouverneur
+gdc,nmg0.0,87320,87462,der_gouverneur,87355,87358,ich,der_gouverneur
+gdc,nmg0.0,87468,87711,don_juan,87526,87529,mir,don_juan
+gdc,nmg0.0,87717,88155,der_gouverneur,87734,87742,Don Juan,don_juan
+gdc,nmg0.0,87717,88155,der_gouverneur,87884,87887,mir,der_gouverneur
+gdc,nmg0.0,88161,88241,don_juan,88176,88185,Leporello,leporello
+gdc,nmg0.0,88247,88288,leporello,88258,88262,Mein,leporello
+gdc,nmg0.0,88293,88577,don_juan,88451,88461,Donna Anna,donna_anna
+gdc,nmg0.0,88293,88577,don_juan,88467,88470,ich,don_juan
+gdc,nmg0.0,88560,88577,_stage,88564,88573,Leporello,leporello
+gdc,nmg0.0,88581,89013,der_gouverneur,88621,88624,ich,der_gouverneur
+gdc,nmg0.0,88581,89013,der_gouverneur,88700,88703,ich,der_gouverneur
+gdc,nmg0.0,88581,89013,der_gouverneur,88725,88730,meine,der_gouverneur
+gdc,nmg0.0,88581,89013,der_gouverneur,88755,88758,ich,der_gouverneur
+gdc,nmg0.0,88581,89013,der_gouverneur,88840,88843,mir,der_gouverneur
+gdc,nmg0.0,88581,89013,der_gouverneur,88874,88884,Donna Anna,donna_anna
+gdc,nmg0.0,88581,89013,der_gouverneur,88915,88918,ich,der_gouverneur
+gdc,nmg0.0,88973,89013,_stage,88973,88980,Gasparo,gasparo
+gdc,nmg0.0,89135,89226,gasparo,89166,89169,Ich,gasparo
+gdc,nmg0.0,89458,89663,gasparo,89468,89482,Der Gouverneur,der_gouverneur
+gdc,nmg0.0,89618,89663,_stage,89625,89637,der Priester,der_priester
+gdc,nmg0.0,89683,89780,_stage,89745,89750,Faust,faust
+gdc,nmg0.0,89781,89813,_stage,89781,89786,Faust,faust
+gdc,nmg0.0,89781,89813,_stage,89791,89801,der Ritter,der_ritter
+gdc,nmg0.0,89815,90064,faust,89942,89945,Ich,faust
+gdc,nmg0.0,89815,90064,faust,89953,89957,mich,faust
+gdc,nmg0.0,90555,90712,faust,90614,90617,ich,faust
+gdc,nmg0.0,90555,90712,faust,90657,90660,mir,faust
+gdc,nmg0.0,90555,90712,faust,90681,90687,meiner,faust
+gdc,nmg0.0,90555,90712,faust,90701,90711,Donna Anna,donna_anna
+gdc,nmg0.0,90796,90901,faust,90889,90894,meine,faust
+gdc,nmg0.0,90970,91142,faust,91048,91051,ich,faust
+gdc,nmg0.0,90970,91142,faust,91073,91076,Ich,faust
+gdc,nmg0.0,91148,91216,der_ritter,91173,91176,Ich,der_ritter
+gdc,nmg0.0,91275,91289,_stage,91275,91285,Der Ritter,der_ritter
+gdc,nmg0.0,91293,91671,faust,91327,91330,mir,faust
+gdc,nmg0.0,91293,91671,faust,91554,91557,ich,faust
+gdc,nmg0.0,91293,91671,faust,91607,91612,meine,faust
+gdc,nmg0.0,91624,91671,_stage,91650,91660,Donna Anna,donna_anna
+gdc,nmg0.0,91675,91695,donna_anna,91691,91694,mir,donna_anna
+gdc,nmg0.0,91700,91787,faust,91751,91754,ich,faust
+gdc,nmg0.0,91700,91787,faust,91769,91772,ich,faust
+gdc,nmg0.0,91793,91946,donna_anna,91835,91838,ich,donna_anna
+gdc,nmg0.0,91998,92140,donna_anna,92022,92025,ich,donna_anna
+gdc,nmg0.0,91998,92140,donna_anna,92027,92032,meine,donna_anna
+gdc,nmg0.0,91998,92140,donna_anna,92083,92089,meines,donna_anna
+gdc,nmg0.0,92146,92178,faust,92170,92173,ich,faust
+gdc,nmg0.0,92183,92235,donna_anna,92196,92199,Ich,donna_anna
+gdc,nmg0.0,92241,92447,faust,92421,92426,Faust,faust
+gdc,nmg0.0,92454,92528,donna_anna,92471,92476,Faust,faust
+gdc,nmg0.0,92534,92831,faust,92593,92597,mich,faust
+gdc,nmg0.0,92534,92831,faust,92626,92632,meines,faust
+gdc,nmg0.0,92534,92831,faust,92710,92713,Ich,faust
+gdc,nmg0.0,92534,92831,faust,92742,92746,mich,faust
+gdc,nmg0.0,92534,92831,faust,92761,92764,Ich,faust
+gdc,nmg0.0,92534,92831,faust,92771,92774,ich,faust
+gdc,nmg0.0,92534,92831,faust,92796,92800,mich,faust
+gdc,nmg0.0,92534,92831,faust,92818,92821,ich,faust
+gdc,nmg0.0,92980,93697,faust,93039,93042,mir,faust
+gdc,nmg0.0,92980,93697,faust,93060,93063,ich,faust
+gdc,nmg0.0,92980,93697,faust,93076,93079,mir,faust
+gdc,nmg0.0,92980,93697,faust,93246,93251,meine,faust
+gdc,nmg0.0,92980,93697,faust,93282,93285,mir,faust
+gdc,nmg0.0,92980,93697,faust,93312,93317,meine,faust
+gdc,nmg0.0,92980,93697,faust,93433,93436,mir,faust
+gdc,nmg0.0,92980,93697,faust,93522,93525,ich,faust
+gdc,nmg0.0,92980,93697,faust,93564,93567,Ich,faust
+gdc,nmg0.0,92980,93697,faust,93568,93572,mich,faust
+gdc,nmg0.0,92980,93697,faust,93635,93639,mich,faust
+gdc,nmg0.0,92980,93697,faust,93693,93696,mir,faust
+gdc,nmg0.0,93703,93774,donna_anna,93734,93738,mein,donna_anna
+gdc,nmg0.0,93703,93774,donna_anna,93760,93771,Don Octavio,don_octavio
+gdc,nmg0.0,93975,94815,faust,94293,94298,meine,faust
+gdc,nmg0.0,93975,94815,faust,94583,94586,ich,faust
+gdc,nmg0.0,94821,95037,donna_anna,94888,94894,meiner,donna_anna
+gdc,nmg0.0,94821,95037,donna_anna,94914,94917,ich,donna_anna
+gdc,nmg0.0,94821,95037,donna_anna,95000,95006,meiner,donna_anna
+gdc,nmg0.0,94821,95037,donna_anna,95024,95029,meine,donna_anna
+gdc,nmg0.0,95043,95156,faust,95114,95117,ich,faust
+gdc,nmg0.0,95043,95156,faust,95143,95148,meine,faust
+gdc,nmg0.0,95162,95272,donna_anna,95185,95188,mir,donna_anna
+gdc,nmg0.0,95162,95272,donna_anna,95244,95248,Mich,donna_anna
+gdc,nmg0.0,95278,95374,faust,95302,95308,meinen,faust
+gdc,nmg0.0,95380,95564,donna_anna,95432,95435,ich,donna_anna
+gdc,nmg0.0,95380,95564,donna_anna,95491,95495,mich,donna_anna
+gdc,nmg0.0,95380,95564,donna_anna,95554,95558,mich,donna_anna
+gdc,nmg0.0,95570,95613,faust,95577,95581,Mein,faust
+gdc,nmg0.0,95787,95818,der_ritter,95805,95809,Mein,der_ritter
+gdc,nmg0.0,96161,96414,der_ritter,96359,96363,mich,der_ritter
+gdc,nmg0.0,96161,96414,der_ritter,96377,96380,ich,der_ritter
+gdc,nmg0.0,96420,96816,faust,96457,96460,mir,faust
+gdc,nmg0.0,96420,96816,faust,96474,96477,Ich,faust
+gdc,nmg0.0,96420,96816,faust,96624,96627,mir,faust
+gdc,nmg0.0,96420,96816,faust,96655,96665,Donna Anna,donna_anna
+gdc,nmg0.0,96420,96816,faust,96671,96674,ich,faust
+gdc,nmg0.0,96912,97218,faust,96920,96924,Mein,faust
+gdc,nmg0.0,96912,97218,faust,96971,96974,mir,faust
+gdc,nmg0.0,97261,97276,_stage,97265,97275,Donna Anna,donna_anna
+gdc,nmg0.0,97255,97597,faust,97312,97318,meiner,faust
+gdc,nmg0.0,97255,97597,faust,97336,97340,mein,faust
+gdc,nmg0.0,97255,97597,faust,97435,97438,Ich,faust
+gdc,nmg0.0,97677,97703,_stage,97692,97702,Donna Anna,donna_anna
+gdc,nmg0.0,97671,98583,faust,97705,97709,Mein,faust
+gdc,nmg0.0,97671,98583,faust,97742,97745,Ich,faust
+gdc,nmg0.0,97671,98583,faust,98094,98097,Ich,faust
+gdc,nmg0.0,97671,98583,faust,98166,98170,mich,faust
+gdc,nmg0.0,97671,98583,faust,98305,98308,mir,faust
+gdc,nmg0.0,97671,98583,faust,98327,98330,ich,faust
+gdc,nmg0.0,97671,98583,faust,98347,98350,mir,faust
+gdc,nmg0.0,97671,98583,faust,98374,98377,ich,faust
+gdc,nmg0.0,97671,98583,faust,98570,98573,ich,faust
+gdc,nmg0.0,98636,98779,donna_anna,98663,98667,mich,donna_anna
+gdc,nmg0.0,98911,98958,donna_anna,98923,98927,Mein,donna_anna
+gdc,nmg0.0,98911,98958,donna_anna,98935,98938,Mir,donna_anna
+gdc,nmg0.0,98963,98999,faust,98971,98974,Ich,faust
+gdc,nmg0.0,99005,99078,donna_anna,99031,99034,ich,donna_anna
+gdc,nmg0.0,99005,99078,donna_anna,99055,99058,ich,donna_anna
+gdc,nmg0.0,99005,99078,donna_anna,99067,99071,mich,donna_anna
+gdc,nmg0.0,99084,99286,faust,99113,99118,meine,faust
+gdc,nmg0.0,99084,99286,faust,99174,99180,meinem,faust
+gdc,nmg0.0,99710,99823,donna_anna,99778,99782,Mein,donna_anna
+gdc,nmg0.0,99710,99823,donna_anna,99811,99814,ich,donna_anna
+gdc,nmg0.0,100200,100660,faust,100208,100211,Ich,faust
+gdc,nmg0.0,100200,100660,faust,100445,100449,mein,faust
+gdc,nmg0.0,100200,100660,faust,100471,100475,mich,faust
+gdc,nmg0.0,100200,100660,faust,100493,100496,mir,faust
+gdc,nmg0.0,100200,100660,faust,100502,100505,ich,faust
+gdc,nmg0.0,100200,100660,faust,100530,100533,Ich,faust
+gdc,nmg0.0,100200,100660,faust,100624,100630,meinem,faust
+gdc,nmg0.0,100200,100660,faust,100638,100641,ich,faust
+gdc,nmg0.0,100959,101046,faust,100994,101005,Don Octavio,don_octavio
+gdc,nmg0.0,101073,101102,faust,101080,101088,Don Juan,don_juan
+gdc,nmg0.0,101107,101140,donna_anna,101131,101139,Don Juan,don_juan
+gdc,nmg0.0,101171,101298,donna_anna,101209,101212,ich,donna_anna
+gdc,nmg0.0,101171,101298,donna_anna,101274,101277,ich,donna_anna
+gdc,nmg0.0,101304,101467,faust,101353,101356,ich,faust
+gdc,nmg0.0,101473,101779,donna_anna,101486,101490,Mein,donna_anna
+gdc,nmg0.0,101473,101779,donna_anna,101499,101502,Ich,donna_anna
+gdc,nmg0.0,101473,101779,donna_anna,101536,101540,mein,donna_anna
+gdc,nmg0.0,101473,101779,donna_anna,101585,101588,Ich,donna_anna
+gdc,nmg0.0,101473,101779,donna_anna,101633,101637,mein,donna_anna
+gdc,nmg0.0,101473,101779,donna_anna,101721,101724,ich,donna_anna
+gdc,nmg0.0,101783,102015,faust,101828,101831,ich,faust
+gdc,nmg0.0,101783,102015,faust,101912,101915,Ich,faust
+gdc,nmg0.0,101783,102015,faust,101935,101943,Don Juan,don_juan
+gdc,nmg0.0,102063,102097,_stage,102063,102071,Don Juan,don_juan
+gdc,nmg0.0,102063,102097,_stage,102076,102085,Leporello,leporello
+gdc,nmg0.0,102099,102319,leporello,102149,102154,Faust,faust
+gdc,nmg0.0,102325,102540,don_juan,102351,102354,mir,don_juan
+gdc,nmg0.0,102665,102696,don_juan,102685,102688,ich,don_juan
+gdc,nmg0.0,102701,102994,leporello,102713,102717,Mein,leporello
+gdc,nmg0.0,102701,102994,leporello,102968,102971,ich,leporello
+gdc,nmg0.0,103106,103552,leporello,103141,103144,ich,leporello
+gdc,nmg0.0,103106,103552,leporello,103409,103413,mich,leporello
+gdc,nmg0.0,103106,103552,leporello,103516,103521,meine,leporello
+gdc,nmg0.0,103106,103552,leporello,103542,103545,ich,leporello
+gdc,nmg0.0,103558,103683,don_juan,103576,103579,ich,don_juan
+gdc,nmg0.0,103558,103683,don_juan,103595,103598,mir,don_juan
+gdc,nmg0.0,103558,103683,don_juan,103640,103643,ich,don_juan
+gdc,nmg0.0,103689,103840,leporello,103730,103733,Ich,leporello
+gdc,nmg0.0,103689,103840,leporello,103762,103765,ich,leporello
+gdc,nmg0.0,103689,103840,leporello,103772,103775,ich,leporello
+gdc,nmg0.0,103689,103840,leporello,103814,103821,Lisette,lisette
+gdc,nmg0.0,103689,103840,leporello,103822,103826,mich,leporello
+gdc,nmg0.0,103846,104834,don_juan,104771,104774,Ich,don_juan
+gdc,nmg0.0,103846,104834,don_juan,104793,104796,ich,don_juan
+gdc,nmg0.0,103846,104834,don_juan,104830,104833,ich,don_juan
+gdc,nmg0.0,104840,105164,leporello,104883,104889,meiner,leporello
+gdc,nmg0.0,104840,105164,leporello,104922,104925,Ich,leporello
+gdc,nmg0.0,104840,105164,leporello,104967,104971,Mich,leporello
+gdc,nmg0.0,104840,105164,leporello,104984,104987,ich,leporello
+gdc,nmg0.0,104840,105164,leporello,105017,105020,ich,leporello
+gdc,nmg0.0,105109,105164,_stage,105109,105117,Don Juan,don_juan
+gdc,nmg0.0,105109,105164,_stage,105138,105147,Leporello,leporello
+gdc,nmg0.0,105457,105574,faust,105554,105559,Faust,faust
+gdc,nmg0.0,105580,105664,don_juan,105591,105596,Faust,faust
+gdc,nmg0.0,105580,105664,don_juan,105624,105627,Ich,don_juan
+gdc,nmg0.0,105580,105664,don_juan,105636,105644,Don Juan,don_juan
+gdc,nmg0.0,105670,105808,leporello,105785,105789,mich,leporello
+gdc,nmg0.0,105814,106116,don_juan,105835,105838,ich,don_juan
+gdc,nmg0.0,105814,106116,don_juan,106016,106019,ich,don_juan
+gdc,nmg0.0,105814,106116,don_juan,106053,106056,ich,don_juan
+gdc,nmg0.0,105814,106116,don_juan,106064,106072,Don Juan,don_juan
+gdc,nmg0.0,105814,106116,don_juan,106090,106099,Leporello,leporello
+gdc,nmg0.0,105814,106116,don_juan,106101,106105,mein,don_juan
+gdc,nmg0.0,106186,106247,don_juan,106201,106204,ich,don_juan
+gdc,nmg0.0,106186,106247,don_juan,106219,106222,ich,don_juan
+gdc,nmg0.0,106253,106309,faust,106273,106276,ich,faust
+gdc,nmg0.0,106253,106309,faust,106296,106302,meiner,faust
+gdc,nmg0.0,106878,107110,don_juan,107052,107056,mein,don_juan
+gdc,nmg0.0,106878,107110,don_juan,107066,107069,Ich,don_juan
+gdc,nmg0.0,106878,107110,don_juan,107087,107097,Donna Anna,donna_anna
+gdc,nmg0.0,107116,107254,leporello,107180,107184,mich,leporello
+gdc,nmg0.0,107260,107507,faust,107290,107293,ich,faust
+gdc,nmg0.0,107260,107507,faust,107325,107328,ich,faust
+gdc,nmg0.0,107260,107507,faust,107398,107401,Ich,faust
+gdc,nmg0.0,107513,107578,don_juan,107534,107537,Ich,don_juan
+gdc,nmg0.0,107624,107810,leporello,107642,107646,mich,leporello
+gdc,nmg0.0,107624,107810,leporello,107698,107701,ich,leporello
+gdc,nmg0.0,107624,107810,leporello,107702,107707,meine,leporello
+gdc,nmg0.0,107735,107810,_stage,107735,107743,Don Juan,don_juan
+gdc,nmg0.0,107735,107810,_stage,107748,107757,Leporello,leporello
+gdc,nmg0.0,107735,107810,_stage,107782,107787,Faust,faust
+gdc,nmg0.0,107814,108195,faust,107842,107845,ich,faust
+gdc,nmg0.0,107814,108195,faust,108103,108113,Donna Anna,donna_anna
+gdc,nmg0.0,107814,108195,faust,108123,108127,mich,faust
+gdc,nmg0.0,107814,108195,faust,108156,108159,ich,faust
+gdc,nmg0.0,108304,108327,_stage,108304,108312,Don Juan,don_juan
+gdc,nmg0.0,108304,108327,_stage,108317,108326,Leporello,leporello
+gdc,nmg0.0,108329,108353,don_juan,108343,108352,Leporello,leporello
+gdc,nmg0.0,108358,108405,leporello,108384,108387,ich,leporello
+gdc,nmg0.0,108410,108873,don_juan,108441,108446,Faust,faust
+gdc,nmg0.0,108410,108873,don_juan,108521,108524,ich,don_juan
+gdc,nmg0.0,108410,108873,don_juan,108838,108842,mich,don_juan
+gdc,nmg0.0,108879,109017,leporello,108914,108917,Ich,leporello
+gdc,nmg0.0,109023,109275,don_juan,109049,109052,mir,don_juan
+gdc,nmg0.0,109023,109275,don_juan,109143,109146,ich,don_juan
+gdc,nmg0.0,109023,109275,don_juan,109157,109166,Leporello,leporello
+gdc,nmg0.0,109640,109899,don_juan,109692,109695,ich,don_juan
+gdc,nmg0.0,109640,109899,don_juan,109721,109724,Ich,don_juan
+gdc,nmg0.0,109640,109899,don_juan,109725,109735,Donna Anna,donna_anna
+gdc,nmg0.0,109640,109899,don_juan,109884,109887,mir,don_juan
+gdc,nmg0.0,109905,110195,leporello,110060,110063,Ich,leporello
+gdc,nmg0.0,110302,110505,leporello,110318,110323,Faust,faust
+gdc,nmg0.0,110302,110505,leporello,110329,110334,Faust,faust
+gdc,nmg0.0,110641,110723,leporello,110653,110656,Ich,leporello
+gdc,nmg0.0,110969,111080,leporello,110985,110988,ich,leporello
+gdc,nmg0.0,110969,111080,leporello,111007,111011,mich,leporello
+gdc,nmg0.0,111086,111264,don_juan,111151,111154,Ich,don_juan
+gdc,nmg0.0,111086,111264,don_juan,111174,111177,ich,don_juan
+gdc,nmg0.0,111086,111264,don_juan,111190,111194,mich,don_juan
+gdc,nmg0.0,111086,111264,don_juan,111260,111263,mir,don_juan
+gdc,nmg0.0,111270,111302,leporello,111286,111289,ich,leporello
+gdc,nmg0.0,111353,111468,leporello,111369,111372,ich,leporello
+gdc,nmg0.0,111353,111468,leporello,111422,111425,ich,leporello
+gdc,nmg0.0,111353,111468,leporello,111457,111460,ich,leporello
+gdc,nmg0.0,111474,111603,don_juan,111491,111494,ich,don_juan
+gdc,nmg0.0,111609,111686,leporello,111625,111628,ich,leporello
+gdc,nmg0.0,111852,112180,leporello,111891,111894,mir,leporello
+gdc,nmg0.0,111852,112180,leporello,111907,111910,ich,leporello
+gdc,nmg0.0,111852,112180,leporello,111924,111927,ich,leporello
+gdc,nmg0.0,111852,112180,leporello,111964,111967,mir,leporello
+gdc,nmg0.0,111852,112180,leporello,111993,111996,ich,leporello
+gdc,nmg0.0,111852,112180,leporello,112019,112022,Ich,leporello
+gdc,nmg0.0,111852,112180,leporello,112152,112166,der Gouverneur,der_gouverneur
+gdc,nmg0.0,112307,112788,don_juan,112515,112518,ich,don_juan
+gdc,nmg0.0,112307,112788,don_juan,112580,112583,ich,don_juan
+gdc,nmg0.0,112307,112788,don_juan,112664,112667,Ich,don_juan
+gdc,nmg0.0,112307,112788,don_juan,112668,112673,meine,don_juan
+gdc,nmg0.0,112307,112788,don_juan,112707,112710,ich,don_juan
+gdc,nmg0.0,113140,114005,don_juan,113170,113175,Faust,faust
+gdc,nmg0.0,113140,114005,don_juan,113320,113329,Leporello,leporello
+gdc,nmg0.0,113140,114005,don_juan,113939,113942,mir,don_juan
+gdc,nmg0.0,114185,114207,leporello,114196,114199,Ich,leporello
+gdc,nmg0.0,114212,114248,don_juan,114222,114225,Ich,don_juan
+gdc,nmg0.0,114253,114300,leporello,114281,114285,mich,leporello
+gdc,nmg0.0,114353,114582,leporello,114372,114376,mich,leporello
+gdc,nmg0.0,114353,114582,leporello,114394,114397,ich,leporello
+gdc,nmg0.0,114353,114582,leporello,114459,114462,mir,leporello
+gdc,nmg0.0,114353,114582,leporello,114494,114498,Mein,leporello
+gdc,nmg0.0,114353,114582,leporello,114511,114514,Ich,leporello
+gdc,nmg0.0,114922,115367,don_juan,115175,115179,Mein,don_juan
+gdc,nmg0.0,114922,115367,don_juan,115230,115233,mir,don_juan
+gdc,nmg0.0,114922,115367,don_juan,115295,115298,Ich,don_juan
+gdc,nmg0.0,114922,115367,don_juan,115340,115344,mein,don_juan
+gdc,nmg0.0,115515,115651,don_juan,115587,115590,ich,don_juan
+gdc,nmg0.0,115608,115621,_stage,115611,115620,Leporello,leporello
+gdc,nmg0.0,115754,115918,don_juan,115778,115782,mich,don_juan
+gdc,nmg0.0,115754,115918,don_juan,115884,115887,ich,don_juan
+gdc,nmg0.0,115947,116029,_stage,116003,116012,Leporello,leporello
+gdc,nmg0.0,115924,116152,leporello,116067,116070,Ich,leporello
+gdc,nmg0.0,115924,116152,leporello,116095,116098,mir,leporello
+gdc,nmg0.0,115924,116152,leporello,116107,116110,Ich,leporello
+gdc,nmg0.0,116199,116348,leporello,116233,116236,ich,leporello
+gdc,nmg0.0,116199,116348,leporello,116270,116273,ich,leporello
+gdc,nmg0.0,116199,116348,leporello,116288,116291,Ich,leporello
+gdc,nmg0.0,116199,116348,leporello,116340,116343,ich,leporello
+gdc,nmg0.0,116470,116645,don_juan,116536,116539,mir,don_juan
+gdc,nmg0.0,117198,117361,faust,117262,117265,ich,faust
+gdc,nmg0.0,117198,117361,faust,117300,117303,Ich,faust
+gdc,nmg0.0,117645,117748,faust,117723,117728,Faust,faust
+gdc,nmg0.0,118037,118068,faust,118056,118060,mich,faust
+gdc,nmg0.0,118566,119184,faust,118585,118589,mich,faust
+gdc,nmg0.0,118566,119184,faust,118688,118692,Mein,faust
+gdc,nmg0.0,118566,119184,faust,118707,118710,ich,faust
+gdc,nmg0.0,118566,119184,faust,118787,118791,mich,faust
+gdc,nmg0.0,118566,119184,faust,118813,118816,ich,faust
+gdc,nmg0.0,118566,119184,faust,119067,119070,mir,faust
+gdc,nmg0.0,118566,119184,faust,119099,119102,mir,faust
+gdc,nmg0.0,118566,119184,faust,119166,119169,ich,faust
+gdc,nmg0.0,119190,119308,die_gnomen,119234,119239,Faust,faust
+gdc,nmg0.0,119314,119383,faust,119367,119371,mich,faust
+gdc,nmg0.0,119421,119719,faust,119524,119527,mir,faust
+gdc,nmg0.0,119421,119719,faust,119564,119567,Ich,faust
+gdc,nmg0.0,119421,119719,faust,119590,119593,mir,faust
+gdc,nmg0.0,119421,119719,faust,119602,119605,Ich,faust
+gdc,nmg0.0,119421,119719,faust,119687,119697,Donna Anna,donna_anna
+gdc,nmg0.0,119421,119719,faust,119702,119712,Donna Anna,donna_anna
+gdc,nmg0.0,119723,119877,erster_gnom,119741,119751,Donna Anna,donna_anna
+gdc,nmg0.0,119723,119877,erster_gnom,119774,119779,Faust,faust
+gdc,nmg0.0,120005,120051,_stage,120045,120050,Faust,faust
+gdc,nmg0.0,120053,122732,faust,120079,120082,ich,faust
+gdc,nmg0.0,120053,122732,faust,120096,120099,ich,faust
+gdc,nmg0.0,120053,122732,faust,120113,120116,Ich,faust
+gdc,nmg0.0,120053,122732,faust,120143,120146,ich,faust
+gdc,nmg0.0,120053,122732,faust,120212,120215,ich,faust
+gdc,nmg0.0,120053,122732,faust,120339,120343,mich,faust
+gdc,nmg0.0,120053,122732,faust,120608,120611,Mir,faust
+gdc,nmg0.0,120053,122732,faust,120761,120769,Don Juan,don_juan
+gdc,nmg0.0,120053,122732,faust,120786,120791,meine,faust
+gdc,nmg0.0,120053,122732,faust,120886,120892,meinem,faust
+gdc,nmg0.0,120053,122732,faust,120971,120974,mir,faust
+gdc,nmg0.0,120053,122732,faust,120986,120990,mich,faust
+gdc,nmg0.0,120053,122732,faust,121222,121225,ich,faust
+gdc,nmg0.0,120053,122732,faust,121258,121262,mich,faust
+gdc,nmg0.0,120053,122732,faust,121348,121352,mich,faust
+gdc,nmg0.0,120053,122732,faust,121431,121434,Ich,faust
+gdc,nmg0.0,120053,122732,faust,121470,121473,Ich,faust
+gdc,nmg0.0,120053,122732,faust,121556,121559,Ich,faust
+gdc,nmg0.0,120053,122732,faust,121841,121844,ich,faust
+gdc,nmg0.0,120053,122732,faust,121853,121856,Ich,faust
+gdc,nmg0.0,120053,122732,faust,121861,121866,Faust,faust
+gdc,nmg0.0,120053,122732,faust,122005,122008,ich,faust
+gdc,nmg0.0,120053,122732,faust,122484,122487,ich,faust
+gdc,nmg0.0,120053,122732,faust,122522,122525,Ich,faust
+gdc,nmg0.0,120053,122732,faust,122526,122530,mich,faust
+gdc,nmg0.0,120053,122732,faust,122577,122581,mich,faust
+gdc,nmg0.0,120053,122732,faust,122631,122634,ich,faust
+gdc,nmg0.0,120053,122732,faust,122672,122675,ich,faust
+gdc,nmg0.0,120053,122732,faust,122686,122689,Ich,faust
+gdc,nmg0.0,120053,122732,faust,122698,122702,Mein,faust
+gdc,nmg0.0,120053,122732,faust,122727,122731,mich,faust
+gdc,nmg0.0,122750,122783,_stage,122777,122782,Faust,faust
+gdc,nmg0.0,122739,123167,donna_anna,122804,122812,Don Juan,don_juan
+gdc,nmg0.0,122739,123167,donna_anna,123021,123024,Ich,donna_anna
+gdc,nmg0.0,123177,123192,_stage,123181,123191,Donna Anna,donna_anna
+gdc,nmg0.0,123251,123296,donna_anna,123272,123276,mich,donna_anna
+gdc,nmg0.0,123301,123365,faust,123309,123312,Ich,faust
+gdc,nmg0.0,123934,124199,donna_anna,123965,123968,ich,donna_anna
+gdc,nmg0.0,124205,124216,faust,124212,124215,Ich,faust
+gdc,nmg0.0,124276,124309,faust,124300,124308,Don Juan,don_juan
+gdc,nmg0.0,124315,124377,donna_anna,124339,124342,ich,donna_anna
+gdc,nmg0.0,124315,124377,donna_anna,124369,124372,ich,donna_anna
+gdc,nmg0.0,124493,125203,faust,124572,124575,Ich,faust
+gdc,nmg0.0,124493,125203,faust,124636,124640,mich,faust
+gdc,nmg0.0,124493,125203,faust,124673,124676,ich,faust
+gdc,nmg0.0,124493,125203,faust,125074,125077,ich,faust
+gdc,nmg0.0,124493,125203,faust,125135,125138,ich,faust
+gdc,nmg0.0,124493,125203,faust,125176,125182,meinem,faust
+gdc,nmg0.0,125209,125258,donna_anna,125221,125224,Ich,donna_anna
+gdc,nmg0.0,125209,125258,donna_anna,125231,125237,meines,donna_anna
+gdc,nmg0.0,125263,125329,faust,125280,125283,ich,faust
+gdc,nmg0.0,125335,125486,donna_anna,125431,125434,Ich,donna_anna
+gdc,nmg0.0,125492,125905,faust,125539,125544,Faust,faust
+gdc,nmg0.0,125492,125905,faust,125660,125663,ich,faust
+gdc,nmg0.0,125492,125905,faust,125701,125704,ich,faust
+gdc,nmg0.0,125492,125905,faust,125723,125726,Ich,faust
+gdc,nmg0.0,125492,125905,faust,125744,125747,ich,faust
+gdc,nmg0.0,125492,125905,faust,125764,125768,mein,faust
+gdc,nmg0.0,125492,125905,faust,125779,125782,Ich,faust
+gdc,nmg0.0,125492,125905,faust,125833,125839,meinen,faust
+gdc,nmg0.0,125922,125957,_stage,125926,125931,Faust,faust
+gdc,nmg0.0,125911,126052,donna_anna,126004,126009,meine,donna_anna
+gdc,nmg0.0,125911,126052,donna_anna,126024,126028,mich,donna_anna
+gdc,nmg0.0,126058,126309,faust,126070,126073,ich,faust
+gdc,nmg0.0,126058,126309,faust,126086,126089,ich,faust
+gdc,nmg0.0,126058,126309,faust,126113,126116,ich,faust
+gdc,nmg0.0,126058,126309,faust,126193,126196,ich,faust
+gdc,nmg0.0,126058,126309,faust,126210,126213,ich,faust
+gdc,nmg0.0,126058,126309,faust,126261,126264,ich,faust
+gdc,nmg0.0,126058,126309,faust,126276,126279,ich,faust
+gdc,nmg0.0,126058,126309,faust,126280,126284,mich,faust
+gdc,nmg0.0,126058,126309,faust,126304,126308,mich,faust
+gdc,nmg0.0,126353,126400,donna_anna,126369,126372,mir,donna_anna
+gdc,nmg0.0,126353,126400,donna_anna,126375,126378,ich,donna_anna
+gdc,nmg0.0,126404,127001,faust,126421,126426,Meine,faust
+gdc,nmg0.0,126404,127001,faust,126457,126462,meine,faust
+gdc,nmg0.0,126404,127001,faust,126638,126641,ich,faust
+gdc,nmg0.0,126404,127001,faust,126854,126857,ich,faust
+gdc,nmg0.0,126404,127001,faust,126869,126872,ich,faust
+gdc,nmg0.0,126404,127001,faust,126880,126884,Mich,faust
+gdc,nmg0.0,126404,127001,faust,126926,126929,ich,faust
+gdc,nmg0.0,127006,127118,der_ritter,127064,127068,mich,der_ritter
+gdc,nmg0.0,127152,127286,der_ritter,127177,127187,Donna Anna,donna_anna
+gdc,nmg0.0,127152,127286,der_ritter,127203,127206,Ich,der_ritter
+gdc,nmg0.0,127152,127286,der_ritter,127252,127256,mein,der_ritter
+gdc,nmg0.0,127293,127552,faust,127377,127380,ich,faust
+gdc,nmg0.0,127293,127552,faust,127394,127397,Ich,faust
+gdc,nmg0.0,127592,127611,faust,127607,127610,ich,faust
+gdc,nmg0.0,127953,128098,faust,127976,127979,ich,faust
+gdc,nmg0.0,127953,128098,faust,127994,127997,ich,faust
+gdc,nmg0.0,127953,128098,faust,128018,128023,meine,faust
+gdc,nmg0.0,127953,128098,faust,128089,128092,ich,faust
+gdc,nmg0.0,128176,128276,der_ritter,128248,128251,Ich,der_ritter
+gdc,nmg0.0,128303,128377,der_ritter,128321,128325,Mich,der_ritter
+gdc,nmg0.0,128382,128525,faust,128438,128446,Don Juan,don_juan
+gdc,nmg0.0,128382,128525,faust,128452,128455,ich,faust
+gdc,nmg0.0,128382,128525,faust,128500,128504,mein,faust
+gdc,nmg0.0,128576,128656,faust,128652,128655,ich,faust
+gdc,nmg0.0,128662,128728,der_ritter,128709,128712,ich,der_ritter
+gdc,nmg0.0,128749,128845,_stage,128783,128791,Don Juan,don_juan
+gdc,nmg0.0,128846,128867,_stage,128846,128856,Der Ritter,der_ritter
+gdc,nmg0.0,128869,130376,der_ritter,128922,128925,ich,der_ritter
+gdc,nmg0.0,128869,130376,der_ritter,128955,128958,ich,der_ritter
+gdc,nmg0.0,128869,130376,der_ritter,128992,128996,mein,der_ritter
+gdc,nmg0.0,128869,130376,der_ritter,129002,129007,Faust,faust
+gdc,nmg0.0,128869,130376,der_ritter,129034,129042,Don Juan,don_juan
+gdc,nmg0.0,128869,130376,der_ritter,129090,129093,ich,der_ritter
+gdc,nmg0.0,128869,130376,der_ritter,129122,129125,ich,der_ritter
+gdc,nmg0.0,128869,130376,der_ritter,129238,129242,Mich,der_ritter
+gdc,nmg0.0,128869,130376,der_ritter,129276,129279,Ich,der_ritter
+gdc,nmg0.0,128869,130376,der_ritter,129280,129284,mich,der_ritter
+gdc,nmg0.0,128869,130376,der_ritter,129552,129555,ich,der_ritter
+gdc,nmg0.0,128869,130376,der_ritter,129567,129573,meiner,der_ritter
+gdc,nmg0.0,128869,130376,der_ritter,129634,129638,mich,der_ritter
+gdc,nmg0.0,128869,130376,der_ritter,129650,129654,mich,der_ritter
+gdc,nmg0.0,128869,130376,der_ritter,129687,129693,meinen,der_ritter
+gdc,nmg0.0,128869,130376,der_ritter,129855,129858,ich,der_ritter
+gdc,nmg0.0,128869,130376,der_ritter,129870,129873,ich,der_ritter
+gdc,nmg0.0,128869,130376,der_ritter,129901,129904,ich,der_ritter
+gdc,nmg0.0,128869,130376,der_ritter,130032,130035,ich,der_ritter
+gdc,nmg0.0,128869,130376,der_ritter,130071,130074,ich,der_ritter
+gdc,nmg0.0,128869,130376,der_ritter,130083,130086,ich,der_ritter
+gdc,nmg0.0,128869,130376,der_ritter,130107,130110,Ich,der_ritter
+gdc,nmg0.0,128869,130376,der_ritter,130163,130171,Don Juan,don_juan
+gdc,nmg0.0,128869,130376,der_ritter,130221,130224,ich,der_ritter
+gdc,nmg0.0,128869,130376,der_ritter,130243,130248,Faust,faust
+gdc,nmg0.0,130346,130376,_stage,130346,130354,Don Juan,don_juan
+gdc,nmg0.0,130346,130376,_stage,130359,130368,Leporello,leporello
+gdc,nmg0.0,130380,130664,don_juan,130391,130394,Mir,don_juan
+gdc,nmg0.0,130959,131032,_stage,131005,131015,der Ritter,der_ritter
+gdc,nmg0.0,131093,131125,don_juan,131114,131117,ich,don_juan
+gdc,nmg0.0,131173,131636,don_juan,131283,131286,ich,don_juan
+gdc,nmg0.0,131566,131636,_stage,131566,131575,Leporello,leporello
+gdc,nmg0.0,131690,131739,don_juan,131727,131730,ich,don_juan
+gdc,nmg0.0,132050,132110,_stage,132050,132062,Signor Rubio,signor_rubio
+gdc,nmg0.0,132050,132110,_stage,132067,132079,Signor Negro,signor_negro
+gdc,nmg0.0,132114,132259,signor_negro,132140,132143,mir,signor_negro
+gdc,nmg0.0,132301,132409,signor_negro,132388,132391,ich,signor_negro
+gdc,nmg0.0,132301,132409,signor_negro,132396,132408,Signor Negro,signor_negro
+gdc,nmg0.0,132415,132524,don_juan,132492,132496,Mein,don_juan
+gdc,nmg0.0,132530,132673,signor_rubio,132558,132561,ich,signor_rubio
+gdc,nmg0.0,132679,133078,don_juan,132695,132707,Signor Negro,signor_negro
+gdc,nmg0.0,132679,133078,don_juan,132714,132717,ich,don_juan
+gdc,nmg0.0,132679,133078,don_juan,132995,133004,Leporello,leporello
+gdc,nmg0.0,133084,133152,leporello,133095,133098,Mir,leporello
+gdc,nmg0.0,133084,133152,leporello,133131,133134,ich,leporello
+gdc,nmg0.0,133200,133216,_stage,133203,133215,Signor Negro,signor_negro
+gdc,nmg0.0,133190,133274,leporello,133228,133231,ich,leporello
+gdc,nmg0.0,133190,133274,leporello,133257,133260,ich,leporello
+gdc,nmg0.0,133365,133411,signor_negro,133398,133410,Signor Rubio,signor_rubio
+gdc,nmg0.0,133453,133515,_stage,133453,133462,Leporello,leporello
+gdc,nmg0.0,133453,133515,_stage,133473,133485,Signor Negro,signor_negro
+gdc,nmg0.0,133528,133572,_stage,133528,133540,Signor Rubio,signor_rubio
+gdc,nmg0.0,133519,133775,don_juan,133574,133578,Mein,don_juan
+gdc,nmg0.0,133519,133775,don_juan,133606,133609,Ich,don_juan
+gdc,nmg0.0,133519,133775,don_juan,133736,133739,Ich,don_juan
+gdc,nmg0.0,133824,133854,don_juan,133845,133848,ich,don_juan
+gdc,nmg0.0,133888,133915,don_juan,133907,133910,ich,don_juan
+gdc,nmg0.0,133949,133983,don_juan,133972,133975,mir,don_juan
+gdc,nmg0.0,133989,134044,signor_rubio,134013,134017,mich,signor_rubio
+gdc,nmg0.0,134115,134201,signor_rubio,134154,134157,Ich,signor_rubio
+gdc,nmg0.0,134419,134461,signor_rubio,134449,134452,mir,signor_rubio
+gdc,nmg0.0,134467,134564,don_juan,134513,134516,ich,don_juan
+gdc,nmg0.0,134642,134696,signor_rubio,134657,134669,Signor Rubio,signor_rubio
+gdc,nmg0.0,134782,134824,signor_rubio,134809,134813,mich,signor_rubio
+gdc,nmg0.0,134829,134870,don_juan,134854,134857,mir,don_juan
+gdc,nmg0.0,134917,135473,don_juan,135206,135209,ich,don_juan
+gdc,nmg0.0,134917,135473,don_juan,135215,135225,Donna Anna,donna_anna
+gdc,nmg0.0,134917,135473,don_juan,135259,135262,ich,don_juan
+gdc,nmg0.0,134917,135473,don_juan,135348,135351,ich,don_juan
+gdc,nmg0.0,135479,136172,signor_rubio,135494,135498,Mein,signor_rubio
+gdc,nmg0.0,135479,136172,signor_rubio,135566,135569,ich,signor_rubio
+gdc,nmg0.0,135479,136172,signor_rubio,135591,135595,mich,signor_rubio
+gdc,nmg0.0,135479,136172,signor_rubio,135719,135722,ich,signor_rubio
+gdc,nmg0.0,136178,136475,don_juan,136246,136252,meinem,don_juan
+gdc,nmg0.0,136481,136508,signor_rubio,136503,136507,mich,signor_rubio
+gdc,nmg0.0,136569,136659,_stage,136569,136581,Signor Rubio,signor_rubio
+gdc,nmg0.0,136569,136659,_stage,136612,136620,Don Juan,don_juan
+gdc,nmg0.0,136569,136659,_stage,136636,136645,Leporello,leporello
+gdc,nmg0.0,136990,137104,don_juan,137061,137064,Ich,don_juan
+gdc,nmg0.0,137292,137403,_stage,137292,137297,Faust,faust
+gdc,nmg0.0,137407,137501,faust,137484,137487,ich,faust
+gdc,nmg0.0,137507,137719,don_juan,137549,137552,mir,don_juan
+gdc,nmg0.0,137507,137719,don_juan,137563,137568,Faust,faust
+gdc,nmg0.0,137725,137854,faust,137737,137740,mir,faust
+gdc,nmg0.0,137725,137854,faust,137770,137775,meine,faust
+gdc,nmg0.0,137725,137854,faust,137790,137794,mein,faust
+gdc,nmg0.0,137806,137818,_stage,137809,137817,Don Juan,don_juan
+gdc,nmg0.0,137967,138025,faust,138021,138024,mir,faust
+gdc,nmg0.0,138031,138751,don_juan,138301,138305,mich,don_juan
+gdc,nmg0.0,138031,138751,don_juan,138372,138375,ich,don_juan
+gdc,nmg0.0,138031,138751,don_juan,138484,138487,ich,don_juan
+gdc,nmg0.0,138031,138751,don_juan,138488,138492,mich,don_juan
+gdc,nmg0.0,138031,138751,don_juan,138516,138519,Ich,don_juan
+gdc,nmg0.0,138031,138751,don_juan,138560,138563,Ich,don_juan
+gdc,nmg0.0,138757,139517,faust,138817,138820,mir,faust
+gdc,nmg0.0,138757,139517,faust,138853,138856,Ich,faust
+gdc,nmg0.0,138757,139517,faust,138945,138949,mich,faust
+gdc,nmg0.0,138757,139517,faust,138953,138963,Donna Anna,donna_anna
+gdc,nmg0.0,138757,139517,faust,138978,138981,ich,faust
+gdc,nmg0.0,138757,139517,faust,139014,139017,ich,faust
+gdc,nmg0.0,138757,139517,faust,139044,139048,mich,faust
+gdc,nmg0.0,138757,139517,faust,139135,139138,mir,faust
+gdc,nmg0.0,138757,139517,faust,139165,139168,ich,faust
+gdc,nmg0.0,139259,139310,_stage,139284,139289,Faust,faust
+gdc,nmg0.0,138757,139517,faust,139328,139331,ich,faust
+gdc,nmg0.0,138757,139517,faust,139366,139369,ich,faust
+gdc,nmg0.0,138757,139517,faust,139400,139403,Ich,faust
+gdc,nmg0.0,138757,139517,faust,139462,139465,ich,faust
+gdc,nmg0.0,138757,139517,faust,139501,139504,ich,faust
+gdc,nmg0.0,139534,139575,_stage,139538,139543,Faust,faust
+gdc,nmg0.0,139523,139933,der_ritter,139803,139806,ich,der_ritter
+gdc,nmg0.0,139523,139933,der_ritter,139811,139819,Don Juan,don_juan
+gdc,nmg0.0,139832,139933,_stage,139914,139922,Don Juan,don_juan
+gdc,nmg0.0,140532,140595,_stage,140564,140569,Faust,faust
+gdc,nmg0.0,140522,140663,leporello,140599,140602,Ich,leporello
+gdc,nmg0.0,140785,140988,leporello,140862,140865,ich,leporello
+gdc,nmg0.0,140785,140988,leporello,140892,140895,ich,leporello
+gdc,nmg0.0,140785,140988,leporello,140906,140909,ich,leporello
+gdc,nmg0.0,140785,140988,leporello,140925,140928,ich,leporello
+gdc,nmg0.0,140785,140988,leporello,140944,140947,Ich,leporello
+gdc,nmg0.0,140785,140988,leporello,140959,140963,mein,leporello
+gdc,nmg0.0,141266,141338,leporello,141277,141280,Ich,leporello
+gdc,nmg0.0,141342,141617,don_juan,141382,141392,Donna Anna,donna_anna
+gdc,nmg0.0,141342,141617,don_juan,141501,141505,mein,don_juan
+gdc,nmg0.0,141342,141617,don_juan,141533,141543,Donna Anna,donna_anna
+gdc,nmg0.0,141623,141701,leporello,141641,141644,ich,leporello
+gdc,nmg0.0,141893,142067,don_juan,141912,141915,ich,don_juan
+gdc,nmg0.0,141893,142067,don_juan,141994,141998,mich,don_juan
+gdc,nmg0.0,142018,142067,_stage,142018,142027,Leporello,leporello
+gdc,nmg0.0,142071,142260,don_juan,142199,142202,ich,don_juan
+gdc,nmg0.0,142225,142238,_stage,142228,142237,Leporello,leporello
+gdc,nmg0.0,142265,142498,leporello,142277,142280,Ich,leporello
+gdc,nmg0.0,142265,142498,leporello,142306,142309,ich,leporello
+gdc,nmg0.0,142265,142498,leporello,142485,142489,mich,leporello
+gdc,nmg0.0,142504,142656,don_juan,142529,142532,ich,don_juan
+gdc,nmg0.0,142504,142656,don_juan,142545,142548,ich,don_juan
+gdc,nmg0.0,142622,142656,_stage,142622,142631,Leporello,leporello
+gdc,nmg0.0,143349,143475,leporello,143432,143435,ich,leporello
+gdc,nmg0.0,143481,143603,don_juan,143521,143524,ich,don_juan
+gdc,nmg0.0,143481,143603,don_juan,143537,143541,mich,don_juan
+gdc,nmg0.0,143609,143876,leporello,143625,143628,ich,leporello
+gdc,nmg0.0,143609,143876,leporello,143639,143642,mir,leporello
+gdc,nmg0.0,144068,144100,don_juan,144087,144091,mein,don_juan
+gdc,nmg0.0,144132,144412,don_juan,144182,144188,meiner,don_juan
+gdc,nmg0.0,144132,144412,don_juan,144241,144245,mich,don_juan
+gdc,nmg0.0,144132,144412,don_juan,144291,144294,mir,don_juan
+gdc,nmg0.0,144132,144412,don_juan,144307,144311,Mein,don_juan
+gdc,nmg0.0,144132,144412,don_juan,144349,144353,mich,don_juan
+gdc,nmg0.0,144382,144395,_stage,144385,144394,Leporello,leporello
+gdc,nmg0.0,144526,144646,don_juan,144567,144571,mein,don_juan
+gdc,nmg0.0,144592,144642,_stage,144592,144621,Die Bildsäule des Gouverneurs,der_gouverneur
+gdc,nmg0.0,144651,144722,leporello,144710,144713,Ich,leporello
+gdc,nmg0.0,144728,144803,don_juan,144793,144802,Leporello,leporello
+gdc,nmg0.0,144809,144956,leporello,144826,144829,ich,leporello
+gdc,nmg0.0,144809,144956,leporello,144905,144908,ich,leporello
+gdc,nmg0.0,144962,145003,der_gouverneur,144993,145001,Don Juan,don_juan
+gdc,nmg0.0,145070,145141,der_gouverneur,145122,145125,ich,der_gouverneur
+gdc,nmg0.0,145146,145540,don_juan,145229,145232,Ich,don_juan
+gdc,nmg0.0,145146,145540,don_juan,145258,145261,ich,don_juan
+gdc,nmg0.0,145146,145540,don_juan,145267,145273,meinen,don_juan
+gdc,nmg0.0,145146,145540,don_juan,145448,145453,meine,don_juan
+gdc,nmg0.0,145146,145540,don_juan,145477,145481,mein,don_juan
+gdc,nmg0.0,145146,145540,don_juan,145490,145493,Ich,don_juan
+gdc,nmg0.0,145146,145540,don_juan,145500,145508,Don Juan,don_juan
+gdc,nmg0.0,145546,145632,der_gouverneur,145614,145618,mich,der_gouverneur
+gdc,nmg0.0,145819,145907,_stage,145848,145877,die Bildsäule des Gouverneurs,der_gouverneur
+gdc,nmg0.0,145638,146219,don_juan,145935,145938,ich,don_juan
+gdc,nmg0.0,145638,146219,don_juan,146072,146075,ich,don_juan
+gdc,nmg0.0,146118,146131,_stage,146121,146130,Leporello,leporello
+gdc,nmg0.0,146659,146753,der_gouverneur,146691,146694,Ich,der_gouverneur
+gdc,nmg0.0,146659,146753,der_gouverneur,146743,146746,ich,der_gouverneur
+gdc,nmg0.0,146759,146912,don_juan,146794,146797,Ich,don_juan
+gdc,nmg0.0,146759,146912,don_juan,146844,146847,ich,don_juan
+gdc,nmg0.0,146918,147213,der_gouverneur,146950,146960,Donna Anna,donna_anna
+gdc,nmg0.0,146918,147213,der_gouverneur,146967,146978,Don Octavio,don_octavio
+gdc,nmg0.0,146918,147213,der_gouverneur,147157,147161,mich,der_gouverneur
+gdc,nmg0.0,146918,147213,der_gouverneur,147177,147180,ich,der_gouverneur
+gdc,nmg0.0,147219,147414,don_juan,147269,147272,ich,don_juan
+gdc,nmg0.0,147219,147414,don_juan,147289,147292,Ich,don_juan
+gdc,nmg0.0,147219,147414,don_juan,147317,147320,ich,don_juan
+gdc,nmg0.0,147219,147414,don_juan,147335,147338,mir,don_juan
+gdc,nmg0.0,147219,147414,don_juan,147353,147356,ich,don_juan
+gdc,nmg0.0,147219,147414,don_juan,147376,147379,mir,don_juan
+gdc,nmg0.0,147219,147414,don_juan,147391,147394,ich,don_juan
+gdc,nmg0.0,147420,147627,leporello,147549,147553,mich,leporello
+gdc,nmg0.0,147633,147743,der_gouverneur,147682,147685,mir,der_gouverneur
+gdc,nmg0.0,147749,148141,don_juan,147791,147794,ich,don_juan
+gdc,nmg0.0,147749,148141,don_juan,147861,147864,Ich,don_juan
+gdc,nmg0.0,147749,148141,don_juan,147875,147878,ich,don_juan
+gdc,nmg0.0,148145,148429,don_juan,148216,148221,meine,don_juan
+gdc,nmg0.0,148145,148429,don_juan,148339,148342,ich,don_juan
+gdc,nmg0.0,148371,148429,_stage,148381,148410,die Bildsäule des Gouverneurs,der_gouverneur
+gdc,nmg0.0,148472,148496,_stage,148472,148480,Don Juan,don_juan
+gdc,nmg0.0,148596,148778,leporello,148613,148618,meine,leporello
+gdc,nmg0.0,148596,148778,leporello,148691,148694,ich,leporello
+gdc,nmg0.0,148596,148778,leporello,148704,148708,mich,leporello
+gdc,nmg0.0,148719,148743,_stage,148727,148735,Don Juan,don_juan
+gdc,nmg0.0,148784,149020,der_gouverneur,148844,148849,Faust,faust
+gdc,nmg0.0,148784,149020,der_gouverneur,148874,148877,ich,der_gouverneur
+gdc,nmg0.0,148784,149020,der_gouverneur,148944,148947,ich,der_gouverneur
+gdc,nmg0.0,149026,149289,don_juan,149042,149045,Ich,don_juan
+gdc,nmg0.0,149026,149289,don_juan,149061,149064,ich,don_juan
+gdc,nmg0.0,149026,149289,don_juan,149070,149073,ich,don_juan
+gdc,nmg0.0,149026,149289,don_juan,149074,149082,Don Juan,don_juan
+gdc,nmg0.0,149026,149289,don_juan,149092,149095,ich,don_juan
+gdc,nmg0.0,149026,149289,don_juan,149109,149112,ich,don_juan
+gdc,nmg0.0,149026,149289,don_juan,149137,149145,Don Juan,don_juan
+gdc,nmg0.0,149026,149289,don_juan,149227,149231,mich,don_juan
+gdc,nmg0.0,149026,149289,don_juan,149263,149266,ich,don_juan
+gdc,nmg0.0,149372,149738,der_ritter,149620,149623,ich,der_ritter
+gdc,nmg0.0,149372,149738,der_ritter,149628,149631,mir,der_ritter
+gdc,nmg0.0,149372,149738,der_ritter,149657,149662,Faust,faust
+gdc,nmg0.0,149372,149738,der_ritter,149665,149668,Ich,der_ritter
+gdc,nmg0.0,149744,149903,don_juan,149770,149773,ich,don_juan
+gdc,nmg0.0,149850,149903,_stage,149850,149860,Der Ritter,der_ritter
+gdc,nmg0.0,149850,149903,_stage,149885,149893,Don Juan,don_juan
+gdc,nmg0.0,149907,150107,leporello,149945,149948,ich,leporello
+gdc,nmg0.0,149907,150107,leporello,150037,150040,Ich,leporello

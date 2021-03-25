@@ -1,7 +1,7 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,kq6v.0,HENLEY,henley,,
-gdc,kq6v.0,WIDSTON,widston,,
-gdc,kq6v.0,KLERDON,klerdon,,
-gdc,kq6v.0,TRUWORTH,truworth,,
-gdc,kq6v.0,GRANVILLE,granville,,
-gdc,kq6v.0,AMALIA,amalia,,
+gdc,kq6v.0,Granville,granville,MALE,
+gdc,kq6v.0,Widston,widston,MALE,
+gdc,kq6v.0,Amalia,amalia,FEMALE,
+gdc,kq6v.0,Truworth,truworth,MALE,
+gdc,kq6v.0,Henley,henley,MALE,
+gdc,kq6v.0,Klerdon,klerdon,MALE,

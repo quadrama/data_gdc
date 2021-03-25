@@ -1,4 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,kq0w.0,THESEUS,theseus,,
-gdc,kq0w.0,ARIADNE,ariadne,,
-gdc,kq0w.0,DIE STIMME DER OREADE,die_stimme_der_oreade,,
+gdc,kq0w.0,Ariadne,ariadne,FEMALE,
+gdc,kq0w.0,Theseus,theseus,MALE,
+gdc,kq0w.0,Die Stimme der Oreade,die_stimme_der_oreade,FEMALE,

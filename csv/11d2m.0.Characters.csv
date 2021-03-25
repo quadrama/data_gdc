@@ -1,6 +1,6 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,11d2m.0,PRINZESSIN,prinzessin,,
-gdc,11d2m.0,LEONORE,leonore,,
-gdc,11d2m.0,ALFONS,alfons,,
-gdc,11d2m.0,TASSO,tasso,,
-gdc,11d2m.0,ANTONIO,antonio,,
+gdc,11d2m.0,Antonio,antonio,MALE,
+gdc,11d2m.0,Leonore,leonore,FEMALE,
+gdc,11d2m.0,Alfons,alfons,MALE,
+gdc,11d2m.0,Prinzessin,prinzessin,FEMALE,
+gdc,11d2m.0,Tasso,tasso,MALE,

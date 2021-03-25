@@ -1,5 +1,5 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,11gtp.0,OLIMPIA,olimpia,,
-gdc,11gtp.0,ELMIRE,elmire,,
-gdc,11gtp.0,BERNARDO,bernardo,,
-gdc,11gtp.0,ERWIN,erwin,,
+gdc,11gtp.0,Elmire,elmire,FEMALE,
+gdc,11gtp.0,Olimpia,olimpia,FEMALE,
+gdc,11gtp.0,Erwin,erwin,MALE,
+gdc,11gtp.0,Bernardo,bernardo,MALE,

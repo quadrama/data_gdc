@@ -1,4 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,x5bv.0,TRUDE,trude,,
-gdc,x5bv.0,KUNZ,kunz,,
-gdc,x5bv.0,KURT,kurt,,
+gdc,x5bv.0,Kurt,kurt,MALE,
+gdc,x5bv.0,Kunz,kunz,MALE,
+gdc,x5bv.0,Trude,trude,FEMALE,

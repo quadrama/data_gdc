@@ -1,4 +1,4 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,pk02.0,RITA,rita,,
-gdc,pk02.0,BERTA,berta,,
-gdc,pk02.0,FRIEDRICH STIERWALD,friedrich_stierwald,,
+gdc,pk02.0,Berta,berta,FEMALE,
+gdc,pk02.0,Friedrich Stierwald,friedrich,MALE,
+gdc,pk02.0,Rita,rita,FEMALE,

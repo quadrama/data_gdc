@@ -1,5 +1,5 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,rfn5.0,AMBROSIA,ambrosia,,
-gdc,rfn5.0,ACHATIUS,achatius,,
-gdc,rfn5.0,IRMA,irma,,
-gdc,rfn5.0,VINCENZ,vincenz,,
+gdc,rfn5.0,Ambrosia,ambrosia,FEMALE,
+gdc,rfn5.0,Achatius Achaz,achatius_achaz,MALE,
+gdc,rfn5.0,Vincenz,vincenz,MALE,
+gdc,rfn5.0,Irma,irma,FEMALE,

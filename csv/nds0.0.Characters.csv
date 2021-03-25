@@ -1,5 +1,5 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,nds0.0,ANSELMO,anselmo,male,
-gdc,nds0.0,UGOLINO,ugolino,male,
-gdc,nds0.0,GADDO,gaddo,male,
-gdc,nds0.0,FRANCESCO,francesco,male,
+gdc,nds0.0,Anselmo,anselmo,MALE,
+gdc,nds0.0,Francesco,francesco,MALE,
+gdc,nds0.0,Ugolino,ugolino,MALE,
+gdc,nds0.0,Gaddo,gaddo,MALE,

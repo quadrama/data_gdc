@@ -1,6 +1,6 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,kpsk.0,BOHLE,bohle,,
-gdc,kpsk.0,JÜLF,jülf,,
-gdc,kpsk.0,OHM,ohm,,
-gdc,kpsk.0,PASTER,paster,,
-gdc,kpsk.0,MAIKE,maike,,
+gdc,kpsk.0,Maike,maike,FEMALE,
+gdc,kpsk.0,Jülf,juelf,MALE,
+gdc,kpsk.0,Ohm,ohm,MALE,
+gdc,kpsk.0,Bohle,bohle,MALE,
+gdc,kpsk.0,Paster,paster,MALE,

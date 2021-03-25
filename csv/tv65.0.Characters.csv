@@ -1,5 +1,5 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,tv65.0,DER ERZENGEL GABRIEL,der_erzengel_gabriel,,
-gdc,tv65.0,EIN REGIERUNGSBEAMTER,ein_regierungsbeamter,,
-gdc,tv65.0,EIN MILLIONÄR,ein_millionär,,
-gdc,tv65.0,DIE AUFGEREGTEN LEUTE,die_aufgeregten_leute,,
+gdc,tv65.0,Der Erzengel Gabriel,der_erzengel_gabriel,MALE,
+gdc,tv65.0,Der Regierungsbeamte von vorhin,ein_regierungsbeamter,MALE,
+gdc,tv65.0,Der Millionär von vorhin,ein_millionaer,MALE,
+gdc,tv65.0,Die aufgeregten Leute,die_aufgeregten_leute,UNKNOWN,

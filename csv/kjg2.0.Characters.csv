@@ -1,6 +1,6 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,kjg2.0,EDMUND,edmund,,
-gdc,kjg2.0,HAHNENSPORN,hahnensporn,,
-gdc,kjg2.0,GUSTE,guste,,
-gdc,kjg2.0,OTTO,otto,,
-gdc,kjg2.0,ANTONIE,antonie,,
+gdc,kjg2.0,Guste,guste,FEMALE,
+gdc,kjg2.0,Antonie,antonie,FEMALE,
+gdc,kjg2.0,Edmund,edmund,MALE,
+gdc,kjg2.0,Hahnensporn,hahnensporn,MALE,
+gdc,kjg2.0,Otto,otto,MALE,

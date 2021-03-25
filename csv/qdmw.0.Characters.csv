@@ -1,5 +1,5 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,qdmw.0,DER DICHTER,der_dichter,,
-gdc,qdmw.0,MADONNA DIANORA,madonna_dianora,,
-gdc,qdmw.0,AMME,amme,,
-gdc,qdmw.0,BRACCIO,braccio,,
+gdc,qdmw.0,Messer Braccio,braccio,MALE,
+gdc,qdmw.0,Der Dichter,der_dichter,MALE,
+gdc,qdmw.0,Madonna Dianora,dianora,FEMALE,
+gdc,qdmw.0,Amme,amme,FEMALE,

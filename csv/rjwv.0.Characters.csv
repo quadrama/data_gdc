@@ -1,7 +1,7 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,rjwv.0,DAMIS,damis,,
-gdc,rjwv.0,ANTON,anton,,
-gdc,rjwv.0,CHRYSANDER,chrysander,,
-gdc,rjwv.0,LISETTE,lisette,,
-gdc,rjwv.0,JULIANE,juliane,,
-gdc,rjwv.0,VALER,valer,,
+gdc,rjwv.0,Anton,anton,MALE,
+gdc,rjwv.0,Chrysander,chrysander,MALE,
+gdc,rjwv.0,Juliane,juliane,FEMALE,
+gdc,rjwv.0,Lisette,lisette,FEMALE,
+gdc,rjwv.0,Damis,damis,MALE,
+gdc,rjwv.0,Valer,valer,MALE,

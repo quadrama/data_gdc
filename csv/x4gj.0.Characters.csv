@@ -1,6 +1,6 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,x4gj.0,ATREUS,atreus,,
-gdc,x4gj.0,PRIESTER,priester,,
-gdc,x4gj.0,AEGISTH,aegisth,,
-gdc,x4gj.0,THYEST,thyest,,
-gdc,x4gj.0,PELOPIA,pelopia,,
+gdc,x4gj.0,Pelopia,pelopia,FEMALE,
+gdc,x4gj.0,Atreus,atreus,MALE,
+gdc,x4gj.0,Thyest,thyest,MALE,
+gdc,x4gj.0,Priester,priester,MALE,
+gdc,x4gj.0,Aegisth,aegisth,MALE,

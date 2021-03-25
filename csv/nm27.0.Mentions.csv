@@ -1,0 +1,507 @@
+corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+gdc,nm27.0,649,741,_stage,649,665,Jungfer Lottchen,jungfer_lottchen
+gdc,nm27.0,649,741,_stage,727,740,Herr Reinhart,herr_reinhart
+gdc,nm27.0,743,1082,herr_reinhart,775,791,Jungfer Lottchen,jungfer_lottchen
+gdc,nm27.0,743,1082,herr_reinhart,793,796,Ich,herr_reinhart
+gdc,nm27.0,743,1082,herr_reinhart,854,857,Ich,herr_reinhart
+gdc,nm27.0,743,1082,herr_reinhart,918,921,ich,herr_reinhart
+gdc,nm27.0,743,1082,herr_reinhart,957,960,ich,herr_reinhart
+gdc,nm27.0,743,1082,herr_reinhart,965,971,meiner,herr_reinhart
+gdc,nm27.0,1087,1283,jungfer_lottchen,1121,1124,mir,jungfer_lottchen
+gdc,nm27.0,1087,1283,jungfer_lottchen,1240,1243,mir,jungfer_lottchen
+gdc,nm27.0,1288,1472,herr_reinhart,1321,1337,Jungfer Lottchen,jungfer_lottchen
+gdc,nm27.0,1288,1472,herr_reinhart,1420,1423,ich,herr_reinhart
+gdc,nm27.0,1288,1472,herr_reinhart,1440,1444,mein,herr_reinhart
+gdc,nm27.0,1635,1748,herr_reinhart,1667,1670,Ich,herr_reinhart
+gdc,nm27.0,1635,1748,herr_reinhart,1688,1691,mir,herr_reinhart
+gdc,nm27.0,1753,2052,jungfer_lottchen,1829,1842,Herr Reinhart,herr_reinhart
+gdc,nm27.0,1753,2052,jungfer_lottchen,2019,2025,meines,jungfer_lottchen
+gdc,nm27.0,2348,2758,jungfer_lottchen,2372,2376,mein,jungfer_lottchen
+gdc,nm27.0,2348,2758,jungfer_lottchen,2377,2390,Herr Reinhart,herr_reinhart
+gdc,nm27.0,2763,2817,herr_reinhart,2800,2816,Jungfer Lottchen,jungfer_lottchen
+gdc,nm27.0,2822,3003,jungfer_lottchen,2851,2854,ich,jungfer_lottchen
+gdc,nm27.0,3008,3140,herr_reinhart,3049,3052,mir,herr_reinhart
+gdc,nm27.0,3008,3140,herr_reinhart,3064,3080,Jungfer Lottchen,jungfer_lottchen
+gdc,nm27.0,3145,3276,jungfer_lottchen,3200,3203,mir,jungfer_lottchen
+gdc,nm27.0,3145,3276,jungfer_lottchen,3257,3260,ich,jungfer_lottchen
+gdc,nm27.0,3360,3441,jungfer_lottchen,3404,3407,ich,jungfer_lottchen
+gdc,nm27.0,3580,3832,jungfer_lottchen,3607,3610,Ich,jungfer_lottchen
+gdc,nm27.0,3580,3832,jungfer_lottchen,3634,3637,mir,jungfer_lottchen
+gdc,nm27.0,3580,3832,jungfer_lottchen,3796,3809,Herr Vielwitz,herr_vielwitz
+gdc,nm27.0,3837,4055,herr_reinhart,3863,3866,mir,herr_reinhart
+gdc,nm27.0,3837,4055,herr_reinhart,3906,3922,Jungfer Lottchen,jungfer_lottchen
+gdc,nm27.0,3837,4055,herr_reinhart,3950,3954,mein,herr_reinhart
+gdc,nm27.0,4141,4250,herr_reinhart,4165,4169,mich,herr_reinhart
+gdc,nm27.0,4141,4250,herr_reinhart,4203,4206,ich,herr_reinhart
+gdc,nm27.0,4141,4250,herr_reinhart,4229,4233,mein,herr_reinhart
+gdc,nm27.0,4255,4346,jungfer_lottchen,4281,4284,ich,jungfer_lottchen
+gdc,nm27.0,4351,4751,herr_reinhart,4431,4434,ich,herr_reinhart
+gdc,nm27.0,4351,4751,herr_reinhart,4440,4444,mein,herr_reinhart
+gdc,nm27.0,4351,4751,herr_reinhart,4488,4492,mich,herr_reinhart
+gdc,nm27.0,4351,4751,herr_reinhart,4638,4644,meinen,herr_reinhart
+gdc,nm27.0,4351,4751,herr_reinhart,4663,4666,ich,herr_reinhart
+gdc,nm27.0,4351,4751,herr_reinhart,4734,4750,Jungfer Lottchen,jungfer_lottchen
+gdc,nm27.0,4756,4828,jungfer_lottchen,4784,4787,ich,jungfer_lottchen
+gdc,nm27.0,4756,4828,jungfer_lottchen,4794,4798,mein,jungfer_lottchen
+gdc,nm27.0,4833,4947,herr_reinhart,4857,4860,mir,herr_reinhart
+gdc,nm27.0,4952,5042,jungfer_lottchen,5007,5013,meines,jungfer_lottchen
+gdc,nm27.0,5047,5148,herr_reinhart,5123,5127,mich,herr_reinhart
+gdc,nm27.0,5153,5200,jungfer_lottchen,5177,5180,ich,jungfer_lottchen
+gdc,nm27.0,5205,5280,herr_reinhart,5220,5223,Ich,herr_reinhart
+gdc,nm27.0,5285,5352,jungfer_lottchen,5327,5330,mir,jungfer_lottchen
+gdc,nm27.0,5357,5560,herr_reinhart,5522,5526,mich,herr_reinhart
+gdc,nm27.0,5565,5734,jungfer_lottchen,5646,5649,ich,jungfer_lottchen
+gdc,nm27.0,5565,5734,jungfer_lottchen,5650,5653,mir,jungfer_lottchen
+gdc,nm27.0,5790,5866,jungfer_lottchen,5808,5811,Ich,jungfer_lottchen
+gdc,nm27.0,5926,6050,jungfer_lottchen,5963,5967,mich,jungfer_lottchen
+gdc,nm27.0,6055,6140,herr_reinhart,6101,6104,mir,herr_reinhart
+gdc,nm27.0,6145,6548,jungfer_lottchen,6296,6300,mich,jungfer_lottchen
+gdc,nm27.0,6145,6548,jungfer_lottchen,6385,6388,ich,jungfer_lottchen
+gdc,nm27.0,6145,6548,jungfer_lottchen,6450,6453,ich,jungfer_lottchen
+gdc,nm27.0,6145,6548,jungfer_lottchen,6454,6458,mich,jungfer_lottchen
+gdc,nm27.0,6145,6548,jungfer_lottchen,6495,6499,Mich,jungfer_lottchen
+gdc,nm27.0,6671,6762,jungfer_lottchen,6693,6696,ich,jungfer_lottchen
+gdc,nm27.0,6671,6762,jungfer_lottchen,6726,6729,ich,jungfer_lottchen
+gdc,nm27.0,6767,6929,herr_reinhart,6793,6797,mich,herr_reinhart
+gdc,nm27.0,6767,6929,herr_reinhart,6813,6816,Ich,herr_reinhart
+gdc,nm27.0,6767,6929,herr_reinhart,6846,6850,mein,herr_reinhart
+gdc,nm27.0,6767,6929,herr_reinhart,6887,6890,mir,herr_reinhart
+gdc,nm27.0,6934,7043,jungfer_lottchen,6999,7002,ich,jungfer_lottchen
+gdc,nm27.0,7106,7327,jungfer_lottchen,7136,7139,ich,jungfer_lottchen
+gdc,nm27.0,7383,7627,jungfer_lottchen,7401,7404,Ich,jungfer_lottchen
+gdc,nm27.0,7632,7878,herr_reinhart,7667,7670,mir,herr_reinhart
+gdc,nm27.0,7632,7878,herr_reinhart,7686,7702,Jungfer Lottchen,jungfer_lottchen
+gdc,nm27.0,7883,7939,jungfer_lottchen,7928,7931,ich,jungfer_lottchen
+gdc,nm27.0,7944,8066,herr_reinhart,7959,7962,Ich,herr_reinhart
+gdc,nm27.0,7944,8066,herr_reinhart,7968,7974,meinem,herr_reinhart
+gdc,nm27.0,8270,8457,herr_reinhart,8326,8330,Mein,herr_reinhart
+gdc,nm27.0,8462,8656,jungfer_lottchen,8488,8491,ich,jungfer_lottchen
+gdc,nm27.0,8462,8656,jungfer_lottchen,8630,8636,meiner,jungfer_lottchen
+gdc,nm27.0,8837,9104,herr_reinhart,8886,8889,ich,herr_reinhart
+gdc,nm27.0,8837,9104,herr_reinhart,8902,8905,Ich,herr_reinhart
+gdc,nm27.0,8837,9104,herr_reinhart,8962,8965,mir,herr_reinhart
+gdc,nm27.0,8837,9104,herr_reinhart,9023,9026,ich,herr_reinhart
+gdc,nm27.0,8837,9104,herr_reinhart,9044,9047,mir,herr_reinhart
+gdc,nm27.0,9616,9685,herr_reinhart,9668,9684,Jungfer Lottchen,jungfer_lottchen
+gdc,nm27.0,9690,9797,jungfer_lottchen,9763,9766,mir,jungfer_lottchen
+gdc,nm27.0,9802,9936,herr_reinhart,9837,9840,mir,herr_reinhart
+gdc,nm27.0,9941,10007,jungfer_lottchen,9964,9967,ich,jungfer_lottchen
+gdc,nm27.0,10057,10316,jungfer_lottchen,10075,10078,Ich,jungfer_lottchen
+gdc,nm27.0,10057,10316,jungfer_lottchen,10121,10124,mir,jungfer_lottchen
+gdc,nm27.0,10057,10316,jungfer_lottchen,10253,10266,Herr Reinhart,herr_reinhart
+gdc,nm27.0,10321,10627,herr_reinhart,10345,10348,ich,herr_reinhart
+gdc,nm27.0,10321,10627,herr_reinhart,10352,10358,meinem,herr_reinhart
+gdc,nm27.0,10321,10627,herr_reinhart,10388,10391,mir,herr_reinhart
+gdc,nm27.0,10321,10627,herr_reinhart,10424,10427,ich,herr_reinhart
+gdc,nm27.0,10321,10627,herr_reinhart,10558,10561,Ich,herr_reinhart
+gdc,nm27.0,10653,10744,_stage,10653,10669,Jungfer Lottchen,jungfer_lottchen
+gdc,nm27.0,10653,10744,_stage,10725,10743,der junge Reinhart,der_junge_reinhart
+gdc,nm27.0,10746,10799,jungfer_lottchen,10780,10784,mein,jungfer_lottchen
+gdc,nm27.0,10746,10799,jungfer_lottchen,10785,10798,Herr Reinhart,herr_reinhart
+gdc,nm27.0,10804,10877,der_junge_reinhart,10847,10860,Herr Vielwitz,herr_vielwitz
+gdc,nm27.0,10882,11035,jungfer_lottchen,10946,10950,mich,jungfer_lottchen
+gdc,nm27.0,11040,11123,der_junge_reinhart,11066,11070,mein,der_junge_reinhart
+gdc,nm27.0,11040,11123,der_junge_reinhart,11082,11085,ich,der_junge_reinhart
+gdc,nm27.0,11198,11324,der_junge_reinhart,11218,11222,mein,der_junge_reinhart
+gdc,nm27.0,11198,11324,der_junge_reinhart,11235,11239,mein,der_junge_reinhart
+gdc,nm27.0,11198,11324,der_junge_reinhart,11277,11290,Herr Vielwitz,herr_vielwitz
+gdc,nm27.0,11198,11324,der_junge_reinhart,11295,11298,ich,der_junge_reinhart
+gdc,nm27.0,11329,11447,jungfer_lottchen,11433,11439,meinem,jungfer_lottchen
+gdc,nm27.0,11493,11604,jungfer_lottchen,11546,11549,ich,jungfer_lottchen
+gdc,nm27.0,11638,11731,jungfer_lottchen,11664,11667,ich,jungfer_lottchen
+gdc,nm27.0,11638,11731,jungfer_lottchen,11707,11710,mir,jungfer_lottchen
+gdc,nm27.0,11736,11899,der_junge_reinhart,11751,11754,Ich,der_junge_reinhart
+gdc,nm27.0,11736,11899,der_junge_reinhart,11800,11803,ich,der_junge_reinhart
+gdc,nm27.0,11736,11899,der_junge_reinhart,11804,11809,meine,der_junge_reinhart
+gdc,nm27.0,11736,11899,der_junge_reinhart,11832,11835,Ich,der_junge_reinhart
+gdc,nm27.0,11736,11899,der_junge_reinhart,11872,11875,ich,der_junge_reinhart
+gdc,nm27.0,11904,12016,jungfer_lottchen,11933,11946,Herr Reinhart,herr_reinhart
+gdc,nm27.0,11904,12016,jungfer_lottchen,11959,11962,mir,jungfer_lottchen
+gdc,nm27.0,12021,12340,der_junge_reinhart,12126,12132,meinem,der_junge_reinhart
+gdc,nm27.0,12021,12340,der_junge_reinhart,12318,12321,ich,der_junge_reinhart
+gdc,nm27.0,12346,12436,jungfer_lottchen,12373,12376,mir,jungfer_lottchen
+gdc,nm27.0,12346,12436,jungfer_lottchen,12392,12395,Ich,jungfer_lottchen
+gdc,nm27.0,12346,12436,jungfer_lottchen,12412,12415,ich,jungfer_lottchen
+gdc,nm27.0,12441,12570,der_junge_reinhart,12456,12459,Ich,der_junge_reinhart
+gdc,nm27.0,12441,12570,der_junge_reinhart,12486,12489,ich,der_junge_reinhart
+gdc,nm27.0,12441,12570,der_junge_reinhart,12490,12494,mich,der_junge_reinhart
+gdc,nm27.0,12639,13054,der_junge_reinhart,12677,12681,mich,der_junge_reinhart
+gdc,nm27.0,12639,13054,der_junge_reinhart,12683,12686,ich,der_junge_reinhart
+gdc,nm27.0,12639,13054,der_junge_reinhart,12780,12783,Ich,der_junge_reinhart
+gdc,nm27.0,12639,13054,der_junge_reinhart,12830,12833,ich,der_junge_reinhart
+gdc,nm27.0,12639,13054,der_junge_reinhart,12876,12879,ich,der_junge_reinhart
+gdc,nm27.0,12639,13054,der_junge_reinhart,12912,12918,meinem,der_junge_reinhart
+gdc,nm27.0,12639,13054,der_junge_reinhart,13018,13021,ich,der_junge_reinhart
+gdc,nm27.0,13145,13682,der_junge_reinhart,13274,13278,mich,der_junge_reinhart
+gdc,nm27.0,13145,13682,der_junge_reinhart,13306,13310,mich,der_junge_reinhart
+gdc,nm27.0,13145,13682,der_junge_reinhart,13377,13380,mir,der_junge_reinhart
+gdc,nm27.0,13145,13682,der_junge_reinhart,13579,13582,ich,der_junge_reinhart
+gdc,nm27.0,13145,13682,der_junge_reinhart,13629,13632,ich,der_junge_reinhart
+gdc,nm27.0,13145,13682,der_junge_reinhart,13637,13642,meine,der_junge_reinhart
+gdc,nm27.0,14020,14065,jungfer_lottchen,14061,14064,mir,jungfer_lottchen
+gdc,nm27.0,14070,14493,der_junge_reinhart,14085,14088,Ich,der_junge_reinhart
+gdc,nm27.0,14070,14493,der_junge_reinhart,14109,14112,ich,der_junge_reinhart
+gdc,nm27.0,14070,14493,der_junge_reinhart,14125,14128,Ich,der_junge_reinhart
+gdc,nm27.0,14499,14643,jungfer_lottchen,14534,14537,mir,jungfer_lottchen
+gdc,nm27.0,14499,14643,jungfer_lottchen,14579,14582,ich,jungfer_lottchen
+gdc,nm27.0,14648,14820,der_junge_reinhart,14757,14760,ich,der_junge_reinhart
+gdc,nm27.0,14648,14820,der_junge_reinhart,14794,14797,mir,der_junge_reinhart
+gdc,nm27.0,14825,14932,jungfer_lottchen,14875,14878,ich,jungfer_lottchen
+gdc,nm27.0,14825,14932,jungfer_lottchen,14912,14918,meinem,jungfer_lottchen
+gdc,nm27.0,15029,15114,jungfer_lottchen,15047,15050,Ich,jungfer_lottchen
+gdc,nm27.0,15029,15114,jungfer_lottchen,15058,15062,mein,jungfer_lottchen
+gdc,nm27.0,15029,15114,jungfer_lottchen,15081,15085,mein,jungfer_lottchen
+gdc,nm27.0,15140,15286,_stage,15140,15156,Jungfer Lottchen,jungfer_lottchen
+gdc,nm27.0,15140,15286,_stage,15158,15171,Herr Reinhart,herr_reinhart
+gdc,nm27.0,15140,15286,_stage,15173,15186,Herr Vielwitz,herr_vielwitz
+gdc,nm27.0,15288,15402,herr_vielwitz,15343,15348,meine,herr_vielwitz
+gdc,nm27.0,15288,15402,herr_vielwitz,15388,15401,Herr Reinhart,herr_reinhart
+gdc,nm27.0,15407,15491,jungfer_lottchen,15441,15454,Herr Vielwitz,herr_vielwitz
+gdc,nm27.0,15564,15690,jungfer_lottchen,15582,15585,Ich,jungfer_lottchen
+gdc,nm27.0,15564,15690,jungfer_lottchen,15607,15610,ich,jungfer_lottchen
+gdc,nm27.0,15862,15972,herr_vielwitz,15901,15905,mich,herr_vielwitz
+gdc,nm27.0,15977,16098,jungfer_lottchen,16072,16088,Jungfer Lottchen,jungfer_lottchen
+gdc,nm27.0,16103,16172,der_junge_reinhart,16153,16157,mein,der_junge_reinhart
+gdc,nm27.0,16103,16172,der_junge_reinhart,16158,16171,Herr Vielwitz,herr_vielwitz
+gdc,nm27.0,16178,16250,herr_vielwitz,16218,16221,ich,herr_vielwitz
+gdc,nm27.0,16322,16497,herr_vielwitz,16399,16402,ich,herr_vielwitz
+gdc,nm27.0,16322,16497,herr_vielwitz,16408,16413,meine,herr_vielwitz
+gdc,nm27.0,16322,16497,herr_vielwitz,16472,16475,ich,herr_vielwitz
+gdc,nm27.0,16322,16497,herr_vielwitz,16476,16480,mich,herr_vielwitz
+gdc,nm27.0,16566,16771,herr_vielwitz,16598,16601,ich,herr_vielwitz
+gdc,nm27.0,16566,16771,herr_vielwitz,16734,16737,ich,herr_vielwitz
+gdc,nm27.0,16995,17013,_stage,17008,17012,Paul,paul
+gdc,nm27.0,17020,17040,_stage,17023,17039,Jungfer Lottchen,jungfer_lottchen
+gdc,nm27.0,17248,17507,herr_vielwitz,17283,17286,ich,herr_vielwitz
+gdc,nm27.0,17248,17507,herr_vielwitz,17312,17315,Ich,herr_vielwitz
+gdc,nm27.0,17248,17507,herr_vielwitz,17350,17353,ich,herr_vielwitz
+gdc,nm27.0,17248,17507,herr_vielwitz,17416,17419,ich,herr_vielwitz
+gdc,nm27.0,17248,17507,herr_vielwitz,17463,17466,ich,herr_vielwitz
+gdc,nm27.0,17248,17507,herr_vielwitz,17489,17494,meine,herr_vielwitz
+gdc,nm27.0,17512,17726,jungfer_lottchen,17539,17542,ich,jungfer_lottchen
+gdc,nm27.0,17512,17726,jungfer_lottchen,17576,17579,ich,jungfer_lottchen
+gdc,nm27.0,17512,17726,jungfer_lottchen,17695,17698,ich,jungfer_lottchen
+gdc,nm27.0,17731,17905,herr_vielwitz,17760,17766,meiner,herr_vielwitz
+gdc,nm27.0,18267,18689,herr_vielwitz,18282,18285,Ich,herr_vielwitz
+gdc,nm27.0,18267,18689,herr_vielwitz,18442,18445,ich,herr_vielwitz
+gdc,nm27.0,18267,18689,herr_vielwitz,18446,18449,mir,herr_vielwitz
+gdc,nm27.0,18694,18986,jungfer_lottchen,18742,18745,ich,jungfer_lottchen
+gdc,nm27.0,18889,18986,_stage,18957,18973,Jungfer Lottchen,jungfer_lottchen
+gdc,nm27.0,18990,19185,herr_vielwitz,19028,19031,ich,herr_vielwitz
+gdc,nm27.0,18990,19185,herr_vielwitz,19032,19037,meine,herr_vielwitz
+gdc,nm27.0,18990,19185,herr_vielwitz,19091,19094,ich,herr_vielwitz
+gdc,nm27.0,19250,19480,herr_vielwitz,19274,19277,ich,herr_vielwitz
+gdc,nm27.0,19250,19480,herr_vielwitz,19324,19327,ich,herr_vielwitz
+gdc,nm27.0,19250,19480,herr_vielwitz,19373,19376,ich,herr_vielwitz
+gdc,nm27.0,19869,20097,herr_vielwitz,19907,19912,meine,herr_vielwitz
+gdc,nm27.0,19869,20097,herr_vielwitz,19930,19933,ich,herr_vielwitz
+gdc,nm27.0,19869,20097,herr_vielwitz,19964,19967,ich,herr_vielwitz
+gdc,nm27.0,19869,20097,herr_vielwitz,19979,19982,Ich,herr_vielwitz
+gdc,nm27.0,20103,20247,der_junge_reinhart,20136,20139,Ich,der_junge_reinhart
+gdc,nm27.0,20103,20247,der_junge_reinhart,20227,20232,meine,der_junge_reinhart
+gdc,nm27.0,20438,20532,der_junge_reinhart,20517,20520,ich,der_junge_reinhart
+gdc,nm27.0,20438,20532,der_junge_reinhart,20525,20531,meinem,der_junge_reinhart
+gdc,nm27.0,20537,20694,jungfer_lottchen,20561,20574,Herr Vielwitz,herr_vielwitz
+gdc,nm27.0,20537,20694,jungfer_lottchen,20576,20579,ich,jungfer_lottchen
+gdc,nm27.0,20720,20836,_stage,20733,20747,Herr Sinnreich,herr_sinnreich
+gdc,nm27.0,20720,20836,_stage,20749,20760,Herr Jambus,herr_jambus
+gdc,nm27.0,20838,21017,der_junge_reinhart,20864,20869,meine,der_junge_reinhart
+gdc,nm27.0,21022,21093,herr_sinnreich,21050,21054,mein,herr_sinnreich
+gdc,nm27.0,21022,21093,herr_sinnreich,21061,21064,ich,herr_sinnreich
+gdc,nm27.0,21098,21160,herr_jambus,21118,21121,mir,herr_jambus
+gdc,nm27.0,21165,21305,herr_vielwitz,21187,21191,mich,herr_vielwitz
+gdc,nm27.0,21165,21305,herr_vielwitz,21261,21274,Herr Reinhart,herr_reinhart
+gdc,nm27.0,21165,21305,herr_vielwitz,21275,21279,mich,herr_vielwitz
+gdc,nm27.0,21348,21613,_stage,21427,21443,Jungfer Lottchen,jungfer_lottchen
+gdc,nm27.0,21348,21613,_stage,21565,21581,Jungfer Lottchen,jungfer_lottchen
+gdc,nm27.0,21617,21739,herr_jambus,21675,21679,mein,herr_jambus
+gdc,nm27.0,21617,21739,herr_jambus,21680,21693,Herr Vielwitz,herr_vielwitz
+gdc,nm27.0,21833,21893,herr_vielwitz,21848,21851,Ich,herr_vielwitz
+gdc,nm27.0,21959,22098,jungfer_lottchen,21986,21991,meine,jungfer_lottchen
+gdc,nm27.0,22304,22414,herr_jambus,22321,22325,mein,herr_jambus
+gdc,nm27.0,22304,22414,herr_jambus,22333,22347,Herr Sinnreich,herr_sinnreich
+gdc,nm27.0,22419,22569,herr_sinnreich,22439,22450,Herr Jambus,herr_jambus
+gdc,nm27.0,23059,23410,der_junge_reinhart,23082,23085,Ich,der_junge_reinhart
+gdc,nm27.0,23059,23410,der_junge_reinhart,23259,23275,Jungfer Lottchen,jungfer_lottchen
+gdc,nm27.0,23059,23410,der_junge_reinhart,23277,23280,Ich,der_junge_reinhart
+gdc,nm27.0,23415,23541,herr_sinnreich,23431,23434,Ich,herr_sinnreich
+gdc,nm27.0,23781,23979,herr_vielwitz,23823,23827,mein,herr_vielwitz
+gdc,nm27.0,23781,23979,herr_vielwitz,23834,23837,Ich,herr_vielwitz
+gdc,nm27.0,23781,23979,herr_vielwitz,23896,23899,Ich,herr_vielwitz
+gdc,nm27.0,23781,23979,herr_vielwitz,23936,23939,ich,herr_vielwitz
+gdc,nm27.0,24072,24153,herr_vielwitz,24125,24129,mein,herr_vielwitz
+gdc,nm27.0,24158,24308,der_junge_reinhart,24200,24213,Herr Vielwitz,herr_vielwitz
+gdc,nm27.0,24401,24532,herr_vielwitz,24420,24424,mein,herr_vielwitz
+gdc,nm27.0,24401,24532,herr_vielwitz,24431,24437,Meines,herr_vielwitz
+gdc,nm27.0,24537,24728,herr_sinnreich,24601,24604,Ich,herr_sinnreich
+gdc,nm27.0,24537,24728,herr_sinnreich,24706,24709,ich,herr_sinnreich
+gdc,nm27.0,24851,25013,herr_jambus,24907,24910,ich,herr_jambus
+gdc,nm27.0,24851,25013,herr_jambus,24958,24961,ich,herr_jambus
+gdc,nm27.0,24851,25013,herr_jambus,24965,24971,meinem,herr_jambus
+gdc,nm27.0,25018,25172,der_junge_reinhart,25045,25059,Herr Sinnreich,herr_sinnreich
+gdc,nm27.0,25537,25654,der_junge_reinhart,25566,25570,mein,der_junge_reinhart
+gdc,nm27.0,25537,25654,der_junge_reinhart,25571,25585,Herr Sinnreich,herr_sinnreich
+gdc,nm27.0,25660,25934,herr_sinnreich,25903,25906,ich,herr_sinnreich
+gdc,nm27.0,25939,26068,jungfer_lottchen,25968,25971,mir,jungfer_lottchen
+gdc,nm27.0,25939,26068,jungfer_lottchen,25982,25985,ich,jungfer_lottchen
+gdc,nm27.0,25939,26068,jungfer_lottchen,26034,26037,mir,jungfer_lottchen
+gdc,nm27.0,26073,26216,herr_sinnreich,26098,26101,mir,herr_sinnreich
+gdc,nm27.0,26073,26216,herr_sinnreich,26121,26126,meine,herr_sinnreich
+gdc,nm27.0,26073,26216,herr_sinnreich,26165,26168,ich,herr_sinnreich
+gdc,nm27.0,26073,26216,herr_sinnreich,26185,26190,meine,herr_sinnreich
+gdc,nm27.0,26221,26353,herr_vielwitz,26308,26311,ich,herr_vielwitz
+gdc,nm27.0,26221,26353,herr_vielwitz,26312,26316,mich,herr_vielwitz
+gdc,nm27.0,26358,26452,herr_sinnreich,26404,26407,ich,herr_sinnreich
+gdc,nm27.0,26678,26973,herr_sinnreich,26698,26701,ich,herr_sinnreich
+gdc,nm27.0,26678,26973,herr_sinnreich,26785,26790,meine,herr_sinnreich
+gdc,nm27.0,26678,26973,herr_sinnreich,26796,26799,ich,herr_sinnreich
+gdc,nm27.0,26978,27031,herr_vielwitz,26993,26996,Ich,herr_vielwitz
+gdc,nm27.0,27036,27182,herr_sinnreich,27073,27076,ich,herr_sinnreich
+gdc,nm27.0,27337,27683,herr_sinnreich,27398,27401,Ich,herr_sinnreich
+gdc,nm27.0,27875,28114,herr_jambus,27892,27906,Herr Sinnreich,herr_sinnreich
+gdc,nm27.0,27875,28114,herr_jambus,27990,27994,mich,herr_jambus
+gdc,nm27.0,28119,28291,herr_sinnreich,28149,28152,Ich,herr_sinnreich
+gdc,nm27.0,28382,28495,herr_vielwitz,28424,28427,ich,herr_vielwitz
+gdc,nm27.0,28382,28495,herr_vielwitz,28447,28452,meine,herr_vielwitz
+gdc,nm27.0,28500,28571,herr_sinnreich,28516,28519,Ich,herr_sinnreich
+gdc,nm27.0,28500,28571,herr_sinnreich,28528,28532,mich,herr_sinnreich
+gdc,nm27.0,28742,28865,herr_vielwitz,28786,28789,mir,herr_vielwitz
+gdc,nm27.0,28742,28865,herr_vielwitz,28803,28806,mir,herr_vielwitz
+gdc,nm27.0,28742,28865,herr_vielwitz,28808,28811,ich,herr_vielwitz
+gdc,nm27.0,28870,29173,der_junge_reinhart,28903,28908,meine,der_junge_reinhart
+gdc,nm27.0,28870,29173,der_junge_reinhart,29121,29124,ich,der_junge_reinhart
+gdc,nm27.0,29177,29427,herr_vielwitz,29192,29195,Ich,herr_vielwitz
+gdc,nm27.0,29177,29427,herr_vielwitz,29238,29241,ich,herr_vielwitz
+gdc,nm27.0,29177,29427,herr_vielwitz,29335,29341,meinen,herr_vielwitz
+gdc,nm27.0,29177,29427,herr_vielwitz,29384,29387,ich,herr_vielwitz
+gdc,nm27.0,29177,29427,herr_vielwitz,29413,29416,ich,herr_vielwitz
+gdc,nm27.0,29494,29658,herr_vielwitz,29539,29543,mich,herr_vielwitz
+gdc,nm27.0,29494,29658,herr_vielwitz,29594,29600,meinen,herr_vielwitz
+gdc,nm27.0,29494,29658,herr_vielwitz,29628,29632,mich,herr_vielwitz
+gdc,nm27.0,29710,30032,herr_vielwitz,29739,29742,ich,herr_vielwitz
+gdc,nm27.0,29710,30032,herr_vielwitz,29782,29785,ich,herr_vielwitz
+gdc,nm27.0,29710,30032,herr_vielwitz,29873,29876,ich,herr_vielwitz
+gdc,nm27.0,29710,30032,herr_vielwitz,29930,29933,Ich,herr_vielwitz
+gdc,nm27.0,29710,30032,herr_vielwitz,29940,29944,mich,herr_vielwitz
+gdc,nm27.0,29710,30032,herr_vielwitz,29982,29985,ich,herr_vielwitz
+gdc,nm27.0,29710,30032,herr_vielwitz,29986,29989,mir,herr_vielwitz
+gdc,nm27.0,30037,30106,herr_jambus,30092,30105,Herr Vielwitz,herr_vielwitz
+gdc,nm27.0,30111,30192,herr_vielwitz,30139,30144,meine,herr_vielwitz
+gdc,nm27.0,30197,30254,jungfer_lottchen,30240,30253,Herr Reinhart,herr_reinhart
+gdc,nm27.0,30259,30394,der_junge_reinhart,30310,30313,ich,der_junge_reinhart
+gdc,nm27.0,30399,30616,jungfer_lottchen,30471,30474,ich,jungfer_lottchen
+gdc,nm27.0,30643,30701,_stage,30643,30656,Herr Reinhart,herr_reinhart
+gdc,nm27.0,30643,30701,_stage,30658,30671,Herr Vielwitz,herr_vielwitz
+gdc,nm27.0,30643,30701,_stage,30673,30684,Herr Jambus,herr_jambus
+gdc,nm27.0,30643,30701,_stage,30686,30700,Herr Sinnreich,herr_sinnreich
+gdc,nm27.0,30703,30795,herr_jambus,30724,30727,mir,herr_jambus
+gdc,nm27.0,30703,30795,herr_jambus,30755,30758,ich,herr_jambus
+gdc,nm27.0,30800,30874,herr_sinnreich,30816,30819,Mir,herr_sinnreich
+gdc,nm27.0,30879,30965,herr_vielwitz,30947,30950,ich,herr_vielwitz
+gdc,nm27.0,31379,31597,herr_vielwitz,31397,31402,meine,herr_vielwitz
+gdc,nm27.0,31379,31597,herr_vielwitz,31418,31422,mich,herr_vielwitz
+gdc,nm27.0,31379,31597,herr_vielwitz,31466,31472,meiner,herr_vielwitz
+gdc,nm27.0,31379,31597,herr_vielwitz,31510,31513,ich,herr_vielwitz
+gdc,nm27.0,31379,31597,herr_vielwitz,31543,31547,mein,herr_vielwitz
+gdc,nm27.0,31742,31933,herr_vielwitz,31860,31863,ich,herr_vielwitz
+gdc,nm27.0,31742,31933,herr_vielwitz,31911,31915,mein,herr_vielwitz
+gdc,nm27.0,32135,32277,herr_vielwitz,32160,32163,ich,herr_vielwitz
+gdc,nm27.0,32382,32513,herr_vielwitz,32403,32406,ich,herr_vielwitz
+gdc,nm27.0,32382,32513,herr_vielwitz,32413,32417,mich,herr_vielwitz
+gdc,nm27.0,33741,33764,_stage,33741,33752,Herr Jambus,herr_jambus
+gdc,nm27.0,33768,33960,der_junge_reinhart,33813,33817,mich,der_junge_reinhart
+gdc,nm27.0,33965,34040,herr_vielwitz,34021,34025,mein,herr_vielwitz
+gdc,nm27.0,33965,34040,herr_vielwitz,34026,34039,Herr Reinhart,herr_reinhart
+gdc,nm27.0,34045,34153,der_junge_reinhart,34124,34127,Ich,der_junge_reinhart
+gdc,nm27.0,34158,34303,herr_vielwitz,34236,34239,ich,herr_vielwitz
+gdc,nm27.0,34158,34303,herr_vielwitz,34270,34273,Ich,herr_vielwitz
+gdc,nm27.0,34308,34380,der_junge_reinhart,34329,34332,ich,der_junge_reinhart
+gdc,nm27.0,34385,34444,herr_jambus,34406,34412,meinen,herr_jambus
+gdc,nm27.0,34449,34579,der_junge_reinhart,34476,34479,ich,der_junge_reinhart
+gdc,nm27.0,34584,34653,herr_sinnreich,34628,34634,meinen,herr_sinnreich
+gdc,nm27.0,34858,34954,herr_jambus,34871,34874,Ich,herr_jambus
+gdc,nm27.0,35068,35167,herr_sinnreich,35090,35093,ich,herr_sinnreich
+gdc,nm27.0,35173,35297,herr_vielwitz,35192,35195,mir,herr_vielwitz
+gdc,nm27.0,35173,35297,herr_vielwitz,35222,35226,mich,herr_vielwitz
+gdc,nm27.0,35302,35477,der_junge_reinhart,35317,35320,Ich,der_junge_reinhart
+gdc,nm27.0,35592,35891,der_junge_reinhart,35709,35712,ich,der_junge_reinhart
+gdc,nm27.0,35967,36026,der_junge_reinhart,35995,35998,ich,der_junge_reinhart
+gdc,nm27.0,36332,36439,der_junge_reinhart,36361,36364,ich,der_junge_reinhart
+gdc,nm27.0,36523,36801,der_junge_reinhart,36538,36541,Ich,der_junge_reinhart
+gdc,nm27.0,36523,36801,der_junge_reinhart,36625,36628,Ich,der_junge_reinhart
+gdc,nm27.0,36919,37050,der_junge_reinhart,36980,36983,ich,der_junge_reinhart
+gdc,nm27.0,37429,37613,der_junge_reinhart,37456,37459,Mir,der_junge_reinhart
+gdc,nm27.0,37429,37613,der_junge_reinhart,37484,37487,mir,der_junge_reinhart
+gdc,nm27.0,37429,37613,der_junge_reinhart,37510,37513,ich,der_junge_reinhart
+gdc,nm27.0,37618,37787,herr_sinnreich,37645,37648,mir,herr_sinnreich
+gdc,nm27.0,37618,37787,herr_sinnreich,37721,37732,Herr Jambus,herr_jambus
+gdc,nm27.0,37792,37843,herr_vielwitz,37831,37834,ich,herr_vielwitz
+gdc,nm27.0,38332,38902,der_junge_reinhart,38370,38373,mir,der_junge_reinhart
+gdc,nm27.0,38332,38902,der_junge_reinhart,38416,38419,Ich,der_junge_reinhart
+gdc,nm27.0,38332,38902,der_junge_reinhart,38433,38437,mein,der_junge_reinhart
+gdc,nm27.0,38332,38902,der_junge_reinhart,38462,38465,mir,der_junge_reinhart
+gdc,nm27.0,38332,38902,der_junge_reinhart,38547,38550,Ich,der_junge_reinhart
+gdc,nm27.0,38332,38902,der_junge_reinhart,38636,38642,meiner,der_junge_reinhart
+gdc,nm27.0,38332,38902,der_junge_reinhart,38668,38671,ich,der_junge_reinhart
+gdc,nm27.0,38332,38902,der_junge_reinhart,38729,38732,ich,der_junge_reinhart
+gdc,nm27.0,38332,38902,der_junge_reinhart,38733,38738,meine,der_junge_reinhart
+gdc,nm27.0,38332,38902,der_junge_reinhart,38773,38776,ich,der_junge_reinhart
+gdc,nm27.0,38332,38902,der_junge_reinhart,38777,38780,mir,der_junge_reinhart
+gdc,nm27.0,38332,38902,der_junge_reinhart,38835,38838,ich,der_junge_reinhart
+gdc,nm27.0,39637,39771,herr_jambus,39693,39698,meine,herr_jambus
+gdc,nm27.0,40290,40589,der_junge_reinhart,40333,40336,Ich,der_junge_reinhart
+gdc,nm27.0,40290,40589,der_junge_reinhart,40472,40476,mich,der_junge_reinhart
+gdc,nm27.0,40290,40589,der_junge_reinhart,40509,40514,meine,der_junge_reinhart
+gdc,nm27.0,40594,40663,herr_sinnreich,40650,40655,meine,herr_sinnreich
+gdc,nm27.0,40668,40813,herr_vielwitz,40697,40701,mich,herr_vielwitz
+gdc,nm27.0,40668,40813,herr_vielwitz,40706,40712,meiner,herr_vielwitz
+gdc,nm27.0,40818,40955,der_junge_reinhart,40872,40877,meine,der_junge_reinhart
+gdc,nm27.0,40960,41027,herr_sinnreich,41009,41012,ich,herr_sinnreich
+gdc,nm27.0,41032,41109,herr_jambus,41090,41094,mein,herr_jambus
+gdc,nm27.0,41032,41109,herr_jambus,41095,41108,Herr Vielwitz,herr_vielwitz
+gdc,nm27.0,41115,41181,herr_vielwitz,41159,41163,mich,herr_vielwitz
+gdc,nm27.0,42016,42153,herr_vielwitz,42050,42053,ich,herr_vielwitz
+gdc,nm27.0,42016,42153,herr_vielwitz,42099,42102,mir,herr_vielwitz
+gdc,nm27.0,42158,42233,herr_sinnreich,42220,42225,meine,herr_sinnreich
+gdc,nm27.0,42238,42326,herr_jambus,42272,42285,Herr Vielwitz,herr_vielwitz
+gdc,nm27.0,42331,42405,herr_vielwitz,42350,42355,meine,herr_vielwitz
+gdc,nm27.0,42331,42405,herr_vielwitz,42364,42367,Ich,herr_vielwitz
+gdc,nm27.0,42410,42557,der_junge_reinhart,42475,42478,ich,der_junge_reinhart
+gdc,nm27.0,42770,42927,der_junge_reinhart,42810,42813,ich,der_junge_reinhart
+gdc,nm27.0,42770,42927,der_junge_reinhart,42814,42818,mich,der_junge_reinhart
+gdc,nm27.0,42770,42927,der_junge_reinhart,42830,42833,ich,der_junge_reinhart
+gdc,nm27.0,42770,42927,der_junge_reinhart,42839,42843,mich,der_junge_reinhart
+gdc,nm27.0,42770,42927,der_junge_reinhart,42895,42898,mir,der_junge_reinhart
+gdc,nm27.0,42979,43287,herr_sinnreich,42995,42998,Ich,herr_sinnreich
+gdc,nm27.0,42979,43287,herr_sinnreich,43185,43191,meinen,herr_sinnreich
+gdc,nm27.0,42979,43287,herr_sinnreich,43232,43237,meine,herr_sinnreich
+gdc,nm27.0,43359,43564,herr_sinnreich,43528,43539,Herr Jambus,herr_jambus
+gdc,nm27.0,43569,43959,herr_jambus,43586,43589,ich,herr_jambus
+gdc,nm27.0,43569,43959,herr_jambus,43849,43853,mich,herr_jambus
+gdc,nm27.0,43569,43959,herr_jambus,43907,43910,ich,herr_jambus
+gdc,nm27.0,43964,44256,herr_vielwitz,43991,43994,mir,herr_vielwitz
+gdc,nm27.0,44261,44469,herr_jambus,44318,44322,mein,herr_jambus
+gdc,nm27.0,44261,44469,herr_jambus,44372,44375,mir,herr_jambus
+gdc,nm27.0,44474,44600,der_junge_reinhart,44500,44503,ich,der_junge_reinhart
+gdc,nm27.0,44605,44737,herr_jambus,44618,44621,Ich,herr_jambus
+gdc,nm27.0,44605,44737,herr_jambus,44684,44687,ich,herr_jambus
+gdc,nm27.0,44742,44850,der_junge_reinhart,44761,44764,ich,der_junge_reinhart
+gdc,nm27.0,44855,44980,herr_jambus,44966,44979,Herr Vielwitz,herr_vielwitz
+gdc,nm27.0,44985,45197,herr_vielwitz,45000,45003,Ich,herr_vielwitz
+gdc,nm27.0,44985,45197,herr_vielwitz,45045,45048,ich,herr_vielwitz
+gdc,nm27.0,45202,45244,herr_sinnreich,45223,45226,ich,herr_sinnreich
+gdc,nm27.0,45422,45466,herr_jambus,45443,45446,ich,herr_jambus
+gdc,nm27.0,45471,45565,herr_vielwitz,45526,45530,mich,herr_vielwitz
+gdc,nm27.0,45570,45753,herr_sinnreich,45646,45659,Herr Vielwitz,herr_vielwitz
+gdc,nm27.0,45570,45753,herr_sinnreich,45692,45695,Mir,herr_sinnreich
+gdc,nm27.0,45570,45753,herr_sinnreich,45734,45737,mir,herr_sinnreich
+gdc,nm27.0,45824,45933,herr_vielwitz,45871,45876,meine,herr_vielwitz
+gdc,nm27.0,46215,46455,der_junge_reinhart,46234,46239,meine,der_junge_reinhart
+gdc,nm27.0,46460,46622,herr_sinnreich,46476,46479,Ich,herr_sinnreich
+gdc,nm27.0,46460,46622,herr_sinnreich,46486,46490,mich,herr_sinnreich
+gdc,nm27.0,46704,46911,herr_vielwitz,46719,46722,Ich,herr_vielwitz
+gdc,nm27.0,46916,46968,herr_sinnreich,46954,46967,Herr Vielwitz,herr_vielwitz
+gdc,nm27.0,46973,47034,herr_vielwitz,46988,46991,Ich,herr_vielwitz
+gdc,nm27.0,47039,47113,herr_jambus,47052,47056,Mein,herr_jambus
+gdc,nm27.0,47118,47267,herr_vielwitz,47169,47173,mich,herr_vielwitz
+gdc,nm27.0,47272,47343,der_junge_reinhart,47291,47296,meine,der_junge_reinhart
+gdc,nm27.0,47272,47343,der_junge_reinhart,47334,47337,ich,der_junge_reinhart
+gdc,nm27.0,47429,47508,herr_vielwitz,47444,47447,Ich,herr_vielwitz
+gdc,nm27.0,47429,47508,herr_vielwitz,47471,47477,meinen,herr_vielwitz
+gdc,nm27.0,47513,47606,herr_sinnreich,47529,47533,Mein,herr_sinnreich
+gdc,nm27.0,47513,47606,herr_sinnreich,47590,47595,meine,herr_sinnreich
+gdc,nm27.0,47611,47698,herr_vielwitz,47626,47629,Ich,herr_vielwitz
+gdc,nm27.0,47611,47698,herr_vielwitz,47638,47642,mich,herr_vielwitz
+gdc,nm27.0,47611,47698,herr_vielwitz,47676,47679,Ich,herr_vielwitz
+gdc,nm27.0,47703,47791,herr_jambus,47737,47740,ich,herr_jambus
+gdc,nm27.0,47796,47909,herr_vielwitz,47815,47818,ich,herr_vielwitz
+gdc,nm27.0,48433,48538,der_junge_reinhart,48471,48476,meine,der_junge_reinhart
+gdc,nm27.0,48433,48538,der_junge_reinhart,48521,48537,Jungfer Lottchen,jungfer_lottchen
+gdc,nm27.0,48566,48596,_stage,48579,48595,Jungfer Lottchen,jungfer_lottchen
+gdc,nm27.0,48598,48666,jungfer_lottchen,48650,48656,meiner,jungfer_lottchen
+gdc,nm27.0,48671,48827,herr_vielwitz,48716,48719,Ich,herr_vielwitz
+gdc,nm27.0,48671,48827,herr_vielwitz,48727,48730,ich,herr_vielwitz
+gdc,nm27.0,48671,48827,herr_vielwitz,48778,48781,ich,herr_vielwitz
+gdc,nm27.0,48832,49015,herr_jambus,48973,48986,Herr Vielwitz,herr_vielwitz
+gdc,nm27.0,49021,49444,jungfer_lottchen,49042,49047,meine,jungfer_lottchen
+gdc,nm27.0,49021,49444,jungfer_lottchen,49059,49065,meiner,jungfer_lottchen
+gdc,nm27.0,49021,49444,jungfer_lottchen,49082,49085,ich,jungfer_lottchen
+gdc,nm27.0,49021,49444,jungfer_lottchen,49162,49166,mein,jungfer_lottchen
+gdc,nm27.0,49021,49444,jungfer_lottchen,49175,49188,Herr Vielwitz,herr_vielwitz
+gdc,nm27.0,49021,49444,jungfer_lottchen,49193,49196,mir,jungfer_lottchen
+gdc,nm27.0,49021,49444,jungfer_lottchen,49274,49285,Herr Jambus,herr_jambus
+gdc,nm27.0,49449,49783,herr_jambus,49480,49483,ich,herr_jambus
+gdc,nm27.0,49449,49783,herr_jambus,49491,49495,mich,herr_jambus
+gdc,nm27.0,49449,49783,herr_jambus,49560,49563,mir,herr_jambus
+gdc,nm27.0,49449,49783,herr_jambus,49592,49595,mir,herr_jambus
+gdc,nm27.0,49449,49783,herr_jambus,49596,49601,meine,herr_jambus
+gdc,nm27.0,49449,49783,herr_jambus,49655,49660,meine,herr_jambus
+gdc,nm27.0,49449,49783,herr_jambus,49692,49695,ich,herr_jambus
+gdc,nm27.0,49808,49871,_stage,49808,49824,Jungfer Lottchen,jungfer_lottchen
+gdc,nm27.0,49808,49871,_stage,49826,49839,Herr Reinhart,herr_reinhart
+gdc,nm27.0,49808,49871,_stage,49841,49855,Herr Sinnreich,herr_sinnreich
+gdc,nm27.0,49808,49871,_stage,49857,49870,Herr Vielwitz,herr_vielwitz
+gdc,nm27.0,49873,50032,jungfer_lottchen,49926,49930,Mich,jungfer_lottchen
+gdc,nm27.0,50233,50406,jungfer_lottchen,50281,50294,Herr Reinhart,herr_reinhart
+gdc,nm27.0,50233,50406,jungfer_lottchen,50348,50351,Ich,jungfer_lottchen
+gdc,nm27.0,50479,50685,herr_vielwitz,50623,50627,mich,herr_vielwitz
+gdc,nm27.0,50479,50685,herr_vielwitz,50673,50677,mich,herr_vielwitz
+gdc,nm27.0,50690,50777,jungfer_lottchen,50725,50738,Herr Reinhart,herr_reinhart
+gdc,nm27.0,50690,50777,jungfer_lottchen,50765,50770,meine,jungfer_lottchen
+gdc,nm27.0,50908,51071,herr_vielwitz,50958,50964,meinem,herr_vielwitz
+gdc,nm27.0,50908,51071,herr_vielwitz,51013,51016,Ich,herr_vielwitz
+gdc,nm27.0,51076,51291,jungfer_lottchen,51106,51109,ich,jungfer_lottchen
+gdc,nm27.0,51076,51291,jungfer_lottchen,51277,51290,Herr Vielwitz,herr_vielwitz
+gdc,nm27.0,51296,51436,herr_vielwitz,51348,51351,ich,herr_vielwitz
+gdc,nm27.0,51296,51436,herr_vielwitz,51409,51413,mich,herr_vielwitz
+gdc,nm27.0,51441,51557,jungfer_lottchen,51515,51518,ich,jungfer_lottchen
+gdc,nm27.0,51441,51557,jungfer_lottchen,51543,51556,Herr Reinhart,herr_reinhart
+gdc,nm27.0,51703,51799,jungfer_lottchen,51738,51741,mir,jungfer_lottchen
+gdc,nm27.0,51703,51799,jungfer_lottchen,51764,51767,Ich,jungfer_lottchen
+gdc,nm27.0,51703,51799,jungfer_lottchen,51788,51792,mich,jungfer_lottchen
+gdc,nm27.0,51804,52144,herr_vielwitz,51839,51842,ich,herr_vielwitz
+gdc,nm27.0,51804,52144,herr_vielwitz,51920,51923,ich,herr_vielwitz
+gdc,nm27.0,51804,52144,herr_vielwitz,51972,51975,ich,herr_vielwitz
+gdc,nm27.0,51804,52144,herr_vielwitz,51997,52003,meines,herr_vielwitz
+gdc,nm27.0,51804,52144,herr_vielwitz,52048,52054,meinem,herr_vielwitz
+gdc,nm27.0,52149,52544,jungfer_lottchen,52211,52214,ich,jungfer_lottchen
+gdc,nm27.0,52149,52544,jungfer_lottchen,52250,52253,mir,jungfer_lottchen
+gdc,nm27.0,52149,52544,jungfer_lottchen,52269,52282,Herr Reinhart,herr_reinhart
+gdc,nm27.0,52149,52544,jungfer_lottchen,52284,52287,ich,jungfer_lottchen
+gdc,nm27.0,52149,52544,jungfer_lottchen,52315,52319,mich,jungfer_lottchen
+gdc,nm27.0,52549,53410,jungfer_lottchen,52581,52584,ich,jungfer_lottchen
+gdc,nm27.0,52549,53410,jungfer_lottchen,52585,52588,mir,jungfer_lottchen
+gdc,nm27.0,52549,53410,jungfer_lottchen,52616,52629,Herr Vielwitz,herr_vielwitz
+gdc,nm27.0,52549,53410,jungfer_lottchen,52709,52712,ich,jungfer_lottchen
+gdc,nm27.0,52549,53410,jungfer_lottchen,52757,52770,Herr Reinhart,herr_reinhart
+gdc,nm27.0,52549,53410,jungfer_lottchen,52776,52779,ich,jungfer_lottchen
+gdc,nm27.0,52549,53410,jungfer_lottchen,53167,53172,meine,jungfer_lottchen
+gdc,nm27.0,52549,53410,jungfer_lottchen,53207,53210,ich,jungfer_lottchen
+gdc,nm27.0,52549,53410,jungfer_lottchen,53226,53229,ich,jungfer_lottchen
+gdc,nm27.0,52549,53410,jungfer_lottchen,53254,53257,mir,jungfer_lottchen
+gdc,nm27.0,53415,53464,der_junge_reinhart,53446,53449,ich,der_junge_reinhart
+gdc,nm27.0,53469,53953,jungfer_lottchen,53590,53593,ich,jungfer_lottchen
+gdc,nm27.0,54202,54434,herr_sinnreich,54272,54275,ich,herr_sinnreich
+gdc,nm27.0,54439,54588,jungfer_lottchen,54457,54460,Ich,jungfer_lottchen
+gdc,nm27.0,54593,54802,der_junge_reinhart,54746,54750,mich,der_junge_reinhart
+gdc,nm27.0,54807,54931,jungfer_lottchen,54830,54833,ich,jungfer_lottchen
+gdc,nm27.0,54957,54986,_stage,54957,54970,Herr Vielwitz,herr_vielwitz
+gdc,nm27.0,54957,54986,_stage,54972,54985,Herr Reinhart,herr_reinhart
+gdc,nm27.0,55140,55246,herr_vielwitz,55190,55193,ich,herr_vielwitz
+gdc,nm27.0,55140,55246,herr_vielwitz,55242,55245,mir,herr_vielwitz
+gdc,nm27.0,55278,55477,herr_vielwitz,55306,55309,ich,herr_vielwitz
+gdc,nm27.0,55278,55477,herr_vielwitz,55310,55316,meinem,herr_vielwitz
+gdc,nm27.0,55278,55477,herr_vielwitz,55388,55391,mir,herr_vielwitz
+gdc,nm27.0,55278,55477,herr_vielwitz,55411,55415,mich,herr_vielwitz
+gdc,nm27.0,55278,55477,herr_vielwitz,55459,55462,Ich,herr_vielwitz
+gdc,nm27.0,55482,55640,der_junge_reinhart,55497,55500,Ich,der_junge_reinhart
+gdc,nm27.0,55482,55640,der_junge_reinhart,55558,55561,mir,der_junge_reinhart
+gdc,nm27.0,55645,55927,herr_vielwitz,55660,55663,Ich,herr_vielwitz
+gdc,nm27.0,55645,55927,herr_vielwitz,55739,55742,ich,herr_vielwitz
+gdc,nm27.0,55645,55927,herr_vielwitz,55778,55782,Mein,herr_vielwitz
+gdc,nm27.0,55645,55927,herr_vielwitz,55800,55803,mir,herr_vielwitz
+gdc,nm27.0,55645,55927,herr_vielwitz,55835,55838,Ich,herr_vielwitz
+gdc,nm27.0,55645,55927,herr_vielwitz,55888,55891,mir,herr_vielwitz
+gdc,nm27.0,55932,56100,der_junge_reinhart,55951,55954,ich,der_junge_reinhart
+gdc,nm27.0,55932,56100,der_junge_reinhart,55997,56000,mir,der_junge_reinhart
+gdc,nm27.0,55932,56100,der_junge_reinhart,56022,56025,ich,der_junge_reinhart
