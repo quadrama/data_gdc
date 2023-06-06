@@ -1,7 +1,7 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,ger000523,Das Schicksal/Dolch,das_schicksal_dolch,UNKNOWN,
-gdc,ger000523,Roderich II.,roderich_ii,MALE,
-gdc,ger000523,Moralino,moralino,MALE,
-gdc,ger000523,Veit,veit,MALE,
 gdc,ger000523,Kunigunde,kunigunde,FEMALE,
+gdc,ger000523,Roderich II.,roderich_ii,MALE,
+gdc,ger000523,Das Schicksal/Dolch,das_schicksal_dolch,UNKNOWN,
+gdc,ger000523,Veit,veit,MALE,
 gdc,ger000523,Roderich I.,roderich_i,MALE,
+gdc,ger000523,Moralino,moralino,MALE,

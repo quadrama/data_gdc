@@ -86,8 +86,8 @@ gdc,pn2n.0,10663,10671,_stage,10663,10667,Bote,bote
 gdc,pn2n.0,10675,10695,holofernes,10687,10694,Trabant,trabant
 gdc,pn2n.0,10700,10733,trabant,10722,10732,Holofernes,holofernes
 gdc,pn2n.0,10887,10917,_stage,10891,10903,Oberpriester,oberpriester_1a
-gdc,pn2n.0,10921,10981,holofernes,10933,10941,Priester,priester_1b
 gdc,pn2n.0,10921,10981,holofernes,10933,10941,Priester,erster_priester_5a
+gdc,pn2n.0,10921,10981,holofernes,10933,10941,Priester,priester_1b
 gdc,pn2n.0,10921,10981,holofernes,10963,10966,ich,holofernes
 gdc,pn2n.0,11004,11105,holofernes,11080,11083,Ich,holofernes
 gdc,pn2n.0,11111,11170,priester_1b,11130,11133,ich,priester_1b
@@ -689,17 +689,17 @@ gdc,pn2n.0,58302,59738,samaja,59523,59526,ich,samaja
 gdc,pn2n.0,58302,59738,samaja,59579,59582,ich,samaja
 gdc,pn2n.0,58302,59738,samaja,59728,59734,Daniel,daniel
 gdc,pn2n.0,59893,59904,_stage,59893,59903,ein Bürger,ein_buerger_3b
-gdc,pn2n.0,60122,60165,volk_stimmen_im_volk_3,60144,60152,Priester,priester_1b
 gdc,pn2n.0,60122,60165,volk_stimmen_im_volk_3,60144,60152,Priester,erster_priester_5a
+gdc,pn2n.0,60122,60165,volk_stimmen_im_volk_3,60144,60152,Priester,priester_1b
 gdc,pn2n.0,60382,60949,josua,60422,60425,ich,josua
 gdc,pn2n.0,60382,60949,josua,60438,60448,Holofernes,holofernes
 gdc,pn2n.0,60382,60949,josua,60463,60467,mein,josua
 gdc,pn2n.0,60382,60949,josua,60603,60613,Holofernes,holofernes
 gdc,pn2n.0,60976,61425,josua,61064,61074,Holofernes,holofernes
-gdc,pn2n.0,60976,61425,josua,61106,61114,Priester,priester_1b
 gdc,pn2n.0,60976,61425,josua,61106,61114,Priester,erster_priester_5a
-gdc,pn2n.0,60976,61425,josua,61230,61238,Priester,priester_1b
+gdc,pn2n.0,60976,61425,josua,61106,61114,Priester,priester_1b
 gdc,pn2n.0,60976,61425,josua,61230,61238,Priester,erster_priester_5a
+gdc,pn2n.0,60976,61425,josua,61230,61238,Priester,priester_1b
 gdc,pn2n.0,60976,61425,josua,61276,61286,Holofernes,holofernes
 gdc,pn2n.0,61833,62637,der_aelteste_3,61846,61849,Ich,der_aelteste_3
 gdc,pn2n.0,61833,62637,der_aelteste_3,61896,61899,Ich,der_aelteste_3
@@ -1091,11 +1091,11 @@ gdc,pn2n.0,93500,93708,holofernes,93584,93588,mein,holofernes
 gdc,pn2n.0,93500,93708,holofernes,93617,93620,mir,holofernes
 gdc,pn2n.0,93500,93708,holofernes,93654,93657,mir,holofernes
 gdc,pn2n.0,93500,93708,holofernes,93682,93685,ich,holofernes
-gdc,pn2n.0,93713,93949,der_hauptmann_5,93728,93736,Priester,priester_1b
 gdc,pn2n.0,93713,93949,der_hauptmann_5,93728,93736,Priester,erster_priester_5a
+gdc,pn2n.0,93713,93949,der_hauptmann_5,93728,93736,Priester,priester_1b
 gdc,pn2n.0,93954,94064,holofernes,93974,93977,mir,holofernes
-gdc,pn2n.0,93954,94064,holofernes,93985,93993,Priester,priester_1b
 gdc,pn2n.0,93954,94064,holofernes,93985,93993,Priester,erster_priester_5a
+gdc,pn2n.0,93954,94064,holofernes,93985,93993,Priester,priester_1b
 gdc,pn2n.0,93954,94064,holofernes,94045,94049,mein,holofernes
 gdc,pn2n.0,94784,94971,holofernes,94955,94958,mir,holofernes
 gdc,pn2n.0,94976,95011,der_hauptmann_5,94991,95001,Holofernes,holofernes
@@ -1601,8 +1601,8 @@ gdc,pn2n.0,126030,126075,_stage,126047,126053,Weiber,weiber
 gdc,pn2n.0,126475,126588,eine_mutter,126493,126504,eine Mutter,eine_mutter
 gdc,pn2n.0,126475,126588,eine_mutter,126498,126504,Mutter,eine_mutter
 gdc,pn2n.0,126662,127007,eine_mutter,126670,126673,Ich,eine_mutter
-gdc,pn2n.0,126662,127007,eine_mutter,126684,126692,Priester,priester_1b
 gdc,pn2n.0,126662,127007,eine_mutter,126684,126692,Priester,erster_priester_5a
+gdc,pn2n.0,126662,127007,eine_mutter,126684,126692,Priester,priester_1b
 gdc,pn2n.0,126662,127007,eine_mutter,126694,126705,eine Mutter,eine_mutter
 gdc,pn2n.0,126662,127007,eine_mutter,126699,126705,Mutter,eine_mutter
 gdc,pn2n.0,127363,127643,eine_mutter,127371,127375,Mein,eine_mutter
@@ -1658,8 +1658,8 @@ gdc,pn2n.0,131555,131610,mirza,131562,131568,Judith,judith
 gdc,pn2n.0,131555,131610,mirza,131575,131581,Judith,judith
 gdc,pn2n.0,131555,131610,mirza,131599,131609,Holofernes,holofernes
 gdc,pn2n.0,131615,131789,wachen,131683,131689,Judith,judith
-gdc,pn2n.0,131706,131789,_stage,131740,131748,Priester,priester_1b
 gdc,pn2n.0,131706,131789,_stage,131740,131748,Priester,erster_priester_5a
+gdc,pn2n.0,131706,131789,_stage,131740,131748,Priester,priester_1b
 gdc,pn2n.0,131706,131789,_stage,131757,131763,Judith,judith
 gdc,pn2n.0,131706,131789,_stage,131768,131773,Mirza,mirza
 gdc,pn2n.0,131870,132138,achior,132001,132011,Holofernes,holofernes
@@ -1680,8 +1680,8 @@ gdc,pn2n.0,133575,133678,_stage,133598,133605,Ephraim,ephraim
 gdc,pn2n.0,133682,133862,ephraim,133731,133735,mich,ephraim
 gdc,pn2n.0,133682,133862,ephraim,133756,133759,ich,ephraim
 gdc,pn2n.0,133682,133862,ephraim,133775,133785,Holofernes,holofernes
-gdc,pn2n.0,134011,134061,_stage,134011,134019,Priester,priester_1b
 gdc,pn2n.0,134011,134061,_stage,134011,134019,Priester,erster_priester_5a
+gdc,pn2n.0,134011,134061,_stage,134011,134019,Priester,priester_1b
 gdc,pn2n.0,134171,134382,ein_priester_5b,134301,134304,ich,ein_priester_5b
 gdc,pn2n.0,134171,134382,ein_priester_5b,134331,134334,ich,ein_priester_5b
 gdc,pn2n.0,134433,134858,judith,134453,134457,mein,judith

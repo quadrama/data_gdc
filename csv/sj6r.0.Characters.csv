@@ -1,9 +1,9 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,sj6r.0,Milchfrau,milchfrau,FEMALE,
+gdc,sj6r.0,Assessor,assessor,MALE,
 gdc,sj6r.0,Barbier,barbier,MALE,
 gdc,sj6r.0,Kulike,kulike,MALE,
 gdc,sj6r.0,Paddemann,paddemann,MALE,
-gdc,sj6r.0,Jenny,jenny,FEMALE,
-gdc,sj6r.0,Johann,johann,MALE,
+gdc,sj6r.0,Milchfrau,milchfrau,FEMALE,
 gdc,sj6r.0,Major,major,MALE,
-gdc,sj6r.0,Assessor,assessor,MALE,
+gdc,sj6r.0,Johann,johann,MALE,
+gdc,sj6r.0,Jenny,jenny,FEMALE,

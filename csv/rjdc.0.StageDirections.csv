@@ -1,411 +1,411 @@
 corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
-gdc,rjdc.0,419,462,_Stage,_Stage,Jungfer,NE,jungfer,12991,,(1
-gdc,rjdc.0,419,462,_Stage,_Stage,Ohldin,NE,ohldin,12991,,1)
-gdc,rjdc.0,419,462,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,419,462,_Stage,_Stage,Herr,NN,herr,12991,,(0
-gdc,rjdc.0,419,462,_Stage,_Stage,Oronte,VVFIN,oronte,12991,,0)
-gdc,rjdc.0,419,462,_Stage,_Stage,und,KON,und,12991,,
-gdc,rjdc.0,419,462,_Stage,_Stage,seine,PPOSAT,sein,12991,,
-gdc,rjdc.0,419,462,_Stage,_Stage,Frau,NN,frau,12991,,
-gdc,rjdc.0,419,462,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,7740,7768,_Stage,_Stage,Jungfer,NE,jungfer,12991,,(1
-gdc,rjdc.0,7740,7768,_Stage,_Stage,Ohldin,NE,ohldin,12991,,1)
-gdc,rjdc.0,7740,7768,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,7740,7768,_Stage,_Stage,Frau,NN,frau,12991,,(2
-gdc,rjdc.0,7740,7768,_Stage,_Stage,Oronte,VVFIN,oronte,12991,,2)
-gdc,rjdc.0,7740,7768,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,8681,8713,_Stage,_Stage,Jungfer,ADJA,jungfer,12991,,(1
-gdc,rjdc.0,8681,8713,_Stage,_Stage,Ohldin,NN,ohldin,12991,,1)
-gdc,rjdc.0,8681,8713,_Stage,_Stage,",","$,",--,12991,,
-gdc,rjdc.0,8681,8713,_Stage,_Stage,hernach,NE,hernach,12991,,
-gdc,rjdc.0,8681,8713,_Stage,_Stage,Lisette,NE,lisette,12991,,(3)
-gdc,rjdc.0,8681,8713,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,10710,10737,_Stage,_Stage,Lisette,NN,lisette,12991,,(3)
-gdc,rjdc.0,10710,10737,_Stage,_Stage,",","$,",--,12991,,
-gdc,rjdc.0,10710,10737,_Stage,_Stage,und,KON,und,12991,,
-gdc,rjdc.0,10710,10737,_Stage,_Stage,hernach,PROAV,hernach,12991,,
-gdc,rjdc.0,10710,10737,_Stage,_Stage,Lelio,NE,lelio,12991,,(4)
-gdc,rjdc.0,10710,10737,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,13096,13145,_Stage,_Stage,Lelio,NE,lelio,12991,,(4)
-gdc,rjdc.0,13096,13145,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,13096,13145,_Stage,_Stage,Lisette,NE,lisette,12991,,(3)
-gdc,rjdc.0,13096,13145,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,13096,13145,_Stage,_Stage,Peter,NE,peter,12991,,(5)
-gdc,rjdc.0,13096,13145,_Stage,_Stage,",","$,",--,12991,,
-gdc,rjdc.0,13096,13145,_Stage,_Stage,mit,APPR,mit,12991,,
-gdc,rjdc.0,13096,13145,_Stage,_Stage,einem,ART,ein,12991,,
-gdc,rjdc.0,13096,13145,_Stage,_Stage,Korbe,NN,korbe,12991,,
-gdc,rjdc.0,13096,13145,_Stage,_Stage,Gebackens,NN,gebacken,12991,,
-gdc,rjdc.0,13096,13145,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,15081,15106,Peter,peter,Er,PPER,er,12991,,
-gdc,rjdc.0,15081,15106,Peter,peter,setzt,VVFIN,setzen,12991,,
-gdc,rjdc.0,15081,15106,Peter,peter,seinen,PPOSAT,sein,12991,,
-gdc,rjdc.0,15081,15106,Peter,peter,Korb,NN,korb,12991,,
-gdc,rjdc.0,15081,15106,Peter,peter,weg,PTKVZ,weg,12991,,
-gdc,rjdc.0,15081,15106,Peter,peter,.,$.,--,12991,,
-gdc,rjdc.0,15591,15620,Lisette,lisette,Sie,PPER,sie,12991,,
-gdc,rjdc.0,15591,15620,Lisette,lisette,macht,VVFIN,machen,12991,,
-gdc,rjdc.0,15591,15620,Lisette,lisette,sich,PRF,sich,12991,,
-gdc,rjdc.0,15591,15620,Lisette,lisette,über,APPR,über,12991,,
-gdc,rjdc.0,15591,15620,Lisette,lisette,den,ART,der,12991,,
-gdc,rjdc.0,15591,15620,Lisette,lisette,Korb,NN,korb,12991,,
-gdc,rjdc.0,15591,15620,Lisette,lisette,.,$.,--,12991,,
-gdc,rjdc.0,15923,15948,Peter,peter,Er,PPER,er,12991,,
-gdc,rjdc.0,15923,15948,Peter,peter,sieht,VVFIN,sehen,12991,,
-gdc,rjdc.0,15923,15948,Peter,peter,",","$,",--,12991,,
-gdc,rjdc.0,15923,15948,Peter,peter,daß,KOUS,daß,12991,,
-gdc,rjdc.0,15923,15948,Peter,peter,sie,PPER,sie,12991,,
-gdc,rjdc.0,15923,15948,Peter,peter,nascht,VVFIN,naschen,12991,,
-gdc,rjdc.0,15923,15948,Peter,peter,.,$.,--,12991,,
-gdc,rjdc.0,16071,16109,Peter,peter,Er,PPER,er,12991,,
-gdc,rjdc.0,16071,16109,Peter,peter,setzt,VVFIN,setzen,12991,,
-gdc,rjdc.0,16071,16109,Peter,peter,den,ART,der,12991,,
-gdc,rjdc.0,16071,16109,Peter,peter,Korb,NN,korb,12991,,
-gdc,rjdc.0,16071,16109,Peter,peter,auf,APPR,auf,12991,,
-gdc,rjdc.0,16071,16109,Peter,peter,die,ART,der,12991,,
-gdc,rjdc.0,16071,16109,Peter,peter,andre,ADJA,andr,12991,,
-gdc,rjdc.0,16071,16109,Peter,peter,Seite,NN,seite,12991,,
-gdc,rjdc.0,16071,16109,Peter,peter,.,$.,--,12991,,
-gdc,rjdc.0,16253,16282,Lisette,lisette,Sie,PPER,sie,12991,,
-gdc,rjdc.0,16253,16282,Lisette,lisette,geht,VVFIN,gehen,12991,,
-gdc,rjdc.0,16253,16282,Lisette,lisette,auf,APPR,auf,12991,,
-gdc,rjdc.0,16253,16282,Lisette,lisette,die,ART,der,12991,,
-gdc,rjdc.0,16253,16282,Lisette,lisette,andre,ADJA,andr,12991,,
-gdc,rjdc.0,16253,16282,Lisette,lisette,Seite,NN,seite,12991,,
-gdc,rjdc.0,16253,16282,Lisette,lisette,.,$.,--,12991,,
-gdc,rjdc.0,16392,16437,Peter,peter,Er,PPER,er,12991,,
-gdc,rjdc.0,16392,16437,Peter,peter,setzt,VVFIN,setzen,12991,,
-gdc,rjdc.0,16392,16437,Peter,peter,den,ART,der,12991,,
-gdc,rjdc.0,16392,16437,Peter,peter,Korb,NN,korb,12991,,
-gdc,rjdc.0,16392,16437,Peter,peter,wieder,ADV,wieder,12991,,
-gdc,rjdc.0,16392,16437,Peter,peter,auf,APPR,auf,12991,,
-gdc,rjdc.0,16392,16437,Peter,peter,die,ART,der,12991,,
-gdc,rjdc.0,16392,16437,Peter,peter,andre,ADJA,andr,12991,,
-gdc,rjdc.0,16392,16437,Peter,peter,Seite,NN,seite,12991,,
-gdc,rjdc.0,16392,16437,Peter,peter,.,$.,--,12991,,
-gdc,rjdc.0,18695,18731,Lisette,lisette,Sie,PPER,sie,12991,,
-gdc,rjdc.0,18695,18731,Lisette,lisette,macht,VVFIN,machen,12991,,
-gdc,rjdc.0,18695,18731,Lisette,lisette,sich,PRF,sich,12991,,
-gdc,rjdc.0,18695,18731,Lisette,lisette,wieder,ADV,wieder,12991,,
-gdc,rjdc.0,18695,18731,Lisette,lisette,über,APPR,über,12991,,
-gdc,rjdc.0,18695,18731,Lisette,lisette,den,ART,der,12991,,
-gdc,rjdc.0,18695,18731,Lisette,lisette,Korb,NN,korb,12991,,
-gdc,rjdc.0,18695,18731,Lisette,lisette,.,$.,--,12991,,
-gdc,rjdc.0,19735,19750,_Stage,_Stage,Lisette,NE,lisette,12991,,(3)
-gdc,rjdc.0,19735,19750,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,19735,19750,_Stage,_Stage,Lelio,NE,lelio,12991,,(4)
-gdc,rjdc.0,19735,19750,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,20432,20458,_Stage,_Stage,Clitander,NE,clitander,12991,,(6)
-gdc,rjdc.0,20432,20458,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,20432,20458,_Stage,_Stage,Lelio,NE,lelio,12991,,(4)
-gdc,rjdc.0,20432,20458,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,20432,20458,_Stage,_Stage,Lisette,NE,lisette,12991,,(3)
-gdc,rjdc.0,20432,20458,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,24353,24379,_Stage,_Stage,Clitander,NE,clitander,12991,,(6)
-gdc,rjdc.0,24353,24379,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,24353,24379,_Stage,_Stage,Jungfer,NE,jungfer,12991,,(1
-gdc,rjdc.0,24353,24379,_Stage,_Stage,Ohldin,NE,ohldin,12991,,1)
-gdc,rjdc.0,24353,24379,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,28087,28129,Clitander,clitander,Er,PPER,er,12991,,
-gdc,rjdc.0,28087,28129,Clitander,clitander,hebt,VVFIN,heben,12991,,
-gdc,rjdc.0,28087,28129,Clitander,clitander,ihr,PPER,ihr,12991,,
-gdc,rjdc.0,28087,28129,Clitander,clitander,den,ART,der,12991,,
-gdc,rjdc.0,28087,28129,Clitander,clitander,Rock,NN,Rock,12991,,
-gdc,rjdc.0,28087,28129,Clitander,clitander,ein,ART,ein,12991,,
-gdc,rjdc.0,28087,28129,Clitander,clitander,wenig,PIS,wenig,12991,,
-gdc,rjdc.0,28087,28129,Clitander,clitander,in,APPR,in,12991,,
-gdc,rjdc.0,28087,28129,Clitander,clitander,die,ART,der,12991,,
-gdc,rjdc.0,28087,28129,Clitander,clitander,Höh,NN,höhe,12991,,
-gdc,rjdc.0,28087,28129,Clitander,clitander,.,$.,--,12991,,
-gdc,rjdc.0,28469,28500,Jungfer Ohldin,jungfer_ohldin,Hier,ADV,hier,12991,,
-gdc,rjdc.0,28469,28500,Jungfer Ohldin,jungfer_ohldin,macht,VVFIN,machen,12991,,
-gdc,rjdc.0,28469,28500,Jungfer Ohldin,jungfer_ohldin,sie,PPER,sie,12991,,
-gdc,rjdc.0,28469,28500,Jungfer Ohldin,jungfer_ohldin,eine,ART,ein,12991,,
-gdc,rjdc.0,28469,28500,Jungfer Ohldin,jungfer_ohldin,Verbeugung,NN,verbeugung,12991,,
-gdc,rjdc.0,28469,28500,Jungfer Ohldin,jungfer_ohldin,.,$.,--,12991,,
-gdc,rjdc.0,28840,28875,Jungfer Ohldin,jungfer_ohldin,Sie,PPER,sie,12991,,
-gdc,rjdc.0,28840,28875,Jungfer Ohldin,jungfer_ohldin,zieht,VVFIN,ziehen,12991,,
-gdc,rjdc.0,28840,28875,Jungfer Ohldin,jungfer_ohldin,ihn,PPER,ihn,12991,,
-gdc,rjdc.0,28840,28875,Jungfer Ohldin,jungfer_ohldin,ein,ART,ein,12991,,
-gdc,rjdc.0,28840,28875,Jungfer Ohldin,jungfer_ohldin,wenig,PIS,wenig,12991,,
-gdc,rjdc.0,28840,28875,Jungfer Ohldin,jungfer_ohldin,in,APPR,in,12991,,
-gdc,rjdc.0,28840,28875,Jungfer Ohldin,jungfer_ohldin,die,ART,der,12991,,
-gdc,rjdc.0,28840,28875,Jungfer Ohldin,jungfer_ohldin,Höh,NN,höhe,12991,,
-gdc,rjdc.0,28840,28875,Jungfer Ohldin,jungfer_ohldin,.,$.,--,12991,,
-gdc,rjdc.0,29203,29230,Jungfer Ohldin,jungfer_ohldin,Sie,PPER,sie,12991,,
-gdc,rjdc.0,29203,29230,Jungfer Ohldin,jungfer_ohldin,geht,VVFIN,gehen,12991,,
-gdc,rjdc.0,29203,29230,Jungfer Ohldin,jungfer_ohldin,ein,ART,ein,12991,,
-gdc,rjdc.0,29203,29230,Jungfer Ohldin,jungfer_ohldin,Paar,NN,paar,12991,,
-gdc,rjdc.0,29203,29230,Jungfer Ohldin,jungfer_ohldin,Schritte,NN,schritt,12991,,
-gdc,rjdc.0,29203,29230,Jungfer Ohldin,jungfer_ohldin,.,$.,--,12991,,
-gdc,rjdc.0,29277,29304,Jungfer Ohldin,jungfer_ohldin,Sie,PPER,sie,12991,,
-gdc,rjdc.0,29277,29304,Jungfer Ohldin,jungfer_ohldin,macht,VVFIN,machen,12991,,
-gdc,rjdc.0,29277,29304,Jungfer Ohldin,jungfer_ohldin,wirklich,ADJD,wirklich,12991,,
-gdc,rjdc.0,29277,29304,Jungfer Ohldin,jungfer_ohldin,ein,ART,ein,12991,,
-gdc,rjdc.0,29277,29304,Jungfer Ohldin,jungfer_ohldin,Pas,NN,pas,12991,,
-gdc,rjdc.0,29277,29304,Jungfer Ohldin,jungfer_ohldin,.,$.,--,12991,,
-gdc,rjdc.0,32092,32148,_Stage,_Stage,Jungfer,ADJA,jungfer,12991,,(1
-gdc,rjdc.0,32092,32148,_Stage,_Stage,Ohldin,NN,ohldin,12991,,1)
-gdc,rjdc.0,32092,32148,_Stage,_Stage,",","$,",--,12991,,
-gdc,rjdc.0,32092,32148,_Stage,_Stage,Lisette,NN,lisette,12991,,(3)
-gdc,rjdc.0,32092,32148,_Stage,_Stage,",","$,",--,12991,,
-gdc,rjdc.0,32092,32148,_Stage,_Stage,Herr,NN,herr,12991,,(7
-gdc,rjdc.0,32092,32148,_Stage,_Stage,Kräusel,NE,kräusel,12991,,7)
-gdc,rjdc.0,32092,32148,_Stage,_Stage,und,KON,und,12991,,
-gdc,rjdc.0,32092,32148,_Stage,_Stage,der,ART,der,12991,,(8
-gdc,rjdc.0,32092,32148,_Stage,_Stage,Schneider,NE,schneider,12991,,8)
-gdc,rjdc.0,32092,32148,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,32293,32304,Jungfer Ohldin,jungfer_ohldin,zum,APPRART,zu,12991,,
-gdc,rjdc.0,32293,32304,Jungfer Ohldin,jungfer_ohldin,Poeten,NN,poeter,12991,,
-gdc,rjdc.0,32293,32304,Jungfer Ohldin,jungfer_ohldin,.,$.,--,12991,,
-gdc,rjdc.0,32335,32349,Jungfer Ohldin,jungfer_ohldin,Zum,APPRART,zu,12991,,
-gdc,rjdc.0,32335,32349,Jungfer Ohldin,jungfer_ohldin,Schneider,NN,schneider,12991,,
-gdc,rjdc.0,32335,32349,Jungfer Ohldin,jungfer_ohldin,.,$.,--,12991,,
-gdc,rjdc.0,33373,33381,Herr Kräusel,herr_kraeusel,Geht,VVFIN,gehen,12991,,
-gdc,rjdc.0,33373,33381,Herr Kräusel,herr_kraeusel,ab,PTKVZ,ab,12991,,
-gdc,rjdc.0,33373,33381,Herr Kräusel,herr_kraeusel,.,$.,--,12991,,
-gdc,rjdc.0,33674,33682,Der Schneider,der_schneider,Geht,VVFIN,gehen,12991,,
-gdc,rjdc.0,33674,33682,Der Schneider,der_schneider,ab,PTKVZ,ab,12991,,
-gdc,rjdc.0,33674,33682,Der Schneider,der_schneider,.,$.,--,12991,,
-gdc,rjdc.0,33708,33749,_Stage,_Stage,Jungfer,ADJA,jungfer,12991,,(1
-gdc,rjdc.0,33708,33749,_Stage,_Stage,Ohldin,NN,ohldin,12991,,1)
-gdc,rjdc.0,33708,33749,_Stage,_Stage,",","$,",--,12991,,
-gdc,rjdc.0,33708,33749,_Stage,_Stage,Lisette,NN,lisette,12991,,(3)
-gdc,rjdc.0,33708,33749,_Stage,_Stage,und,KON,und,12991,,
-gdc,rjdc.0,33708,33749,_Stage,_Stage,Herr,NN,herr,12991,,(7
-gdc,rjdc.0,33708,33749,_Stage,_Stage,Kräusel,NE,kräusel,12991,,7)
-gdc,rjdc.0,33708,33749,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,39330,39338,Herr Kräusel,herr_kraeusel,Geht,VVFIN,gehen,12991,,
-gdc,rjdc.0,39330,39338,Herr Kräusel,herr_kraeusel,ab,PTKVZ,ab,12991,,
-gdc,rjdc.0,39330,39338,Herr Kräusel,herr_kraeusel,.,$.,--,12991,,
-gdc,rjdc.0,39365,39389,_Stage,_Stage,Jungfer,NE,jungfer,12991,,(1
-gdc,rjdc.0,39365,39389,_Stage,_Stage,Ohldin,NE,ohldin,12991,,1)
-gdc,rjdc.0,39365,39389,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,39365,39389,_Stage,_Stage,Lisette,NE,lisette,12991,,(3)
-gdc,rjdc.0,39365,39389,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,40284,40372,_Stage,_Stage,Lisette,NN,lisette,12991,,(3)
-gdc,rjdc.0,40284,40372,_Stage,_Stage,",","$,",--,12991,,
-gdc,rjdc.0,40284,40372,_Stage,_Stage,und,KON,und,12991,,
-gdc,rjdc.0,40284,40372,_Stage,_Stage,Peter,NE,peter,12991,,(5)
-gdc,rjdc.0,40284,40372,_Stage,_Stage,",","$,",--,12991,,
-gdc,rjdc.0,40284,40372,_Stage,_Stage,in,APPR,in,12991,,
-gdc,rjdc.0,40284,40372,_Stage,_Stage,einer,ART,ein,12991,,
-gdc,rjdc.0,40284,40372,_Stage,_Stage,alten,ADJA,alt,12991,,
-gdc,rjdc.0,40284,40372,_Stage,_Stage,Montierung,NN,montierung,12991,,
-gdc,rjdc.0,40284,40372,_Stage,_Stage,",","$,",--,12991,,
-gdc,rjdc.0,40284,40372,_Stage,_Stage,mit,APPR,mit,12991,,
-gdc,rjdc.0,40284,40372,_Stage,_Stage,einem,ART,ein,12991,,
-gdc,rjdc.0,40284,40372,_Stage,_Stage,Stelzfuße,NN,stelzfuße,12991,,
-gdc,rjdc.0,40284,40372,_Stage,_Stage,und,KON,und,12991,,
-gdc,rjdc.0,40284,40372,_Stage,_Stage,einem,ART,ein,12991,,
-gdc,rjdc.0,40284,40372,_Stage,_Stage,Knebelbart,NN,knebelbart,12991,,
-gdc,rjdc.0,40284,40372,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,42103,42170,_Stage,_Stage,Herr,NN,herr,12991,,(7
-gdc,rjdc.0,42103,42170,_Stage,_Stage,Kräusel,NE,kräusel,12991,,7)
-gdc,rjdc.0,42103,42170,_Stage,_Stage,",","$,",--,12991,,
-gdc,rjdc.0,42103,42170,_Stage,_Stage,mit,APPR,mit,12991,,
-gdc,rjdc.0,42103,42170,_Stage,_Stage,einem,ART,ein,12991,,
-gdc,rjdc.0,42103,42170,_Stage,_Stage,beschriebenen,ADJA,beschrieben,12991,,
-gdc,rjdc.0,42103,42170,_Stage,_Stage,Bogen,NN,bogen,12991,,
-gdc,rjdc.0,42103,42170,_Stage,_Stage,Papier,NN,papier,12991,,
-gdc,rjdc.0,42103,42170,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,42103,42170,_Stage,_Stage,Lisette,NE,lisette,12991,,(3)
-gdc,rjdc.0,42103,42170,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,42103,42170,_Stage,_Stage,Peter,NE,peter,12991,,(5)
-gdc,rjdc.0,42103,42170,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,42299,42335,Herr Kräusel,herr_kraeusel,In,APPR,in,12991,,
-gdc,rjdc.0,42299,42335,Herr Kräusel,herr_kraeusel,Gedanken,NN,gedanke,12991,,
-gdc,rjdc.0,42299,42335,Herr Kräusel,herr_kraeusel,",","$,",--,12991,,
-gdc,rjdc.0,42299,42335,Herr Kräusel,herr_kraeusel,und,KON,und,12991,,
-gdc,rjdc.0,42299,42335,Herr Kräusel,herr_kraeusel,liest,VVFIN,lesen,12991,,
-gdc,rjdc.0,42299,42335,Herr Kräusel,herr_kraeusel,sein,PPOSAT,sein,12991,,
-gdc,rjdc.0,42299,42335,Herr Kräusel,herr_kraeusel,Gedicht,NN,gedicht,12991,,
-gdc,rjdc.0,42299,42335,Herr Kräusel,herr_kraeusel,.,$.,--,12991,,
-gdc,rjdc.0,42857,42880,Herr Kräusel,herr_kraeusel,Immer,ADV,immer,12991,,
-gdc,rjdc.0,42857,42880,Herr Kräusel,herr_kraeusel,noch,ADV,noch,12991,,
-gdc,rjdc.0,42857,42880,Herr Kräusel,herr_kraeusel,in,APPR,in,12991,,
-gdc,rjdc.0,42857,42880,Herr Kräusel,herr_kraeusel,Gedanken,NN,gedanke,12991,,
-gdc,rjdc.0,42857,42880,Herr Kräusel,herr_kraeusel,.,$.,--,12991,,
-gdc,rjdc.0,43237,43254,Herr Kräusel,herr_kraeusel,Noch,ADV,noch,12991,,
-gdc,rjdc.0,43237,43254,Herr Kräusel,herr_kraeusel,in,APPR,in,12991,,
-gdc,rjdc.0,43237,43254,Herr Kräusel,herr_kraeusel,Gedanken,NN,gedanke,12991,,
-gdc,rjdc.0,43237,43254,Herr Kräusel,herr_kraeusel,.,$.,--,12991,,
-gdc,rjdc.0,43413,43438,Herr Kräusel,herr_kraeusel,geht,VVFIN,gehen,12991,,
-gdc,rjdc.0,43413,43438,Herr Kräusel,herr_kraeusel,sein,PPOSAT,sein,12991,,
-gdc,rjdc.0,43413,43438,Herr Kräusel,herr_kraeusel,Gedichte,NN,gedicht,12991,,
-gdc,rjdc.0,43413,43438,Herr Kräusel,herr_kraeusel,durch,PTKVZ,durch,12991,,
-gdc,rjdc.0,43413,43438,Herr Kräusel,herr_kraeusel,.,$.,--,12991,,
-gdc,rjdc.0,44054,44090,_Stage,_Stage,Lelio,NE,lelio,12991,,(4)
-gdc,rjdc.0,44054,44090,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,44054,44090,_Stage,_Stage,Jungfer,NE,jungfer,12991,,(1
-gdc,rjdc.0,44054,44090,_Stage,_Stage,Ohldin,NE,ohldin,12991,,1)
-gdc,rjdc.0,44054,44090,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,44054,44090,_Stage,_Stage,Herr,NN,herr,12991,,(7
-gdc,rjdc.0,44054,44090,_Stage,_Stage,Kräusel,NE,kräusel,12991,,7)
-gdc,rjdc.0,44054,44090,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,45856,45886,Herr Kräusel,herr_kraeusel,Er,PPER,er,12991,,
-gdc,rjdc.0,45856,45886,Herr Kräusel,herr_kraeusel,hält,VVFIN,halten,12991,,
-gdc,rjdc.0,45856,45886,Herr Kräusel,herr_kraeusel,den,ART,der,12991,,
-gdc,rjdc.0,45856,45886,Herr Kräusel,herr_kraeusel,Hut,NN,hut,12991,,
-gdc,rjdc.0,45856,45886,Herr Kräusel,herr_kraeusel,vors,APPRART,vor,12991,,
-gdc,rjdc.0,45856,45886,Herr Kräusel,herr_kraeusel,Gesichte,NN,gesicht,12991,,
-gdc,rjdc.0,45856,45886,Herr Kräusel,herr_kraeusel,.,$.,--,12991,,
-gdc,rjdc.0,46513,46558,_Stage,_Stage,Lisette,NE,lisette,12991,,(3)
-gdc,rjdc.0,46513,46558,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,46513,46558,_Stage,_Stage,Lelio,NE,lelio,12991,,(4)
-gdc,rjdc.0,46513,46558,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,46513,46558,_Stage,_Stage,Jungfer,NE,jungfer,12991,,(1
-gdc,rjdc.0,46513,46558,_Stage,_Stage,Ohldin,NE,ohldin,12991,,1)
-gdc,rjdc.0,46513,46558,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,46513,46558,_Stage,_Stage,Herr,NN,herr,12991,,(7
-gdc,rjdc.0,46513,46558,_Stage,_Stage,Kräusel,NE,kräusel,12991,,7)
-gdc,rjdc.0,46513,46558,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,47756,47808,_Stage,_Stage,Peter,NE,peter,12991,,(5)
-gdc,rjdc.0,47756,47808,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,47756,47808,_Stage,_Stage,Lisette,NE,lisette,12991,,(3)
-gdc,rjdc.0,47756,47808,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,47756,47808,_Stage,_Stage,Jungfer,NE,jungfer,12991,,(1
-gdc,rjdc.0,47756,47808,_Stage,_Stage,Ohldin,NE,ohldin,12991,,1)
-gdc,rjdc.0,47756,47808,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,47756,47808,_Stage,_Stage,Lelio,NE,lelio,12991,,(4)
-gdc,rjdc.0,47756,47808,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,47756,47808,_Stage,_Stage,Herr,NN,herr,12991,,(7
-gdc,rjdc.0,47756,47808,_Stage,_Stage,Kräusel,NE,kräusel,12991,,7)
-gdc,rjdc.0,47756,47808,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,47816,47842,Peter,peter,in,APPR,in,12991,,
-gdc,rjdc.0,47816,47842,Peter,peter,seinem,PPOSAT,sein,12991,,
-gdc,rjdc.0,47816,47842,Peter,peter,vorigen,ADJA,vorig,12991,,
-gdc,rjdc.0,47816,47842,Peter,peter,Aufzuge,NN,aufzuge,12991,,
-gdc,rjdc.0,47816,47842,Peter,peter,.,$.,--,12991,,
-gdc,rjdc.0,50322,50339,Lisette,lisette,zu,APPR,zu,12991,,
-gdc,rjdc.0,50322,50339,Lisette,lisette,Petern,NN,peter,12991,,
-gdc,rjdc.0,50322,50339,Lisette,lisette,sachte,VVFIN,sachen,12991,,
-gdc,rjdc.0,50322,50339,Lisette,lisette,.,$.,--,12991,,
-gdc,rjdc.0,50455,50483,_Stage,_Stage,Herr,NN,herr,12991,,
-gdc,rjdc.0,50455,50483,_Stage,_Stage,Rehfuß,NE,rehfuß,12991,,
-gdc,rjdc.0,50455,50483,_Stage,_Stage,und,KON,und,12991,,
-gdc,rjdc.0,50455,50483,_Stage,_Stage,die,ART,der,12991,,
-gdc,rjdc.0,50455,50483,_Stage,_Stage,Vorigen,NN,vorige,12991,,
-gdc,rjdc.0,50455,50483,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,54562,54570,Lisette,lisette,Geht,VVFIN,gehen,12991,,
-gdc,rjdc.0,54562,54570,Lisette,lisette,ab,PTKVZ,ab,12991,,
-gdc,rjdc.0,54562,54570,Lisette,lisette,.,$.,--,12991,,
-gdc,rjdc.0,54594,54642,_Stage,_Stage,Lelio,NE,lelio,12991,,(4)
-gdc,rjdc.0,54594,54642,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,54594,54642,_Stage,_Stage,Lisette,NE,lisette,12991,,(3)
-gdc,rjdc.0,54594,54642,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,54594,54642,_Stage,_Stage,Peter,NE,peter,12991,,(5)
-gdc,rjdc.0,54594,54642,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,54594,54642,_Stage,_Stage,Der,ART,der,12991,,
-gdc,rjdc.0,54594,54642,_Stage,_Stage,Poet,NN,poet,12991,,
-gdc,rjdc.0,54594,54642,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,54594,54642,_Stage,_Stage,Jungfer,NE,jungfer,12991,,(1
-gdc,rjdc.0,54594,54642,_Stage,_Stage,Ohldin,NE,ohldin,12991,,1)
-gdc,rjdc.0,54594,54642,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,54885,54922,Peter,peter,Er,PPER,er,12991,,
-gdc,rjdc.0,54885,54922,Peter,peter,zieht,VVFIN,ziehen,12991,,
-gdc,rjdc.0,54885,54922,Peter,peter,einen,ART,ein,12991,,
-gdc,rjdc.0,54885,54922,Peter,peter,Zettel,NN,zettel,12991,,
-gdc,rjdc.0,54885,54922,Peter,peter,aus,APPR,aus,12991,,
-gdc,rjdc.0,54885,54922,Peter,peter,der,ART,der,12991,,
-gdc,rjdc.0,54885,54922,Peter,peter,Tasche,NN,tasche,12991,,
-gdc,rjdc.0,54885,54922,Peter,peter,.,$.,--,12991,,
-gdc,rjdc.0,56854,56870,Jungfer Ohldin,jungfer_ohldin,Sie,PPER,sie,12991,,
-gdc,rjdc.0,56854,56870,Jungfer Ohldin,jungfer_ohldin,gibt,VVFIN,geben,12991,,
-gdc,rjdc.0,56854,56870,Jungfer Ohldin,jungfer_ohldin,es,PPER,es,12991,,
-gdc,rjdc.0,56854,56870,Jungfer Ohldin,jungfer_ohldin,ihm,PPER,ihm,12991,,
-gdc,rjdc.0,56854,56870,Jungfer Ohldin,jungfer_ohldin,.,$.,--,12991,,
-gdc,rjdc.0,57383,57473,_Stage,_Stage,Herr,NN,herr,12991,,(0
-gdc,rjdc.0,57383,57473,_Stage,_Stage,Oronte,VVFIN,oronte,12991,,0)
-gdc,rjdc.0,57383,57473,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,57383,57473,_Stage,_Stage,Frau,NN,frau,12991,,(2
-gdc,rjdc.0,57383,57473,_Stage,_Stage,Oronte,VVFIN,oronte,12991,,2)
-gdc,rjdc.0,57383,57473,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,57383,57473,_Stage,_Stage,von,APPR,von,12991,,
-gdc,rjdc.0,57383,57473,_Stage,_Stage,Schlag,NN,schlag,12991,,
-gdc,rjdc.0,57383,57473,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,57383,57473,_Stage,_Stage,Peter,NE,peter,12991,,(5)
-gdc,rjdc.0,57383,57473,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,57383,57473,_Stage,_Stage,Lelio,NE,lelio,12991,,(4)
-gdc,rjdc.0,57383,57473,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,57383,57473,_Stage,_Stage,Lisette,NE,lisette,12991,,(3)
-gdc,rjdc.0,57383,57473,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,57383,57473,_Stage,_Stage,Herr,NN,herr,12991,,(7
-gdc,rjdc.0,57383,57473,_Stage,_Stage,Kräusel,NE,kräusel,12991,,7)
-gdc,rjdc.0,57383,57473,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,57383,57473,_Stage,_Stage,Jungfer,NE,jungfer,12991,,(1
-gdc,rjdc.0,57383,57473,_Stage,_Stage,Ohldin,NE,ohldin,12991,,1)
-gdc,rjdc.0,57383,57473,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,58506,58544,Peter,peter,Er,PPER,er,12991,,
-gdc,rjdc.0,58506,58544,Peter,peter,nimmt,VVFIN,nehmen,12991,,
-gdc,rjdc.0,58506,58544,Peter,peter,den,ART,der,12991,,
-gdc,rjdc.0,58506,58544,Peter,peter,Bart,NN,bart,12991,,
-gdc,rjdc.0,58506,58544,Peter,peter,und,KON,und,12991,,
-gdc,rjdc.0,58506,58544,Peter,peter,den,ART,der,12991,,
-gdc,rjdc.0,58506,58544,Peter,peter,Stelzfuß,NN,stelzfuß,12991,,
-gdc,rjdc.0,58506,58544,Peter,peter,ab,PTKVZ,ab,12991,,
-gdc,rjdc.0,58506,58544,Peter,peter,.,$.,--,12991,,
-gdc,rjdc.0,58727,58737,Herr von Schlag,von_schlag,zu,PTKZU,zu,12991,,
-gdc,rjdc.0,58727,58737,Herr von Schlag,von_schlag,Petern,VVINF,peter,12991,,
-gdc,rjdc.0,58727,58737,Herr von Schlag,von_schlag,.,$.,--,12991,,
-gdc,rjdc.0,58771,58783,Peter,peter,zu,APPR,zu,12991,,
-gdc,rjdc.0,58771,58783,Peter,peter,Kräuseln,NN,kräuseln,12991,,
-gdc,rjdc.0,58771,58783,Peter,peter,.,$.,--,12991,,
-gdc,rjdc.0,58931,58943,Peter,peter,zu,APPR,zu,12991,,
-gdc,rjdc.0,58931,58943,Peter,peter,Kräuseln,NN,kräuseln,12991,,
-gdc,rjdc.0,58931,58943,Peter,peter,.,$.,--,12991,,
-gdc,rjdc.0,59058,59068,Herr von Schlag,von_schlag,zu,PTKZU,zu,12991,,
-gdc,rjdc.0,59058,59068,Herr von Schlag,von_schlag,Petern,VVINF,peter,12991,,
-gdc,rjdc.0,59058,59068,Herr von Schlag,von_schlag,.,$.,--,12991,,
-gdc,rjdc.0,59095,59107,Peter,peter,zu,APPR,zu,12991,,
-gdc,rjdc.0,59095,59107,Peter,peter,Kräuseln,NN,kräuseln,12991,,
-gdc,rjdc.0,59095,59107,Peter,peter,.,$.,--,12991,,
-gdc,rjdc.0,59226,59236,Herr von Schlag,von_schlag,zu,PTKZU,zu,12991,,
-gdc,rjdc.0,59226,59236,Herr von Schlag,von_schlag,Petern,VVINF,peter,12991,,
-gdc,rjdc.0,59226,59236,Herr von Schlag,von_schlag,.,$.,--,12991,,
-gdc,rjdc.0,59329,59360,Peter,peter,reißt,VVFIN,reißen,12991,,
-gdc,rjdc.0,59329,59360,Peter,peter,sich,PRF,sich,12991,,
-gdc,rjdc.0,59329,59360,Peter,peter,los,PTKVZ,los,12991,,
-gdc,rjdc.0,59329,59360,Peter,peter,und,KON,und,12991,,
-gdc,rjdc.0,59329,59360,Peter,peter,zu,APPR,zu,12991,,
-gdc,rjdc.0,59329,59360,Peter,peter,Kräuseln,NN,kräuseln,12991,,
-gdc,rjdc.0,59329,59360,Peter,peter,.,$.,--,12991,,
-gdc,rjdc.0,59517,59531,Herr Kräusel,herr_kraeusel,Er,PPER,er,12991,,
-gdc,rjdc.0,59517,59531,Herr Kräusel,herr_kraeusel,läuft,VVFIN,laufen,12991,,
-gdc,rjdc.0,59517,59531,Herr Kräusel,herr_kraeusel,fort,PTKVZ,fort,12991,,
-gdc,rjdc.0,59517,59531,Herr Kräusel,herr_kraeusel,.,$.,--,12991,,
-gdc,rjdc.0,59542,59557,Peter,peter,läuft,VVFIN,laufen,12991,,
-gdc,rjdc.0,59542,59557,Peter,peter,ihm,PPER,ihm,12991,,
-gdc,rjdc.0,59542,59557,Peter,peter,nach,PTKVZ,nach,12991,,
-gdc,rjdc.0,59542,59557,Peter,peter,.,$.,--,12991,,
-gdc,rjdc.0,59671,59743,_Stage,_Stage,Jungfer,NE,jungfer,12991,,(1
-gdc,rjdc.0,59671,59743,_Stage,_Stage,Ohldin,NE,ohldin,12991,,1)
-gdc,rjdc.0,59671,59743,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,59671,59743,_Stage,_Stage,Lelio,NE,lelio,12991,,(4)
-gdc,rjdc.0,59671,59743,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,59671,59743,_Stage,_Stage,Lisette,NE,lisette,12991,,(3)
-gdc,rjdc.0,59671,59743,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,59671,59743,_Stage,_Stage,von,APPR,von,12991,,
-gdc,rjdc.0,59671,59743,_Stage,_Stage,Schlag,NN,schlag,12991,,
-gdc,rjdc.0,59671,59743,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,59671,59743,_Stage,_Stage,Herr,NN,herr,12991,,(0
-gdc,rjdc.0,59671,59743,_Stage,_Stage,Oronte,VVFIN,oronte,12991,,0)
-gdc,rjdc.0,59671,59743,_Stage,_Stage,und,KON,und,12991,,
-gdc,rjdc.0,59671,59743,_Stage,_Stage,Frau,NN,frau,12991,,(2
-gdc,rjdc.0,59671,59743,_Stage,_Stage,Oronte,VVFIN,oronte,12991,,2)
-gdc,rjdc.0,59671,59743,_Stage,_Stage,.,$.,--,12991,,
-gdc,rjdc.0,61001,61027,Herr von Schlag,von_schlag,zieht,VVFIN,ziehen,12991,,
-gdc,rjdc.0,61001,61027,Herr von Schlag,von_schlag,den,ART,der,12991,,
-gdc,rjdc.0,61001,61027,Herr von Schlag,von_schlag,Lelio,NN,lelio,12991,,(4)
-gdc,rjdc.0,61001,61027,Herr von Schlag,von_schlag,bei,APPR,bei,12991,,
-gdc,rjdc.0,61001,61027,Herr von Schlag,von_schlag,Seite,NN,seite,12991,,
-gdc,rjdc.0,61001,61027,Herr von Schlag,von_schlag,.,$.,--,12991,,
-gdc,rjdc.0,62079,62086,Lisette,lisette,sachte,VVFIN,sachen,12991,,
-gdc,rjdc.0,62079,62086,Lisette,lisette,.,$.,--,12991,,
-gdc,rjdc.0,62114,62121,Lelio,lelio,sachte,VVFIN,sachen,12991,,
-gdc,rjdc.0,62114,62121,Lelio,lelio,.,$.,--,12991,,
-gdc,rjdc.0,62897,62923,_Stage,_Stage,Die,ART,der,12991,,
-gdc,rjdc.0,62897,62923,_Stage,_Stage,Vorigen,NN,vorige,12991,,
-gdc,rjdc.0,62897,62923,_Stage,_Stage,und,KON,und,12991,,
-gdc,rjdc.0,62897,62923,_Stage,_Stage,Clitander,NN,clitander,12991,,(6)
-gdc,rjdc.0,62897,62923,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,421,464,_Stage,_Stage,Jungfer,NE,jungfer,12991,,(1
+gdc,rjdc.0,421,464,_Stage,_Stage,Ohldin,NE,ohldin,12991,,1)
+gdc,rjdc.0,421,464,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,421,464,_Stage,_Stage,Herr,NN,herr,12991,,(0
+gdc,rjdc.0,421,464,_Stage,_Stage,Oronte,VVFIN,oronte,12991,,0)
+gdc,rjdc.0,421,464,_Stage,_Stage,und,KON,und,12991,,
+gdc,rjdc.0,421,464,_Stage,_Stage,seine,PPOSAT,sein,12991,,
+gdc,rjdc.0,421,464,_Stage,_Stage,Frau,NN,frau,12991,,
+gdc,rjdc.0,421,464,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,7742,7770,_Stage,_Stage,Jungfer,NE,jungfer,12991,,(1
+gdc,rjdc.0,7742,7770,_Stage,_Stage,Ohldin,NE,ohldin,12991,,1)
+gdc,rjdc.0,7742,7770,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,7742,7770,_Stage,_Stage,Frau,NN,frau,12991,,(2
+gdc,rjdc.0,7742,7770,_Stage,_Stage,Oronte,VVFIN,oronte,12991,,2)
+gdc,rjdc.0,7742,7770,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,8683,8715,_Stage,_Stage,Jungfer,ADJA,jungfer,12991,,(1
+gdc,rjdc.0,8683,8715,_Stage,_Stage,Ohldin,NN,ohldin,12991,,1)
+gdc,rjdc.0,8683,8715,_Stage,_Stage,",","$,",--,12991,,
+gdc,rjdc.0,8683,8715,_Stage,_Stage,hernach,NE,hernach,12991,,
+gdc,rjdc.0,8683,8715,_Stage,_Stage,Lisette,NE,lisette,12991,,(3)
+gdc,rjdc.0,8683,8715,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,10712,10739,_Stage,_Stage,Lisette,NN,lisette,12991,,(3)
+gdc,rjdc.0,10712,10739,_Stage,_Stage,",","$,",--,12991,,
+gdc,rjdc.0,10712,10739,_Stage,_Stage,und,KON,und,12991,,
+gdc,rjdc.0,10712,10739,_Stage,_Stage,hernach,PROAV,hernach,12991,,
+gdc,rjdc.0,10712,10739,_Stage,_Stage,Lelio,NE,lelio,12991,,(4)
+gdc,rjdc.0,10712,10739,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,13098,13147,_Stage,_Stage,Lelio,NE,lelio,12991,,(4)
+gdc,rjdc.0,13098,13147,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,13098,13147,_Stage,_Stage,Lisette,NE,lisette,12991,,(3)
+gdc,rjdc.0,13098,13147,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,13098,13147,_Stage,_Stage,Peter,NE,peter,12991,,(5)
+gdc,rjdc.0,13098,13147,_Stage,_Stage,",","$,",--,12991,,
+gdc,rjdc.0,13098,13147,_Stage,_Stage,mit,APPR,mit,12991,,
+gdc,rjdc.0,13098,13147,_Stage,_Stage,einem,ART,ein,12991,,
+gdc,rjdc.0,13098,13147,_Stage,_Stage,Korbe,NN,korbe,12991,,
+gdc,rjdc.0,13098,13147,_Stage,_Stage,Gebackens,NN,gebacken,12991,,
+gdc,rjdc.0,13098,13147,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,15083,15108,Peter,peter,Er,PPER,er,12991,,
+gdc,rjdc.0,15083,15108,Peter,peter,setzt,VVFIN,setzen,12991,,
+gdc,rjdc.0,15083,15108,Peter,peter,seinen,PPOSAT,sein,12991,,
+gdc,rjdc.0,15083,15108,Peter,peter,Korb,NN,korb,12991,,
+gdc,rjdc.0,15083,15108,Peter,peter,weg,PTKVZ,weg,12991,,
+gdc,rjdc.0,15083,15108,Peter,peter,.,$.,--,12991,,
+gdc,rjdc.0,15593,15622,Lisette,lisette,Sie,PPER,sie,12991,,
+gdc,rjdc.0,15593,15622,Lisette,lisette,macht,VVFIN,machen,12991,,
+gdc,rjdc.0,15593,15622,Lisette,lisette,sich,PRF,sich,12991,,
+gdc,rjdc.0,15593,15622,Lisette,lisette,über,APPR,über,12991,,
+gdc,rjdc.0,15593,15622,Lisette,lisette,den,ART,der,12991,,
+gdc,rjdc.0,15593,15622,Lisette,lisette,Korb,NN,korb,12991,,
+gdc,rjdc.0,15593,15622,Lisette,lisette,.,$.,--,12991,,
+gdc,rjdc.0,15925,15950,Peter,peter,Er,PPER,er,12991,,
+gdc,rjdc.0,15925,15950,Peter,peter,sieht,VVFIN,sehen,12991,,
+gdc,rjdc.0,15925,15950,Peter,peter,",","$,",--,12991,,
+gdc,rjdc.0,15925,15950,Peter,peter,daß,KOUS,daß,12991,,
+gdc,rjdc.0,15925,15950,Peter,peter,sie,PPER,sie,12991,,
+gdc,rjdc.0,15925,15950,Peter,peter,nascht,VVFIN,naschen,12991,,
+gdc,rjdc.0,15925,15950,Peter,peter,.,$.,--,12991,,
+gdc,rjdc.0,16073,16111,Peter,peter,Er,PPER,er,12991,,
+gdc,rjdc.0,16073,16111,Peter,peter,setzt,VVFIN,setzen,12991,,
+gdc,rjdc.0,16073,16111,Peter,peter,den,ART,der,12991,,
+gdc,rjdc.0,16073,16111,Peter,peter,Korb,NN,korb,12991,,
+gdc,rjdc.0,16073,16111,Peter,peter,auf,APPR,auf,12991,,
+gdc,rjdc.0,16073,16111,Peter,peter,die,ART,der,12991,,
+gdc,rjdc.0,16073,16111,Peter,peter,andre,ADJA,andr,12991,,
+gdc,rjdc.0,16073,16111,Peter,peter,Seite,NN,seite,12991,,
+gdc,rjdc.0,16073,16111,Peter,peter,.,$.,--,12991,,
+gdc,rjdc.0,16255,16284,Lisette,lisette,Sie,PPER,sie,12991,,
+gdc,rjdc.0,16255,16284,Lisette,lisette,geht,VVFIN,gehen,12991,,
+gdc,rjdc.0,16255,16284,Lisette,lisette,auf,APPR,auf,12991,,
+gdc,rjdc.0,16255,16284,Lisette,lisette,die,ART,der,12991,,
+gdc,rjdc.0,16255,16284,Lisette,lisette,andre,ADJA,andr,12991,,
+gdc,rjdc.0,16255,16284,Lisette,lisette,Seite,NN,seite,12991,,
+gdc,rjdc.0,16255,16284,Lisette,lisette,.,$.,--,12991,,
+gdc,rjdc.0,16394,16439,Peter,peter,Er,PPER,er,12991,,
+gdc,rjdc.0,16394,16439,Peter,peter,setzt,VVFIN,setzen,12991,,
+gdc,rjdc.0,16394,16439,Peter,peter,den,ART,der,12991,,
+gdc,rjdc.0,16394,16439,Peter,peter,Korb,NN,korb,12991,,
+gdc,rjdc.0,16394,16439,Peter,peter,wieder,ADV,wieder,12991,,
+gdc,rjdc.0,16394,16439,Peter,peter,auf,APPR,auf,12991,,
+gdc,rjdc.0,16394,16439,Peter,peter,die,ART,der,12991,,
+gdc,rjdc.0,16394,16439,Peter,peter,andre,ADJA,andr,12991,,
+gdc,rjdc.0,16394,16439,Peter,peter,Seite,NN,seite,12991,,
+gdc,rjdc.0,16394,16439,Peter,peter,.,$.,--,12991,,
+gdc,rjdc.0,18697,18733,Lisette,lisette,Sie,PPER,sie,12991,,
+gdc,rjdc.0,18697,18733,Lisette,lisette,macht,VVFIN,machen,12991,,
+gdc,rjdc.0,18697,18733,Lisette,lisette,sich,PRF,sich,12991,,
+gdc,rjdc.0,18697,18733,Lisette,lisette,wieder,ADV,wieder,12991,,
+gdc,rjdc.0,18697,18733,Lisette,lisette,über,APPR,über,12991,,
+gdc,rjdc.0,18697,18733,Lisette,lisette,den,ART,der,12991,,
+gdc,rjdc.0,18697,18733,Lisette,lisette,Korb,NN,korb,12991,,
+gdc,rjdc.0,18697,18733,Lisette,lisette,.,$.,--,12991,,
+gdc,rjdc.0,19737,19752,_Stage,_Stage,Lisette,NE,lisette,12991,,(3)
+gdc,rjdc.0,19737,19752,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,19737,19752,_Stage,_Stage,Lelio,NE,lelio,12991,,(4)
+gdc,rjdc.0,19737,19752,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,20434,20460,_Stage,_Stage,Clitander,NE,clitander,12991,,(6)
+gdc,rjdc.0,20434,20460,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,20434,20460,_Stage,_Stage,Lelio,NE,lelio,12991,,(4)
+gdc,rjdc.0,20434,20460,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,20434,20460,_Stage,_Stage,Lisette,NE,lisette,12991,,(3)
+gdc,rjdc.0,20434,20460,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,24355,24381,_Stage,_Stage,Clitander,NE,clitander,12991,,(6)
+gdc,rjdc.0,24355,24381,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,24355,24381,_Stage,_Stage,Jungfer,NE,jungfer,12991,,(1
+gdc,rjdc.0,24355,24381,_Stage,_Stage,Ohldin,NE,ohldin,12991,,1)
+gdc,rjdc.0,24355,24381,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,28089,28131,Clitander,clitander,Er,PPER,er,12991,,
+gdc,rjdc.0,28089,28131,Clitander,clitander,hebt,VVFIN,heben,12991,,
+gdc,rjdc.0,28089,28131,Clitander,clitander,ihr,PPER,ihr,12991,,
+gdc,rjdc.0,28089,28131,Clitander,clitander,den,ART,der,12991,,
+gdc,rjdc.0,28089,28131,Clitander,clitander,Rock,NN,Rock,12991,,
+gdc,rjdc.0,28089,28131,Clitander,clitander,ein,ART,ein,12991,,
+gdc,rjdc.0,28089,28131,Clitander,clitander,wenig,PIS,wenig,12991,,
+gdc,rjdc.0,28089,28131,Clitander,clitander,in,APPR,in,12991,,
+gdc,rjdc.0,28089,28131,Clitander,clitander,die,ART,der,12991,,
+gdc,rjdc.0,28089,28131,Clitander,clitander,Höh,NN,höhe,12991,,
+gdc,rjdc.0,28089,28131,Clitander,clitander,.,$.,--,12991,,
+gdc,rjdc.0,28471,28502,Jungfer Ohldin,jungfer_ohldin,Hier,ADV,hier,12991,,
+gdc,rjdc.0,28471,28502,Jungfer Ohldin,jungfer_ohldin,macht,VVFIN,machen,12991,,
+gdc,rjdc.0,28471,28502,Jungfer Ohldin,jungfer_ohldin,sie,PPER,sie,12991,,
+gdc,rjdc.0,28471,28502,Jungfer Ohldin,jungfer_ohldin,eine,ART,ein,12991,,
+gdc,rjdc.0,28471,28502,Jungfer Ohldin,jungfer_ohldin,Verbeugung,NN,verbeugung,12991,,
+gdc,rjdc.0,28471,28502,Jungfer Ohldin,jungfer_ohldin,.,$.,--,12991,,
+gdc,rjdc.0,28842,28877,Jungfer Ohldin,jungfer_ohldin,Sie,PPER,sie,12991,,
+gdc,rjdc.0,28842,28877,Jungfer Ohldin,jungfer_ohldin,zieht,VVFIN,ziehen,12991,,
+gdc,rjdc.0,28842,28877,Jungfer Ohldin,jungfer_ohldin,ihn,PPER,ihn,12991,,
+gdc,rjdc.0,28842,28877,Jungfer Ohldin,jungfer_ohldin,ein,ART,ein,12991,,
+gdc,rjdc.0,28842,28877,Jungfer Ohldin,jungfer_ohldin,wenig,PIS,wenig,12991,,
+gdc,rjdc.0,28842,28877,Jungfer Ohldin,jungfer_ohldin,in,APPR,in,12991,,
+gdc,rjdc.0,28842,28877,Jungfer Ohldin,jungfer_ohldin,die,ART,der,12991,,
+gdc,rjdc.0,28842,28877,Jungfer Ohldin,jungfer_ohldin,Höh,NN,höhe,12991,,
+gdc,rjdc.0,28842,28877,Jungfer Ohldin,jungfer_ohldin,.,$.,--,12991,,
+gdc,rjdc.0,29205,29232,Jungfer Ohldin,jungfer_ohldin,Sie,PPER,sie,12991,,
+gdc,rjdc.0,29205,29232,Jungfer Ohldin,jungfer_ohldin,geht,VVFIN,gehen,12991,,
+gdc,rjdc.0,29205,29232,Jungfer Ohldin,jungfer_ohldin,ein,ART,ein,12991,,
+gdc,rjdc.0,29205,29232,Jungfer Ohldin,jungfer_ohldin,Paar,NN,paar,12991,,
+gdc,rjdc.0,29205,29232,Jungfer Ohldin,jungfer_ohldin,Schritte,NN,schritt,12991,,
+gdc,rjdc.0,29205,29232,Jungfer Ohldin,jungfer_ohldin,.,$.,--,12991,,
+gdc,rjdc.0,29279,29306,Jungfer Ohldin,jungfer_ohldin,Sie,PPER,sie,12991,,
+gdc,rjdc.0,29279,29306,Jungfer Ohldin,jungfer_ohldin,macht,VVFIN,machen,12991,,
+gdc,rjdc.0,29279,29306,Jungfer Ohldin,jungfer_ohldin,wirklich,ADJD,wirklich,12991,,
+gdc,rjdc.0,29279,29306,Jungfer Ohldin,jungfer_ohldin,ein,ART,ein,12991,,
+gdc,rjdc.0,29279,29306,Jungfer Ohldin,jungfer_ohldin,Pas,NN,pas,12991,,
+gdc,rjdc.0,29279,29306,Jungfer Ohldin,jungfer_ohldin,.,$.,--,12991,,
+gdc,rjdc.0,32094,32150,_Stage,_Stage,Jungfer,ADJA,jungfer,12991,,(1
+gdc,rjdc.0,32094,32150,_Stage,_Stage,Ohldin,NN,ohldin,12991,,1)
+gdc,rjdc.0,32094,32150,_Stage,_Stage,",","$,",--,12991,,
+gdc,rjdc.0,32094,32150,_Stage,_Stage,Lisette,NN,lisette,12991,,(3)
+gdc,rjdc.0,32094,32150,_Stage,_Stage,",","$,",--,12991,,
+gdc,rjdc.0,32094,32150,_Stage,_Stage,Herr,NN,herr,12991,,(7
+gdc,rjdc.0,32094,32150,_Stage,_Stage,Kräusel,NE,kräusel,12991,,7)
+gdc,rjdc.0,32094,32150,_Stage,_Stage,und,KON,und,12991,,
+gdc,rjdc.0,32094,32150,_Stage,_Stage,der,ART,der,12991,,(8
+gdc,rjdc.0,32094,32150,_Stage,_Stage,Schneider,NE,schneider,12991,,8)
+gdc,rjdc.0,32094,32150,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,32295,32306,Jungfer Ohldin,jungfer_ohldin,zum,APPRART,zu,12991,,
+gdc,rjdc.0,32295,32306,Jungfer Ohldin,jungfer_ohldin,Poeten,NN,poeter,12991,,
+gdc,rjdc.0,32295,32306,Jungfer Ohldin,jungfer_ohldin,.,$.,--,12991,,
+gdc,rjdc.0,32337,32351,Jungfer Ohldin,jungfer_ohldin,Zum,APPRART,zu,12991,,
+gdc,rjdc.0,32337,32351,Jungfer Ohldin,jungfer_ohldin,Schneider,NN,schneider,12991,,
+gdc,rjdc.0,32337,32351,Jungfer Ohldin,jungfer_ohldin,.,$.,--,12991,,
+gdc,rjdc.0,33375,33383,Herr Kräusel,herr_kraeusel,Geht,VVFIN,gehen,12991,,
+gdc,rjdc.0,33375,33383,Herr Kräusel,herr_kraeusel,ab,PTKVZ,ab,12991,,
+gdc,rjdc.0,33375,33383,Herr Kräusel,herr_kraeusel,.,$.,--,12991,,
+gdc,rjdc.0,33676,33684,Der Schneider,der_schneider,Geht,VVFIN,gehen,12991,,
+gdc,rjdc.0,33676,33684,Der Schneider,der_schneider,ab,PTKVZ,ab,12991,,
+gdc,rjdc.0,33676,33684,Der Schneider,der_schneider,.,$.,--,12991,,
+gdc,rjdc.0,33710,33751,_Stage,_Stage,Jungfer,ADJA,jungfer,12991,,(1
+gdc,rjdc.0,33710,33751,_Stage,_Stage,Ohldin,NN,ohldin,12991,,1)
+gdc,rjdc.0,33710,33751,_Stage,_Stage,",","$,",--,12991,,
+gdc,rjdc.0,33710,33751,_Stage,_Stage,Lisette,NN,lisette,12991,,(3)
+gdc,rjdc.0,33710,33751,_Stage,_Stage,und,KON,und,12991,,
+gdc,rjdc.0,33710,33751,_Stage,_Stage,Herr,NN,herr,12991,,(7
+gdc,rjdc.0,33710,33751,_Stage,_Stage,Kräusel,NE,kräusel,12991,,7)
+gdc,rjdc.0,33710,33751,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,39332,39340,Herr Kräusel,herr_kraeusel,Geht,VVFIN,gehen,12991,,
+gdc,rjdc.0,39332,39340,Herr Kräusel,herr_kraeusel,ab,PTKVZ,ab,12991,,
+gdc,rjdc.0,39332,39340,Herr Kräusel,herr_kraeusel,.,$.,--,12991,,
+gdc,rjdc.0,39367,39391,_Stage,_Stage,Jungfer,NE,jungfer,12991,,(1
+gdc,rjdc.0,39367,39391,_Stage,_Stage,Ohldin,NE,ohldin,12991,,1)
+gdc,rjdc.0,39367,39391,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,39367,39391,_Stage,_Stage,Lisette,NE,lisette,12991,,(3)
+gdc,rjdc.0,39367,39391,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,40286,40374,_Stage,_Stage,Lisette,NN,lisette,12991,,(3)
+gdc,rjdc.0,40286,40374,_Stage,_Stage,",","$,",--,12991,,
+gdc,rjdc.0,40286,40374,_Stage,_Stage,und,KON,und,12991,,
+gdc,rjdc.0,40286,40374,_Stage,_Stage,Peter,NE,peter,12991,,(5)
+gdc,rjdc.0,40286,40374,_Stage,_Stage,",","$,",--,12991,,
+gdc,rjdc.0,40286,40374,_Stage,_Stage,in,APPR,in,12991,,
+gdc,rjdc.0,40286,40374,_Stage,_Stage,einer,ART,ein,12991,,
+gdc,rjdc.0,40286,40374,_Stage,_Stage,alten,ADJA,alt,12991,,
+gdc,rjdc.0,40286,40374,_Stage,_Stage,Montierung,NN,montierung,12991,,
+gdc,rjdc.0,40286,40374,_Stage,_Stage,",","$,",--,12991,,
+gdc,rjdc.0,40286,40374,_Stage,_Stage,mit,APPR,mit,12991,,
+gdc,rjdc.0,40286,40374,_Stage,_Stage,einem,ART,ein,12991,,
+gdc,rjdc.0,40286,40374,_Stage,_Stage,Stelzfuße,NN,stelzfuße,12991,,
+gdc,rjdc.0,40286,40374,_Stage,_Stage,und,KON,und,12991,,
+gdc,rjdc.0,40286,40374,_Stage,_Stage,einem,ART,ein,12991,,
+gdc,rjdc.0,40286,40374,_Stage,_Stage,Knebelbart,NN,knebelbart,12991,,
+gdc,rjdc.0,40286,40374,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,42105,42172,_Stage,_Stage,Herr,NN,herr,12991,,(7
+gdc,rjdc.0,42105,42172,_Stage,_Stage,Kräusel,NE,kräusel,12991,,7)
+gdc,rjdc.0,42105,42172,_Stage,_Stage,",","$,",--,12991,,
+gdc,rjdc.0,42105,42172,_Stage,_Stage,mit,APPR,mit,12991,,
+gdc,rjdc.0,42105,42172,_Stage,_Stage,einem,ART,ein,12991,,
+gdc,rjdc.0,42105,42172,_Stage,_Stage,beschriebenen,ADJA,beschrieben,12991,,
+gdc,rjdc.0,42105,42172,_Stage,_Stage,Bogen,NN,bogen,12991,,
+gdc,rjdc.0,42105,42172,_Stage,_Stage,Papier,NN,papier,12991,,
+gdc,rjdc.0,42105,42172,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,42105,42172,_Stage,_Stage,Lisette,NE,lisette,12991,,(3)
+gdc,rjdc.0,42105,42172,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,42105,42172,_Stage,_Stage,Peter,NE,peter,12991,,(5)
+gdc,rjdc.0,42105,42172,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,42301,42337,Herr Kräusel,herr_kraeusel,In,APPR,in,12991,,
+gdc,rjdc.0,42301,42337,Herr Kräusel,herr_kraeusel,Gedanken,NN,gedanke,12991,,
+gdc,rjdc.0,42301,42337,Herr Kräusel,herr_kraeusel,",","$,",--,12991,,
+gdc,rjdc.0,42301,42337,Herr Kräusel,herr_kraeusel,und,KON,und,12991,,
+gdc,rjdc.0,42301,42337,Herr Kräusel,herr_kraeusel,liest,VVFIN,lesen,12991,,
+gdc,rjdc.0,42301,42337,Herr Kräusel,herr_kraeusel,sein,PPOSAT,sein,12991,,
+gdc,rjdc.0,42301,42337,Herr Kräusel,herr_kraeusel,Gedicht,NN,gedicht,12991,,
+gdc,rjdc.0,42301,42337,Herr Kräusel,herr_kraeusel,.,$.,--,12991,,
+gdc,rjdc.0,42859,42882,Herr Kräusel,herr_kraeusel,Immer,ADV,immer,12991,,
+gdc,rjdc.0,42859,42882,Herr Kräusel,herr_kraeusel,noch,ADV,noch,12991,,
+gdc,rjdc.0,42859,42882,Herr Kräusel,herr_kraeusel,in,APPR,in,12991,,
+gdc,rjdc.0,42859,42882,Herr Kräusel,herr_kraeusel,Gedanken,NN,gedanke,12991,,
+gdc,rjdc.0,42859,42882,Herr Kräusel,herr_kraeusel,.,$.,--,12991,,
+gdc,rjdc.0,43239,43256,Herr Kräusel,herr_kraeusel,Noch,ADV,noch,12991,,
+gdc,rjdc.0,43239,43256,Herr Kräusel,herr_kraeusel,in,APPR,in,12991,,
+gdc,rjdc.0,43239,43256,Herr Kräusel,herr_kraeusel,Gedanken,NN,gedanke,12991,,
+gdc,rjdc.0,43239,43256,Herr Kräusel,herr_kraeusel,.,$.,--,12991,,
+gdc,rjdc.0,43415,43440,Herr Kräusel,herr_kraeusel,geht,VVFIN,gehen,12991,,
+gdc,rjdc.0,43415,43440,Herr Kräusel,herr_kraeusel,sein,PPOSAT,sein,12991,,
+gdc,rjdc.0,43415,43440,Herr Kräusel,herr_kraeusel,Gedichte,NN,gedicht,12991,,
+gdc,rjdc.0,43415,43440,Herr Kräusel,herr_kraeusel,durch,PTKVZ,durch,12991,,
+gdc,rjdc.0,43415,43440,Herr Kräusel,herr_kraeusel,.,$.,--,12991,,
+gdc,rjdc.0,44056,44092,_Stage,_Stage,Lelio,NE,lelio,12991,,(4)
+gdc,rjdc.0,44056,44092,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,44056,44092,_Stage,_Stage,Jungfer,NE,jungfer,12991,,(1
+gdc,rjdc.0,44056,44092,_Stage,_Stage,Ohldin,NE,ohldin,12991,,1)
+gdc,rjdc.0,44056,44092,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,44056,44092,_Stage,_Stage,Herr,NN,herr,12991,,(7
+gdc,rjdc.0,44056,44092,_Stage,_Stage,Kräusel,NE,kräusel,12991,,7)
+gdc,rjdc.0,44056,44092,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,45858,45888,Herr Kräusel,herr_kraeusel,Er,PPER,er,12991,,
+gdc,rjdc.0,45858,45888,Herr Kräusel,herr_kraeusel,hält,VVFIN,halten,12991,,
+gdc,rjdc.0,45858,45888,Herr Kräusel,herr_kraeusel,den,ART,der,12991,,
+gdc,rjdc.0,45858,45888,Herr Kräusel,herr_kraeusel,Hut,NN,hut,12991,,
+gdc,rjdc.0,45858,45888,Herr Kräusel,herr_kraeusel,vors,APPRART,vor,12991,,
+gdc,rjdc.0,45858,45888,Herr Kräusel,herr_kraeusel,Gesichte,NN,gesicht,12991,,
+gdc,rjdc.0,45858,45888,Herr Kräusel,herr_kraeusel,.,$.,--,12991,,
+gdc,rjdc.0,46515,46560,_Stage,_Stage,Lisette,NE,lisette,12991,,(3)
+gdc,rjdc.0,46515,46560,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,46515,46560,_Stage,_Stage,Lelio,NE,lelio,12991,,(4)
+gdc,rjdc.0,46515,46560,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,46515,46560,_Stage,_Stage,Jungfer,NE,jungfer,12991,,(1
+gdc,rjdc.0,46515,46560,_Stage,_Stage,Ohldin,NE,ohldin,12991,,1)
+gdc,rjdc.0,46515,46560,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,46515,46560,_Stage,_Stage,Herr,NN,herr,12991,,(7
+gdc,rjdc.0,46515,46560,_Stage,_Stage,Kräusel,NE,kräusel,12991,,7)
+gdc,rjdc.0,46515,46560,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,47758,47810,_Stage,_Stage,Peter,NE,peter,12991,,(5)
+gdc,rjdc.0,47758,47810,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,47758,47810,_Stage,_Stage,Lisette,NE,lisette,12991,,(3)
+gdc,rjdc.0,47758,47810,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,47758,47810,_Stage,_Stage,Jungfer,NE,jungfer,12991,,(1
+gdc,rjdc.0,47758,47810,_Stage,_Stage,Ohldin,NE,ohldin,12991,,1)
+gdc,rjdc.0,47758,47810,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,47758,47810,_Stage,_Stage,Lelio,NE,lelio,12991,,(4)
+gdc,rjdc.0,47758,47810,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,47758,47810,_Stage,_Stage,Herr,NN,herr,12991,,(7
+gdc,rjdc.0,47758,47810,_Stage,_Stage,Kräusel,NE,kräusel,12991,,7)
+gdc,rjdc.0,47758,47810,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,47818,47844,Peter,peter,in,APPR,in,12991,,
+gdc,rjdc.0,47818,47844,Peter,peter,seinem,PPOSAT,sein,12991,,
+gdc,rjdc.0,47818,47844,Peter,peter,vorigen,ADJA,vorig,12991,,
+gdc,rjdc.0,47818,47844,Peter,peter,Aufzuge,NN,aufzuge,12991,,
+gdc,rjdc.0,47818,47844,Peter,peter,.,$.,--,12991,,
+gdc,rjdc.0,50324,50341,Lisette,lisette,zu,APPR,zu,12991,,
+gdc,rjdc.0,50324,50341,Lisette,lisette,Petern,NN,peter,12991,,
+gdc,rjdc.0,50324,50341,Lisette,lisette,sachte,VVFIN,sachen,12991,,
+gdc,rjdc.0,50324,50341,Lisette,lisette,.,$.,--,12991,,
+gdc,rjdc.0,50457,50485,_Stage,_Stage,Herr,NN,herr,12991,,
+gdc,rjdc.0,50457,50485,_Stage,_Stage,Rehfuß,NE,rehfuß,12991,,
+gdc,rjdc.0,50457,50485,_Stage,_Stage,und,KON,und,12991,,
+gdc,rjdc.0,50457,50485,_Stage,_Stage,die,ART,der,12991,,
+gdc,rjdc.0,50457,50485,_Stage,_Stage,Vorigen,NN,vorige,12991,,
+gdc,rjdc.0,50457,50485,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,54564,54572,Lisette,lisette,Geht,VVFIN,gehen,12991,,
+gdc,rjdc.0,54564,54572,Lisette,lisette,ab,PTKVZ,ab,12991,,
+gdc,rjdc.0,54564,54572,Lisette,lisette,.,$.,--,12991,,
+gdc,rjdc.0,54596,54644,_Stage,_Stage,Lelio,NE,lelio,12991,,(4)
+gdc,rjdc.0,54596,54644,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,54596,54644,_Stage,_Stage,Lisette,NE,lisette,12991,,(3)
+gdc,rjdc.0,54596,54644,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,54596,54644,_Stage,_Stage,Peter,NE,peter,12991,,(5)
+gdc,rjdc.0,54596,54644,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,54596,54644,_Stage,_Stage,Der,ART,der,12991,,
+gdc,rjdc.0,54596,54644,_Stage,_Stage,Poet,NN,poet,12991,,
+gdc,rjdc.0,54596,54644,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,54596,54644,_Stage,_Stage,Jungfer,NE,jungfer,12991,,(1
+gdc,rjdc.0,54596,54644,_Stage,_Stage,Ohldin,NE,ohldin,12991,,1)
+gdc,rjdc.0,54596,54644,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,54887,54924,Peter,peter,Er,PPER,er,12991,,
+gdc,rjdc.0,54887,54924,Peter,peter,zieht,VVFIN,ziehen,12991,,
+gdc,rjdc.0,54887,54924,Peter,peter,einen,ART,ein,12991,,
+gdc,rjdc.0,54887,54924,Peter,peter,Zettel,NN,zettel,12991,,
+gdc,rjdc.0,54887,54924,Peter,peter,aus,APPR,aus,12991,,
+gdc,rjdc.0,54887,54924,Peter,peter,der,ART,der,12991,,
+gdc,rjdc.0,54887,54924,Peter,peter,Tasche,NN,tasche,12991,,
+gdc,rjdc.0,54887,54924,Peter,peter,.,$.,--,12991,,
+gdc,rjdc.0,56856,56872,Jungfer Ohldin,jungfer_ohldin,Sie,PPER,sie,12991,,
+gdc,rjdc.0,56856,56872,Jungfer Ohldin,jungfer_ohldin,gibt,VVFIN,geben,12991,,
+gdc,rjdc.0,56856,56872,Jungfer Ohldin,jungfer_ohldin,es,PPER,es,12991,,
+gdc,rjdc.0,56856,56872,Jungfer Ohldin,jungfer_ohldin,ihm,PPER,ihm,12991,,
+gdc,rjdc.0,56856,56872,Jungfer Ohldin,jungfer_ohldin,.,$.,--,12991,,
+gdc,rjdc.0,57385,57475,_Stage,_Stage,Herr,NN,herr,12991,,(0
+gdc,rjdc.0,57385,57475,_Stage,_Stage,Oronte,VVFIN,oronte,12991,,0)
+gdc,rjdc.0,57385,57475,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,57385,57475,_Stage,_Stage,Frau,NN,frau,12991,,(2
+gdc,rjdc.0,57385,57475,_Stage,_Stage,Oronte,VVFIN,oronte,12991,,2)
+gdc,rjdc.0,57385,57475,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,57385,57475,_Stage,_Stage,von,APPR,von,12991,,
+gdc,rjdc.0,57385,57475,_Stage,_Stage,Schlag,NN,schlag,12991,,
+gdc,rjdc.0,57385,57475,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,57385,57475,_Stage,_Stage,Peter,NE,peter,12991,,(5)
+gdc,rjdc.0,57385,57475,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,57385,57475,_Stage,_Stage,Lelio,NE,lelio,12991,,(4)
+gdc,rjdc.0,57385,57475,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,57385,57475,_Stage,_Stage,Lisette,NE,lisette,12991,,(3)
+gdc,rjdc.0,57385,57475,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,57385,57475,_Stage,_Stage,Herr,NN,herr,12991,,(7
+gdc,rjdc.0,57385,57475,_Stage,_Stage,Kräusel,NE,kräusel,12991,,7)
+gdc,rjdc.0,57385,57475,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,57385,57475,_Stage,_Stage,Jungfer,NE,jungfer,12991,,(1
+gdc,rjdc.0,57385,57475,_Stage,_Stage,Ohldin,NE,ohldin,12991,,1)
+gdc,rjdc.0,57385,57475,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,58508,58546,Peter,peter,Er,PPER,er,12991,,
+gdc,rjdc.0,58508,58546,Peter,peter,nimmt,VVFIN,nehmen,12991,,
+gdc,rjdc.0,58508,58546,Peter,peter,den,ART,der,12991,,
+gdc,rjdc.0,58508,58546,Peter,peter,Bart,NN,bart,12991,,
+gdc,rjdc.0,58508,58546,Peter,peter,und,KON,und,12991,,
+gdc,rjdc.0,58508,58546,Peter,peter,den,ART,der,12991,,
+gdc,rjdc.0,58508,58546,Peter,peter,Stelzfuß,NN,stelzfuß,12991,,
+gdc,rjdc.0,58508,58546,Peter,peter,ab,PTKVZ,ab,12991,,
+gdc,rjdc.0,58508,58546,Peter,peter,.,$.,--,12991,,
+gdc,rjdc.0,58729,58739,Herr von Schlag,von_schlag,zu,PTKZU,zu,12991,,
+gdc,rjdc.0,58729,58739,Herr von Schlag,von_schlag,Petern,VVINF,peter,12991,,
+gdc,rjdc.0,58729,58739,Herr von Schlag,von_schlag,.,$.,--,12991,,
+gdc,rjdc.0,58773,58785,Peter,peter,zu,APPR,zu,12991,,
+gdc,rjdc.0,58773,58785,Peter,peter,Kräuseln,NN,kräuseln,12991,,
+gdc,rjdc.0,58773,58785,Peter,peter,.,$.,--,12991,,
+gdc,rjdc.0,58933,58945,Peter,peter,zu,APPR,zu,12991,,
+gdc,rjdc.0,58933,58945,Peter,peter,Kräuseln,NN,kräuseln,12991,,
+gdc,rjdc.0,58933,58945,Peter,peter,.,$.,--,12991,,
+gdc,rjdc.0,59060,59070,Herr von Schlag,von_schlag,zu,PTKZU,zu,12991,,
+gdc,rjdc.0,59060,59070,Herr von Schlag,von_schlag,Petern,VVINF,peter,12991,,
+gdc,rjdc.0,59060,59070,Herr von Schlag,von_schlag,.,$.,--,12991,,
+gdc,rjdc.0,59097,59109,Peter,peter,zu,APPR,zu,12991,,
+gdc,rjdc.0,59097,59109,Peter,peter,Kräuseln,NN,kräuseln,12991,,
+gdc,rjdc.0,59097,59109,Peter,peter,.,$.,--,12991,,
+gdc,rjdc.0,59228,59238,Herr von Schlag,von_schlag,zu,PTKZU,zu,12991,,
+gdc,rjdc.0,59228,59238,Herr von Schlag,von_schlag,Petern,VVINF,peter,12991,,
+gdc,rjdc.0,59228,59238,Herr von Schlag,von_schlag,.,$.,--,12991,,
+gdc,rjdc.0,59331,59362,Peter,peter,reißt,VVFIN,reißen,12991,,
+gdc,rjdc.0,59331,59362,Peter,peter,sich,PRF,sich,12991,,
+gdc,rjdc.0,59331,59362,Peter,peter,los,PTKVZ,los,12991,,
+gdc,rjdc.0,59331,59362,Peter,peter,und,KON,und,12991,,
+gdc,rjdc.0,59331,59362,Peter,peter,zu,APPR,zu,12991,,
+gdc,rjdc.0,59331,59362,Peter,peter,Kräuseln,NN,kräuseln,12991,,
+gdc,rjdc.0,59331,59362,Peter,peter,.,$.,--,12991,,
+gdc,rjdc.0,59519,59533,Herr Kräusel,herr_kraeusel,Er,PPER,er,12991,,
+gdc,rjdc.0,59519,59533,Herr Kräusel,herr_kraeusel,läuft,VVFIN,laufen,12991,,
+gdc,rjdc.0,59519,59533,Herr Kräusel,herr_kraeusel,fort,PTKVZ,fort,12991,,
+gdc,rjdc.0,59519,59533,Herr Kräusel,herr_kraeusel,.,$.,--,12991,,
+gdc,rjdc.0,59544,59559,Peter,peter,läuft,VVFIN,laufen,12991,,
+gdc,rjdc.0,59544,59559,Peter,peter,ihm,PPER,ihm,12991,,
+gdc,rjdc.0,59544,59559,Peter,peter,nach,PTKVZ,nach,12991,,
+gdc,rjdc.0,59544,59559,Peter,peter,.,$.,--,12991,,
+gdc,rjdc.0,59673,59745,_Stage,_Stage,Jungfer,NE,jungfer,12991,,(1
+gdc,rjdc.0,59673,59745,_Stage,_Stage,Ohldin,NE,ohldin,12991,,1)
+gdc,rjdc.0,59673,59745,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,59673,59745,_Stage,_Stage,Lelio,NE,lelio,12991,,(4)
+gdc,rjdc.0,59673,59745,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,59673,59745,_Stage,_Stage,Lisette,NE,lisette,12991,,(3)
+gdc,rjdc.0,59673,59745,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,59673,59745,_Stage,_Stage,von,APPR,von,12991,,
+gdc,rjdc.0,59673,59745,_Stage,_Stage,Schlag,NN,schlag,12991,,
+gdc,rjdc.0,59673,59745,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,59673,59745,_Stage,_Stage,Herr,NN,herr,12991,,(0
+gdc,rjdc.0,59673,59745,_Stage,_Stage,Oronte,VVFIN,oronte,12991,,0)
+gdc,rjdc.0,59673,59745,_Stage,_Stage,und,KON,und,12991,,
+gdc,rjdc.0,59673,59745,_Stage,_Stage,Frau,NN,frau,12991,,(2
+gdc,rjdc.0,59673,59745,_Stage,_Stage,Oronte,VVFIN,oronte,12991,,2)
+gdc,rjdc.0,59673,59745,_Stage,_Stage,.,$.,--,12991,,
+gdc,rjdc.0,61003,61029,Herr von Schlag,von_schlag,zieht,VVFIN,ziehen,12991,,
+gdc,rjdc.0,61003,61029,Herr von Schlag,von_schlag,den,ART,der,12991,,
+gdc,rjdc.0,61003,61029,Herr von Schlag,von_schlag,Lelio,NN,lelio,12991,,(4)
+gdc,rjdc.0,61003,61029,Herr von Schlag,von_schlag,bei,APPR,bei,12991,,
+gdc,rjdc.0,61003,61029,Herr von Schlag,von_schlag,Seite,NN,seite,12991,,
+gdc,rjdc.0,61003,61029,Herr von Schlag,von_schlag,.,$.,--,12991,,
+gdc,rjdc.0,62081,62088,Lisette,lisette,sachte,VVFIN,sachen,12991,,
+gdc,rjdc.0,62081,62088,Lisette,lisette,.,$.,--,12991,,
+gdc,rjdc.0,62116,62123,Lelio,lelio,sachte,VVFIN,sachen,12991,,
+gdc,rjdc.0,62116,62123,Lelio,lelio,.,$.,--,12991,,
+gdc,rjdc.0,62899,62925,_Stage,_Stage,Die,ART,der,12991,,
+gdc,rjdc.0,62899,62925,_Stage,_Stage,Vorigen,NN,vorige,12991,,
+gdc,rjdc.0,62899,62925,_Stage,_Stage,und,KON,und,12991,,
+gdc,rjdc.0,62899,62925,_Stage,_Stage,Clitander,NN,clitander,12991,,(6)
+gdc,rjdc.0,62899,62925,_Stage,_Stage,.,$.,--,12991,,

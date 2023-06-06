@@ -1,8 +1,8 @@
 corpus,drama,Entity.surface,Entity.id,Entity.group_members
-gdc,stsd.0,alterthum,1,
+gdc,stsd.0,fleis,0,
 gdc,stsd.0,vollkommenheit,6,
+gdc,stsd.0,verstand,5,
+gdc,stsd.0,regel,3,
+gdc,stsd.0,alterthum,1,
 gdc,stsd.0,liebe,4,
 gdc,stsd.0,trauerspiel,2,
-gdc,stsd.0,verstand,5,
-gdc,stsd.0,fleis,0,
-gdc,stsd.0,regel,3,

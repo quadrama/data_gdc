@@ -283,8 +283,8 @@ gdc,pvxf.0,22166,22226,simeon,22183,22192,Bassmánof,bassmanof
 gdc,pvxf.0,22232,22252,boris,22248,22251,mir,boris
 gdc,pvxf.0,22798,22983,boris,22844,22847,ich,boris
 gdc,pvxf.0,23311,23512,boris,23325,23333,Schuiski,schuiski
-gdc,pvxf.0,23415,23512,_stage,23419,23423,Bote,bote_1c
 gdc,pvxf.0,23415,23512,_stage,23419,23423,Bote,bote_1b
+gdc,pvxf.0,23415,23512,_stage,23419,23423,Bote,bote_1c
 gdc,pvxf.0,23415,23512,_stage,23485,23491,Diener,diener_1b
 gdc,pvxf.0,23415,23512,_stage,23485,23491,Diener,diener_1a
 gdc,pvxf.0,23989,24289,boris,24000,24003,mir,boris
@@ -297,8 +297,8 @@ gdc,pvxf.0,24530,24588,repnin,24552,24557,Borís,boris
 gdc,pvxf.0,24530,24588,repnin,24574,24578,mich,repnin
 gdc,pvxf.0,24705,24745,bote_1c,24739,24744,Borís,boris
 gdc,pvxf.0,24750,24826,boris,24762,24765,mir,boris
-gdc,pvxf.0,24791,24826,_stage,24795,24799,Bote,bote_1c
 gdc,pvxf.0,24791,24826,_stage,24795,24799,Bote,bote_1b
+gdc,pvxf.0,24791,24826,_stage,24795,24799,Bote,bote_1c
 gdc,pvxf.0,24830,24912,bote_1c,24840,24845,Borís,boris
 gdc,pvxf.0,24848,24912,_stage,24848,24853,Borís,boris
 gdc,pvxf.0,24931,24998,_stage,24963,24969,Ksénja,ksenja
@@ -347,8 +347,8 @@ gdc,pvxf.0,28193,28263,schuiski,28204,28207,Ich,schuiski
 gdc,pvxf.0,28193,28263,schuiski,28237,28240,ich,schuiski
 gdc,pvxf.0,28269,28416,boris,28349,28352,Ich,boris
 gdc,pvxf.0,28269,28416,boris,28377,28380,mir,boris
-gdc,pvxf.0,28422,28519,schuiski,28446,28451,einer,einer_4a
 gdc,pvxf.0,28422,28519,schuiski,28446,28451,einer,einer_4b
+gdc,pvxf.0,28422,28519,schuiski,28446,28451,einer,einer_4a
 gdc,pvxf.0,28422,28519,schuiski,28458,28461,mir,schuiski
 gdc,pvxf.0,28525,29260,boris,28533,28536,Ich,boris
 gdc,pvxf.0,28525,29260,boris,28609,28617,Schuiski,schuiski
@@ -364,8 +364,8 @@ gdc,pvxf.0,29957,30367,boris,30068,30072,mich,boris
 gdc,pvxf.0,29957,30367,boris,30085,30088,ich,boris
 gdc,pvxf.0,29957,30367,boris,30124,30127,ich,boris
 gdc,pvxf.0,29957,30367,boris,30184,30187,ich,boris
-gdc,pvxf.0,29957,30367,boris,30225,30230,einer,einer_4a
 gdc,pvxf.0,29957,30367,boris,30225,30230,einer,einer_4b
+gdc,pvxf.0,29957,30367,boris,30225,30230,einer,einer_4a
 gdc,pvxf.0,30433,30528,boris,30441,30444,Ich,boris
 gdc,pvxf.0,30559,30649,_stage,30559,30564,Borís,boris
 gdc,pvxf.0,30751,30803,_stage,30761,30766,Maria,maria
@@ -637,8 +637,8 @@ gdc,pvxf.0,53861,56310,boris,54032,54035,ich,boris
 gdc,pvxf.0,53861,56310,boris,54052,54055,mir,boris
 gdc,pvxf.0,53861,56310,boris,54068,54071,ich,boris
 gdc,pvxf.0,53861,56310,boris,54291,54294,ich,boris
-gdc,pvxf.0,53861,56310,boris,54543,54548,einer,einer_4a
 gdc,pvxf.0,53861,56310,boris,54543,54548,einer,einer_4b
+gdc,pvxf.0,53861,56310,boris,54543,54548,einer,einer_4a
 gdc,pvxf.0,53861,56310,boris,54924,54927,ich,boris
 gdc,pvxf.0,53861,56310,boris,54935,54939,Mein,boris
 gdc,pvxf.0,53861,56310,boris,55172,55175,mir,boris
@@ -775,8 +775,8 @@ gdc,pvxf.0,69851,70729,boris,70101,70105,mich,boris
 gdc,pvxf.0,69851,70729,boris,70127,70133,meiner,boris
 gdc,pvxf.0,69851,70729,boris,70134,70140,Diener,diener_1b
 gdc,pvxf.0,69851,70729,boris,70134,70140,Diener,diener_1a
-gdc,pvxf.0,69851,70729,boris,70411,70416,einer,einer_4a
 gdc,pvxf.0,69851,70729,boris,70411,70416,einer,einer_4b
+gdc,pvxf.0,69851,70729,boris,70411,70416,einer,einer_4a
 gdc,pvxf.0,69851,70729,boris,70457,70461,mich,boris
 gdc,pvxf.0,69851,70729,boris,70487,70490,mir,boris
 gdc,pvxf.0,69851,70729,boris,70674,70680,meines,boris
@@ -817,8 +817,8 @@ gdc,pvxf.0,74764,75188,boris,74957,74960,mir,boris
 gdc,pvxf.0,74764,75188,boris,74992,74995,ich,boris
 gdc,pvxf.0,74764,75188,boris,75015,75018,ich,boris
 gdc,pvxf.0,74764,75188,boris,75023,75029,meiner,boris
-gdc,pvxf.0,74764,75188,boris,75159,75164,einer,einer_4a
 gdc,pvxf.0,74764,75188,boris,75159,75164,einer,einer_4b
+gdc,pvxf.0,74764,75188,boris,75159,75164,einer,einer_4a
 gdc,pvxf.0,75334,75754,boris,75342,75345,Ich,boris
 gdc,pvxf.0,75334,75754,boris,75594,75600,Fiódor,fiodor
 gdc,pvxf.0,75334,75754,boris,75602,75608,Ksénja,ksenja
@@ -883,8 +883,8 @@ gdc,pvxf.0,78345,79156,ksenja,79114,79117,ich,ksenja
 gdc,pvxf.0,78345,79156,ksenja,79124,79130,Fiódor,fiodor
 gdc,pvxf.0,79162,79296,boris,79170,79176,Fiódor,fiodor
 gdc,pvxf.0,79162,79296,boris,79223,79231,der Bote,der_bote_1a
-gdc,pvxf.0,79162,79296,boris,79227,79231,Bote,bote_1c
 gdc,pvxf.0,79162,79296,boris,79227,79231,Bote,bote_1b
+gdc,pvxf.0,79162,79296,boris,79227,79231,Bote,bote_1c
 gdc,pvxf.0,79162,79296,boris,79260,79266,Ksénja,ksenja
 gdc,pvxf.0,79162,79296,boris,79274,79277,ich,boris
 gdc,pvxf.0,79340,79459,boris,79367,79370,Ich,boris

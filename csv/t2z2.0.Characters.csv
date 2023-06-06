@@ -1,8 +1,8 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,t2z2.0,Sirmio,sirmio,MALE,
-gdc,t2z2.0,Salome,salome,FEMALE,
-gdc,t2z2.0,Der Wirth,wirth,MALE,
-gdc,t2z2.0,Schmuhl,schmuhl,MALE,
-gdc,t2z2.0,Mopsus,mopsus,MALE,
 gdc,t2z2.0,Damon,damon,MALE,
+gdc,t2z2.0,Der Wirth,wirth,MALE,
+gdc,t2z2.0,Mopsus,mopsus,MALE,
 gdc,t2z2.0,Phyllis,phyllis,FEMALE,
+gdc,t2z2.0,Salome,salome,FEMALE,
+gdc,t2z2.0,Schmuhl,schmuhl,MALE,
+gdc,t2z2.0,Sirmio,sirmio,MALE,
