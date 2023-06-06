@@ -1,1281 +1,1282 @@
 corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
-gdc,nm2b.0,11794,11821,_stage,11794,11810,Jungfer Luischen,jungfer_luischen
-gdc,nm2b.0,11794,11821,_stage,11812,11820,Cathrine,cathrine
-gdc,nm2b.0,11823,11850,jungfer_luischen,11841,11849,Cathrine,cathrine
-gdc,nm2b.0,11855,11882,cathrine,11865,11881,Jungfer Luischen,jungfer_luischen
-gdc,nm2b.0,12050,12165,jungfer_luischen,12140,12143,mir,jungfer_luischen
-gdc,nm2b.0,12170,12574,cathrine,12197,12200,mir,cathrine
-gdc,nm2b.0,12170,12574,cathrine,12230,12235,meine,cathrine
-gdc,nm2b.0,12170,12574,cathrine,12242,12258,Jungfer Luischen,jungfer_luischen
-gdc,nm2b.0,12579,12640,jungfer_luischen,12601,12609,Cathrine,cathrine
-gdc,nm2b.0,12579,12640,jungfer_luischen,12611,12614,ich,jungfer_luischen
-gdc,nm2b.0,12579,12640,jungfer_luischen,12622,12626,mich,jungfer_luischen
-gdc,nm2b.0,12645,12981,cathrine,12663,12666,ich,cathrine
-gdc,nm2b.0,13027,13498,cathrine,13037,13040,Ich,cathrine
-gdc,nm2b.0,13027,13498,cathrine,13391,13394,Ich,cathrine
-gdc,nm2b.0,13566,13627,cathrine,13610,13626,Jungfer Luischen,jungfer_luischen
-gdc,nm2b.0,13632,14077,jungfer_luischen,13655,13658,ich,jungfer_luischen
-gdc,nm2b.0,13632,14077,jungfer_luischen,13783,13786,ich,jungfer_luischen
-gdc,nm2b.0,13632,14077,jungfer_luischen,13788,13793,Meine,jungfer_luischen
-gdc,nm2b.0,14144,14942,jungfer_luischen,14177,14180,ich,jungfer_luischen
-gdc,nm2b.0,14144,14942,jungfer_luischen,14231,14234,ich,jungfer_luischen
-gdc,nm2b.0,14144,14942,jungfer_luischen,14271,14274,Ich,jungfer_luischen
-gdc,nm2b.0,14144,14942,jungfer_luischen,14449,14452,ich,jungfer_luischen
-gdc,nm2b.0,14144,14942,jungfer_luischen,14465,14468,ich,jungfer_luischen
-gdc,nm2b.0,14144,14942,jungfer_luischen,14515,14518,ich,jungfer_luischen
-gdc,nm2b.0,14144,14942,jungfer_luischen,14638,14641,Ich,jungfer_luischen
-gdc,nm2b.0,14144,14942,jungfer_luischen,14647,14651,mich,jungfer_luischen
-gdc,nm2b.0,14144,14942,jungfer_luischen,14678,14681,ich,jungfer_luischen
-gdc,nm2b.0,14144,14942,jungfer_luischen,14716,14719,ich,jungfer_luischen
-gdc,nm2b.0,14144,14942,jungfer_luischen,14780,14783,Ich,jungfer_luischen
-gdc,nm2b.0,14144,14942,jungfer_luischen,14821,14825,mein,jungfer_luischen
-gdc,nm2b.0,15086,15246,jungfer_luischen,15131,15134,ich,jungfer_luischen
-gdc,nm2b.0,15086,15246,jungfer_luischen,15135,15138,mir,jungfer_luischen
-gdc,nm2b.0,15086,15246,jungfer_luischen,15154,15157,Ich,jungfer_luischen
-gdc,nm2b.0,15086,15246,jungfer_luischen,15186,15189,Ich,jungfer_luischen
-gdc,nm2b.0,15086,15246,jungfer_luischen,15199,15204,meine,jungfer_luischen
-gdc,nm2b.0,15251,16167,cathrine,15261,15264,Ich,cathrine
-gdc,nm2b.0,15251,16167,cathrine,15539,15543,Mich,cathrine
-gdc,nm2b.0,15251,16167,cathrine,16047,16050,ich,cathrine
-gdc,nm2b.0,16267,16614,cathrine,16291,16294,ich,cathrine
-gdc,nm2b.0,16267,16614,cathrine,16295,16301,meinen,cathrine
-gdc,nm2b.0,16267,16614,cathrine,16331,16334,mir,cathrine
-gdc,nm2b.0,16267,16614,cathrine,16363,16366,ich,cathrine
-gdc,nm2b.0,16267,16614,cathrine,16452,16455,mir,cathrine
-gdc,nm2b.0,16267,16614,cathrine,16513,16516,ich,cathrine
-gdc,nm2b.0,16267,16614,cathrine,16577,16580,Ich,cathrine
-gdc,nm2b.0,16267,16614,cathrine,16603,16608,meine,cathrine
-gdc,nm2b.0,16619,16766,jungfer_luischen,16680,16686,meiner,jungfer_luischen
-gdc,nm2b.0,16619,16766,jungfer_luischen,16698,16702,mich,jungfer_luischen
-gdc,nm2b.0,16619,16766,jungfer_luischen,16729,16734,meine,jungfer_luischen
-gdc,nm2b.0,16888,17132,jungfer_luischen,16920,16925,Meine,jungfer_luischen
-gdc,nm2b.0,17217,17301,jungfer_luischen,17235,17239,Mich,jungfer_luischen
-gdc,nm2b.0,17217,17301,jungfer_luischen,17266,17270,mein,jungfer_luischen
-gdc,nm2b.0,17434,17633,jungfer_luischen,17495,17499,mein,jungfer_luischen
-gdc,nm2b.0,17434,17633,jungfer_luischen,17533,17538,meine,jungfer_luischen
-gdc,nm2b.0,17434,17633,jungfer_luischen,17564,17567,mir,jungfer_luischen
-gdc,nm2b.0,17638,17902,cathrine,17687,17703,Jungfer Luischen,jungfer_luischen
-gdc,nm2b.0,17638,17902,cathrine,17705,17720,Herr Wackermann,herr_wackermann
-gdc,nm2b.0,17638,17902,cathrine,17888,17891,ich,cathrine
-gdc,nm2b.0,17907,18033,jungfer_luischen,17945,17948,mir,jungfer_luischen
-gdc,nm2b.0,18038,18326,cathrine,18061,18064,ich,cathrine
-gdc,nm2b.0,18380,18954,cathrine,18767,18770,Ich,cathrine
-gdc,nm2b.0,18380,18954,cathrine,18809,18813,mich,cathrine
-gdc,nm2b.0,18380,18954,cathrine,18852,18855,mir,cathrine
-gdc,nm2b.0,18380,18954,cathrine,18876,18879,Ich,cathrine
-gdc,nm2b.0,18979,19047,_stage,18979,18998,Frau Glaubeleichtin,frau_glaubeleichtin
-gdc,nm2b.0,18979,19047,_stage,19000,19015,Jungfer Dorchen,jungfer_dorchen
-gdc,nm2b.0,18979,19047,_stage,19017,19033,Jungfer Luischen,jungfer_luischen
-gdc,nm2b.0,18979,19047,_stage,19038,19046,Cathrine,cathrine
-gdc,nm2b.0,19049,19113,frau_glaubeleichtin,19074,19082,Cathrine,cathrine
-gdc,nm2b.0,19260,19311,frau_glaubeleichtin,19292,19295,ich,frau_glaubeleichtin
-gdc,nm2b.0,19882,20052,cathrine,20041,20044,mir,cathrine
-gdc,nm2b.0,20303,20357,frau_glaubeleichtin,20348,20356,Cathrine,cathrine
-gdc,nm2b.0,21145,21292,cathrine,21196,21199,ich,cathrine
-gdc,nm2b.0,21297,21840,frau_glaubeleichtin,21382,21398,Herr Scheinfromm,herr_scheinfromm
-gdc,nm2b.0,21297,21840,frau_glaubeleichtin,21407,21410,mir,frau_glaubeleichtin
-gdc,nm2b.0,21297,21840,frau_glaubeleichtin,21503,21507,mich,frau_glaubeleichtin
-gdc,nm2b.0,21845,22504,cathrine,21855,21858,Ich,cathrine
-gdc,nm2b.0,21845,22504,cathrine,21970,21973,Ich,cathrine
-gdc,nm2b.0,21845,22504,cathrine,21986,22004,Frau Zanckenheimin,frau_zanckenheimin
-gdc,nm2b.0,21845,22504,cathrine,22057,22072,Frau Seuffzerin,frau_seuffzerin
-gdc,nm2b.0,21845,22504,cathrine,22336,22339,Ich,cathrine
-gdc,nm2b.0,21845,22504,cathrine,22426,22430,mich,cathrine
-gdc,nm2b.0,21845,22504,cathrine,22472,22475,Ich,cathrine
-gdc,nm2b.0,22706,22838,frau_glaubeleichtin,22795,22800,meine,frau_glaubeleichtin
-gdc,nm2b.0,22894,23012,frau_glaubeleichtin,22980,22983,ich,frau_glaubeleichtin
-gdc,nm2b.0,23017,23106,jungfer_luischen,23040,23045,meine,jungfer_luischen
-gdc,nm2b.0,23017,23106,jungfer_luischen,23089,23092,ich,jungfer_luischen
-gdc,nm2b.0,23111,23396,frau_glaubeleichtin,23218,23221,Ich,frau_glaubeleichtin
-gdc,nm2b.0,23111,23396,frau_glaubeleichtin,23254,23257,ich,frau_glaubeleichtin
-gdc,nm2b.0,23111,23396,frau_glaubeleichtin,23306,23310,mein,frau_glaubeleichtin
-gdc,nm2b.0,23111,23396,frau_glaubeleichtin,23336,23340,mich,frau_glaubeleichtin
-gdc,nm2b.0,23111,23396,frau_glaubeleichtin,23342,23350,Cathrine,cathrine
-gdc,nm2b.0,23422,23456,_stage,23422,23437,Jungfer Dorchen,jungfer_dorchen
-gdc,nm2b.0,23422,23456,_stage,23439,23455,Jungfer Luischen,jungfer_luischen
-gdc,nm2b.0,23458,23569,jungfer_dorchen,23475,23479,Mich,jungfer_dorchen
-gdc,nm2b.0,23574,23952,jungfer_luischen,23601,23604,ich,jungfer_luischen
-gdc,nm2b.0,23574,23952,jungfer_luischen,23617,23620,Ich,jungfer_luischen
-gdc,nm2b.0,23574,23952,jungfer_luischen,23894,23897,ich,jungfer_luischen
-gdc,nm2b.0,23574,23952,jungfer_luischen,23933,23936,ich,jungfer_luischen
-gdc,nm2b.0,24026,24182,jungfer_luischen,24063,24067,Mein,jungfer_luischen
-gdc,nm2b.0,24026,24182,jungfer_luischen,24088,24091,ich,jungfer_luischen
-gdc,nm2b.0,24265,24636,jungfer_luischen,24491,24494,Ich,jungfer_luischen
-gdc,nm2b.0,24641,24779,jungfer_dorchen,24658,24663,Meine,jungfer_dorchen
-gdc,nm2b.0,24784,24948,jungfer_luischen,24839,24842,ich,jungfer_luischen
-gdc,nm2b.0,24784,24948,jungfer_luischen,24843,24849,meines,jungfer_luischen
-gdc,nm2b.0,24784,24948,jungfer_luischen,24886,24889,mir,jungfer_luischen
-gdc,nm2b.0,24784,24948,jungfer_luischen,24915,24921,meinen,jungfer_luischen
-gdc,nm2b.0,24988,25187,jungfer_luischen,25025,25030,meine,jungfer_luischen
-gdc,nm2b.0,24988,25187,jungfer_luischen,25060,25063,mir,jungfer_luischen
-gdc,nm2b.0,25192,25560,jungfer_dorchen,25229,25232,Ich,jungfer_dorchen
-gdc,nm2b.0,25192,25560,jungfer_dorchen,25280,25283,ich,jungfer_dorchen
-gdc,nm2b.0,25192,25560,jungfer_dorchen,25321,25324,Ich,jungfer_dorchen
-gdc,nm2b.0,25192,25560,jungfer_dorchen,25400,25403,mir,jungfer_dorchen
-gdc,nm2b.0,25565,25739,jungfer_luischen,25666,25669,ich,jungfer_luischen
-gdc,nm2b.0,25847,25955,jungfer_luischen,25887,25890,mir,jungfer_luischen
-gdc,nm2b.0,25847,25955,jungfer_luischen,25928,25931,mir,jungfer_luischen
-gdc,nm2b.0,25847,25955,jungfer_luischen,25932,25936,mein,jungfer_luischen
-gdc,nm2b.0,25960,26170,jungfer_dorchen,25986,25989,ich,jungfer_dorchen
-gdc,nm2b.0,25960,26170,jungfer_dorchen,26007,26010,ich,jungfer_dorchen
-gdc,nm2b.0,25960,26170,jungfer_dorchen,26020,26024,mich,jungfer_dorchen
-gdc,nm2b.0,26196,26233,_stage,26196,26215,Frau Glaubeleichtin,frau_glaubeleichtin
-gdc,nm2b.0,26196,26233,_stage,26217,26232,Herr Wackermann,herr_wackermann
-gdc,nm2b.0,26235,26289,herr_wackermann,26277,26280,ich,herr_wackermann
-gdc,nm2b.0,26294,26459,frau_glaubeleichtin,26408,26411,mir,frau_glaubeleichtin
-gdc,nm2b.0,26464,26722,herr_wackermann,26501,26504,Ich,herr_wackermann
-gdc,nm2b.0,26464,26722,herr_wackermann,26616,26619,Ich,herr_wackermann
-gdc,nm2b.0,26727,26815,frau_glaubeleichtin,26799,26802,mir,frau_glaubeleichtin
-gdc,nm2b.0,26917,26973,herr_wackermann,26958,26961,ich,herr_wackermann
-gdc,nm2b.0,27120,27275,frau_glaubeleichtin,27193,27197,mein,frau_glaubeleichtin
-gdc,nm2b.0,27120,27275,frau_glaubeleichtin,27207,27211,mein,frau_glaubeleichtin
-gdc,nm2b.0,27120,27275,frau_glaubeleichtin,27261,27265,mein,frau_glaubeleichtin
-gdc,nm2b.0,27387,27543,frau_glaubeleichtin,27408,27411,Ich,frau_glaubeleichtin
-gdc,nm2b.0,27387,27543,frau_glaubeleichtin,27413,27416,ich,frau_glaubeleichtin
-gdc,nm2b.0,27387,27543,frau_glaubeleichtin,27424,27428,mich,frau_glaubeleichtin
-gdc,nm2b.0,27387,27543,frau_glaubeleichtin,27484,27487,ich,frau_glaubeleichtin
-gdc,nm2b.0,27548,27738,herr_wackermann,27668,27671,Ich,herr_wackermann
-gdc,nm2b.0,27548,27738,herr_wackermann,27690,27706,Herr Scheinfromm,herr_scheinfromm
-gdc,nm2b.0,27886,28090,herr_wackermann,27924,27927,Ich,herr_wackermann
-gdc,nm2b.0,27886,28090,herr_wackermann,27987,27990,ich,herr_wackermann
-gdc,nm2b.0,27886,28090,herr_wackermann,28061,28064,mir,herr_wackermann
-gdc,nm2b.0,28138,28696,herr_wackermann,28155,28158,Ich,herr_wackermann
-gdc,nm2b.0,28138,28696,herr_wackermann,28275,28278,Ich,herr_wackermann
-gdc,nm2b.0,28138,28696,herr_wackermann,28612,28618,meinen,herr_wackermann
-gdc,nm2b.0,28138,28696,herr_wackermann,28681,28685,mich,herr_wackermann
-gdc,nm2b.0,28823,29015,herr_wackermann,28914,28918,mich,herr_wackermann
-gdc,nm2b.0,29020,29378,frau_glaubeleichtin,29041,29054,Herr Liebmann,herr_liebmann
-gdc,nm2b.0,29020,29378,frau_glaubeleichtin,29094,29099,meine,frau_glaubeleichtin
-gdc,nm2b.0,29020,29378,frau_glaubeleichtin,29125,29128,ich,frau_glaubeleichtin
-gdc,nm2b.0,29383,29637,herr_wackermann,29552,29555,ich,herr_wackermann
-gdc,nm2b.0,29642,29813,frau_glaubeleichtin,29702,29705,Ich,frau_glaubeleichtin
-gdc,nm2b.0,29642,29813,frau_glaubeleichtin,29732,29735,ich,frau_glaubeleichtin
-gdc,nm2b.0,29818,30001,herr_wackermann,29949,29952,ich,herr_wackermann
-gdc,nm2b.0,30007,30113,frau_glaubeleichtin,30072,30075,ich,frau_glaubeleichtin
-gdc,nm2b.0,30138,30193,_stage,30138,30157,Frau Glaubeleichtin,frau_glaubeleichtin
-gdc,nm2b.0,30138,30193,_stage,30159,30174,Herr Wackermann,herr_wackermann
-gdc,nm2b.0,30138,30193,_stage,30176,30192,Jungfer Luischen,jungfer_luischen
-gdc,nm2b.0,30195,30410,frau_glaubeleichtin,30349,30352,ich,frau_glaubeleichtin
-gdc,nm2b.0,30415,30490,jungfer_luischen,30446,30449,mir,jungfer_luischen
-gdc,nm2b.0,30415,30490,jungfer_luischen,30464,30467,ich,jungfer_luischen
-gdc,nm2b.0,30751,30899,frau_glaubeleichtin,30772,30776,Mein,frau_glaubeleichtin
-gdc,nm2b.0,30751,30899,frau_glaubeleichtin,30819,30822,ich,frau_glaubeleichtin
-gdc,nm2b.0,30904,31145,jungfer_luischen,30933,30936,ich,jungfer_luischen
-gdc,nm2b.0,30904,31145,jungfer_luischen,30972,30976,mich,jungfer_luischen
-gdc,nm2b.0,30904,31145,jungfer_luischen,31004,31007,ich,jungfer_luischen
-gdc,nm2b.0,30904,31145,jungfer_luischen,31026,31031,meine,jungfer_luischen
-gdc,nm2b.0,30904,31145,jungfer_luischen,31057,31060,ich,jungfer_luischen
-gdc,nm2b.0,30904,31145,jungfer_luischen,31116,31121,meine,jungfer_luischen
-gdc,nm2b.0,31194,31303,frau_glaubeleichtin,31252,31255,ich,frau_glaubeleichtin
-gdc,nm2b.0,31308,31341,jungfer_luischen,31326,31329,Ich,jungfer_luischen
-gdc,nm2b.0,31453,32131,frau_glaubeleichtin,31479,31482,ich,frau_glaubeleichtin
-gdc,nm2b.0,31453,32131,frau_glaubeleichtin,31658,31661,mir,frau_glaubeleichtin
-gdc,nm2b.0,31453,32131,frau_glaubeleichtin,32119,32122,ich,frau_glaubeleichtin
-gdc,nm2b.0,32219,32382,jungfer_luischen,32270,32273,mir,jungfer_luischen
-gdc,nm2b.0,32219,32382,jungfer_luischen,32308,32311,ich,jungfer_luischen
-gdc,nm2b.0,32219,32382,jungfer_luischen,32366,32369,ich,jungfer_luischen
-gdc,nm2b.0,32881,32934,herr_wackermann,32898,32902,Mein,herr_wackermann
-gdc,nm2b.0,33495,33684,jungfer_luischen,33520,33524,mich,jungfer_luischen
-gdc,nm2b.0,33495,33684,jungfer_luischen,33543,33546,Ich,jungfer_luischen
-gdc,nm2b.0,33495,33684,jungfer_luischen,33591,33594,ich,jungfer_luischen
-gdc,nm2b.0,33495,33684,jungfer_luischen,33611,33614,ich,jungfer_luischen
-gdc,nm2b.0,33495,33684,jungfer_luischen,33615,33619,mich,jungfer_luischen
-gdc,nm2b.0,33843,34101,frau_glaubeleichtin,34093,34096,ich,frau_glaubeleichtin
-gdc,nm2b.0,34139,34363,frau_glaubeleichtin,34190,34193,mir,frau_glaubeleichtin
-gdc,nm2b.0,34139,34363,frau_glaubeleichtin,34284,34287,Ich,frau_glaubeleichtin
-gdc,nm2b.0,34139,34363,frau_glaubeleichtin,34345,34348,mir,frau_glaubeleichtin
-gdc,nm2b.0,34368,34407,jungfer_luischen,34388,34392,mein,jungfer_luischen
-gdc,nm2b.0,34434,34481,_stage,34434,34453,Frau Glaubeleichtin,frau_glaubeleichtin
-gdc,nm2b.0,34434,34481,_stage,34455,34470,Herr Wackermann,herr_wackermann
-gdc,nm2b.0,34434,34481,_stage,34472,34480,Cathrine,cathrine
-gdc,nm2b.0,34483,34540,herr_wackermann,34525,34528,ich,herr_wackermann
-gdc,nm2b.0,34545,34717,frau_glaubeleichtin,34570,34573,ich,frau_glaubeleichtin
-gdc,nm2b.0,34545,34717,frau_glaubeleichtin,34596,34601,meine,frau_glaubeleichtin
-gdc,nm2b.0,34545,34717,frau_glaubeleichtin,34650,34654,mich,frau_glaubeleichtin
-gdc,nm2b.0,34545,34717,frau_glaubeleichtin,34659,34665,meinen,frau_glaubeleichtin
-gdc,nm2b.0,34804,34909,frau_glaubeleichtin,34847,34855,Cathrine,cathrine
-gdc,nm2b.0,34804,34909,frau_glaubeleichtin,34895,34898,mir,frau_glaubeleichtin
-gdc,nm2b.0,35024,35284,frau_glaubeleichtin,35138,35141,Ich,frau_glaubeleichtin
-gdc,nm2b.0,35024,35284,frau_glaubeleichtin,35158,35161,ich,frau_glaubeleichtin
-gdc,nm2b.0,35024,35284,frau_glaubeleichtin,35186,35189,ich,frau_glaubeleichtin
-gdc,nm2b.0,35289,35571,herr_wackermann,35306,35309,Ich,herr_wackermann
-gdc,nm2b.0,35289,35571,herr_wackermann,35401,35409,meinigen,herr_wackermann
-gdc,nm2b.0,35576,35714,frau_glaubeleichtin,35690,35693,ich,frau_glaubeleichtin
-gdc,nm2b.0,36493,36799,herr_wackermann,36679,36682,ich,herr_wackermann
-gdc,nm2b.0,36804,37359,frau_glaubeleichtin,36858,36861,ich,frau_glaubeleichtin
-gdc,nm2b.0,37364,37580,cathrine,37385,37388,Ich,cathrine
-gdc,nm2b.0,37364,37580,cathrine,37427,37446,Frau Glaubeleichtin,frau_glaubeleichtin
-gdc,nm2b.0,37364,37580,cathrine,37452,37455,ich,cathrine
-gdc,nm2b.0,37364,37580,cathrine,37513,37516,ich,cathrine
-gdc,nm2b.0,37364,37580,cathrine,37517,37520,mir,cathrine
-gdc,nm2b.0,37364,37580,cathrine,37534,37537,ich,cathrine
-gdc,nm2b.0,37585,37751,herr_wackermann,37606,37609,ich,herr_wackermann
-gdc,nm2b.0,37756,37965,frau_glaubeleichtin,37873,37878,Jacob,jacob
-gdc,nm2b.0,37756,37965,frau_glaubeleichtin,37904,37907,mir,frau_glaubeleichtin
-gdc,nm2b.0,37756,37965,frau_glaubeleichtin,37937,37945,Cathrine,cathrine
-gdc,nm2b.0,37970,38354,cathrine,38202,38205,ich,cathrine
-gdc,nm2b.0,37970,38354,cathrine,38224,38243,Frau Glaubeleichtin,frau_glaubeleichtin
-gdc,nm2b.0,37970,38354,cathrine,38274,38277,ich,cathrine
-gdc,nm2b.0,38434,38499,frau_glaubeleichtin,38470,38473,mir,frau_glaubeleichtin
-gdc,nm2b.0,38505,38886,herr_wackermann,38547,38550,ich,herr_wackermann
-gdc,nm2b.0,38505,38886,herr_wackermann,38605,38608,ich,herr_wackermann
-gdc,nm2b.0,38505,38886,herr_wackermann,38645,38648,ich,herr_wackermann
-gdc,nm2b.0,38505,38886,herr_wackermann,38828,38832,mich,herr_wackermann
-gdc,nm2b.0,38891,39035,frau_glaubeleichtin,38942,38945,mir,frau_glaubeleichtin
-gdc,nm2b.0,39444,39494,frau_glaubeleichtin,39465,39473,Cathrine,cathrine
-gdc,nm2b.0,39499,39877,cathrine,39524,39527,ich,cathrine
-gdc,nm2b.0,39499,39877,cathrine,39656,39660,mich,cathrine
-gdc,nm2b.0,39499,39877,cathrine,39714,39717,ich,cathrine
-gdc,nm2b.0,39883,39960,herr_wackermann,39943,39946,Ich,herr_wackermann
-gdc,nm2b.0,39965,40566,frau_glaubeleichtin,40022,40030,Cathrine,cathrine
-gdc,nm2b.0,40571,40927,herr_wackermann,40611,40614,ich,herr_wackermann
-gdc,nm2b.0,40571,40927,herr_wackermann,40679,40682,Ich,herr_wackermann
-gdc,nm2b.0,40571,40927,herr_wackermann,40709,40712,Ich,herr_wackermann
-gdc,nm2b.0,40571,40927,herr_wackermann,40754,40757,ich,herr_wackermann
-gdc,nm2b.0,40932,41035,frau_glaubeleichtin,40975,40983,Cathrine,cathrine
-gdc,nm2b.0,40932,41035,frau_glaubeleichtin,40990,40994,mich,frau_glaubeleichtin
-gdc,nm2b.0,40932,41035,frau_glaubeleichtin,41018,41021,ich,frau_glaubeleichtin
-gdc,nm2b.0,41040,41202,cathrine,41162,41165,mir,cathrine
-gdc,nm2b.0,41375,41487,herr_wackermann,41405,41408,ich,herr_wackermann
-gdc,nm2b.0,41492,41746,cathrine,41574,41577,mir,cathrine
-gdc,nm2b.0,41751,41796,herr_wackermann,41768,41771,Ich,herr_wackermann
-gdc,nm2b.0,41801,41996,cathrine,41823,41827,mein,cathrine
-gdc,nm2b.0,41801,41996,cathrine,41947,41952,Jacob,jacob
-gdc,nm2b.0,42002,42128,frau_glaubeleichtin,42058,42061,ich,frau_glaubeleichtin
-gdc,nm2b.0,42133,42278,herr_wackermann,42150,42153,Ich,herr_wackermann
-gdc,nm2b.0,42133,42278,herr_wackermann,42195,42198,Ich,herr_wackermann
-gdc,nm2b.0,42133,42278,herr_wackermann,42253,42256,ich,herr_wackermann
-gdc,nm2b.0,42133,42278,herr_wackermann,42257,42261,mich,herr_wackermann
-gdc,nm2b.0,42320,42592,frau_glaubeleichtin,42381,42384,ich,frau_glaubeleichtin
-gdc,nm2b.0,42320,42592,frau_glaubeleichtin,42451,42459,Cathrine,cathrine
-gdc,nm2b.0,42320,42592,frau_glaubeleichtin,42524,42527,Ich,frau_glaubeleichtin
-gdc,nm2b.0,42320,42592,frau_glaubeleichtin,42543,42546,mir,frau_glaubeleichtin
-gdc,nm2b.0,42597,42829,herr_wackermann,42614,42617,Ich,herr_wackermann
-gdc,nm2b.0,42597,42829,herr_wackermann,42645,42648,mir,herr_wackermann
-gdc,nm2b.0,42597,42829,herr_wackermann,42665,42671,meinem,herr_wackermann
-gdc,nm2b.0,42597,42829,herr_wackermann,42689,42693,mich,herr_wackermann
-gdc,nm2b.0,42597,42829,herr_wackermann,42721,42724,mir,herr_wackermann
-gdc,nm2b.0,42874,42898,_stage,42874,42887,Herr Liebmann,herr_liebmann
-gdc,nm2b.0,42874,42898,_stage,42889,42897,Cathrine,cathrine
-gdc,nm2b.0,42900,42967,cathrine,42932,42937,meine,cathrine
-gdc,nm2b.0,43178,43280,cathrine,43199,43202,ich,cathrine
-gdc,nm2b.0,43178,43280,cathrine,43227,43232,meine,cathrine
-gdc,nm2b.0,43285,43375,herr_liebmann,43309,43324,Herr Wackermann,herr_wackermann
-gdc,nm2b.0,43380,43493,cathrine,43426,43445,Frau Glaubeleichtin,frau_glaubeleichtin
-gdc,nm2b.0,43551,43671,cathrine,43585,43588,ich,cathrine
-gdc,nm2b.0,43551,43671,cathrine,43612,43617,meine,cathrine
-gdc,nm2b.0,43677,43780,herr_liebmann,43745,43748,ich,herr_liebmann
-gdc,nm2b.0,43677,43780,herr_liebmann,43766,43769,ich,herr_liebmann
-gdc,nm2b.0,43831,43905,herr_liebmann,43846,43849,Ich,herr_liebmann
-gdc,nm2b.0,43831,43905,herr_liebmann,43855,43860,meine,herr_liebmann
-gdc,nm2b.0,43955,44089,herr_liebmann,44007,44012,meine,herr_liebmann
-gdc,nm2b.0,43955,44089,herr_liebmann,44023,44026,ich,herr_liebmann
-gdc,nm2b.0,43955,44089,herr_liebmann,44066,44069,mir,herr_liebmann
-gdc,nm2b.0,44094,44148,cathrine,44113,44118,meine,cathrine
-gdc,nm2b.0,44153,44242,herr_liebmann,44168,44171,Ich,herr_liebmann
-gdc,nm2b.0,44153,44242,herr_liebmann,44202,44205,ich,herr_liebmann
-gdc,nm2b.0,44289,44436,herr_liebmann,44309,44312,ich,herr_liebmann
-gdc,nm2b.0,44289,44436,herr_liebmann,44418,44421,ich,herr_liebmann
-gdc,nm2b.0,44441,44676,cathrine,44467,44471,mich,cathrine
-gdc,nm2b.0,44441,44676,cathrine,44492,44495,Ich,cathrine
-gdc,nm2b.0,44441,44676,cathrine,44565,44584,Frau Glaubeleichtin,frau_glaubeleichtin
-gdc,nm2b.0,44441,44676,cathrine,44599,44615,Jungfer Luischen,jungfer_luischen
-gdc,nm2b.0,44702,44734,_stage,44725,44733,Cathrine,cathrine
-gdc,nm2b.0,44736,44848,herr_scheinfromm,44803,44807,mein,herr_scheinfromm
-gdc,nm2b.0,44853,44919,cathrine,44874,44893,Frau Glaubeleichtin,frau_glaubeleichtin
-gdc,nm2b.0,44924,45038,herr_scheinfromm,44950,44954,mich,herr_scheinfromm
-gdc,nm2b.0,44924,45038,herr_scheinfromm,44958,44964,meinen,herr_scheinfromm
-gdc,nm2b.0,44924,45038,herr_scheinfromm,45015,45019,mich,herr_scheinfromm
-gdc,nm2b.0,45043,45134,cathrine,45070,45086,Herr Scheinfromm,herr_scheinfromm
-gdc,nm2b.0,45043,45134,cathrine,45108,45124,Jungfer Luischen,jungfer_luischen
-gdc,nm2b.0,45199,45330,cathrine,45209,45228,Frau Glaubeleichtin,frau_glaubeleichtin
-gdc,nm2b.0,45335,45462,herr_scheinfromm,45367,45370,ich,herr_scheinfromm
-gdc,nm2b.0,45335,45462,herr_scheinfromm,45390,45393,ich,herr_scheinfromm
-gdc,nm2b.0,45335,45462,herr_scheinfromm,45398,45401,ich,herr_scheinfromm
-gdc,nm2b.0,45626,45726,herr_scheinfromm,45661,45664,ich,herr_scheinfromm
-gdc,nm2b.0,45626,45726,herr_scheinfromm,45686,45689,ich,herr_scheinfromm
-gdc,nm2b.0,45732,45834,cathrine,45780,45783,ich,cathrine
-gdc,nm2b.0,45839,45948,herr_scheinfromm,45876,45892,Jungfer Luischen,jungfer_luischen
-gdc,nm2b.0,45953,46073,cathrine,45992,46008,Jungfer Luischen,jungfer_luischen
-gdc,nm2b.0,46078,46160,herr_scheinfromm,46135,46138,ich,herr_scheinfromm
-gdc,nm2b.0,46165,46294,cathrine,46203,46206,Ich,cathrine
-gdc,nm2b.0,46165,46294,cathrine,46228,46231,ich,cathrine
-gdc,nm2b.0,46342,46380,cathrine,46352,46355,Ich,cathrine
-gdc,nm2b.0,46420,46490,cathrine,46441,46447,meiner,cathrine
-gdc,nm2b.0,46495,46683,herr_scheinfromm,46588,46591,ich,herr_scheinfromm
-gdc,nm2b.0,46495,46683,herr_scheinfromm,46606,46609,Ich,herr_scheinfromm
-gdc,nm2b.0,46688,46880,cathrine,46761,46766,meine,cathrine
-gdc,nm2b.0,46688,46880,cathrine,46791,46794,ich,cathrine
-gdc,nm2b.0,46885,46948,herr_scheinfromm,46915,46921,meinen,herr_scheinfromm
-gdc,nm2b.0,46953,47058,cathrine,47023,47026,Ich,cathrine
-gdc,nm2b.0,47208,47258,herr_scheinfromm,47243,47249,meiner,herr_scheinfromm
-gdc,nm2b.0,47289,47434,herr_scheinfromm,47320,47323,ich,herr_scheinfromm
-gdc,nm2b.0,47289,47434,herr_scheinfromm,47346,47349,Ich,herr_scheinfromm
-gdc,nm2b.0,47289,47434,herr_scheinfromm,47366,47385,Frau Glaubeleichtin,frau_glaubeleichtin
-gdc,nm2b.0,47491,47670,herr_scheinfromm,47514,47517,ich,herr_scheinfromm
-gdc,nm2b.0,47491,47670,herr_scheinfromm,47596,47599,ich,herr_scheinfromm
-gdc,nm2b.0,47491,47670,herr_scheinfromm,47600,47604,mich,herr_scheinfromm
-gdc,nm2b.0,47491,47670,herr_scheinfromm,47625,47644,Frau Glaubeleichtin,frau_glaubeleichtin
-gdc,nm2b.0,47718,48000,herr_scheinfromm,47736,47739,Ich,herr_scheinfromm
-gdc,nm2b.0,47718,48000,herr_scheinfromm,47892,47895,ich,herr_scheinfromm
-gdc,nm2b.0,48005,48046,cathrine,48027,48030,ich,cathrine
-gdc,nm2b.0,48051,48251,herr_scheinfromm,48084,48087,mir,herr_scheinfromm
-gdc,nm2b.0,48256,48297,cathrine,48280,48283,ich,cathrine
-gdc,nm2b.0,48302,48530,herr_scheinfromm,48320,48324,Mein,herr_scheinfromm
-gdc,nm2b.0,48302,48530,herr_scheinfromm,48479,48482,Ich,herr_scheinfromm
-gdc,nm2b.0,48302,48530,herr_scheinfromm,48502,48521,Frau Glaubeleichtin,frau_glaubeleichtin
-gdc,nm2b.0,48759,48962,herr_scheinfromm,48796,48799,ich,herr_scheinfromm
-gdc,nm2b.0,48759,48962,herr_scheinfromm,48839,48842,ich,herr_scheinfromm
-gdc,nm2b.0,48759,48962,herr_scheinfromm,48899,48902,ich,herr_scheinfromm
-gdc,nm2b.0,49005,49310,herr_scheinfromm,49053,49066,Herr Liebmann,herr_liebmann
-gdc,nm2b.0,49315,49358,cathrine,49339,49342,ich,cathrine
-gdc,nm2b.0,49651,49739,cathrine,49661,49664,Ich,cathrine
-gdc,nm2b.0,50079,50216,cathrine,50100,50103,ich,cathrine
-gdc,nm2b.0,50221,50409,herr_scheinfromm,50243,50248,meine,herr_scheinfromm
-gdc,nm2b.0,50867,51188,cathrine,51045,51048,ich,cathrine
-gdc,nm2b.0,50867,51188,cathrine,51145,51164,Frau Glaubeleichtin,frau_glaubeleichtin
-gdc,nm2b.0,51193,51258,herr_scheinfromm,51211,51214,Ich,herr_scheinfromm
-gdc,nm2b.0,51299,51423,herr_scheinfromm,51346,51349,Ich,herr_scheinfromm
-gdc,nm2b.0,51299,51423,herr_scheinfromm,51388,51391,ich,herr_scheinfromm
-gdc,nm2b.0,51475,51596,herr_scheinfromm,51551,51554,ich,herr_scheinfromm
-gdc,nm2b.0,51601,51675,cathrine,51633,51637,mich,cathrine
-gdc,nm2b.0,51601,51675,cathrine,51646,51649,ich,cathrine
-gdc,nm2b.0,51680,51763,herr_scheinfromm,51702,51705,ich,herr_scheinfromm
-gdc,nm2b.0,51768,51939,cathrine,51788,51791,Ich,cathrine
-gdc,nm2b.0,51768,51939,cathrine,51820,51823,ich,cathrine
-gdc,nm2b.0,51768,51939,cathrine,51905,51908,mir,cathrine
-gdc,nm2b.0,51964,52032,_stage,51964,51980,Jungfer Luischen,jungfer_luischen
-gdc,nm2b.0,51964,52032,_stage,52008,52021,Herr Liebmann,herr_liebmann
-gdc,nm2b.0,51964,52032,_stage,52023,52031,Cathrine,cathrine
-gdc,nm2b.0,52034,52117,jungfer_luischen,52052,52060,Cathrine,cathrine
-gdc,nm2b.0,52034,52117,jungfer_luischen,52087,52090,ich,jungfer_luischen
-gdc,nm2b.0,52122,52215,cathrine,52171,52174,ich,cathrine
-gdc,nm2b.0,52344,52389,herr_liebmann,52359,52362,Ich,herr_liebmann
-gdc,nm2b.0,52721,52866,cathrine,52731,52734,Ich,cathrine
-gdc,nm2b.0,52871,52949,herr_liebmann,52890,52898,Cathrine,cathrine
-gdc,nm2b.0,52954,53136,cathrine,53051,53054,ich,cathrine
-gdc,nm2b.0,53183,53343,cathrine,53193,53196,Ich,cathrine
-gdc,nm2b.0,53183,53343,cathrine,53244,53248,mein,cathrine
-gdc,nm2b.0,53183,53343,cathrine,53306,53322,Jungfer Luischen,jungfer_luischen
-gdc,nm2b.0,53512,53565,cathrine,53543,53564,Herr von Muckersdorff,herr_von_muckersdorff
-gdc,nm2b.0,53639,54071,cathrine,53663,53684,Herr von Muckersdorff,herr_von_muckersdorff
-gdc,nm2b.0,53639,54071,cathrine,53798,53817,Frau Glaubeleichtin,frau_glaubeleichtin
-gdc,nm2b.0,53639,54071,cathrine,53899,53915,Herr Scheinfromm,herr_scheinfromm
-gdc,nm2b.0,54121,54213,jungfer_luischen,54180,54183,Ich,jungfer_luischen
-gdc,nm2b.0,54517,54593,jungfer_luischen,54561,54565,mich,jungfer_luischen
-gdc,nm2b.0,54782,54997,herr_liebmann,54831,54834,mir,herr_liebmann
-gdc,nm2b.0,54782,54997,herr_liebmann,54854,54859,meine,herr_liebmann
-gdc,nm2b.0,54782,54997,herr_liebmann,54881,54887,meinen,herr_liebmann
-gdc,nm2b.0,54782,54997,herr_liebmann,54935,54938,ich,herr_liebmann
-gdc,nm2b.0,54782,54997,herr_liebmann,54965,54968,ich,herr_liebmann
-gdc,nm2b.0,55334,55558,cathrine,55357,55373,Jungfer Luischen,jungfer_luischen
-gdc,nm2b.0,55677,55750,jungfer_luischen,55700,55703,ich,jungfer_luischen
-gdc,nm2b.0,55677,55750,jungfer_luischen,55711,55715,mich,jungfer_luischen
-gdc,nm2b.0,55755,55830,herr_liebmann,55808,55811,ich,herr_liebmann
-gdc,nm2b.0,55755,55830,herr_liebmann,55813,55818,Meine,herr_liebmann
-gdc,nm2b.0,55919,56042,herr_liebmann,55939,55944,meine,herr_liebmann
-gdc,nm2b.0,55919,56042,herr_liebmann,55964,55967,mir,herr_liebmann
-gdc,nm2b.0,55919,56042,herr_liebmann,55987,55990,ich,herr_liebmann
-gdc,nm2b.0,56047,56521,jungfer_luischen,56079,56092,Herr Liebmann,herr_liebmann
-gdc,nm2b.0,56047,56521,jungfer_luischen,56121,56124,ich,jungfer_luischen
-gdc,nm2b.0,56047,56521,jungfer_luischen,56186,56189,ich,jungfer_luischen
-gdc,nm2b.0,56047,56521,jungfer_luischen,56218,56222,mich,jungfer_luischen
-gdc,nm2b.0,56047,56521,jungfer_luischen,56256,56262,meinem,jungfer_luischen
-gdc,nm2b.0,56047,56521,jungfer_luischen,56326,56330,mich,jungfer_luischen
-gdc,nm2b.0,56047,56521,jungfer_luischen,56371,56377,meines,jungfer_luischen
-gdc,nm2b.0,56047,56521,jungfer_luischen,56416,56419,mir,jungfer_luischen
-gdc,nm2b.0,56047,56521,jungfer_luischen,56462,56465,ich,jungfer_luischen
-gdc,nm2b.0,56526,56627,cathrine,56582,56586,mich,cathrine
-gdc,nm2b.0,56633,56770,cathrine,56664,56680,Jungfer Luischen,jungfer_luischen
-gdc,nm2b.0,56775,56888,jungfer_luischen,56820,56823,mir,jungfer_luischen
-gdc,nm2b.0,56775,56888,jungfer_luischen,56837,56840,ich,jungfer_luischen
-gdc,nm2b.0,56775,56888,jungfer_luischen,56875,56878,ich,jungfer_luischen
-gdc,nm2b.0,56893,57021,cathrine,56903,56906,Ich,cathrine
-gdc,nm2b.0,56893,57021,cathrine,56923,56926,ich,cathrine
-gdc,nm2b.0,57046,57102,_stage,57046,57062,Jungfer Luischen,jungfer_luischen
-gdc,nm2b.0,57046,57102,_stage,57064,57080,Herr Scheinfromm,herr_scheinfromm
-gdc,nm2b.0,57046,57102,_stage,57082,57101,Frau Glaubeleichtin,frau_glaubeleichtin
-gdc,nm2b.0,57228,57368,herr_scheinfromm,57294,57297,Ich,herr_scheinfromm
-gdc,nm2b.0,57501,57823,frau_glaubeleichtin,57522,57525,Ich,frau_glaubeleichtin
-gdc,nm2b.0,57501,57823,frau_glaubeleichtin,57552,57555,ich,frau_glaubeleichtin
-gdc,nm2b.0,57501,57823,frau_glaubeleichtin,57586,57592,meiner,frau_glaubeleichtin
-gdc,nm2b.0,57501,57823,frau_glaubeleichtin,57725,57728,ich,frau_glaubeleichtin
-gdc,nm2b.0,57501,57823,frau_glaubeleichtin,57771,57774,Ich,frau_glaubeleichtin
-gdc,nm2b.0,57848,57883,_stage,57848,57864,Herr Scheinfromm,herr_scheinfromm
-gdc,nm2b.0,57848,57883,_stage,57866,57882,Jungfer Luischen,jungfer_luischen
-gdc,nm2b.0,58052,58130,herr_scheinfromm,58070,58074,Mich,herr_scheinfromm
-gdc,nm2b.0,58358,58443,jungfer_luischen,58376,58380,Mein,jungfer_luischen
-gdc,nm2b.0,58358,58443,jungfer_luischen,58408,58411,ich,jungfer_luischen
-gdc,nm2b.0,58549,58637,jungfer_luischen,58567,58570,Ich,jungfer_luischen
-gdc,nm2b.0,58549,58637,jungfer_luischen,58607,58612,meine,jungfer_luischen
-gdc,nm2b.0,58643,58807,herr_scheinfromm,58719,58722,ich,herr_scheinfromm
-gdc,nm2b.0,58812,58896,jungfer_luischen,58830,58833,Ich,jungfer_luischen
-gdc,nm2b.0,59153,59352,jungfer_luischen,59317,59321,mein,jungfer_luischen
-gdc,nm2b.0,59450,59655,jungfer_luischen,59479,59482,ich,jungfer_luischen
-gdc,nm2b.0,59450,59655,jungfer_luischen,59498,59501,mir,jungfer_luischen
-gdc,nm2b.0,59450,59655,jungfer_luischen,59502,59506,mein,jungfer_luischen
-gdc,nm2b.0,59450,59655,jungfer_luischen,59544,59550,meinen,jungfer_luischen
-gdc,nm2b.0,59450,59655,jungfer_luischen,59578,59581,Ich,jungfer_luischen
-gdc,nm2b.0,59450,59655,jungfer_luischen,59606,59609,ich,jungfer_luischen
-gdc,nm2b.0,60553,60643,jungfer_luischen,60626,60629,ich,jungfer_luischen
-gdc,nm2b.0,60553,60643,jungfer_luischen,60630,60634,mich,jungfer_luischen
-gdc,nm2b.0,60678,60809,jungfer_luischen,60696,60699,Ich,jungfer_luischen
-gdc,nm2b.0,60678,60809,jungfer_luischen,60727,60732,meine,jungfer_luischen
-gdc,nm2b.0,60678,60809,jungfer_luischen,60756,60759,Ich,jungfer_luischen
-gdc,nm2b.0,60883,60971,jungfer_luischen,60910,60914,mich,jungfer_luischen
-gdc,nm2b.0,60883,60971,jungfer_luischen,60940,60943,ich,jungfer_luischen
-gdc,nm2b.0,60883,60971,jungfer_luischen,60955,60958,Ich,jungfer_luischen
-gdc,nm2b.0,61037,61123,jungfer_luischen,61063,61066,ich,jungfer_luischen
-gdc,nm2b.0,61037,61123,jungfer_luischen,61067,61071,mich,jungfer_luischen
-gdc,nm2b.0,61037,61123,jungfer_luischen,61107,61110,Ich,jungfer_luischen
-gdc,nm2b.0,61251,61291,jungfer_luischen,61269,61272,Ich,jungfer_luischen
-gdc,nm2b.0,61358,61444,jungfer_luischen,61385,61388,ich,jungfer_luischen
-gdc,nm2b.0,61358,61444,jungfer_luischen,61404,61408,mich,jungfer_luischen
-gdc,nm2b.0,61603,61752,jungfer_luischen,61645,61648,ich,jungfer_luischen
-gdc,nm2b.0,61603,61752,jungfer_luischen,61680,61683,ich,jungfer_luischen
-gdc,nm2b.0,61603,61752,jungfer_luischen,61684,61688,mich,jungfer_luischen
-gdc,nm2b.0,61603,61752,jungfer_luischen,61707,61710,ich,jungfer_luischen
-gdc,nm2b.0,61603,61752,jungfer_luischen,61730,61733,Ich,jungfer_luischen
-gdc,nm2b.0,61812,62041,jungfer_luischen,61839,61842,ich,jungfer_luischen
-gdc,nm2b.0,61812,62041,jungfer_luischen,61858,61861,ich,jungfer_luischen
-gdc,nm2b.0,61812,62041,jungfer_luischen,61891,61894,ich,jungfer_luischen
-gdc,nm2b.0,61812,62041,jungfer_luischen,62003,62009,meinem,jungfer_luischen
-gdc,nm2b.0,62150,62268,jungfer_luischen,62182,62186,mich,jungfer_luischen
-gdc,nm2b.0,62150,62268,jungfer_luischen,62252,62255,Ich,jungfer_luischen
-gdc,nm2b.0,62273,62362,herr_scheinfromm,62298,62301,mir,herr_scheinfromm
-gdc,nm2b.0,62367,62530,jungfer_luischen,62410,62413,ich,jungfer_luischen
-gdc,nm2b.0,62367,62530,jungfer_luischen,62457,62460,mir,jungfer_luischen
-gdc,nm2b.0,62367,62530,jungfer_luischen,62472,62477,meine,jungfer_luischen
-gdc,nm2b.0,62367,62530,jungfer_luischen,62500,62504,mich,jungfer_luischen
-gdc,nm2b.0,62535,62579,herr_scheinfromm,62572,62575,mir,herr_scheinfromm
-gdc,nm2b.0,62584,62644,jungfer_luischen,62602,62605,Ich,jungfer_luischen
-gdc,nm2b.0,62649,62893,herr_scheinfromm,62686,62690,mich,herr_scheinfromm
-gdc,nm2b.0,62649,62893,herr_scheinfromm,62696,62699,ich,herr_scheinfromm
-gdc,nm2b.0,62649,62893,herr_scheinfromm,62769,62774,Meine,herr_scheinfromm
-gdc,nm2b.0,62920,62976,_stage,62920,62939,Frau Glaubeleichtin,frau_glaubeleichtin
-gdc,nm2b.0,62920,62976,_stage,62941,62957,Jungfer Luischen,jungfer_luischen
-gdc,nm2b.0,62920,62976,_stage,62959,62975,Herr Scheinfromm,herr_scheinfromm
-gdc,nm2b.0,62978,63102,frau_glaubeleichtin,62999,63004,Meine,frau_glaubeleichtin
-gdc,nm2b.0,62978,63102,frau_glaubeleichtin,63079,63082,ich,frau_glaubeleichtin
-gdc,nm2b.0,63107,63329,herr_scheinfromm,63246,63249,Ich,herr_scheinfromm
-gdc,nm2b.0,63107,63329,herr_scheinfromm,63313,63317,mein,herr_scheinfromm
-gdc,nm2b.0,63334,63444,frau_glaubeleichtin,63355,63358,Ich,frau_glaubeleichtin
-gdc,nm2b.0,63334,63444,frau_glaubeleichtin,63395,63398,ich,frau_glaubeleichtin
-gdc,nm2b.0,63334,63444,frau_glaubeleichtin,63440,63443,mir,frau_glaubeleichtin
-gdc,nm2b.0,63449,63566,herr_scheinfromm,63490,63493,ich,herr_scheinfromm
-gdc,nm2b.0,63449,63566,herr_scheinfromm,63494,63499,meine,herr_scheinfromm
-gdc,nm2b.0,63449,63566,herr_scheinfromm,63531,63535,mich,herr_scheinfromm
-gdc,nm2b.0,63571,63639,frau_glaubeleichtin,63608,63611,Ich,frau_glaubeleichtin
-gdc,nm2b.0,63666,63716,_stage,63666,63685,Frau Glaubeleichtin,frau_glaubeleichtin
-gdc,nm2b.0,63666,63716,_stage,63687,63703,Jungfer Luischen,jungfer_luischen
-gdc,nm2b.0,63718,64161,frau_glaubeleichtin,63749,63752,ich,frau_glaubeleichtin
-gdc,nm2b.0,63718,64161,frau_glaubeleichtin,63838,63842,mich,frau_glaubeleichtin
-gdc,nm2b.0,63718,64161,frau_glaubeleichtin,63877,63880,ich,frau_glaubeleichtin
-gdc,nm2b.0,63718,64161,frau_glaubeleichtin,63951,63954,Ich,frau_glaubeleichtin
-gdc,nm2b.0,63718,64161,frau_glaubeleichtin,63992,63996,mein,frau_glaubeleichtin
-gdc,nm2b.0,63718,64161,frau_glaubeleichtin,64147,64150,mir,frau_glaubeleichtin
-gdc,nm2b.0,64199,64244,frau_glaubeleichtin,64228,64232,mich,frau_glaubeleichtin
-gdc,nm2b.0,64290,64425,frau_glaubeleichtin,64320,64324,mich,frau_glaubeleichtin
-gdc,nm2b.0,64290,64425,frau_glaubeleichtin,64350,64353,mir,frau_glaubeleichtin
-gdc,nm2b.0,64430,64490,jungfer_luischen,64480,64484,mein,jungfer_luischen
-gdc,nm2b.0,64495,64577,frau_glaubeleichtin,64521,64526,meine,frau_glaubeleichtin
-gdc,nm2b.0,64495,64577,frau_glaubeleichtin,64536,64539,ich,frau_glaubeleichtin
-gdc,nm2b.0,64582,64637,jungfer_luischen,64600,64603,Ich,jungfer_luischen
-gdc,nm2b.0,64642,64723,frau_glaubeleichtin,64663,64666,Ich,frau_glaubeleichtin
-gdc,nm2b.0,64728,64780,jungfer_luischen,64746,64759,Herr Liebmann,herr_liebmann
-gdc,nm2b.0,65128,65332,frau_glaubeleichtin,65162,65165,ich,frau_glaubeleichtin
-gdc,nm2b.0,65381,65678,frau_glaubeleichtin,65437,65440,ich,frau_glaubeleichtin
-gdc,nm2b.0,65381,65678,frau_glaubeleichtin,65461,65482,Herr von Muckersdorff,herr_von_muckersdorff
-gdc,nm2b.0,65683,65755,jungfer_luischen,65727,65730,Ich,jungfer_luischen
-gdc,nm2b.0,65683,65755,jungfer_luischen,65736,65740,mich,jungfer_luischen
-gdc,nm2b.0,65800,65847,jungfer_luischen,65818,65821,Ich,jungfer_luischen
-gdc,nm2b.0,65852,66082,frau_glaubeleichtin,65977,65980,ich,frau_glaubeleichtin
-gdc,nm2b.0,65852,66082,frau_glaubeleichtin,66036,66039,ich,frau_glaubeleichtin
-gdc,nm2b.0,65852,66082,frau_glaubeleichtin,66078,66081,mir,frau_glaubeleichtin
-gdc,nm2b.0,66087,66359,jungfer_luischen,66163,66166,Ich,jungfer_luischen
-gdc,nm2b.0,66087,66359,jungfer_luischen,66313,66329,Herr Scheinfromm,herr_scheinfromm
-gdc,nm2b.0,66087,66359,jungfer_luischen,66334,66337,mir,jungfer_luischen
-gdc,nm2b.0,66364,66545,frau_glaubeleichtin,66465,66468,ich,frau_glaubeleichtin
-gdc,nm2b.0,66582,66836,frau_glaubeleichtin,66637,66640,mir,frau_glaubeleichtin
-gdc,nm2b.0,66582,66836,frau_glaubeleichtin,66700,66703,ich,frau_glaubeleichtin
-gdc,nm2b.0,66582,66836,frau_glaubeleichtin,66774,66777,ich,frau_glaubeleichtin
-gdc,nm2b.0,66582,66836,frau_glaubeleichtin,66787,66790,ich,frau_glaubeleichtin
-gdc,nm2b.0,66582,66836,frau_glaubeleichtin,66814,66817,ich,frau_glaubeleichtin
-gdc,nm2b.0,66919,67003,frau_glaubeleichtin,66944,66947,ich,frau_glaubeleichtin
-gdc,nm2b.0,67083,67219,jungfer_luischen,67197,67202,meine,jungfer_luischen
-gdc,nm2b.0,67224,67313,frau_glaubeleichtin,67273,67276,ich,frau_glaubeleichtin
-gdc,nm2b.0,67224,67313,frau_glaubeleichtin,67292,67295,ich,frau_glaubeleichtin
-gdc,nm2b.0,67318,67371,jungfer_luischen,67336,67339,Ich,jungfer_luischen
-gdc,nm2b.0,67590,67707,jungfer_luischen,67622,67626,mein,jungfer_luischen
-gdc,nm2b.0,67590,67707,jungfer_luischen,67644,67647,ich,jungfer_luischen
-gdc,nm2b.0,67590,67707,jungfer_luischen,67680,67684,mich,jungfer_luischen
-gdc,nm2b.0,68033,68209,jungfer_luischen,68169,68173,Mein,jungfer_luischen
-gdc,nm2b.0,68513,68770,frau_glaubeleichtin,68595,68598,Ich,frau_glaubeleichtin
-gdc,nm2b.0,68795,68822,_stage,68795,68811,Jungfer Luischen,jungfer_luischen
-gdc,nm2b.0,68795,68822,_stage,68813,68821,Cathrine,cathrine
-gdc,nm2b.0,68870,68924,jungfer_luischen,68888,68891,Ich,jungfer_luischen
-gdc,nm2b.0,68870,68924,jungfer_luischen,68907,68910,ich,jungfer_luischen
-gdc,nm2b.0,69224,69280,jungfer_luischen,69242,69245,Ich,jungfer_luischen
-gdc,nm2b.0,69285,69440,cathrine,69295,69299,Mein,cathrine
-gdc,nm2b.0,69285,69440,cathrine,69423,69439,Jungfer Luischen,jungfer_luischen
-gdc,nm2b.0,69445,69487,jungfer_luischen,69470,69474,mein,jungfer_luischen
-gdc,nm2b.0,69511,69732,jungfer_luischen,69534,69537,ich,jungfer_luischen
-gdc,nm2b.0,69511,69732,jungfer_luischen,69606,69610,mein,jungfer_luischen
-gdc,nm2b.0,69511,69732,jungfer_luischen,69618,69622,mich,jungfer_luischen
-gdc,nm2b.0,69511,69732,jungfer_luischen,69668,69671,ich,jungfer_luischen
-gdc,nm2b.0,69511,69732,jungfer_luischen,69707,69710,ich,jungfer_luischen
-gdc,nm2b.0,69737,69913,cathrine,69855,69858,Ich,cathrine
-gdc,nm2b.0,69737,69913,cathrine,69864,69869,meine,cathrine
-gdc,nm2b.0,69958,69986,_stage,69958,69975,Frau Bettelsackin,frau_bettelsackin
-gdc,nm2b.0,69958,69986,_stage,69977,69985,Cathrine,cathrine
-gdc,nm2b.0,69988,70259,cathrine,70007,70010,ich,cathrine
-gdc,nm2b.0,69988,70259,cathrine,70011,70016,meine,cathrine
-gdc,nm2b.0,69988,70259,cathrine,70135,70152,Frau Bettelsackin,frau_bettelsackin
-gdc,nm2b.0,69988,70259,cathrine,70154,70158,Mich,cathrine
-gdc,nm2b.0,69988,70259,cathrine,70214,70220,meiner,cathrine
-gdc,nm2b.0,70527,70728,cathrine,70550,70553,ich,cathrine
-gdc,nm2b.0,70527,70728,cathrine,70634,70651,Frau Bettelsackin,frau_bettelsackin
-gdc,nm2b.0,70777,70953,cathrine,70812,70816,mich,cathrine
-gdc,nm2b.0,70959,71230,frau_bettelsackin,71173,71176,ich,frau_bettelsackin
-gdc,nm2b.0,70959,71230,frau_bettelsackin,71213,71217,mich,frau_bettelsackin
-gdc,nm2b.0,71235,71254,cathrine,71245,71248,Ich,cathrine
-gdc,nm2b.0,71280,73374,frau_bettelsackin,71324,71327,ich,frau_bettelsackin
-gdc,nm2b.0,71280,73374,frau_bettelsackin,71328,71332,mein,frau_bettelsackin
-gdc,nm2b.0,71280,73374,frau_bettelsackin,71353,71357,Mich,frau_bettelsackin
-gdc,nm2b.0,71280,73374,frau_bettelsackin,71421,71424,ich,frau_bettelsackin
-gdc,nm2b.0,71280,73374,frau_bettelsackin,71468,71471,ich,frau_bettelsackin
-gdc,nm2b.0,71280,73374,frau_bettelsackin,71529,71534,meine,frau_bettelsackin
-gdc,nm2b.0,71280,73374,frau_bettelsackin,72273,72276,ich,frau_bettelsackin
-gdc,nm2b.0,71280,73374,frau_bettelsackin,72364,72367,ich,frau_bettelsackin
-gdc,nm2b.0,71280,73374,frau_bettelsackin,72731,72736,meine,frau_bettelsackin
-gdc,nm2b.0,71280,73374,frau_bettelsackin,72953,72956,ich,frau_bettelsackin
-gdc,nm2b.0,71280,73374,frau_bettelsackin,73103,73106,mir,frau_bettelsackin
-gdc,nm2b.0,71280,73374,frau_bettelsackin,73319,73338,Frau Glaubeleichtin,frau_glaubeleichtin
-gdc,nm2b.0,71280,73374,frau_bettelsackin,73340,73343,ich,frau_bettelsackin
-gdc,nm2b.0,71280,73374,frau_bettelsackin,73348,73353,meine,frau_bettelsackin
-gdc,nm2b.0,73399,73438,_stage,73399,73418,Frau Glaubeleichtin,frau_glaubeleichtin
-gdc,nm2b.0,73399,73438,_stage,73420,73437,Frau Bettelsackin,frau_bettelsackin
-gdc,nm2b.0,73724,74021,frau_glaubeleichtin,73779,73782,ich,frau_glaubeleichtin
-gdc,nm2b.0,73724,74021,frau_glaubeleichtin,73823,73826,ich,frau_glaubeleichtin
-gdc,nm2b.0,73724,74021,frau_glaubeleichtin,73851,73854,ich,frau_glaubeleichtin
-gdc,nm2b.0,73724,74021,frau_glaubeleichtin,73904,73907,ich,frau_glaubeleichtin
-gdc,nm2b.0,73724,74021,frau_glaubeleichtin,73908,73914,meinem,frau_glaubeleichtin
-gdc,nm2b.0,73724,74021,frau_glaubeleichtin,73986,73990,mich,frau_glaubeleichtin
-gdc,nm2b.0,76131,76272,frau_bettelsackin,76253,76256,ich,frau_bettelsackin
-gdc,nm2b.0,76131,76272,frau_bettelsackin,76257,76261,mich,frau_bettelsackin
-gdc,nm2b.0,76440,76478,frau_bettelsackin,76468,76471,ich,frau_bettelsackin
-gdc,nm2b.0,76998,77164,frau_glaubeleichtin,77048,77051,ich,frau_glaubeleichtin
-gdc,nm2b.0,76998,77164,frau_glaubeleichtin,77129,77134,meine,frau_glaubeleichtin
-gdc,nm2b.0,77169,77212,frau_bettelsackin,77188,77191,Ich,frau_bettelsackin
-gdc,nm2b.0,77238,77268,_stage,77238,77257,Frau Glaubeleichtin,frau_glaubeleichtin
-gdc,nm2b.0,77238,77268,_stage,77259,77267,Cathrine,cathrine
-gdc,nm2b.0,77270,77300,frau_glaubeleichtin,77291,77299,Cathrine,cathrine
-gdc,nm2b.0,77337,77418,frau_glaubeleichtin,77364,77367,mir,frau_glaubeleichtin
-gdc,nm2b.0,77337,77418,frau_glaubeleichtin,77382,77386,Mich,frau_glaubeleichtin
-gdc,nm2b.0,77337,77418,frau_glaubeleichtin,77395,77411,Herr Scheinfromm,herr_scheinfromm
-gdc,nm2b.0,77423,77575,cathrine,77471,77487,Jungfer Luischen,jungfer_luischen
-gdc,nm2b.0,77600,77671,_stage,77600,77619,Frau Glaubeleichtin,frau_glaubeleichtin
-gdc,nm2b.0,77600,77671,_stage,77621,77637,Herr Scheinfromm,herr_scheinfromm
-gdc,nm2b.0,77600,77671,_stage,77649,77670,Herr von Muckersdorff,herr_von_muckersdorff
-gdc,nm2b.0,77673,77994,herr_scheinfromm,77706,77709,mir,herr_scheinfromm
-gdc,nm2b.0,77673,77994,herr_scheinfromm,77744,77748,mein,herr_scheinfromm
-gdc,nm2b.0,77673,77994,herr_scheinfromm,77840,77843,ich,herr_scheinfromm
-gdc,nm2b.0,78130,78195,herr_von_muckersdorff,78176,78180,mich,herr_von_muckersdorff
-gdc,nm2b.0,78200,78299,frau_glaubeleichtin,78225,78241,Herr Scheinfromm,herr_scheinfromm
-gdc,nm2b.0,78200,78299,frau_glaubeleichtin,78246,78249,mir,frau_glaubeleichtin
-gdc,nm2b.0,78353,78431,frau_glaubeleichtin,78374,78377,Ich,frau_glaubeleichtin
-gdc,nm2b.0,78353,78431,frau_glaubeleichtin,78404,78409,meine,frau_glaubeleichtin
-gdc,nm2b.0,78470,78557,frau_glaubeleichtin,78533,78538,meine,frau_glaubeleichtin
-gdc,nm2b.0,78763,78807,herr_von_muckersdorff,78803,78806,mir,herr_von_muckersdorff
-gdc,nm2b.0,78812,78966,frau_glaubeleichtin,78850,78871,Herr von Muckersdorff,herr_von_muckersdorff
-gdc,nm2b.0,78812,78966,frau_glaubeleichtin,78917,78920,mir,frau_glaubeleichtin
-gdc,nm2b.0,78971,79128,herr_von_muckersdorff,79005,79008,mir,herr_von_muckersdorff
-gdc,nm2b.0,78971,79128,herr_von_muckersdorff,79043,79046,ich,herr_von_muckersdorff
-gdc,nm2b.0,78971,79128,herr_von_muckersdorff,79102,79105,ich,herr_von_muckersdorff
-gdc,nm2b.0,79134,79246,frau_glaubeleichtin,79176,79180,mein,frau_glaubeleichtin
-gdc,nm2b.0,79134,79246,frau_glaubeleichtin,79181,79202,Herr von Muckersdorff,herr_von_muckersdorff
-gdc,nm2b.0,79134,79246,frau_glaubeleichtin,79204,79207,ich,frau_glaubeleichtin
-gdc,nm2b.0,79306,79397,frau_glaubeleichtin,79370,79374,mein,frau_glaubeleichtin
-gdc,nm2b.0,79306,79397,frau_glaubeleichtin,79375,79396,Herr von Muckersdorff,herr_von_muckersdorff
-gdc,nm2b.0,79402,79524,herr_von_muckersdorff,79438,79441,ich,herr_von_muckersdorff
-gdc,nm2b.0,79402,79524,herr_von_muckersdorff,79506,79509,ich,herr_von_muckersdorff
-gdc,nm2b.0,79529,79645,herr_scheinfromm,79547,79550,Ich,herr_scheinfromm
-gdc,nm2b.0,79650,79725,frau_glaubeleichtin,79696,79699,ich,frau_glaubeleichtin
-gdc,nm2b.0,79730,79783,herr_von_muckersdorff,79753,79756,Ich,herr_von_muckersdorff
-gdc,nm2b.0,79788,79859,herr_scheinfromm,79821,79837,Jungfer Luischen,jungfer_luischen
-gdc,nm2b.0,79885,79974,_stage,79885,79901,Herr Scheinfromm,herr_scheinfromm
-gdc,nm2b.0,79885,79974,_stage,79903,79922,Frau Glaubeleichtin,frau_glaubeleichtin
-gdc,nm2b.0,79885,79974,_stage,79924,79945,Herr von Muckersdorff,herr_von_muckersdorff
-gdc,nm2b.0,79885,79974,_stage,79947,79963,Jungfer Luischen,jungfer_luischen
-gdc,nm2b.0,79885,79974,_stage,79965,79973,Cathrine,cathrine
-gdc,nm2b.0,79976,80110,herr_von_muckersdorff,80067,80075,Cathrine,cathrine
-gdc,nm2b.0,79976,80110,herr_von_muckersdorff,80101,80105,mich,herr_von_muckersdorff
-gdc,nm2b.0,80116,80206,herr_scheinfromm,80175,80191,Jungfer Luischen,jungfer_luischen
-gdc,nm2b.0,80211,80492,herr_von_muckersdorff,80393,80397,mein,herr_von_muckersdorff
-gdc,nm2b.0,80211,80492,herr_von_muckersdorff,80442,80445,ich,herr_von_muckersdorff
-gdc,nm2b.0,80211,80492,herr_von_muckersdorff,80475,80478,ich,herr_von_muckersdorff
-gdc,nm2b.0,80653,80754,herr_von_muckersdorff,80690,80693,ich,herr_von_muckersdorff
-gdc,nm2b.0,80653,80754,herr_von_muckersdorff,80706,80709,ich,herr_von_muckersdorff
-gdc,nm2b.0,80759,80799,frau_glaubeleichtin,80780,80783,Ich,frau_glaubeleichtin
-gdc,nm2b.0,80804,81039,herr_von_muckersdorff,80830,80833,ich,herr_von_muckersdorff
-gdc,nm2b.0,80804,81039,herr_von_muckersdorff,80860,80863,Ich,herr_von_muckersdorff
-gdc,nm2b.0,80804,81039,herr_von_muckersdorff,80921,80924,ich,herr_von_muckersdorff
-gdc,nm2b.0,80804,81039,herr_von_muckersdorff,80959,80962,ich,herr_von_muckersdorff
-gdc,nm2b.0,81044,81238,herr_scheinfromm,81093,81096,ich,herr_scheinfromm
-gdc,nm2b.0,81243,81381,frau_glaubeleichtin,81350,81355,meine,frau_glaubeleichtin
-gdc,nm2b.0,81387,81474,jungfer_luischen,81414,81417,ich,jungfer_luischen
-gdc,nm2b.0,81387,81474,jungfer_luischen,81430,81433,ich,jungfer_luischen
-gdc,nm2b.0,81663,81890,herr_von_muckersdorff,81686,81689,Ich,herr_von_muckersdorff
-gdc,nm2b.0,81663,81890,herr_von_muckersdorff,81707,81710,ich,herr_von_muckersdorff
-gdc,nm2b.0,81663,81890,herr_von_muckersdorff,81727,81731,mich,herr_von_muckersdorff
-gdc,nm2b.0,81663,81890,herr_von_muckersdorff,81758,81761,ich,herr_von_muckersdorff
-gdc,nm2b.0,81663,81890,herr_von_muckersdorff,81814,81817,ich,herr_von_muckersdorff
-gdc,nm2b.0,81895,82446,frau_glaubeleichtin,81954,81957,mir,frau_glaubeleichtin
-gdc,nm2b.0,81895,82446,frau_glaubeleichtin,81968,81971,ich,frau_glaubeleichtin
-gdc,nm2b.0,81895,82446,frau_glaubeleichtin,82053,82058,meine,frau_glaubeleichtin
-gdc,nm2b.0,81895,82446,frau_glaubeleichtin,82072,82075,ich,frau_glaubeleichtin
-gdc,nm2b.0,81895,82446,frau_glaubeleichtin,82076,82082,meiner,frau_glaubeleichtin
-gdc,nm2b.0,81895,82446,frau_glaubeleichtin,82107,82110,Ich,frau_glaubeleichtin
-gdc,nm2b.0,81895,82446,frau_glaubeleichtin,82151,82154,mir,frau_glaubeleichtin
-gdc,nm2b.0,81895,82446,frau_glaubeleichtin,82155,82159,mein,frau_glaubeleichtin
-gdc,nm2b.0,81895,82446,frau_glaubeleichtin,82187,82190,ich,frau_glaubeleichtin
-gdc,nm2b.0,81895,82446,frau_glaubeleichtin,82231,82234,ich,frau_glaubeleichtin
-gdc,nm2b.0,81895,82446,frau_glaubeleichtin,82392,82395,mir,frau_glaubeleichtin
-gdc,nm2b.0,81895,82446,frau_glaubeleichtin,82413,82416,ich,frau_glaubeleichtin
-gdc,nm2b.0,82570,82759,frau_glaubeleichtin,82629,82632,ich,frau_glaubeleichtin
-gdc,nm2b.0,82570,82759,frau_glaubeleichtin,82684,82687,ich,frau_glaubeleichtin
-gdc,nm2b.0,82570,82759,frau_glaubeleichtin,82711,82714,ich,frau_glaubeleichtin
-gdc,nm2b.0,82765,82819,cathrine,82788,82792,mich,cathrine
-gdc,nm2b.0,82765,82819,cathrine,82801,82804,ich,cathrine
-gdc,nm2b.0,82824,83032,herr_scheinfromm,82862,82865,mir,herr_scheinfromm
-gdc,nm2b.0,82824,83032,herr_scheinfromm,82922,82925,ich,herr_scheinfromm
-gdc,nm2b.0,82824,83032,herr_scheinfromm,82965,82968,ich,herr_scheinfromm
-gdc,nm2b.0,83037,83111,frau_glaubeleichtin,83062,83065,ich,frau_glaubeleichtin
-gdc,nm2b.0,83037,83111,frau_glaubeleichtin,83081,83086,meine,frau_glaubeleichtin
-gdc,nm2b.0,83265,83432,cathrine,83349,83353,Mich,cathrine
-gdc,nm2b.0,83459,83493,_stage,83459,83474,Jungfer Dorchen,jungfer_dorchen
-gdc,nm2b.0,83459,83493,_stage,83476,83492,Jungfer Luischen,jungfer_luischen
-gdc,nm2b.0,83495,83643,jungfer_dorchen,83516,83521,meine,jungfer_dorchen
-gdc,nm2b.0,83495,83643,jungfer_dorchen,83615,83618,Ich,jungfer_dorchen
-gdc,nm2b.0,83849,83967,jungfer_luischen,83936,83939,ich,jungfer_luischen
-gdc,nm2b.0,83972,84107,jungfer_dorchen,83989,83992,Ich,jungfer_dorchen
-gdc,nm2b.0,83972,84107,jungfer_dorchen,83994,83999,meine,jungfer_dorchen
-gdc,nm2b.0,83972,84107,jungfer_dorchen,84018,84022,mich,jungfer_dorchen
-gdc,nm2b.0,83972,84107,jungfer_dorchen,84033,84036,ich,jungfer_dorchen
-gdc,nm2b.0,83972,84107,jungfer_dorchen,84086,84089,mir,jungfer_dorchen
-gdc,nm2b.0,84162,84382,jungfer_dorchen,84291,84294,mir,jungfer_dorchen
-gdc,nm2b.0,84162,84382,jungfer_dorchen,84340,84343,ich,jungfer_dorchen
-gdc,nm2b.0,84521,84745,jungfer_dorchen,84576,84579,mir,jungfer_dorchen
-gdc,nm2b.0,84521,84745,jungfer_dorchen,84680,84683,Ich,jungfer_dorchen
-gdc,nm2b.0,84521,84745,jungfer_dorchen,84721,84725,mich,jungfer_dorchen
-gdc,nm2b.0,84750,85033,jungfer_luischen,84768,84771,Ich,jungfer_luischen
-gdc,nm2b.0,84750,85033,jungfer_luischen,84870,84874,mich,jungfer_luischen
-gdc,nm2b.0,84750,85033,jungfer_luischen,84908,84911,ich,jungfer_luischen
-gdc,nm2b.0,84750,85033,jungfer_luischen,85021,85024,ich,jungfer_luischen
-gdc,nm2b.0,85038,85076,jungfer_dorchen,85072,85075,mir,jungfer_dorchen
-gdc,nm2b.0,85081,85125,jungfer_luischen,85103,85106,ich,jungfer_luischen
-gdc,nm2b.0,85150,85181,_stage,85150,85165,Jungfer Dorchen,jungfer_dorchen
-gdc,nm2b.0,85150,85181,_stage,85167,85180,Herr Liebmann,herr_liebmann
-gdc,nm2b.0,85183,85445,herr_liebmann,85213,85229,Jungfer Luischen,jungfer_luischen
-gdc,nm2b.0,85183,85445,herr_liebmann,85263,85267,mich,herr_liebmann
-gdc,nm2b.0,85183,85445,herr_liebmann,85340,85343,mir,herr_liebmann
-gdc,nm2b.0,85183,85445,herr_liebmann,85412,85415,mir,herr_liebmann
-gdc,nm2b.0,85511,85625,herr_liebmann,85575,85579,mich,herr_liebmann
-gdc,nm2b.0,85511,85625,herr_liebmann,85614,85617,ich,herr_liebmann
-gdc,nm2b.0,85630,85738,jungfer_dorchen,85647,85650,Ich,jungfer_dorchen
-gdc,nm2b.0,85743,85836,herr_liebmann,85789,85792,mir,herr_liebmann
-gdc,nm2b.0,85841,85908,jungfer_dorchen,85872,85875,ich,jungfer_dorchen
-gdc,nm2b.0,85913,85949,herr_liebmann,85932,85935,mir,herr_liebmann
-gdc,nm2b.0,85954,86078,jungfer_dorchen,85983,85986,mir,jungfer_dorchen
-gdc,nm2b.0,86083,86207,herr_liebmann,86191,86196,meine,herr_liebmann
-gdc,nm2b.0,86213,86280,jungfer_dorchen,86271,86274,ich,jungfer_dorchen
-gdc,nm2b.0,86285,86406,herr_liebmann,86385,86388,Ich,herr_liebmann
-gdc,nm2b.0,86411,86474,jungfer_dorchen,86442,86446,mich,jungfer_dorchen
-gdc,nm2b.0,86411,86474,jungfer_dorchen,86454,86457,Ich,jungfer_dorchen
-gdc,nm2b.0,86479,86633,herr_liebmann,86588,86593,meine,herr_liebmann
-gdc,nm2b.0,86479,86633,herr_liebmann,86604,86609,meine,herr_liebmann
-gdc,nm2b.0,86638,86772,jungfer_dorchen,86665,86669,mich,jungfer_dorchen
-gdc,nm2b.0,86638,86772,jungfer_dorchen,86683,86686,Ich,jungfer_dorchen
-gdc,nm2b.0,86777,86860,herr_liebmann,86830,86834,mein,herr_liebmann
-gdc,nm2b.0,87089,87132,herr_liebmann,87117,87120,ich,herr_liebmann
-gdc,nm2b.0,87192,87264,herr_liebmann,87215,87218,ich,herr_liebmann
-gdc,nm2b.0,87192,87264,herr_liebmann,87241,87244,mir,herr_liebmann
-gdc,nm2b.0,87269,87393,jungfer_dorchen,87286,87290,Mein,jungfer_dorchen
-gdc,nm2b.0,87269,87393,jungfer_dorchen,87368,87371,ich,jungfer_dorchen
-gdc,nm2b.0,87399,87522,herr_liebmann,87428,87431,mir,herr_liebmann
-gdc,nm2b.0,87399,87522,herr_liebmann,87494,87497,ich,herr_liebmann
-gdc,nm2b.0,87669,87834,jungfer_dorchen,87686,87699,Herr Liebmann,herr_liebmann
-gdc,nm2b.0,87669,87834,jungfer_dorchen,87754,87758,mich,jungfer_dorchen
-gdc,nm2b.0,87669,87834,jungfer_dorchen,87798,87804,meiner,jungfer_dorchen
-gdc,nm2b.0,87839,87897,herr_liebmann,87859,87862,ich,herr_liebmann
-gdc,nm2b.0,87949,88094,herr_liebmann,87979,87982,Ich,herr_liebmann
-gdc,nm2b.0,87949,88094,herr_liebmann,88000,88003,Ich,herr_liebmann
-gdc,nm2b.0,87949,88094,herr_liebmann,88009,88013,mich,herr_liebmann
-gdc,nm2b.0,87949,88094,herr_liebmann,88072,88076,mich,herr_liebmann
-gdc,nm2b.0,88147,88402,herr_liebmann,88162,88165,Ich,herr_liebmann
-gdc,nm2b.0,88147,88402,herr_liebmann,88173,88176,ich,herr_liebmann
-gdc,nm2b.0,88147,88402,herr_liebmann,88182,88186,mich,herr_liebmann
-gdc,nm2b.0,88147,88402,herr_liebmann,88222,88225,Ich,herr_liebmann
-gdc,nm2b.0,88147,88402,herr_liebmann,88259,88263,mein,herr_liebmann
-gdc,nm2b.0,88147,88402,herr_liebmann,88293,88296,ich,herr_liebmann
-gdc,nm2b.0,88147,88402,herr_liebmann,88377,88380,ich,herr_liebmann
-gdc,nm2b.0,88464,88620,herr_liebmann,88488,88491,ich,herr_liebmann
-gdc,nm2b.0,88464,88620,herr_liebmann,88523,88526,ich,herr_liebmann
-gdc,nm2b.0,88464,88620,herr_liebmann,88552,88555,Ich,herr_liebmann
-gdc,nm2b.0,88464,88620,herr_liebmann,88608,88611,ich,herr_liebmann
-gdc,nm2b.0,88720,88779,herr_liebmann,88743,88746,ich,herr_liebmann
-gdc,nm2b.0,88784,88963,jungfer_dorchen,88811,88815,mein,jungfer_dorchen
-gdc,nm2b.0,88784,88963,jungfer_dorchen,88896,88901,meine,jungfer_dorchen
-gdc,nm2b.0,88784,88963,jungfer_dorchen,88929,88932,Ich,jungfer_dorchen
-gdc,nm2b.0,88988,89019,_stage,88988,89001,Herr Liebmann,herr_liebmann
-gdc,nm2b.0,88988,89019,_stage,89003,89018,Herr Wackermann,herr_wackermann
-gdc,nm2b.0,89021,89104,herr_wackermann,89065,89078,Herr Liebmann,herr_liebmann
-gdc,nm2b.0,89021,89104,herr_wackermann,89091,89095,mich,herr_wackermann
-gdc,nm2b.0,89109,89516,herr_liebmann,89161,89165,mich,herr_liebmann
-gdc,nm2b.0,89109,89516,herr_liebmann,89182,89187,Meine,herr_liebmann
-gdc,nm2b.0,89109,89516,herr_liebmann,89298,89304,meiner,herr_liebmann
-gdc,nm2b.0,89109,89516,herr_liebmann,89323,89326,mir,herr_liebmann
-gdc,nm2b.0,89109,89516,herr_liebmann,89349,89353,mich,herr_liebmann
-gdc,nm2b.0,89109,89516,herr_liebmann,89381,89384,mir,herr_liebmann
-gdc,nm2b.0,89109,89516,herr_liebmann,89416,89420,mich,herr_liebmann
-gdc,nm2b.0,89109,89516,herr_liebmann,89493,89497,mich,herr_liebmann
-gdc,nm2b.0,89521,89630,herr_wackermann,89595,89598,Ich,herr_wackermann
-gdc,nm2b.0,89635,89689,herr_liebmann,89655,89658,ich,herr_liebmann
-gdc,nm2b.0,89801,89956,herr_wackermann,89895,89898,ich,herr_wackermann
-gdc,nm2b.0,89801,89956,herr_wackermann,89920,89923,Ich,herr_wackermann
-gdc,nm2b.0,90014,90270,herr_wackermann,90031,90034,Ich,herr_wackermann
-gdc,nm2b.0,90014,90270,herr_wackermann,90093,90096,mir,herr_wackermann
-gdc,nm2b.0,90014,90270,herr_wackermann,90116,90119,ich,herr_wackermann
-gdc,nm2b.0,90014,90270,herr_wackermann,90127,90130,mir,herr_wackermann
-gdc,nm2b.0,90014,90270,herr_wackermann,90161,90164,mir,herr_wackermann
-gdc,nm2b.0,90014,90270,herr_wackermann,90244,90247,Ich,herr_wackermann
-gdc,nm2b.0,90014,90270,herr_wackermann,90258,90263,meine,herr_wackermann
-gdc,nm2b.0,90328,90717,herr_wackermann,90356,90359,ich,herr_wackermann
-gdc,nm2b.0,90328,90717,herr_wackermann,90448,90451,ich,herr_wackermann
-gdc,nm2b.0,90328,90717,herr_wackermann,90516,90520,mich,herr_wackermann
-gdc,nm2b.0,90328,90717,herr_wackermann,90611,90614,ich,herr_wackermann
-gdc,nm2b.0,90328,90717,herr_wackermann,90636,90642,meinem,herr_wackermann
-gdc,nm2b.0,90328,90717,herr_wackermann,90681,90684,mir,herr_wackermann
-gdc,nm2b.0,90722,90940,herr_liebmann,90742,90745,ich,herr_liebmann
-gdc,nm2b.0,90722,90940,herr_liebmann,90789,90792,ich,herr_liebmann
-gdc,nm2b.0,90722,90940,herr_liebmann,90793,90797,mich,herr_liebmann
-gdc,nm2b.0,90722,90940,herr_liebmann,90836,90841,meine,herr_liebmann
-gdc,nm2b.0,90722,90940,herr_liebmann,90848,90851,mir,herr_liebmann
-gdc,nm2b.0,90722,90940,herr_liebmann,90871,90874,ich,herr_liebmann
-gdc,nm2b.0,90722,90940,herr_liebmann,90878,90881,mir,herr_liebmann
-gdc,nm2b.0,90722,90940,herr_liebmann,90913,90916,ich,herr_liebmann
-gdc,nm2b.0,90945,91048,herr_wackermann,90977,90980,mir,herr_wackermann
-gdc,nm2b.0,91093,91150,_stage,91093,91112,Frau Glaubeleichtin,frau_glaubeleichtin
-gdc,nm2b.0,91093,91150,_stage,91114,91132,Frau Zanckenheimin,frau_zanckenheimin
-gdc,nm2b.0,91093,91150,_stage,91134,91149,Frau Seuffzerin,frau_seuffzerin
-gdc,nm2b.0,91152,91405,frau_glaubeleichtin,91173,91176,Ich,frau_glaubeleichtin
-gdc,nm2b.0,91152,91405,frau_glaubeleichtin,91187,91192,meine,frau_glaubeleichtin
-gdc,nm2b.0,91410,91679,frau_zanckenheimin,91437,91440,mir,frau_zanckenheimin
-gdc,nm2b.0,91410,91679,frau_zanckenheimin,91458,91461,Ich,frau_zanckenheimin
-gdc,nm2b.0,91917,92254,frau_zanckenheimin,91947,91950,Ich,frau_zanckenheimin
-gdc,nm2b.0,92500,92871,frau_glaubeleichtin,92804,92808,Mich,frau_glaubeleichtin
-gdc,nm2b.0,92924,93228,frau_glaubeleichtin,92950,92953,ich,frau_glaubeleichtin
-gdc,nm2b.0,92924,93228,frau_glaubeleichtin,92969,92974,meine,frau_glaubeleichtin
-gdc,nm2b.0,92924,93228,frau_glaubeleichtin,92992,92995,Ich,frau_glaubeleichtin
-gdc,nm2b.0,93386,93480,frau_zanckenheimin,93406,93409,Ich,frau_zanckenheimin
-gdc,nm2b.0,93386,93480,frau_zanckenheimin,93419,93422,mir,frau_zanckenheimin
-gdc,nm2b.0,93485,93619,frau_glaubeleichtin,93606,93609,ich,frau_glaubeleichtin
-gdc,nm2b.0,93716,93982,frau_glaubeleichtin,93772,93775,ich,frau_glaubeleichtin
-gdc,nm2b.0,93716,93982,frau_glaubeleichtin,93805,93808,ich,frau_glaubeleichtin
-gdc,nm2b.0,93716,93982,frau_glaubeleichtin,93858,93861,ich,frau_glaubeleichtin
-gdc,nm2b.0,94048,94151,frau_glaubeleichtin,94075,94078,ich,frau_glaubeleichtin
-gdc,nm2b.0,94383,94552,frau_glaubeleichtin,94455,94458,ich,frau_glaubeleichtin
-gdc,nm2b.0,94383,94552,frau_glaubeleichtin,94482,94485,ich,frau_glaubeleichtin
-gdc,nm2b.0,94383,94552,frau_glaubeleichtin,94518,94521,Ich,frau_glaubeleichtin
-gdc,nm2b.0,94557,94770,frau_zanckenheimin,94582,94588,meiner,frau_zanckenheimin
-gdc,nm2b.0,94929,94971,frau_glaubeleichtin,94950,94953,Ich,frau_glaubeleichtin
-gdc,nm2b.0,94976,95078,frau_zanckenheimin,95008,95012,mich,frau_zanckenheimin
-gdc,nm2b.0,95648,95690,frau_glaubeleichtin,95669,95673,Mich,frau_glaubeleichtin
-gdc,nm2b.0,95741,95778,frau_glaubeleichtin,95765,95771,meinem,frau_glaubeleichtin
-gdc,nm2b.0,95833,95887,frau_zanckenheimin,95864,95867,ich,frau_zanckenheimin
-gdc,nm2b.0,95892,95997,frau_seuffzerin,95934,95953,Frau Glaubeleichtin,frau_glaubeleichtin
-gdc,nm2b.0,96037,96147,frau_seuffzerin,96081,96099,Frau Zanckenheimin,frau_zanckenheimin
-gdc,nm2b.0,96152,96210,frau_glaubeleichtin,96176,96179,ich,frau_glaubeleichtin
-gdc,nm2b.0,96152,96210,frau_glaubeleichtin,96196,96199,ich,frau_glaubeleichtin
-gdc,nm2b.0,96215,96377,frau_seuffzerin,96237,96240,ich,frau_seuffzerin
-gdc,nm2b.0,96383,96423,frau_zanckenheimin,96408,96411,ich,frau_zanckenheimin
-gdc,nm2b.0,96428,96481,frau_glaubeleichtin,96455,96458,ich,frau_glaubeleichtin
-gdc,nm2b.0,96486,96730,frau_seuffzerin,96610,96613,ich,frau_seuffzerin
-gdc,nm2b.0,96486,96730,frau_seuffzerin,96620,96625,meine,frau_seuffzerin
-gdc,nm2b.0,96773,96817,frau_zanckenheimin,96793,96796,Ich,frau_zanckenheimin
-gdc,nm2b.0,96822,97396,frau_seuffzerin,96859,96865,meiner,frau_seuffzerin
-gdc,nm2b.0,97538,97575,frau_seuffzerin,97565,97568,ich,frau_seuffzerin
-gdc,nm2b.0,97580,97624,frau_glaubeleichtin,97601,97604,Mir,frau_glaubeleichtin
-gdc,nm2b.0,97629,97664,frau_zanckenheimin,97649,97652,Mir,frau_zanckenheimin
-gdc,nm2b.0,97669,97903,frau_seuffzerin,97782,97785,ich,frau_seuffzerin
-gdc,nm2b.0,97669,97903,frau_seuffzerin,97882,97887,Meine,frau_seuffzerin
-gdc,nm2b.0,98071,98577,frau_seuffzerin,98118,98122,mich,frau_seuffzerin
-gdc,nm2b.0,98071,98577,frau_seuffzerin,98129,98132,ich,frau_seuffzerin
-gdc,nm2b.0,98071,98577,frau_seuffzerin,98221,98224,ich,frau_seuffzerin
-gdc,nm2b.0,98071,98577,frau_seuffzerin,98343,98347,mich,frau_seuffzerin
-gdc,nm2b.0,98071,98577,frau_seuffzerin,98388,98391,ich,frau_seuffzerin
-gdc,nm2b.0,98071,98577,frau_seuffzerin,98392,98397,meine,frau_seuffzerin
-gdc,nm2b.0,98071,98577,frau_seuffzerin,98522,98525,ich,frau_seuffzerin
-gdc,nm2b.0,98699,98774,_stage,98699,98718,Frau Glaubeleichtin,frau_glaubeleichtin
-gdc,nm2b.0,98699,98774,_stage,98720,98738,Frau Zanckenheimin,frau_zanckenheimin
-gdc,nm2b.0,98699,98774,_stage,98740,98755,Frau Seuffzerin,frau_seuffzerin
-gdc,nm2b.0,98699,98774,_stage,98757,98773,Herr Scheinfromm,herr_scheinfromm
-gdc,nm2b.0,98776,98882,herr_scheinfromm,98831,98834,ich,herr_scheinfromm
-gdc,nm2b.0,98776,98882,herr_scheinfromm,98865,98868,ich,herr_scheinfromm
-gdc,nm2b.0,98887,98958,frau_glaubeleichtin,98912,98927,Frau Seuffzerin,frau_seuffzerin
-gdc,nm2b.0,99081,99177,frau_seuffzerin,99114,99118,mich,frau_seuffzerin
-gdc,nm2b.0,99081,99177,frau_seuffzerin,99144,99150,meiner,frau_seuffzerin
-gdc,nm2b.0,99814,99872,frau_glaubeleichtin,99835,99838,Ich,frau_glaubeleichtin
-gdc,nm2b.0,99999,100070,frau_glaubeleichtin,100024,100027,ich,frau_glaubeleichtin
-gdc,nm2b.0,100075,100155,frau_zanckenheimin,100095,100098,Ich,frau_zanckenheimin
-gdc,nm2b.0,100160,100261,frau_seuffzerin,100238,100241,ich,frau_seuffzerin
-gdc,nm2b.0,100266,100375,frau_glaubeleichtin,100328,100331,ich,frau_glaubeleichtin
-gdc,nm2b.0,100536,100707,herr_scheinfromm,100615,100618,ich,herr_scheinfromm
-gdc,nm2b.0,100712,100759,frau_seuffzerin,100755,100758,mir,frau_seuffzerin
-gdc,nm2b.0,100764,100808,frau_glaubeleichtin,100804,100807,mir,frau_glaubeleichtin
-gdc,nm2b.0,100813,100865,frau_zanckenheimin,100861,100864,mir,frau_zanckenheimin
-gdc,nm2b.0,100870,100920,herr_scheinfromm,100907,100910,ich,herr_scheinfromm
-gdc,nm2b.0,100925,101008,frau_glaubeleichtin,100946,100949,Ich,frau_glaubeleichtin
-gdc,nm2b.0,101093,101135,frau_glaubeleichtin,101114,101117,Ich,frau_glaubeleichtin
-gdc,nm2b.0,101140,101199,frau_zanckenheimin,101160,101163,Ich,frau_zanckenheimin
-gdc,nm2b.0,101204,101305,frau_seuffzerin,101232,101236,mich,frau_seuffzerin
-gdc,nm2b.0,101310,101385,herr_scheinfromm,101328,101332,Mein,herr_scheinfromm
-gdc,nm2b.0,102089,102146,frau_glaubeleichtin,102115,102118,ich,frau_glaubeleichtin
-gdc,nm2b.0,102151,102200,frau_zanckenheimin,102176,102179,ich,frau_zanckenheimin
-gdc,nm2b.0,102258,102415,herr_scheinfromm,102284,102287,ich,herr_scheinfromm
-gdc,nm2b.0,102258,102415,herr_scheinfromm,102314,102317,ich,herr_scheinfromm
-gdc,nm2b.0,102258,102415,herr_scheinfromm,102379,102382,ich,herr_scheinfromm
-gdc,nm2b.0,102579,102692,herr_scheinfromm,102637,102640,mir,herr_scheinfromm
-gdc,nm2b.0,102579,102692,herr_scheinfromm,102675,102678,ich,herr_scheinfromm
-gdc,nm2b.0,102697,102761,frau_glaubeleichtin,102749,102753,mich,frau_glaubeleichtin
-gdc,nm2b.0,102766,102834,frau_zanckenheimin,102802,102806,mich,frau_zanckenheimin
-gdc,nm2b.0,102766,102834,frau_zanckenheimin,102815,102818,ich,frau_zanckenheimin
-gdc,nm2b.0,102839,102888,frau_seuffzerin,102856,102859,Ich,frau_seuffzerin
-gdc,nm2b.0,102893,102977,herr_scheinfromm,102957,102960,ich,herr_scheinfromm
-gdc,nm2b.0,102981,103037,frau_glaubeleichtin,103007,103010,ich,frau_glaubeleichtin
-gdc,nm2b.0,103295,103456,frau_glaubeleichtin,103378,103381,ich,frau_glaubeleichtin
-gdc,nm2b.0,103752,103953,frau_zanckenheimin,103772,103775,Ich,frau_zanckenheimin
-gdc,nm2b.0,104526,104608,herr_scheinfromm,104599,104602,mir,herr_scheinfromm
-gdc,nm2b.0,104752,104862,herr_scheinfromm,104794,104797,ich,herr_scheinfromm
-gdc,nm2b.0,104752,104862,herr_scheinfromm,104814,104817,ich,herr_scheinfromm
-gdc,nm2b.0,104752,104862,herr_scheinfromm,104826,104832,meiner,herr_scheinfromm
-gdc,nm2b.0,104868,104936,frau_zanckenheimin,104888,104892,Mich,frau_zanckenheimin
-gdc,nm2b.0,104941,105034,herr_scheinfromm,105004,105007,mir,herr_scheinfromm
-gdc,nm2b.0,105039,105130,frau_seuffzerin,105056,105059,Ich,frau_seuffzerin
-gdc,nm2b.0,105039,105130,frau_seuffzerin,105075,105080,meine,frau_seuffzerin
-gdc,nm2b.0,105039,105130,frau_seuffzerin,105111,105116,Jacob,jacob
-gdc,nm2b.0,105135,105231,herr_scheinfromm,105161,105164,ich,herr_scheinfromm
-gdc,nm2b.0,105302,105395,herr_scheinfromm,105344,105347,mir,herr_scheinfromm
-gdc,nm2b.0,105690,105846,herr_scheinfromm,105796,105799,Ich,herr_scheinfromm
-gdc,nm2b.0,105690,105846,herr_scheinfromm,105827,105830,ich,herr_scheinfromm
-gdc,nm2b.0,105872,105968,_stage,105872,105891,Frau Glaubeleichtin,frau_glaubeleichtin
-gdc,nm2b.0,105872,105968,_stage,105893,105908,Frau Seuffzerin,frau_seuffzerin
-gdc,nm2b.0,105872,105968,_stage,105910,105928,Frau Zanckenheimin,frau_zanckenheimin
-gdc,nm2b.0,105970,106147,der_diener,105986,106000,Frau Ehrlichen,frau_ehrlichen
-gdc,nm2b.0,106152,106195,herr_scheinfromm,106170,106173,Ich,herr_scheinfromm
-gdc,nm2b.0,106386,106491,_stage,106386,106405,Frau Glaubeleichtin,frau_glaubeleichtin
-gdc,nm2b.0,106386,106491,_stage,106455,106470,Frau Seuffzerin,frau_seuffzerin
-gdc,nm2b.0,106386,106491,_stage,106476,106490,Frau Ehrlichen,frau_ehrlichen
-gdc,nm2b.0,106656,106707,herr_scheinfromm,106697,106700,mir,herr_scheinfromm
-gdc,nm2b.0,106850,106960,herr_scheinfromm,106868,106873,Meine,herr_scheinfromm
-gdc,nm2b.0,106850,106960,herr_scheinfromm,106906,106909,ich,herr_scheinfromm
-gdc,nm2b.0,107303,107508,herr_scheinfromm,107416,107419,ich,herr_scheinfromm
-gdc,nm2b.0,107303,107508,herr_scheinfromm,107420,107424,mich,herr_scheinfromm
-gdc,nm2b.0,107513,108182,frau_ehrlichen,107659,107678,Frau Glaubeleichtin,frau_glaubeleichtin
-gdc,nm2b.0,107513,108182,frau_ehrlichen,107988,108004,Herr Scheinfromm,herr_scheinfromm
-gdc,nm2b.0,108187,108303,frau_glaubeleichtin,108264,108280,Herr Scheinfromm,herr_scheinfromm
-gdc,nm2b.0,108309,108401,herr_scheinfromm,108327,108331,Mein,herr_scheinfromm
-gdc,nm2b.0,108309,108401,herr_scheinfromm,108350,108353,mir,herr_scheinfromm
-gdc,nm2b.0,108309,108401,herr_scheinfromm,108375,108378,Ich,herr_scheinfromm
-gdc,nm2b.0,109209,109279,herr_scheinfromm,109231,109236,meine,herr_scheinfromm
-gdc,nm2b.0,109383,109488,herr_scheinfromm,109424,109427,mir,herr_scheinfromm
-gdc,nm2b.0,109383,109488,herr_scheinfromm,109446,109451,meine,herr_scheinfromm
-gdc,nm2b.0,109741,109798,_stage,109741,109760,Frau Glaubeleichtin,frau_glaubeleichtin
-gdc,nm2b.0,109741,109798,_stage,109762,109777,Frau Seuffzerin,frau_seuffzerin
-gdc,nm2b.0,109741,109798,_stage,109779,109797,Frau Zanckenheimin,frau_zanckenheimin
-gdc,nm2b.0,109878,109988,frau_seuffzerin,109895,109898,Ich,frau_seuffzerin
-gdc,nm2b.0,110189,110456,frau_glaubeleichtin,110279,110282,ich,frau_glaubeleichtin
-gdc,nm2b.0,110189,110456,frau_glaubeleichtin,110317,110320,Ich,frau_glaubeleichtin
-gdc,nm2b.0,110189,110456,frau_glaubeleichtin,110345,110350,meine,frau_glaubeleichtin
-gdc,nm2b.0,110585,110658,frau_glaubeleichtin,110610,110615,meine,frau_glaubeleichtin
-gdc,nm2b.0,111032,111168,frau_glaubeleichtin,111121,111126,Jacob,jacob
-gdc,nm2b.0,111194,111276,_stage,111194,111213,Frau Glaubeleichtin,frau_glaubeleichtin
-gdc,nm2b.0,111194,111276,_stage,111215,111230,Frau Seuffzerin,frau_seuffzerin
-gdc,nm2b.0,111194,111276,_stage,111232,111250,Frau Zanckenheimin,frau_zanckenheimin
-gdc,nm2b.0,111194,111276,_stage,111270,111275,Jacob,jacob
-gdc,nm2b.0,111328,111417,jacob,111338,111341,ich,jacob
-gdc,nm2b.0,111909,112234,frau_seuffzerin,112152,112155,ich,frau_seuffzerin
-gdc,nm2b.0,112239,112604,frau_zanckenheimin,112594,112597,ich,frau_zanckenheimin
-gdc,nm2b.0,112610,113257,jacob,112638,112641,ich,jacob
-gdc,nm2b.0,113262,113301,frau_glaubeleichtin,113283,113286,Ich,frau_glaubeleichtin
-gdc,nm2b.0,113306,113903,frau_seuffzerin,113327,113330,ich,frau_seuffzerin
-gdc,nm2b.0,113306,113903,frau_seuffzerin,113842,113845,Ich,frau_seuffzerin
-gdc,nm2b.0,113908,113990,jacob,113967,113970,ich,jacob
-gdc,nm2b.0,113996,121467,frau_glaubeleichtin,117976,117979,mir,frau_glaubeleichtin
-gdc,nm2b.0,113996,121467,frau_glaubeleichtin,118439,118445,meinem,frau_glaubeleichtin
-gdc,nm2b.0,113996,121467,frau_glaubeleichtin,118518,118521,mir,frau_glaubeleichtin
-gdc,nm2b.0,113996,121467,frau_glaubeleichtin,118599,118602,ich,frau_glaubeleichtin
-gdc,nm2b.0,113996,121467,frau_glaubeleichtin,118603,118607,mich,frau_glaubeleichtin
-gdc,nm2b.0,113996,121467,frau_glaubeleichtin,118673,118676,ich,frau_glaubeleichtin
-gdc,nm2b.0,113996,121467,frau_glaubeleichtin,118829,118832,mir,frau_glaubeleichtin
-gdc,nm2b.0,113996,121467,frau_glaubeleichtin,118842,118847,meine,frau_glaubeleichtin
-gdc,nm2b.0,113996,121467,frau_glaubeleichtin,118898,118902,mich,frau_glaubeleichtin
-gdc,nm2b.0,113996,121467,frau_glaubeleichtin,119007,119010,mir,frau_glaubeleichtin
-gdc,nm2b.0,121472,121806,frau_glaubeleichtin,121497,121502,Jacob,jacob
-gdc,nm2b.0,121974,122683,frau_zanckenheimin,121998,122001,mir,frau_zanckenheimin
-gdc,nm2b.0,121974,122683,frau_zanckenheimin,122654,122657,ich,frau_zanckenheimin
-gdc,nm2b.0,122688,122894,frau_glaubeleichtin,122714,122719,Jacob,jacob
-gdc,nm2b.0,122688,122894,frau_glaubeleichtin,122807,122810,ich,frau_glaubeleichtin
-gdc,nm2b.0,122981,123151,frau_glaubeleichtin,123049,123053,mein,frau_glaubeleichtin
-gdc,nm2b.0,123178,123251,_stage,123178,123197,Frau Glaubeleichtin,frau_glaubeleichtin
-gdc,nm2b.0,123178,123251,_stage,123199,123214,Frau Seuffzerin,frau_seuffzerin
-gdc,nm2b.0,123178,123251,_stage,123235,123250,Herr Wackermann,herr_wackermann
-gdc,nm2b.0,123339,123555,herr_wackermann,123363,123366,mir,herr_wackermann
-gdc,nm2b.0,123339,123555,herr_wackermann,123388,123391,ich,herr_wackermann
-gdc,nm2b.0,123339,123555,herr_wackermann,123404,123407,ich,herr_wackermann
-gdc,nm2b.0,123339,123555,herr_wackermann,123434,123437,ich,herr_wackermann
-gdc,nm2b.0,123560,123665,frau_glaubeleichtin,123634,123638,mein,frau_glaubeleichtin
-gdc,nm2b.0,123851,124231,herr_wackermann,123877,123880,Ich,herr_wackermann
-gdc,nm2b.0,123851,124231,herr_wackermann,123886,123890,mich,herr_wackermann
-gdc,nm2b.0,123851,124231,herr_wackermann,123939,123942,ich,herr_wackermann
-gdc,nm2b.0,123851,124231,herr_wackermann,124095,124098,mir,herr_wackermann
-gdc,nm2b.0,123851,124231,herr_wackermann,124165,124168,ich,herr_wackermann
-gdc,nm2b.0,123851,124231,herr_wackermann,124193,124196,ich,herr_wackermann
-gdc,nm2b.0,124336,124438,herr_wackermann,124362,124365,ich,herr_wackermann
-gdc,nm2b.0,124545,124647,herr_wackermann,124581,124585,mich,herr_wackermann
-gdc,nm2b.0,124545,124647,herr_wackermann,124615,124618,ich,herr_wackermann
-gdc,nm2b.0,124749,124826,herr_wackermann,124788,124791,ich,herr_wackermann
-gdc,nm2b.0,125120,125246,herr_wackermann,125140,125143,ich,herr_wackermann
-gdc,nm2b.0,125120,125246,herr_wackermann,125185,125188,ich,herr_wackermann
-gdc,nm2b.0,125324,125548,herr_wackermann,125361,125364,Ich,herr_wackermann
-gdc,nm2b.0,125635,125856,herr_wackermann,125661,125664,ich,herr_wackermann
-gdc,nm2b.0,125635,125856,herr_wackermann,125674,125677,Ich,herr_wackermann
-gdc,nm2b.0,125635,125856,herr_wackermann,125684,125687,mir,herr_wackermann
-gdc,nm2b.0,125861,125979,frau_zanckenheimin,125884,125888,mich,frau_zanckenheimin
-gdc,nm2b.0,126128,126346,herr_wackermann,126193,126196,Ich,herr_wackermann
-gdc,nm2b.0,127167,127267,frau_glaubeleichtin,127224,127227,Ich,frau_glaubeleichtin
-gdc,nm2b.0,127167,127267,frau_glaubeleichtin,127234,127238,mein,frau_glaubeleichtin
-gdc,nm2b.0,127167,127267,frau_glaubeleichtin,127257,127260,ich,frau_glaubeleichtin
-gdc,nm2b.0,127667,127819,herr_wackermann,127795,127798,ich,herr_wackermann
-gdc,nm2b.0,127667,127819,herr_wackermann,127799,127803,mich,herr_wackermann
-gdc,nm2b.0,127912,127948,herr_wackermann,127929,127932,Ich,herr_wackermann
-gdc,nm2b.0,127953,128016,frau_seuffzerin,127977,127996,Frau Glaubeleichtin,frau_glaubeleichtin
-gdc,nm2b.0,127953,128016,frau_seuffzerin,127998,128001,ich,frau_seuffzerin
-gdc,nm2b.0,127953,128016,frau_seuffzerin,128011,128015,mich,frau_seuffzerin
-gdc,nm2b.0,128205,128242,_stage,128205,128224,Frau Glaubeleichtin,frau_glaubeleichtin
-gdc,nm2b.0,128205,128242,_stage,128226,128241,Herr Wackermann,herr_wackermann
-gdc,nm2b.0,128341,128491,herr_wackermann,128379,128382,ich,herr_wackermann
-gdc,nm2b.0,128341,128491,herr_wackermann,128418,128421,ich,herr_wackermann
-gdc,nm2b.0,128341,128491,herr_wackermann,128443,128446,mir,herr_wackermann
-gdc,nm2b.0,128542,128606,herr_wackermann,128559,128562,Ich,herr_wackermann
-gdc,nm2b.0,128611,128725,frau_glaubeleichtin,128686,128689,mir,frau_glaubeleichtin
-gdc,nm2b.0,128730,128853,herr_wackermann,128757,128761,mich,herr_wackermann
-gdc,nm2b.0,128730,128853,herr_wackermann,128775,128778,Ich,herr_wackermann
-gdc,nm2b.0,128730,128853,herr_wackermann,128799,128820,Herr von Muckersdorff,herr_von_muckersdorff
-gdc,nm2b.0,129026,129119,herr_wackermann,129074,129078,mich,herr_wackermann
-gdc,nm2b.0,129203,129283,herr_wackermann,129224,129228,mein,herr_wackermann
-gdc,nm2b.0,129203,129283,herr_wackermann,129259,129262,ich,herr_wackermann
-gdc,nm2b.0,129509,129547,frau_glaubeleichtin,129533,129536,ich,frau_glaubeleichtin
-gdc,nm2b.0,129640,129723,herr_wackermann,129657,129660,Ich,herr_wackermann
-gdc,nm2b.0,129640,129723,herr_wackermann,129693,129696,mir,herr_wackermann
-gdc,nm2b.0,129873,129980,frau_glaubeleichtin,129923,129926,Ich,frau_glaubeleichtin
-gdc,nm2b.0,129873,129980,frau_glaubeleichtin,129940,129943,ich,frau_glaubeleichtin
-gdc,nm2b.0,129873,129980,frau_glaubeleichtin,129949,129955,meiner,frau_glaubeleichtin
-gdc,nm2b.0,129985,130042,herr_wackermann,130014,130030,Herr Scheinfromm,herr_scheinfromm
-gdc,nm2b.0,130143,130247,herr_wackermann,130160,130163,Ich,herr_wackermann
-gdc,nm2b.0,130143,130247,herr_wackermann,130215,130218,ich,herr_wackermann
-gdc,nm2b.0,130640,130981,herr_wackermann,130767,130770,Ich,herr_wackermann
-gdc,nm2b.0,130640,130981,herr_wackermann,130808,130811,ich,herr_wackermann
-gdc,nm2b.0,130640,130981,herr_wackermann,130839,130842,mir,herr_wackermann
-gdc,nm2b.0,130640,130981,herr_wackermann,130862,130868,meines,herr_wackermann
-gdc,nm2b.0,130640,130981,herr_wackermann,130890,130893,mir,herr_wackermann
-gdc,nm2b.0,130640,130981,herr_wackermann,130916,130919,ich,herr_wackermann
-gdc,nm2b.0,130986,131078,frau_glaubeleichtin,131024,131027,mir,frau_glaubeleichtin
-gdc,nm2b.0,130986,131078,frau_glaubeleichtin,131028,131033,meine,frau_glaubeleichtin
-gdc,nm2b.0,130986,131078,frau_glaubeleichtin,131053,131056,Ich,frau_glaubeleichtin
-gdc,nm2b.0,131083,131286,herr_wackermann,131121,131124,Ich,herr_wackermann
-gdc,nm2b.0,131083,131286,herr_wackermann,131173,131176,ich,herr_wackermann
-gdc,nm2b.0,131083,131286,herr_wackermann,131206,131222,Herr Scheinfromm,herr_scheinfromm
-gdc,nm2b.0,131083,131286,herr_wackermann,131255,131258,ich,herr_wackermann
-gdc,nm2b.0,131539,131621,frau_glaubeleichtin,131595,131598,ich,frau_glaubeleichtin
-gdc,nm2b.0,131539,131621,frau_glaubeleichtin,131608,131611,ich,frau_glaubeleichtin
-gdc,nm2b.0,131626,131774,herr_wackermann,131697,131700,mir,herr_wackermann
-gdc,nm2b.0,131626,131774,herr_wackermann,131732,131748,Herr Scheinfromm,herr_scheinfromm
-gdc,nm2b.0,131779,132089,frau_glaubeleichtin,131828,131831,Ich,frau_glaubeleichtin
-gdc,nm2b.0,131779,132089,frau_glaubeleichtin,131847,131850,Ich,frau_glaubeleichtin
-gdc,nm2b.0,131779,132089,frau_glaubeleichtin,131987,132003,Herr Scheinfromm,herr_scheinfromm
-gdc,nm2b.0,131779,132089,frau_glaubeleichtin,132013,132016,mir,frau_glaubeleichtin
-gdc,nm2b.0,131779,132089,frau_glaubeleichtin,132030,132033,ich,frau_glaubeleichtin
-gdc,nm2b.0,132094,132601,herr_wackermann,132111,132115,Mein,herr_wackermann
-gdc,nm2b.0,132094,132601,herr_wackermann,132293,132296,Ich,herr_wackermann
-gdc,nm2b.0,132094,132601,herr_wackermann,132399,132402,ich,herr_wackermann
-gdc,nm2b.0,132094,132601,herr_wackermann,132407,132413,meinem,herr_wackermann
-gdc,nm2b.0,132094,132601,herr_wackermann,132455,132458,ich,herr_wackermann
-gdc,nm2b.0,132094,132601,herr_wackermann,132464,132468,mein,herr_wackermann
-gdc,nm2b.0,132094,132601,herr_wackermann,132512,132515,Ich,herr_wackermann
-gdc,nm2b.0,132094,132601,herr_wackermann,132558,132561,ich,herr_wackermann
-gdc,nm2b.0,132646,132673,_stage,132646,132662,Jungfer Luischen,jungfer_luischen
-gdc,nm2b.0,132646,132673,_stage,132664,132672,Cathrine,cathrine
-gdc,nm2b.0,132675,132801,jungfer_luischen,132693,132701,Cathrine,cathrine
-gdc,nm2b.0,132675,132801,jungfer_luischen,132703,132707,mich,jungfer_luischen
-gdc,nm2b.0,132675,132801,jungfer_luischen,132735,132739,mich,jungfer_luischen
-gdc,nm2b.0,132675,132801,jungfer_luischen,132762,132768,meines,jungfer_luischen
-gdc,nm2b.0,132806,132897,cathrine,132835,132839,mich,cathrine
-gdc,nm2b.0,132902,133072,jungfer_luischen,132920,132923,Mir,jungfer_luischen
-gdc,nm2b.0,132902,133072,jungfer_luischen,132952,132956,Mein,jungfer_luischen
-gdc,nm2b.0,132902,133072,jungfer_luischen,132984,132988,mich,jungfer_luischen
-gdc,nm2b.0,132902,133072,jungfer_luischen,133010,133013,mir,jungfer_luischen
-gdc,nm2b.0,132902,133072,jungfer_luischen,133044,133047,ich,jungfer_luischen
-gdc,nm2b.0,132902,133072,jungfer_luischen,133063,133071,Cathrine,cathrine
-gdc,nm2b.0,133219,133250,cathrine,133240,133243,ich,cathrine
-gdc,nm2b.0,133325,133415,cathrine,133345,133349,mich,cathrine
-gdc,nm2b.0,133325,133415,cathrine,133377,133380,ich,cathrine
-gdc,nm2b.0,133420,133487,jungfer_luischen,133469,133472,mir,jungfer_luischen
-gdc,nm2b.0,133493,133626,cathrine,133549,133552,Ich,cathrine
-gdc,nm2b.0,133631,133757,jungfer_luischen,133654,133657,mir,jungfer_luischen
-gdc,nm2b.0,133631,133757,jungfer_luischen,133702,133707,meine,jungfer_luischen
-gdc,nm2b.0,133762,134064,cathrine,133797,133800,mir,cathrine
-gdc,nm2b.0,134069,134110,jungfer_luischen,134087,134095,Cathrine,cathrine
-gdc,nm2b.0,134157,134214,jungfer_luischen,134189,134193,mein,jungfer_luischen
-gdc,nm2b.0,134239,134302,_stage,134239,134254,Herr Wackermann,herr_wackermann
-gdc,nm2b.0,134239,134302,_stage,134256,134273,Herr Glaubeleicht,herr_glaubeleicht
-gdc,nm2b.0,134239,134302,_stage,134275,134291,Jungfer Luischen,jungfer_luischen
-gdc,nm2b.0,134239,134302,_stage,134293,134301,Cathrine,cathrine
-gdc,nm2b.0,134304,134394,jungfer_luischen,134366,134369,ich,jungfer_luischen
-gdc,nm2b.0,134304,134394,jungfer_luischen,134370,134375,meine,jungfer_luischen
-gdc,nm2b.0,134455,134519,cathrine,134482,134485,ich,cathrine
-gdc,nm2b.0,134525,134670,herr_glaubeleicht,134590,134593,ich,herr_glaubeleicht
-gdc,nm2b.0,134525,134670,herr_glaubeleicht,134605,134610,meine,herr_glaubeleicht
-gdc,nm2b.0,134525,134670,herr_glaubeleicht,134644,134649,meine,herr_glaubeleicht
-gdc,nm2b.0,134675,134821,jungfer_luischen,134710,134713,Ich,jungfer_luischen
-gdc,nm2b.0,134675,134821,jungfer_luischen,134744,134748,mich,jungfer_luischen
-gdc,nm2b.0,134675,134821,jungfer_luischen,134796,134799,ich,jungfer_luischen
-gdc,nm2b.0,134826,135078,herr_glaubeleicht,134851,134855,mein,herr_glaubeleicht
-gdc,nm2b.0,134826,135078,herr_glaubeleicht,134862,134866,mein,herr_glaubeleicht
-gdc,nm2b.0,134826,135078,herr_glaubeleicht,134878,134881,mir,herr_glaubeleicht
-gdc,nm2b.0,134826,135078,herr_glaubeleicht,134904,134907,ich,herr_glaubeleicht
-gdc,nm2b.0,134826,135078,herr_glaubeleicht,134928,134932,mich,herr_glaubeleicht
-gdc,nm2b.0,134826,135078,herr_glaubeleicht,134995,134998,ich,herr_glaubeleicht
-gdc,nm2b.0,134826,135078,herr_glaubeleicht,135024,135027,Ich,herr_glaubeleicht
-gdc,nm2b.0,135103,135138,_stage,135103,135120,Herr Glaubeleicht,herr_glaubeleicht
-gdc,nm2b.0,135103,135138,_stage,135122,135137,Herr Wackermann,herr_wackermann
-gdc,nm2b.0,135140,135481,herr_glaubeleicht,135159,135162,Ich,herr_glaubeleicht
-gdc,nm2b.0,135140,135481,herr_glaubeleicht,135168,135172,mich,herr_glaubeleicht
-gdc,nm2b.0,135140,135481,herr_glaubeleicht,135177,135183,meinem,herr_glaubeleicht
-gdc,nm2b.0,135140,135481,herr_glaubeleicht,135220,135225,meine,herr_glaubeleicht
-gdc,nm2b.0,135140,135481,herr_glaubeleicht,135277,135280,ich,herr_glaubeleicht
-gdc,nm2b.0,135140,135481,herr_glaubeleicht,135372,135376,mein,herr_glaubeleicht
-gdc,nm2b.0,135140,135481,herr_glaubeleicht,135476,135480,mich,herr_glaubeleicht
-gdc,nm2b.0,135486,135731,herr_wackermann,135503,135506,Ich,herr_wackermann
-gdc,nm2b.0,135736,135778,herr_glaubeleicht,135764,135767,ich,herr_glaubeleicht
-gdc,nm2b.0,135783,136442,herr_wackermann,135925,135928,ich,herr_wackermann
-gdc,nm2b.0,135783,136442,herr_wackermann,136020,136023,ich,herr_wackermann
-gdc,nm2b.0,135783,136442,herr_wackermann,136048,136059,Der Advocat,der_advocat
-gdc,nm2b.0,135783,136442,herr_wackermann,136149,136152,mir,herr_wackermann
-gdc,nm2b.0,135783,136442,herr_wackermann,136176,136181,meine,herr_wackermann
-gdc,nm2b.0,136447,136702,herr_glaubeleicht,136466,136469,Ich,herr_glaubeleicht
-gdc,nm2b.0,136447,136702,herr_glaubeleicht,136527,136533,meiner,herr_glaubeleicht
-gdc,nm2b.0,136447,136702,herr_glaubeleicht,136601,136606,meine,herr_glaubeleicht
-gdc,nm2b.0,136707,137256,herr_wackermann,136724,136728,Mich,herr_wackermann
-gdc,nm2b.0,137300,137534,herr_wackermann,137351,137355,mich,herr_wackermann
-gdc,nm2b.0,137300,137534,herr_wackermann,137374,137377,Ich,herr_wackermann
-gdc,nm2b.0,137300,137534,herr_wackermann,137497,137501,mich,herr_wackermann
-gdc,nm2b.0,137560,137618,_stage,137583,137604,Herr von Muckersdorff,herr_von_muckersdorff
-gdc,nm2b.0,137620,137726,herr_scheinfromm,137700,137719,Frau Glaubeleichtin,frau_glaubeleichtin
-gdc,nm2b.0,138347,138404,der_advocat,138379,138382,ich,der_advocat
-gdc,nm2b.0,138409,138503,herr_scheinfromm,138443,138446,ich,herr_scheinfromm
-gdc,nm2b.0,138509,138583,der_advocat,138540,138543,ich,der_advocat
-gdc,nm2b.0,138588,138677,herr_scheinfromm,138606,138610,Mich,herr_scheinfromm
-gdc,nm2b.0,138682,138827,der_advocat,138722,138725,mir,der_advocat
-gdc,nm2b.0,138682,138827,der_advocat,138742,138761,Frau Glaubeleichtin,frau_glaubeleichtin
-gdc,nm2b.0,138682,138827,der_advocat,138793,138796,ich,der_advocat
-gdc,nm2b.0,138988,139048,der_advocat,139012,139015,ich,der_advocat
-gdc,nm2b.0,139053,139242,herr_scheinfromm,139211,139214,ich,herr_scheinfromm
-gdc,nm2b.0,139371,139442,der_advocat,139399,139418,Frau Glaubeleichtin,frau_glaubeleichtin
-gdc,nm2b.0,139371,139442,der_advocat,139425,139428,mir,der_advocat
-gdc,nm2b.0,139447,139599,herr_scheinfromm,139481,139484,Ich,herr_scheinfromm
-gdc,nm2b.0,139447,139599,herr_scheinfromm,139550,139553,mir,herr_scheinfromm
-gdc,nm2b.0,139641,139757,herr_scheinfromm,139662,139665,ich,herr_scheinfromm
-gdc,nm2b.0,139641,139757,herr_scheinfromm,139713,139716,ich,herr_scheinfromm
-gdc,nm2b.0,139641,139757,herr_scheinfromm,139717,139722,meine,herr_scheinfromm
-gdc,nm2b.0,139814,139889,_stage,139814,139829,Herr Wackermann,herr_wackermann
-gdc,nm2b.0,139814,139889,_stage,139854,139875,Herr von Muckersdorff,herr_von_muckersdorff
-gdc,nm2b.0,139814,139889,_stage,139877,139888,der Advocat,der_advocat
-gdc,nm2b.0,139891,139991,herr_wackermann,139964,139969,meine,herr_wackermann
-gdc,nm2b.0,139996,140188,herr_scheinfromm,140081,140084,Ich,herr_scheinfromm
-gdc,nm2b.0,140193,140301,herr_wackermann,140245,140251,meines,herr_wackermann
-gdc,nm2b.0,140306,140409,herr_scheinfromm,140324,140327,Ich,herr_scheinfromm
-gdc,nm2b.0,140414,140578,herr_wackermann,140435,140439,mein,herr_wackermann
-gdc,nm2b.0,140414,140578,herr_wackermann,140440,140461,Herr von Muckersdorff,herr_von_muckersdorff
-gdc,nm2b.0,140414,140578,herr_wackermann,140507,140512,meine,herr_wackermann
-gdc,nm2b.0,140414,140578,herr_wackermann,140555,140558,mir,herr_wackermann
-gdc,nm2b.0,140583,140628,herr_von_muckersdorff,140619,140622,ich,herr_von_muckersdorff
-gdc,nm2b.0,140668,140719,herr_von_muckersdorff,140704,140707,ich,herr_von_muckersdorff
-gdc,nm2b.0,140921,140976,herr_von_muckersdorff,140952,140955,ich,herr_von_muckersdorff
-gdc,nm2b.0,141122,141297,herr_wackermann,141143,141146,ich,herr_wackermann
-gdc,nm2b.0,141302,141354,herr_scheinfromm,141334,141337,mir,herr_scheinfromm
-gdc,nm2b.0,141475,141516,herr_scheinfromm,141511,141515,mich,herr_scheinfromm
-gdc,nm2b.0,141521,141643,herr_wackermann,141610,141616,meiner,herr_wackermann
-gdc,nm2b.0,141649,141686,herr_scheinfromm,141667,141670,Ich,herr_scheinfromm
-gdc,nm2b.0,141691,142291,herr_wackermann,141769,141774,Meine,herr_wackermann
-gdc,nm2b.0,141691,142291,herr_wackermann,141839,141844,Meine,herr_wackermann
-gdc,nm2b.0,141691,142291,herr_wackermann,141950,141956,meinen,herr_wackermann
-gdc,nm2b.0,141691,142291,herr_wackermann,142081,142084,Ich,herr_wackermann
-gdc,nm2b.0,141691,142291,herr_wackermann,142124,142127,ich,herr_wackermann
-gdc,nm2b.0,141691,142291,herr_wackermann,142152,142155,Ich,herr_wackermann
-gdc,nm2b.0,141691,142291,herr_wackermann,142161,142167,meinen,herr_wackermann
-gdc,nm2b.0,142296,142411,herr_scheinfromm,142329,142333,mich,herr_scheinfromm
-gdc,nm2b.0,142296,142411,herr_scheinfromm,142349,142352,Ich,herr_scheinfromm
-gdc,nm2b.0,142416,142512,herr_wackermann,142461,142465,mich,herr_wackermann
-gdc,nm2b.0,142517,142613,herr_scheinfromm,142550,142553,ich,herr_scheinfromm
-gdc,nm2b.0,142618,142766,herr_wackermann,142635,142638,Ich,herr_wackermann
-gdc,nm2b.0,142917,143000,herr_scheinfromm,142940,142959,Frau Glaubeleichtin,frau_glaubeleichtin
-gdc,nm2b.0,142917,143000,herr_scheinfromm,142966,142971,meine,herr_scheinfromm
-gdc,nm2b.0,143005,143132,herr_wackermann,143052,143055,Ich,herr_wackermann
-gdc,nm2b.0,143005,143132,herr_wackermann,143095,143100,meine,herr_wackermann
-gdc,nm2b.0,143005,143132,herr_wackermann,143124,143127,mir,herr_wackermann
-gdc,nm2b.0,143137,143191,herr_scheinfromm,143179,143183,mich,herr_scheinfromm
-gdc,nm2b.0,143196,143276,herr_wackermann,143213,143216,Ich,herr_wackermann
-gdc,nm2b.0,143196,143276,herr_wackermann,143237,143240,Ich,herr_wackermann
-gdc,nm2b.0,143196,143276,herr_wackermann,143260,143265,meine,herr_wackermann
-gdc,nm2b.0,143302,143403,_stage,143302,143321,Frau Glaubeleichtin,frau_glaubeleichtin
-gdc,nm2b.0,143302,143403,_stage,143323,143338,Herr Wackermann,herr_wackermann
-gdc,nm2b.0,143302,143403,_stage,143340,143356,Herr Scheinfromm,herr_scheinfromm
-gdc,nm2b.0,143302,143403,_stage,143358,143379,Herr von Muckersdorff,herr_von_muckersdorff
-gdc,nm2b.0,143302,143403,_stage,143381,143389,Cathrine,cathrine
-gdc,nm2b.0,143302,143403,_stage,143391,143402,der Advocat,der_advocat
-gdc,nm2b.0,143405,143548,frau_glaubeleichtin,143462,143465,Ich,frau_glaubeleichtin
-gdc,nm2b.0,143553,143610,herr_scheinfromm,143593,143597,mich,herr_scheinfromm
-gdc,nm2b.0,143615,143681,frau_glaubeleichtin,143653,143661,Cathrine,cathrine
-gdc,nm2b.0,143741,143863,_stage,143741,143760,Frau Glaubeleichtin,frau_glaubeleichtin
-gdc,nm2b.0,143741,143863,_stage,143762,143778,Jungfer Luischen,jungfer_luischen
-gdc,nm2b.0,143741,143863,_stage,143780,143795,Herr Wackermann,herr_wackermann
-gdc,nm2b.0,143741,143863,_stage,143797,143813,Herr Scheinfromm,herr_scheinfromm
-gdc,nm2b.0,143741,143863,_stage,143815,143836,Herr von Muckersdorff,herr_von_muckersdorff
-gdc,nm2b.0,143741,143863,_stage,143838,143846,Cathrine,cathrine
-gdc,nm2b.0,143741,143863,_stage,143851,143862,der Advocat,der_advocat
-gdc,nm2b.0,143865,143961,frau_glaubeleichtin,143917,143922,meine,frau_glaubeleichtin
-gdc,nm2b.0,143865,143961,frau_glaubeleichtin,143940,143943,mir,frau_glaubeleichtin
-gdc,nm2b.0,143966,144082,jungfer_luischen,143999,144004,meine,jungfer_luischen
-gdc,nm2b.0,143966,144082,jungfer_luischen,144016,144019,mir,jungfer_luischen
-gdc,nm2b.0,143966,144082,jungfer_luischen,144057,144060,ich,jungfer_luischen
-gdc,nm2b.0,144145,144244,jungfer_luischen,144176,144179,Ich,jungfer_luischen
-gdc,nm2b.0,144145,144244,jungfer_luischen,144185,144189,mein,jungfer_luischen
-gdc,nm2b.0,144249,144342,frau_glaubeleichtin,144282,144287,meine,frau_glaubeleichtin
-gdc,nm2b.0,144347,144460,herr_von_muckersdorff,144423,144426,ich,herr_von_muckersdorff
-gdc,nm2b.0,144465,145240,herr_wackermann,144490,144493,Ich,herr_wackermann
-gdc,nm2b.0,144465,145240,herr_wackermann,144546,144549,Ich,herr_wackermann
-gdc,nm2b.0,144465,145240,herr_wackermann,144672,144675,Ich,herr_wackermann
-gdc,nm2b.0,144465,145240,herr_wackermann,144768,144771,Ich,herr_wackermann
-gdc,nm2b.0,144465,145240,herr_wackermann,145021,145037,Jungfer Luischen,jungfer_luischen
-gdc,nm2b.0,144465,145240,herr_wackermann,145142,145145,ich,herr_wackermann
-gdc,nm2b.0,145299,145402,cathrine,145363,145379,Jungfer Luischen,jungfer_luischen
-gdc,nm2b.0,145587,145796,herr_wackermann,145628,145632,meIn,herr_wackermann
-gdc,nm2b.0,145850,146030,herr_wackermann,145916,145920,mein,herr_wackermann
-gdc,nm2b.0,145850,146030,herr_wackermann,145943,145947,mich,herr_wackermann
-gdc,nm2b.0,146035,146118,cathrine,146053,146074,Herr von Muckersdorff,herr_von_muckersdorff
-gdc,nm2b.0,146123,146510,herr_wackermann,146458,146462,mein,herr_wackermann
-gdc,nm2b.0,146123,146510,herr_wackermann,146485,146489,mich,herr_wackermann
-gdc,nm2b.0,146516,146662,jungfer_luischen,146534,146537,Ich,jungfer_luischen
-gdc,nm2b.0,146516,146662,jungfer_luischen,146564,146568,mein,jungfer_luischen
-gdc,nm2b.0,146516,146662,jungfer_luischen,146569,146590,Herr von Muckersdorff,herr_von_muckersdorff
-gdc,nm2b.0,146516,146662,jungfer_luischen,146592,146595,Ich,jungfer_luischen
-gdc,nm2b.0,146516,146662,jungfer_luischen,146619,146623,mein,jungfer_luischen
-gdc,nm2b.0,147108,147234,herr_scheinfromm,147173,147176,mir,herr_scheinfromm
-gdc,nm2b.0,147108,147234,herr_scheinfromm,147199,147202,ich,herr_scheinfromm
-gdc,nm2b.0,147565,147636,herr_wackermann,147594,147597,ich,herr_wackermann
-gdc,nm2b.0,147641,147808,frau_glaubeleichtin,147724,147727,mir,frau_glaubeleichtin
-gdc,nm2b.0,147641,147808,frau_glaubeleichtin,147792,147795,ich,frau_glaubeleichtin
-gdc,nm2b.0,147813,147994,herr_scheinfromm,147835,147838,ich,herr_scheinfromm
-gdc,nm2b.0,147813,147994,herr_scheinfromm,147934,147937,mir,herr_scheinfromm
-gdc,nm2b.0,147999,148045,frau_glaubeleichtin,148023,148026,ich,frau_glaubeleichtin
-gdc,nm2b.0,148100,148275,herr_scheinfromm,148136,148139,ich,herr_scheinfromm
-gdc,nm2b.0,148280,148394,frau_glaubeleichtin,148310,148326,Herr Scheinfromm,herr_scheinfromm
-gdc,nm2b.0,148280,148394,frau_glaubeleichtin,148369,148372,ich,frau_glaubeleichtin
-gdc,nm2b.0,148465,148711,herr_wackermann,148580,148583,Ich,herr_wackermann
-gdc,nm2b.0,148787,148931,herr_wackermann,148836,148852,Herr Scheinfromm,herr_scheinfromm
-gdc,nm2b.0,148787,148931,herr_wackermann,148907,148910,ich,herr_wackermann
-gdc,nm2b.0,148936,148992,herr_scheinfromm,148964,148968,mich,herr_scheinfromm
-gdc,nm2b.0,148997,149187,herr_wackermann,149020,149023,ich,herr_wackermann
-gdc,nm2b.0,148997,149187,herr_wackermann,149074,149077,mir,herr_wackermann
-gdc,nm2b.0,149192,149253,frau_glaubeleichtin,149237,149240,Ich,frau_glaubeleichtin
-gdc,nm2b.0,149329,149421,herr_scheinfromm,149362,149365,ich,herr_scheinfromm
-gdc,nm2b.0,149517,149568,herr_scheinfromm,149541,149544,ich,herr_scheinfromm
-gdc,nm2b.0,149573,149649,herr_wackermann,149590,149593,Ich,herr_wackermann
-gdc,nm2b.0,149573,149649,herr_wackermann,149607,149610,ich,herr_wackermann
-gdc,nm2b.0,149654,149764,frau_glaubeleichtin,149694,149697,ich,frau_glaubeleichtin
-gdc,nm2b.0,149654,149764,frau_glaubeleichtin,149730,149746,Herr Scheinfromm,herr_scheinfromm
-gdc,nm2b.0,149769,149856,herr_wackermann,149790,149793,ich,herr_wackermann
-gdc,nm2b.0,149769,149856,herr_wackermann,149835,149838,ich,herr_wackermann
-gdc,nm2b.0,149861,149941,frau_glaubeleichtin,149887,149903,Herr Scheinfromm,herr_scheinfromm
-gdc,nm2b.0,149946,150000,herr_scheinfromm,149990,149993,ich,herr_scheinfromm
-gdc,nm2b.0,150005,150096,frau_glaubeleichtin,150026,150029,Ich,frau_glaubeleichtin
-gdc,nm2b.0,150989,151069,cathrine,150999,151003,Mein,cathrine
-gdc,nm2b.0,151074,151199,herr_scheinfromm,151092,151095,Ich,herr_scheinfromm
-gdc,nm2b.0,151074,151199,herr_scheinfromm,151107,151110,Ich,herr_scheinfromm
-gdc,nm2b.0,151274,151507,der_advocat,151334,151337,ich,der_advocat
-gdc,nm2b.0,151274,151507,der_advocat,151355,151358,ich,der_advocat
-gdc,nm2b.0,151274,151507,der_advocat,151433,151436,ich,der_advocat
-gdc,nm2b.0,151274,151507,der_advocat,151481,151484,mir,der_advocat
-gdc,nm2b.0,151565,151821,der_advocat,151590,151593,ich,der_advocat
-gdc,nm2b.0,151565,151821,der_advocat,151601,151604,Ich,der_advocat
-gdc,nm2b.0,151565,151821,der_advocat,151646,151649,ich,der_advocat
-gdc,nm2b.0,151565,151821,der_advocat,151670,151673,ich,der_advocat
-gdc,nm2b.0,151565,151821,der_advocat,151699,151702,mir,der_advocat
-gdc,nm2b.0,151826,152371,frau_glaubeleichtin,151862,151865,ich,frau_glaubeleichtin
-gdc,nm2b.0,151826,152371,frau_glaubeleichtin,151890,151893,mir,frau_glaubeleichtin
-gdc,nm2b.0,151826,152371,frau_glaubeleichtin,152050,152053,mir,frau_glaubeleichtin
-gdc,nm2b.0,151826,152371,frau_glaubeleichtin,152336,152357,Herr von Muckersdorff,herr_von_muckersdorff
-gdc,nm2b.0,152525,152592,herr_scheinfromm,152551,152555,mein,herr_scheinfromm
-gdc,nm2b.0,152901,153021,herr_scheinfromm,152932,152935,ich,herr_scheinfromm
-gdc,nm2b.0,152901,153021,herr_scheinfromm,152976,152980,mich,herr_scheinfromm
-gdc,nm2b.0,152901,153021,herr_scheinfromm,152986,152989,ich,herr_scheinfromm
-gdc,nm2b.0,153027,153220,frau_glaubeleichtin,153070,153073,ich,frau_glaubeleichtin
-gdc,nm2b.0,153027,153220,frau_glaubeleichtin,153107,153110,Ich,frau_glaubeleichtin
-gdc,nm2b.0,153027,153220,frau_glaubeleichtin,153158,153161,ich,frau_glaubeleichtin
-gdc,nm2b.0,153225,153321,herr_scheinfromm,153247,153250,ich,herr_scheinfromm
-gdc,nm2b.0,153225,153321,herr_scheinfromm,153257,153260,ich,herr_scheinfromm
-gdc,nm2b.0,153225,153321,herr_scheinfromm,153267,153271,mich,herr_scheinfromm
-gdc,nm2b.0,153326,153450,cathrine,153343,153364,Herr von Muckersdorff,herr_von_muckersdorff
-gdc,nm2b.0,153455,153557,herr_wackermann,153479,153487,Cathrine,cathrine
-gdc,nm2b.0,153562,153801,der_advocat,153575,153578,Ich,der_advocat
-gdc,nm2b.0,153562,153801,der_advocat,153614,153630,Herr Scheinfromm,herr_scheinfromm
-gdc,nm2b.0,153562,153801,der_advocat,153662,153665,ich,der_advocat
-gdc,nm2b.0,153839,153872,der_advocat,153856,153859,ich,der_advocat
-gdc,nm2b.0,153877,154008,herr_wackermann,153940,153948,Cathrine,cathrine
-gdc,nm2b.0,154033,154070,_stage,154054,154069,Herr Wackermann,herr_wackermann
-gdc,nm2b.0,154172,154246,frau_glaubeleichtin,154203,154206,ich,frau_glaubeleichtin
-gdc,nm2b.0,154172,154246,frau_glaubeleichtin,154207,154210,mir,frau_glaubeleichtin
-gdc,nm2b.0,154251,154555,herr_wackermann,154279,154282,ich,herr_wackermann
-gdc,nm2b.0,154658,155089,herr_wackermann,155073,155076,ich,herr_wackermann
-gdc,nm2b.0,155144,155853,herr_wackermann,155161,155165,Mein,herr_wackermann
-gdc,nm2b.0,155144,155853,herr_wackermann,155641,155644,ich,herr_wackermann
-gdc,nm2b.0,155858,156146,frau_glaubeleichtin,155902,155905,mir,frau_glaubeleichtin
-gdc,nm2b.0,155858,156146,frau_glaubeleichtin,155924,155927,ich,frau_glaubeleichtin
-gdc,nm2b.0,155858,156146,frau_glaubeleichtin,155965,155968,mir,frau_glaubeleichtin
-gdc,nm2b.0,155858,156146,frau_glaubeleichtin,155983,155987,mich,frau_glaubeleichtin
-gdc,nm2b.0,155858,156146,frau_glaubeleichtin,156124,156127,ich,frau_glaubeleichtin
-gdc,nm2b.0,156151,156544,herr_wackermann,156179,156182,ich,herr_wackermann
-gdc,nm2b.0,156151,156544,herr_wackermann,156344,156347,ich,herr_wackermann
-gdc,nm2b.0,156151,156544,herr_wackermann,156479,156483,mein,herr_wackermann
-gdc,nm2b.0,156549,156627,frau_glaubeleichtin,156584,156587,Ich,frau_glaubeleichtin
-gdc,nm2b.0,156632,156706,herr_wackermann,156667,156670,Ich,herr_wackermann
-gdc,nm2b.0,156741,156806,herr_wackermann,156758,156762,Mein,herr_wackermann
-gdc,nm2b.0,156811,156858,frau_glaubeleichtin,156832,156836,Mein,frau_glaubeleichtin
-gdc,nm2b.0,157094,157149,frau_glaubeleichtin,157115,157118,Ich,frau_glaubeleichtin
-gdc,nm2b.0,157174,157294,_stage,157174,157191,Herr Glaubeleicht,herr_glaubeleicht
-gdc,nm2b.0,157174,157294,_stage,157193,157212,Frau Glaubeleichtin,frau_glaubeleichtin
-gdc,nm2b.0,157174,157294,_stage,157214,157230,Jungfer Luischen,jungfer_luischen
-gdc,nm2b.0,157174,157294,_stage,157232,157247,Jungfer Dorchen,jungfer_dorchen
-gdc,nm2b.0,157174,157294,_stage,157249,157264,Herr Wackermann,herr_wackermann
-gdc,nm2b.0,157174,157294,_stage,157266,157274,Cathrine,cathrine
-gdc,nm2b.0,157174,157294,_stage,157280,157293,Herr Liebmann,herr_liebmann
-gdc,nm2b.0,157296,157434,frau_glaubeleichtin,157341,157344,ich,frau_glaubeleichtin
-gdc,nm2b.0,157296,157434,frau_glaubeleichtin,157385,157388,ich,frau_glaubeleichtin
-gdc,nm2b.0,157296,157434,frau_glaubeleichtin,157404,157410,meines,frau_glaubeleichtin
-gdc,nm2b.0,157439,157870,herr_glaubeleicht,157537,157540,ich,herr_glaubeleicht
-gdc,nm2b.0,157875,157949,herr_liebmann,157890,157895,Meine,herr_liebmann
-gdc,nm2b.0,157875,157949,herr_liebmann,157907,157911,mein,herr_liebmann
-gdc,nm2b.0,157954,158012,jungfer_dorchen,157975,157978,ich,jungfer_dorchen
-gdc,nm2b.0,157954,158012,jungfer_dorchen,158007,158011,mich,jungfer_dorchen
-gdc,nm2b.0,158017,158201,herr_glaubeleicht,158048,158051,Ich,herr_glaubeleicht
+gdc,nm2b.0,11830,11857,_stage,11830,11846,Jungfer Luischen,jungfer_luischen
+gdc,nm2b.0,11830,11857,_stage,11848,11856,Cathrine,cathrine
+gdc,nm2b.0,11859,11886,jungfer_luischen,11877,11885,Cathrine,cathrine
+gdc,nm2b.0,11891,11918,cathrine,11901,11917,Jungfer Luischen,jungfer_luischen
+gdc,nm2b.0,12086,12201,jungfer_luischen,12176,12179,mir,jungfer_luischen
+gdc,nm2b.0,12206,12610,cathrine,12233,12236,mir,cathrine
+gdc,nm2b.0,12206,12610,cathrine,12266,12271,meine,cathrine
+gdc,nm2b.0,12206,12610,cathrine,12278,12294,Jungfer Luischen,jungfer_luischen
+gdc,nm2b.0,12615,12676,jungfer_luischen,12637,12645,Cathrine,cathrine
+gdc,nm2b.0,12615,12676,jungfer_luischen,12647,12650,ich,jungfer_luischen
+gdc,nm2b.0,12615,12676,jungfer_luischen,12658,12662,mich,jungfer_luischen
+gdc,nm2b.0,12681,13017,cathrine,12699,12702,ich,cathrine
+gdc,nm2b.0,13063,13534,cathrine,13073,13076,Ich,cathrine
+gdc,nm2b.0,13063,13534,cathrine,13427,13430,Ich,cathrine
+gdc,nm2b.0,13602,13663,cathrine,13646,13662,Jungfer Luischen,jungfer_luischen
+gdc,nm2b.0,13668,14113,jungfer_luischen,13691,13694,ich,jungfer_luischen
+gdc,nm2b.0,13668,14113,jungfer_luischen,13819,13822,ich,jungfer_luischen
+gdc,nm2b.0,13668,14113,jungfer_luischen,13824,13829,Meine,jungfer_luischen
+gdc,nm2b.0,14180,14978,jungfer_luischen,14213,14216,ich,jungfer_luischen
+gdc,nm2b.0,14180,14978,jungfer_luischen,14267,14270,ich,jungfer_luischen
+gdc,nm2b.0,14180,14978,jungfer_luischen,14307,14310,Ich,jungfer_luischen
+gdc,nm2b.0,14180,14978,jungfer_luischen,14485,14488,ich,jungfer_luischen
+gdc,nm2b.0,14180,14978,jungfer_luischen,14501,14504,ich,jungfer_luischen
+gdc,nm2b.0,14180,14978,jungfer_luischen,14551,14554,ich,jungfer_luischen
+gdc,nm2b.0,14180,14978,jungfer_luischen,14674,14677,Ich,jungfer_luischen
+gdc,nm2b.0,14180,14978,jungfer_luischen,14683,14687,mich,jungfer_luischen
+gdc,nm2b.0,14180,14978,jungfer_luischen,14714,14717,ich,jungfer_luischen
+gdc,nm2b.0,14180,14978,jungfer_luischen,14752,14755,ich,jungfer_luischen
+gdc,nm2b.0,14180,14978,jungfer_luischen,14816,14819,Ich,jungfer_luischen
+gdc,nm2b.0,14180,14978,jungfer_luischen,14857,14861,mein,jungfer_luischen
+gdc,nm2b.0,15122,15282,jungfer_luischen,15167,15170,ich,jungfer_luischen
+gdc,nm2b.0,15122,15282,jungfer_luischen,15171,15174,mir,jungfer_luischen
+gdc,nm2b.0,15122,15282,jungfer_luischen,15190,15193,Ich,jungfer_luischen
+gdc,nm2b.0,15122,15282,jungfer_luischen,15222,15225,Ich,jungfer_luischen
+gdc,nm2b.0,15122,15282,jungfer_luischen,15235,15240,meine,jungfer_luischen
+gdc,nm2b.0,15287,16203,cathrine,15297,15300,Ich,cathrine
+gdc,nm2b.0,15287,16203,cathrine,15575,15579,Mich,cathrine
+gdc,nm2b.0,15287,16203,cathrine,16083,16086,ich,cathrine
+gdc,nm2b.0,16303,16650,cathrine,16327,16330,ich,cathrine
+gdc,nm2b.0,16303,16650,cathrine,16331,16337,meinen,cathrine
+gdc,nm2b.0,16303,16650,cathrine,16367,16370,mir,cathrine
+gdc,nm2b.0,16303,16650,cathrine,16399,16402,ich,cathrine
+gdc,nm2b.0,16303,16650,cathrine,16488,16491,mir,cathrine
+gdc,nm2b.0,16303,16650,cathrine,16549,16552,ich,cathrine
+gdc,nm2b.0,16303,16650,cathrine,16613,16616,Ich,cathrine
+gdc,nm2b.0,16303,16650,cathrine,16639,16644,meine,cathrine
+gdc,nm2b.0,16655,16802,jungfer_luischen,16716,16722,meiner,jungfer_luischen
+gdc,nm2b.0,16655,16802,jungfer_luischen,16734,16738,mich,jungfer_luischen
+gdc,nm2b.0,16655,16802,jungfer_luischen,16765,16770,meine,jungfer_luischen
+gdc,nm2b.0,16924,17168,jungfer_luischen,16956,16961,Meine,jungfer_luischen
+gdc,nm2b.0,17253,17337,jungfer_luischen,17271,17275,Mich,jungfer_luischen
+gdc,nm2b.0,17253,17337,jungfer_luischen,17302,17306,mein,jungfer_luischen
+gdc,nm2b.0,17470,17669,jungfer_luischen,17531,17535,mein,jungfer_luischen
+gdc,nm2b.0,17470,17669,jungfer_luischen,17569,17574,meine,jungfer_luischen
+gdc,nm2b.0,17470,17669,jungfer_luischen,17600,17603,mir,jungfer_luischen
+gdc,nm2b.0,17674,17938,cathrine,17723,17739,Jungfer Luischen,jungfer_luischen
+gdc,nm2b.0,17674,17938,cathrine,17741,17756,Herr Wackermann,herr_wackermann
+gdc,nm2b.0,17674,17938,cathrine,17924,17927,ich,cathrine
+gdc,nm2b.0,17943,18069,jungfer_luischen,17981,17984,mir,jungfer_luischen
+gdc,nm2b.0,18074,18362,cathrine,18097,18100,ich,cathrine
+gdc,nm2b.0,18416,18990,cathrine,18803,18806,Ich,cathrine
+gdc,nm2b.0,18416,18990,cathrine,18845,18849,mich,cathrine
+gdc,nm2b.0,18416,18990,cathrine,18888,18891,mir,cathrine
+gdc,nm2b.0,18416,18990,cathrine,18912,18915,Ich,cathrine
+gdc,nm2b.0,19015,19083,_stage,19015,19034,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,19015,19083,_stage,19036,19051,Jungfer Dorchen,jungfer_dorchen
+gdc,nm2b.0,19015,19083,_stage,19053,19069,Jungfer Luischen,jungfer_luischen
+gdc,nm2b.0,19015,19083,_stage,19074,19082,Cathrine,cathrine
+gdc,nm2b.0,19085,19149,frau_glaubeleichtin,19110,19118,Cathrine,cathrine
+gdc,nm2b.0,19296,19347,frau_glaubeleichtin,19328,19331,ich,frau_glaubeleichtin
+gdc,nm2b.0,19918,20088,cathrine,20077,20080,mir,cathrine
+gdc,nm2b.0,20339,20393,frau_glaubeleichtin,20384,20392,Cathrine,cathrine
+gdc,nm2b.0,21181,21328,cathrine,21232,21235,ich,cathrine
+gdc,nm2b.0,21333,21876,frau_glaubeleichtin,21418,21434,Herr Scheinfromm,herr_scheinfromm
+gdc,nm2b.0,21333,21876,frau_glaubeleichtin,21443,21446,mir,frau_glaubeleichtin
+gdc,nm2b.0,21333,21876,frau_glaubeleichtin,21539,21543,mich,frau_glaubeleichtin
+gdc,nm2b.0,21881,22540,cathrine,21891,21894,Ich,cathrine
+gdc,nm2b.0,21881,22540,cathrine,22006,22009,Ich,cathrine
+gdc,nm2b.0,21881,22540,cathrine,22022,22040,Frau Zanckenheimin,frau_zanckenheimin
+gdc,nm2b.0,21881,22540,cathrine,22093,22108,Frau Seuffzerin,frau_seuffzerin
+gdc,nm2b.0,21881,22540,cathrine,22372,22375,Ich,cathrine
+gdc,nm2b.0,21881,22540,cathrine,22462,22466,mich,cathrine
+gdc,nm2b.0,21881,22540,cathrine,22508,22511,Ich,cathrine
+gdc,nm2b.0,22742,22874,frau_glaubeleichtin,22831,22836,meine,frau_glaubeleichtin
+gdc,nm2b.0,22930,23048,frau_glaubeleichtin,23016,23019,ich,frau_glaubeleichtin
+gdc,nm2b.0,23053,23142,jungfer_luischen,23076,23081,meine,jungfer_luischen
+gdc,nm2b.0,23053,23142,jungfer_luischen,23125,23128,ich,jungfer_luischen
+gdc,nm2b.0,23147,23432,frau_glaubeleichtin,23254,23257,Ich,frau_glaubeleichtin
+gdc,nm2b.0,23147,23432,frau_glaubeleichtin,23290,23293,ich,frau_glaubeleichtin
+gdc,nm2b.0,23147,23432,frau_glaubeleichtin,23342,23346,mein,frau_glaubeleichtin
+gdc,nm2b.0,23147,23432,frau_glaubeleichtin,23372,23376,mich,frau_glaubeleichtin
+gdc,nm2b.0,23147,23432,frau_glaubeleichtin,23378,23386,Cathrine,cathrine
+gdc,nm2b.0,23458,23492,_stage,23458,23473,Jungfer Dorchen,jungfer_dorchen
+gdc,nm2b.0,23458,23492,_stage,23475,23491,Jungfer Luischen,jungfer_luischen
+gdc,nm2b.0,23494,23605,jungfer_dorchen,23511,23515,Mich,jungfer_dorchen
+gdc,nm2b.0,23610,23988,jungfer_luischen,23637,23640,ich,jungfer_luischen
+gdc,nm2b.0,23610,23988,jungfer_luischen,23653,23656,Ich,jungfer_luischen
+gdc,nm2b.0,23610,23988,jungfer_luischen,23930,23933,ich,jungfer_luischen
+gdc,nm2b.0,23610,23988,jungfer_luischen,23969,23972,ich,jungfer_luischen
+gdc,nm2b.0,24062,24218,jungfer_luischen,24099,24103,Mein,jungfer_luischen
+gdc,nm2b.0,24062,24218,jungfer_luischen,24124,24127,ich,jungfer_luischen
+gdc,nm2b.0,24301,24672,jungfer_luischen,24527,24530,Ich,jungfer_luischen
+gdc,nm2b.0,24677,24815,jungfer_dorchen,24694,24699,Meine,jungfer_dorchen
+gdc,nm2b.0,24820,24984,jungfer_luischen,24875,24878,ich,jungfer_luischen
+gdc,nm2b.0,24820,24984,jungfer_luischen,24879,24885,meines,jungfer_luischen
+gdc,nm2b.0,24820,24984,jungfer_luischen,24922,24925,mir,jungfer_luischen
+gdc,nm2b.0,24820,24984,jungfer_luischen,24951,24957,meinen,jungfer_luischen
+gdc,nm2b.0,25024,25223,jungfer_luischen,25061,25066,meine,jungfer_luischen
+gdc,nm2b.0,25024,25223,jungfer_luischen,25096,25099,mir,jungfer_luischen
+gdc,nm2b.0,25228,25596,jungfer_dorchen,25265,25268,Ich,jungfer_dorchen
+gdc,nm2b.0,25228,25596,jungfer_dorchen,25316,25319,ich,jungfer_dorchen
+gdc,nm2b.0,25228,25596,jungfer_dorchen,25357,25360,Ich,jungfer_dorchen
+gdc,nm2b.0,25228,25596,jungfer_dorchen,25436,25439,mir,jungfer_dorchen
+gdc,nm2b.0,25601,25775,jungfer_luischen,25702,25705,ich,jungfer_luischen
+gdc,nm2b.0,25883,25991,jungfer_luischen,25923,25926,mir,jungfer_luischen
+gdc,nm2b.0,25883,25991,jungfer_luischen,25964,25967,mir,jungfer_luischen
+gdc,nm2b.0,25883,25991,jungfer_luischen,25968,25972,mein,jungfer_luischen
+gdc,nm2b.0,25996,26206,jungfer_dorchen,26022,26025,ich,jungfer_dorchen
+gdc,nm2b.0,25996,26206,jungfer_dorchen,26043,26046,ich,jungfer_dorchen
+gdc,nm2b.0,25996,26206,jungfer_dorchen,26056,26060,mich,jungfer_dorchen
+gdc,nm2b.0,26232,26269,_stage,26232,26251,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,26232,26269,_stage,26253,26268,Herr Wackermann,herr_wackermann
+gdc,nm2b.0,26271,26325,herr_wackermann,26313,26316,ich,herr_wackermann
+gdc,nm2b.0,26330,26495,frau_glaubeleichtin,26444,26447,mir,frau_glaubeleichtin
+gdc,nm2b.0,26500,26758,herr_wackermann,26537,26540,Ich,herr_wackermann
+gdc,nm2b.0,26500,26758,herr_wackermann,26652,26655,Ich,herr_wackermann
+gdc,nm2b.0,26763,26851,frau_glaubeleichtin,26835,26838,mir,frau_glaubeleichtin
+gdc,nm2b.0,26953,27009,herr_wackermann,26994,26997,ich,herr_wackermann
+gdc,nm2b.0,27156,27311,frau_glaubeleichtin,27229,27233,mein,frau_glaubeleichtin
+gdc,nm2b.0,27156,27311,frau_glaubeleichtin,27243,27247,mein,frau_glaubeleichtin
+gdc,nm2b.0,27156,27311,frau_glaubeleichtin,27297,27301,mein,frau_glaubeleichtin
+gdc,nm2b.0,27423,27579,frau_glaubeleichtin,27444,27447,Ich,frau_glaubeleichtin
+gdc,nm2b.0,27423,27579,frau_glaubeleichtin,27449,27452,ich,frau_glaubeleichtin
+gdc,nm2b.0,27423,27579,frau_glaubeleichtin,27460,27464,mich,frau_glaubeleichtin
+gdc,nm2b.0,27423,27579,frau_glaubeleichtin,27520,27523,ich,frau_glaubeleichtin
+gdc,nm2b.0,27584,27774,herr_wackermann,27704,27707,Ich,herr_wackermann
+gdc,nm2b.0,27584,27774,herr_wackermann,27726,27742,Herr Scheinfromm,herr_scheinfromm
+gdc,nm2b.0,27922,28126,herr_wackermann,27960,27963,Ich,herr_wackermann
+gdc,nm2b.0,27922,28126,herr_wackermann,28023,28026,ich,herr_wackermann
+gdc,nm2b.0,27922,28126,herr_wackermann,28097,28100,mir,herr_wackermann
+gdc,nm2b.0,28174,28732,herr_wackermann,28191,28194,Ich,herr_wackermann
+gdc,nm2b.0,28174,28732,herr_wackermann,28311,28314,Ich,herr_wackermann
+gdc,nm2b.0,28174,28732,herr_wackermann,28648,28654,meinen,herr_wackermann
+gdc,nm2b.0,28174,28732,herr_wackermann,28717,28721,mich,herr_wackermann
+gdc,nm2b.0,28859,29051,herr_wackermann,28950,28954,mich,herr_wackermann
+gdc,nm2b.0,29056,29414,frau_glaubeleichtin,29077,29090,Herr Liebmann,herr_liebmann
+gdc,nm2b.0,29056,29414,frau_glaubeleichtin,29130,29135,meine,frau_glaubeleichtin
+gdc,nm2b.0,29056,29414,frau_glaubeleichtin,29161,29164,ich,frau_glaubeleichtin
+gdc,nm2b.0,29419,29673,herr_wackermann,29588,29591,ich,herr_wackermann
+gdc,nm2b.0,29678,29849,frau_glaubeleichtin,29738,29741,Ich,frau_glaubeleichtin
+gdc,nm2b.0,29678,29849,frau_glaubeleichtin,29768,29771,ich,frau_glaubeleichtin
+gdc,nm2b.0,29854,30037,herr_wackermann,29985,29988,ich,herr_wackermann
+gdc,nm2b.0,30043,30149,frau_glaubeleichtin,30108,30111,ich,frau_glaubeleichtin
+gdc,nm2b.0,30174,30229,_stage,30174,30193,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,30174,30229,_stage,30195,30210,Herr Wackermann,herr_wackermann
+gdc,nm2b.0,30174,30229,_stage,30212,30228,Jungfer Luischen,jungfer_luischen
+gdc,nm2b.0,30231,30446,frau_glaubeleichtin,30385,30388,ich,frau_glaubeleichtin
+gdc,nm2b.0,30451,30526,jungfer_luischen,30482,30485,mir,jungfer_luischen
+gdc,nm2b.0,30451,30526,jungfer_luischen,30500,30503,ich,jungfer_luischen
+gdc,nm2b.0,30787,30935,frau_glaubeleichtin,30808,30812,Mein,frau_glaubeleichtin
+gdc,nm2b.0,30787,30935,frau_glaubeleichtin,30855,30858,ich,frau_glaubeleichtin
+gdc,nm2b.0,30940,31181,jungfer_luischen,30969,30972,ich,jungfer_luischen
+gdc,nm2b.0,30940,31181,jungfer_luischen,31008,31012,mich,jungfer_luischen
+gdc,nm2b.0,30940,31181,jungfer_luischen,31040,31043,ich,jungfer_luischen
+gdc,nm2b.0,30940,31181,jungfer_luischen,31062,31067,meine,jungfer_luischen
+gdc,nm2b.0,30940,31181,jungfer_luischen,31093,31096,ich,jungfer_luischen
+gdc,nm2b.0,30940,31181,jungfer_luischen,31152,31157,meine,jungfer_luischen
+gdc,nm2b.0,31230,31339,frau_glaubeleichtin,31288,31291,ich,frau_glaubeleichtin
+gdc,nm2b.0,31344,31377,jungfer_luischen,31362,31365,Ich,jungfer_luischen
+gdc,nm2b.0,31489,32167,frau_glaubeleichtin,31515,31518,ich,frau_glaubeleichtin
+gdc,nm2b.0,31489,32167,frau_glaubeleichtin,31694,31697,mir,frau_glaubeleichtin
+gdc,nm2b.0,31489,32167,frau_glaubeleichtin,32155,32158,ich,frau_glaubeleichtin
+gdc,nm2b.0,32255,32418,jungfer_luischen,32306,32309,mir,jungfer_luischen
+gdc,nm2b.0,32255,32418,jungfer_luischen,32344,32347,ich,jungfer_luischen
+gdc,nm2b.0,32255,32418,jungfer_luischen,32402,32405,ich,jungfer_luischen
+gdc,nm2b.0,32917,32970,herr_wackermann,32934,32938,Mein,herr_wackermann
+gdc,nm2b.0,33531,33720,jungfer_luischen,33556,33560,mich,jungfer_luischen
+gdc,nm2b.0,33531,33720,jungfer_luischen,33579,33582,Ich,jungfer_luischen
+gdc,nm2b.0,33531,33720,jungfer_luischen,33627,33630,ich,jungfer_luischen
+gdc,nm2b.0,33531,33720,jungfer_luischen,33647,33650,ich,jungfer_luischen
+gdc,nm2b.0,33531,33720,jungfer_luischen,33651,33655,mich,jungfer_luischen
+gdc,nm2b.0,33879,34137,frau_glaubeleichtin,34129,34132,ich,frau_glaubeleichtin
+gdc,nm2b.0,34175,34399,frau_glaubeleichtin,34226,34229,mir,frau_glaubeleichtin
+gdc,nm2b.0,34175,34399,frau_glaubeleichtin,34320,34323,Ich,frau_glaubeleichtin
+gdc,nm2b.0,34175,34399,frau_glaubeleichtin,34381,34384,mir,frau_glaubeleichtin
+gdc,nm2b.0,34404,34443,jungfer_luischen,34424,34428,mein,jungfer_luischen
+gdc,nm2b.0,34470,34517,_stage,34470,34489,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,34470,34517,_stage,34491,34506,Herr Wackermann,herr_wackermann
+gdc,nm2b.0,34470,34517,_stage,34508,34516,Cathrine,cathrine
+gdc,nm2b.0,34519,34576,herr_wackermann,34561,34564,ich,herr_wackermann
+gdc,nm2b.0,34581,34753,frau_glaubeleichtin,34606,34609,ich,frau_glaubeleichtin
+gdc,nm2b.0,34581,34753,frau_glaubeleichtin,34632,34637,meine,frau_glaubeleichtin
+gdc,nm2b.0,34581,34753,frau_glaubeleichtin,34686,34690,mich,frau_glaubeleichtin
+gdc,nm2b.0,34581,34753,frau_glaubeleichtin,34695,34701,meinen,frau_glaubeleichtin
+gdc,nm2b.0,34840,34945,frau_glaubeleichtin,34883,34891,Cathrine,cathrine
+gdc,nm2b.0,34840,34945,frau_glaubeleichtin,34931,34934,mir,frau_glaubeleichtin
+gdc,nm2b.0,35060,35320,frau_glaubeleichtin,35174,35177,Ich,frau_glaubeleichtin
+gdc,nm2b.0,35060,35320,frau_glaubeleichtin,35194,35197,ich,frau_glaubeleichtin
+gdc,nm2b.0,35060,35320,frau_glaubeleichtin,35222,35225,ich,frau_glaubeleichtin
+gdc,nm2b.0,35325,35607,herr_wackermann,35342,35345,Ich,herr_wackermann
+gdc,nm2b.0,35325,35607,herr_wackermann,35437,35445,meinigen,herr_wackermann
+gdc,nm2b.0,35612,35750,frau_glaubeleichtin,35726,35729,ich,frau_glaubeleichtin
+gdc,nm2b.0,36529,36835,herr_wackermann,36715,36718,ich,herr_wackermann
+gdc,nm2b.0,36840,37395,frau_glaubeleichtin,36894,36897,ich,frau_glaubeleichtin
+gdc,nm2b.0,37400,37616,cathrine,37421,37424,Ich,cathrine
+gdc,nm2b.0,37400,37616,cathrine,37463,37482,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,37400,37616,cathrine,37488,37491,ich,cathrine
+gdc,nm2b.0,37400,37616,cathrine,37549,37552,ich,cathrine
+gdc,nm2b.0,37400,37616,cathrine,37553,37556,mir,cathrine
+gdc,nm2b.0,37400,37616,cathrine,37570,37573,ich,cathrine
+gdc,nm2b.0,37621,37787,herr_wackermann,37642,37645,ich,herr_wackermann
+gdc,nm2b.0,37792,38001,frau_glaubeleichtin,37909,37914,Jacob,jacob
+gdc,nm2b.0,37792,38001,frau_glaubeleichtin,37940,37943,mir,frau_glaubeleichtin
+gdc,nm2b.0,37792,38001,frau_glaubeleichtin,37973,37981,Cathrine,cathrine
+gdc,nm2b.0,38006,38390,cathrine,38238,38241,ich,cathrine
+gdc,nm2b.0,38006,38390,cathrine,38260,38279,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,38006,38390,cathrine,38310,38313,ich,cathrine
+gdc,nm2b.0,38470,38535,frau_glaubeleichtin,38506,38509,mir,frau_glaubeleichtin
+gdc,nm2b.0,38541,38922,herr_wackermann,38583,38586,ich,herr_wackermann
+gdc,nm2b.0,38541,38922,herr_wackermann,38641,38644,ich,herr_wackermann
+gdc,nm2b.0,38541,38922,herr_wackermann,38681,38684,ich,herr_wackermann
+gdc,nm2b.0,38541,38922,herr_wackermann,38864,38868,mich,herr_wackermann
+gdc,nm2b.0,38927,39071,frau_glaubeleichtin,38978,38981,mir,frau_glaubeleichtin
+gdc,nm2b.0,39480,39530,frau_glaubeleichtin,39501,39509,Cathrine,cathrine
+gdc,nm2b.0,39535,39913,cathrine,39560,39563,ich,cathrine
+gdc,nm2b.0,39535,39913,cathrine,39692,39696,mich,cathrine
+gdc,nm2b.0,39535,39913,cathrine,39750,39753,ich,cathrine
+gdc,nm2b.0,39919,39996,herr_wackermann,39979,39982,Ich,herr_wackermann
+gdc,nm2b.0,40001,40602,frau_glaubeleichtin,40058,40066,Cathrine,cathrine
+gdc,nm2b.0,40607,40963,herr_wackermann,40647,40650,ich,herr_wackermann
+gdc,nm2b.0,40607,40963,herr_wackermann,40715,40718,Ich,herr_wackermann
+gdc,nm2b.0,40607,40963,herr_wackermann,40745,40748,Ich,herr_wackermann
+gdc,nm2b.0,40607,40963,herr_wackermann,40790,40793,ich,herr_wackermann
+gdc,nm2b.0,40968,41071,frau_glaubeleichtin,41011,41019,Cathrine,cathrine
+gdc,nm2b.0,40968,41071,frau_glaubeleichtin,41026,41030,mich,frau_glaubeleichtin
+gdc,nm2b.0,40968,41071,frau_glaubeleichtin,41054,41057,ich,frau_glaubeleichtin
+gdc,nm2b.0,41076,41238,cathrine,41198,41201,mir,cathrine
+gdc,nm2b.0,41411,41523,herr_wackermann,41441,41444,ich,herr_wackermann
+gdc,nm2b.0,41528,41782,cathrine,41610,41613,mir,cathrine
+gdc,nm2b.0,41787,41832,herr_wackermann,41804,41807,Ich,herr_wackermann
+gdc,nm2b.0,41837,42032,cathrine,41859,41863,mein,cathrine
+gdc,nm2b.0,41837,42032,cathrine,41983,41988,Jacob,jacob
+gdc,nm2b.0,42038,42164,frau_glaubeleichtin,42094,42097,ich,frau_glaubeleichtin
+gdc,nm2b.0,42169,42314,herr_wackermann,42186,42189,Ich,herr_wackermann
+gdc,nm2b.0,42169,42314,herr_wackermann,42231,42234,Ich,herr_wackermann
+gdc,nm2b.0,42169,42314,herr_wackermann,42289,42292,ich,herr_wackermann
+gdc,nm2b.0,42169,42314,herr_wackermann,42293,42297,mich,herr_wackermann
+gdc,nm2b.0,42356,42628,frau_glaubeleichtin,42417,42420,ich,frau_glaubeleichtin
+gdc,nm2b.0,42356,42628,frau_glaubeleichtin,42487,42495,Cathrine,cathrine
+gdc,nm2b.0,42356,42628,frau_glaubeleichtin,42560,42563,Ich,frau_glaubeleichtin
+gdc,nm2b.0,42356,42628,frau_glaubeleichtin,42579,42582,mir,frau_glaubeleichtin
+gdc,nm2b.0,42633,42865,herr_wackermann,42650,42653,Ich,herr_wackermann
+gdc,nm2b.0,42633,42865,herr_wackermann,42681,42684,mir,herr_wackermann
+gdc,nm2b.0,42633,42865,herr_wackermann,42701,42707,meinem,herr_wackermann
+gdc,nm2b.0,42633,42865,herr_wackermann,42725,42729,mich,herr_wackermann
+gdc,nm2b.0,42633,42865,herr_wackermann,42757,42760,mir,herr_wackermann
+gdc,nm2b.0,42910,42934,_stage,42910,42923,Herr Liebmann,herr_liebmann
+gdc,nm2b.0,42910,42934,_stage,42925,42933,Cathrine,cathrine
+gdc,nm2b.0,42936,43003,cathrine,42968,42973,meine,cathrine
+gdc,nm2b.0,43214,43316,cathrine,43235,43238,ich,cathrine
+gdc,nm2b.0,43214,43316,cathrine,43263,43268,meine,cathrine
+gdc,nm2b.0,43321,43411,herr_liebmann,43345,43360,Herr Wackermann,herr_wackermann
+gdc,nm2b.0,43416,43529,cathrine,43462,43481,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,43587,43707,cathrine,43621,43624,ich,cathrine
+gdc,nm2b.0,43587,43707,cathrine,43648,43653,meine,cathrine
+gdc,nm2b.0,43713,43816,herr_liebmann,43781,43784,ich,herr_liebmann
+gdc,nm2b.0,43713,43816,herr_liebmann,43802,43805,ich,herr_liebmann
+gdc,nm2b.0,43867,43941,herr_liebmann,43882,43885,Ich,herr_liebmann
+gdc,nm2b.0,43867,43941,herr_liebmann,43891,43896,meine,herr_liebmann
+gdc,nm2b.0,43991,44125,herr_liebmann,44043,44048,meine,herr_liebmann
+gdc,nm2b.0,43991,44125,herr_liebmann,44059,44062,ich,herr_liebmann
+gdc,nm2b.0,43991,44125,herr_liebmann,44102,44105,mir,herr_liebmann
+gdc,nm2b.0,44130,44184,cathrine,44149,44154,meine,cathrine
+gdc,nm2b.0,44189,44278,herr_liebmann,44204,44207,Ich,herr_liebmann
+gdc,nm2b.0,44189,44278,herr_liebmann,44238,44241,ich,herr_liebmann
+gdc,nm2b.0,44325,44472,herr_liebmann,44345,44348,ich,herr_liebmann
+gdc,nm2b.0,44325,44472,herr_liebmann,44454,44457,ich,herr_liebmann
+gdc,nm2b.0,44477,44712,cathrine,44503,44507,mich,cathrine
+gdc,nm2b.0,44477,44712,cathrine,44528,44531,Ich,cathrine
+gdc,nm2b.0,44477,44712,cathrine,44601,44620,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,44477,44712,cathrine,44635,44651,Jungfer Luischen,jungfer_luischen
+gdc,nm2b.0,44738,44770,_stage,44761,44769,Cathrine,cathrine
+gdc,nm2b.0,44772,44884,herr_scheinfromm,44839,44843,mein,herr_scheinfromm
+gdc,nm2b.0,44889,44955,cathrine,44910,44929,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,44960,45074,herr_scheinfromm,44986,44990,mich,herr_scheinfromm
+gdc,nm2b.0,44960,45074,herr_scheinfromm,44994,45000,meinen,herr_scheinfromm
+gdc,nm2b.0,44960,45074,herr_scheinfromm,45051,45055,mich,herr_scheinfromm
+gdc,nm2b.0,45079,45170,cathrine,45106,45122,Herr Scheinfromm,herr_scheinfromm
+gdc,nm2b.0,45079,45170,cathrine,45144,45160,Jungfer Luischen,jungfer_luischen
+gdc,nm2b.0,45235,45366,cathrine,45245,45264,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,45371,45498,herr_scheinfromm,45403,45406,ich,herr_scheinfromm
+gdc,nm2b.0,45371,45498,herr_scheinfromm,45426,45429,ich,herr_scheinfromm
+gdc,nm2b.0,45371,45498,herr_scheinfromm,45434,45437,ich,herr_scheinfromm
+gdc,nm2b.0,45662,45762,herr_scheinfromm,45697,45700,ich,herr_scheinfromm
+gdc,nm2b.0,45662,45762,herr_scheinfromm,45722,45725,ich,herr_scheinfromm
+gdc,nm2b.0,45768,45870,cathrine,45816,45819,ich,cathrine
+gdc,nm2b.0,45875,45984,herr_scheinfromm,45912,45928,Jungfer Luischen,jungfer_luischen
+gdc,nm2b.0,45989,46109,cathrine,46028,46044,Jungfer Luischen,jungfer_luischen
+gdc,nm2b.0,46114,46196,herr_scheinfromm,46171,46174,ich,herr_scheinfromm
+gdc,nm2b.0,46201,46330,cathrine,46239,46242,Ich,cathrine
+gdc,nm2b.0,46201,46330,cathrine,46264,46267,ich,cathrine
+gdc,nm2b.0,46378,46416,cathrine,46388,46391,Ich,cathrine
+gdc,nm2b.0,46456,46526,cathrine,46477,46483,meiner,cathrine
+gdc,nm2b.0,46531,46719,herr_scheinfromm,46624,46627,ich,herr_scheinfromm
+gdc,nm2b.0,46531,46719,herr_scheinfromm,46642,46645,Ich,herr_scheinfromm
+gdc,nm2b.0,46724,46916,cathrine,46797,46802,meine,cathrine
+gdc,nm2b.0,46724,46916,cathrine,46827,46830,ich,cathrine
+gdc,nm2b.0,46921,46984,herr_scheinfromm,46951,46957,meinen,herr_scheinfromm
+gdc,nm2b.0,46989,47094,cathrine,47059,47062,Ich,cathrine
+gdc,nm2b.0,47244,47294,herr_scheinfromm,47279,47285,meiner,herr_scheinfromm
+gdc,nm2b.0,47325,47470,herr_scheinfromm,47356,47359,ich,herr_scheinfromm
+gdc,nm2b.0,47325,47470,herr_scheinfromm,47382,47385,Ich,herr_scheinfromm
+gdc,nm2b.0,47325,47470,herr_scheinfromm,47402,47421,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,47527,47706,herr_scheinfromm,47550,47553,ich,herr_scheinfromm
+gdc,nm2b.0,47527,47706,herr_scheinfromm,47632,47635,ich,herr_scheinfromm
+gdc,nm2b.0,47527,47706,herr_scheinfromm,47636,47640,mich,herr_scheinfromm
+gdc,nm2b.0,47527,47706,herr_scheinfromm,47661,47680,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,47754,48036,herr_scheinfromm,47772,47775,Ich,herr_scheinfromm
+gdc,nm2b.0,47754,48036,herr_scheinfromm,47928,47931,ich,herr_scheinfromm
+gdc,nm2b.0,48041,48082,cathrine,48063,48066,ich,cathrine
+gdc,nm2b.0,48087,48287,herr_scheinfromm,48120,48123,mir,herr_scheinfromm
+gdc,nm2b.0,48292,48333,cathrine,48316,48319,ich,cathrine
+gdc,nm2b.0,48338,48566,herr_scheinfromm,48356,48360,Mein,herr_scheinfromm
+gdc,nm2b.0,48338,48566,herr_scheinfromm,48515,48518,Ich,herr_scheinfromm
+gdc,nm2b.0,48338,48566,herr_scheinfromm,48538,48557,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,48795,48998,herr_scheinfromm,48832,48835,ich,herr_scheinfromm
+gdc,nm2b.0,48795,48998,herr_scheinfromm,48875,48878,ich,herr_scheinfromm
+gdc,nm2b.0,48795,48998,herr_scheinfromm,48935,48938,ich,herr_scheinfromm
+gdc,nm2b.0,49041,49346,herr_scheinfromm,49089,49102,Herr Liebmann,herr_liebmann
+gdc,nm2b.0,49351,49394,cathrine,49375,49378,ich,cathrine
+gdc,nm2b.0,49687,49775,cathrine,49697,49700,Ich,cathrine
+gdc,nm2b.0,50115,50252,cathrine,50136,50139,ich,cathrine
+gdc,nm2b.0,50257,50445,herr_scheinfromm,50279,50284,meine,herr_scheinfromm
+gdc,nm2b.0,50903,51224,cathrine,51081,51084,ich,cathrine
+gdc,nm2b.0,50903,51224,cathrine,51181,51200,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,51229,51294,herr_scheinfromm,51247,51250,Ich,herr_scheinfromm
+gdc,nm2b.0,51335,51459,herr_scheinfromm,51382,51385,Ich,herr_scheinfromm
+gdc,nm2b.0,51335,51459,herr_scheinfromm,51424,51427,ich,herr_scheinfromm
+gdc,nm2b.0,51511,51632,herr_scheinfromm,51587,51590,ich,herr_scheinfromm
+gdc,nm2b.0,51637,51711,cathrine,51669,51673,mich,cathrine
+gdc,nm2b.0,51637,51711,cathrine,51682,51685,ich,cathrine
+gdc,nm2b.0,51716,51799,herr_scheinfromm,51738,51741,ich,herr_scheinfromm
+gdc,nm2b.0,51804,51975,cathrine,51824,51827,Ich,cathrine
+gdc,nm2b.0,51804,51975,cathrine,51856,51859,ich,cathrine
+gdc,nm2b.0,51804,51975,cathrine,51941,51944,mir,cathrine
+gdc,nm2b.0,52000,52068,_stage,52000,52016,Jungfer Luischen,jungfer_luischen
+gdc,nm2b.0,52000,52068,_stage,52044,52057,Herr Liebmann,herr_liebmann
+gdc,nm2b.0,52000,52068,_stage,52059,52067,Cathrine,cathrine
+gdc,nm2b.0,52070,52153,jungfer_luischen,52088,52096,Cathrine,cathrine
+gdc,nm2b.0,52070,52153,jungfer_luischen,52123,52126,ich,jungfer_luischen
+gdc,nm2b.0,52158,52251,cathrine,52207,52210,ich,cathrine
+gdc,nm2b.0,52380,52425,herr_liebmann,52395,52398,Ich,herr_liebmann
+gdc,nm2b.0,52757,52902,cathrine,52767,52770,Ich,cathrine
+gdc,nm2b.0,52907,52985,herr_liebmann,52926,52934,Cathrine,cathrine
+gdc,nm2b.0,52990,53172,cathrine,53087,53090,ich,cathrine
+gdc,nm2b.0,53219,53379,cathrine,53229,53232,Ich,cathrine
+gdc,nm2b.0,53219,53379,cathrine,53280,53284,mein,cathrine
+gdc,nm2b.0,53219,53379,cathrine,53342,53358,Jungfer Luischen,jungfer_luischen
+gdc,nm2b.0,53548,53601,cathrine,53579,53600,Herr von Muckersdorff,herr_von_muckersdorff
+gdc,nm2b.0,53675,54107,cathrine,53699,53720,Herr von Muckersdorff,herr_von_muckersdorff
+gdc,nm2b.0,53675,54107,cathrine,53834,53853,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,53675,54107,cathrine,53935,53951,Herr Scheinfromm,herr_scheinfromm
+gdc,nm2b.0,54157,54249,jungfer_luischen,54216,54219,Ich,jungfer_luischen
+gdc,nm2b.0,54553,54629,jungfer_luischen,54597,54601,mich,jungfer_luischen
+gdc,nm2b.0,54818,55033,herr_liebmann,54867,54870,mir,herr_liebmann
+gdc,nm2b.0,54818,55033,herr_liebmann,54890,54895,meine,herr_liebmann
+gdc,nm2b.0,54818,55033,herr_liebmann,54917,54923,meinen,herr_liebmann
+gdc,nm2b.0,54818,55033,herr_liebmann,54971,54974,ich,herr_liebmann
+gdc,nm2b.0,54818,55033,herr_liebmann,55001,55004,ich,herr_liebmann
+gdc,nm2b.0,55370,55594,cathrine,55393,55409,Jungfer Luischen,jungfer_luischen
+gdc,nm2b.0,55713,55786,jungfer_luischen,55736,55739,ich,jungfer_luischen
+gdc,nm2b.0,55713,55786,jungfer_luischen,55747,55751,mich,jungfer_luischen
+gdc,nm2b.0,55791,55866,herr_liebmann,55844,55847,ich,herr_liebmann
+gdc,nm2b.0,55791,55866,herr_liebmann,55849,55854,Meine,herr_liebmann
+gdc,nm2b.0,55955,56078,herr_liebmann,55975,55980,meine,herr_liebmann
+gdc,nm2b.0,55955,56078,herr_liebmann,56000,56003,mir,herr_liebmann
+gdc,nm2b.0,55955,56078,herr_liebmann,56023,56026,ich,herr_liebmann
+gdc,nm2b.0,56083,56557,jungfer_luischen,56115,56128,Herr Liebmann,herr_liebmann
+gdc,nm2b.0,56083,56557,jungfer_luischen,56157,56160,ich,jungfer_luischen
+gdc,nm2b.0,56083,56557,jungfer_luischen,56222,56225,ich,jungfer_luischen
+gdc,nm2b.0,56083,56557,jungfer_luischen,56254,56258,mich,jungfer_luischen
+gdc,nm2b.0,56083,56557,jungfer_luischen,56292,56298,meinem,jungfer_luischen
+gdc,nm2b.0,56083,56557,jungfer_luischen,56362,56366,mich,jungfer_luischen
+gdc,nm2b.0,56083,56557,jungfer_luischen,56407,56413,meines,jungfer_luischen
+gdc,nm2b.0,56083,56557,jungfer_luischen,56452,56455,mir,jungfer_luischen
+gdc,nm2b.0,56083,56557,jungfer_luischen,56498,56501,ich,jungfer_luischen
+gdc,nm2b.0,56562,56663,cathrine,56618,56622,mich,cathrine
+gdc,nm2b.0,56669,56806,cathrine,56700,56716,Jungfer Luischen,jungfer_luischen
+gdc,nm2b.0,56811,56924,jungfer_luischen,56856,56859,mir,jungfer_luischen
+gdc,nm2b.0,56811,56924,jungfer_luischen,56873,56876,ich,jungfer_luischen
+gdc,nm2b.0,56811,56924,jungfer_luischen,56911,56914,ich,jungfer_luischen
+gdc,nm2b.0,56929,57057,cathrine,56939,56942,Ich,cathrine
+gdc,nm2b.0,56929,57057,cathrine,56959,56962,ich,cathrine
+gdc,nm2b.0,57082,57138,_stage,57082,57098,Jungfer Luischen,jungfer_luischen
+gdc,nm2b.0,57082,57138,_stage,57100,57116,Herr Scheinfromm,herr_scheinfromm
+gdc,nm2b.0,57082,57138,_stage,57118,57137,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,57264,57404,herr_scheinfromm,57330,57333,Ich,herr_scheinfromm
+gdc,nm2b.0,57537,57859,frau_glaubeleichtin,57558,57561,Ich,frau_glaubeleichtin
+gdc,nm2b.0,57537,57859,frau_glaubeleichtin,57588,57591,ich,frau_glaubeleichtin
+gdc,nm2b.0,57537,57859,frau_glaubeleichtin,57622,57628,meiner,frau_glaubeleichtin
+gdc,nm2b.0,57537,57859,frau_glaubeleichtin,57761,57764,ich,frau_glaubeleichtin
+gdc,nm2b.0,57537,57859,frau_glaubeleichtin,57807,57810,Ich,frau_glaubeleichtin
+gdc,nm2b.0,57884,57919,_stage,57884,57900,Herr Scheinfromm,herr_scheinfromm
+gdc,nm2b.0,57884,57919,_stage,57902,57918,Jungfer Luischen,jungfer_luischen
+gdc,nm2b.0,58088,58166,herr_scheinfromm,58106,58110,Mich,herr_scheinfromm
+gdc,nm2b.0,58394,58479,jungfer_luischen,58412,58416,Mein,jungfer_luischen
+gdc,nm2b.0,58394,58479,jungfer_luischen,58444,58447,ich,jungfer_luischen
+gdc,nm2b.0,58585,58673,jungfer_luischen,58603,58606,Ich,jungfer_luischen
+gdc,nm2b.0,58585,58673,jungfer_luischen,58643,58648,meine,jungfer_luischen
+gdc,nm2b.0,58679,58843,herr_scheinfromm,58755,58758,ich,herr_scheinfromm
+gdc,nm2b.0,58848,58932,jungfer_luischen,58866,58869,Ich,jungfer_luischen
+gdc,nm2b.0,59189,59388,jungfer_luischen,59353,59357,mein,jungfer_luischen
+gdc,nm2b.0,59486,59691,jungfer_luischen,59515,59518,ich,jungfer_luischen
+gdc,nm2b.0,59486,59691,jungfer_luischen,59534,59537,mir,jungfer_luischen
+gdc,nm2b.0,59486,59691,jungfer_luischen,59538,59542,mein,jungfer_luischen
+gdc,nm2b.0,59486,59691,jungfer_luischen,59580,59586,meinen,jungfer_luischen
+gdc,nm2b.0,59486,59691,jungfer_luischen,59614,59617,Ich,jungfer_luischen
+gdc,nm2b.0,59486,59691,jungfer_luischen,59642,59645,ich,jungfer_luischen
+gdc,nm2b.0,60589,60679,jungfer_luischen,60662,60665,ich,jungfer_luischen
+gdc,nm2b.0,60589,60679,jungfer_luischen,60666,60670,mich,jungfer_luischen
+gdc,nm2b.0,60714,60845,jungfer_luischen,60732,60735,Ich,jungfer_luischen
+gdc,nm2b.0,60714,60845,jungfer_luischen,60763,60768,meine,jungfer_luischen
+gdc,nm2b.0,60714,60845,jungfer_luischen,60792,60795,Ich,jungfer_luischen
+gdc,nm2b.0,60919,61007,jungfer_luischen,60946,60950,mich,jungfer_luischen
+gdc,nm2b.0,60919,61007,jungfer_luischen,60976,60979,ich,jungfer_luischen
+gdc,nm2b.0,60919,61007,jungfer_luischen,60991,60994,Ich,jungfer_luischen
+gdc,nm2b.0,61073,61159,jungfer_luischen,61099,61102,ich,jungfer_luischen
+gdc,nm2b.0,61073,61159,jungfer_luischen,61103,61107,mich,jungfer_luischen
+gdc,nm2b.0,61073,61159,jungfer_luischen,61143,61146,Ich,jungfer_luischen
+gdc,nm2b.0,61287,61327,jungfer_luischen,61305,61308,Ich,jungfer_luischen
+gdc,nm2b.0,61394,61480,jungfer_luischen,61421,61424,ich,jungfer_luischen
+gdc,nm2b.0,61394,61480,jungfer_luischen,61440,61444,mich,jungfer_luischen
+gdc,nm2b.0,61639,61788,jungfer_luischen,61681,61684,ich,jungfer_luischen
+gdc,nm2b.0,61639,61788,jungfer_luischen,61716,61719,ich,jungfer_luischen
+gdc,nm2b.0,61639,61788,jungfer_luischen,61720,61724,mich,jungfer_luischen
+gdc,nm2b.0,61639,61788,jungfer_luischen,61743,61746,ich,jungfer_luischen
+gdc,nm2b.0,61639,61788,jungfer_luischen,61766,61769,Ich,jungfer_luischen
+gdc,nm2b.0,61848,62077,jungfer_luischen,61875,61878,ich,jungfer_luischen
+gdc,nm2b.0,61848,62077,jungfer_luischen,61894,61897,ich,jungfer_luischen
+gdc,nm2b.0,61848,62077,jungfer_luischen,61927,61930,ich,jungfer_luischen
+gdc,nm2b.0,61848,62077,jungfer_luischen,62039,62045,meinem,jungfer_luischen
+gdc,nm2b.0,62186,62304,jungfer_luischen,62218,62222,mich,jungfer_luischen
+gdc,nm2b.0,62186,62304,jungfer_luischen,62288,62291,Ich,jungfer_luischen
+gdc,nm2b.0,62309,62398,herr_scheinfromm,62334,62337,mir,herr_scheinfromm
+gdc,nm2b.0,62403,62566,jungfer_luischen,62446,62449,ich,jungfer_luischen
+gdc,nm2b.0,62403,62566,jungfer_luischen,62493,62496,mir,jungfer_luischen
+gdc,nm2b.0,62403,62566,jungfer_luischen,62508,62513,meine,jungfer_luischen
+gdc,nm2b.0,62403,62566,jungfer_luischen,62536,62540,mich,jungfer_luischen
+gdc,nm2b.0,62571,62615,herr_scheinfromm,62608,62611,mir,herr_scheinfromm
+gdc,nm2b.0,62620,62680,jungfer_luischen,62638,62641,Ich,jungfer_luischen
+gdc,nm2b.0,62685,62929,herr_scheinfromm,62722,62726,mich,herr_scheinfromm
+gdc,nm2b.0,62685,62929,herr_scheinfromm,62732,62735,ich,herr_scheinfromm
+gdc,nm2b.0,62685,62929,herr_scheinfromm,62805,62810,Meine,herr_scheinfromm
+gdc,nm2b.0,62956,63012,_stage,62956,62975,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,62956,63012,_stage,62977,62993,Jungfer Luischen,jungfer_luischen
+gdc,nm2b.0,62956,63012,_stage,62995,63011,Herr Scheinfromm,herr_scheinfromm
+gdc,nm2b.0,63014,63138,frau_glaubeleichtin,63035,63040,Meine,frau_glaubeleichtin
+gdc,nm2b.0,63014,63138,frau_glaubeleichtin,63115,63118,ich,frau_glaubeleichtin
+gdc,nm2b.0,63143,63365,herr_scheinfromm,63282,63285,Ich,herr_scheinfromm
+gdc,nm2b.0,63143,63365,herr_scheinfromm,63349,63353,mein,herr_scheinfromm
+gdc,nm2b.0,63370,63480,frau_glaubeleichtin,63391,63394,Ich,frau_glaubeleichtin
+gdc,nm2b.0,63370,63480,frau_glaubeleichtin,63431,63434,ich,frau_glaubeleichtin
+gdc,nm2b.0,63370,63480,frau_glaubeleichtin,63476,63479,mir,frau_glaubeleichtin
+gdc,nm2b.0,63485,63602,herr_scheinfromm,63526,63529,ich,herr_scheinfromm
+gdc,nm2b.0,63485,63602,herr_scheinfromm,63530,63535,meine,herr_scheinfromm
+gdc,nm2b.0,63485,63602,herr_scheinfromm,63567,63571,mich,herr_scheinfromm
+gdc,nm2b.0,63607,63675,frau_glaubeleichtin,63644,63647,Ich,frau_glaubeleichtin
+gdc,nm2b.0,63702,63752,_stage,63702,63721,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,63702,63752,_stage,63723,63739,Jungfer Luischen,jungfer_luischen
+gdc,nm2b.0,63754,64197,frau_glaubeleichtin,63785,63788,ich,frau_glaubeleichtin
+gdc,nm2b.0,63754,64197,frau_glaubeleichtin,63874,63878,mich,frau_glaubeleichtin
+gdc,nm2b.0,63754,64197,frau_glaubeleichtin,63913,63916,ich,frau_glaubeleichtin
+gdc,nm2b.0,63754,64197,frau_glaubeleichtin,63987,63990,Ich,frau_glaubeleichtin
+gdc,nm2b.0,63754,64197,frau_glaubeleichtin,64028,64032,mein,frau_glaubeleichtin
+gdc,nm2b.0,63754,64197,frau_glaubeleichtin,64183,64186,mir,frau_glaubeleichtin
+gdc,nm2b.0,64235,64280,frau_glaubeleichtin,64264,64268,mich,frau_glaubeleichtin
+gdc,nm2b.0,64326,64461,frau_glaubeleichtin,64356,64360,mich,frau_glaubeleichtin
+gdc,nm2b.0,64326,64461,frau_glaubeleichtin,64386,64389,mir,frau_glaubeleichtin
+gdc,nm2b.0,64466,64526,jungfer_luischen,64516,64520,mein,jungfer_luischen
+gdc,nm2b.0,64531,64613,frau_glaubeleichtin,64557,64562,meine,frau_glaubeleichtin
+gdc,nm2b.0,64531,64613,frau_glaubeleichtin,64572,64575,ich,frau_glaubeleichtin
+gdc,nm2b.0,64618,64673,jungfer_luischen,64636,64639,Ich,jungfer_luischen
+gdc,nm2b.0,64678,64759,frau_glaubeleichtin,64699,64702,Ich,frau_glaubeleichtin
+gdc,nm2b.0,64764,64816,jungfer_luischen,64782,64795,Herr Liebmann,herr_liebmann
+gdc,nm2b.0,65164,65368,frau_glaubeleichtin,65198,65201,ich,frau_glaubeleichtin
+gdc,nm2b.0,65417,65714,frau_glaubeleichtin,65473,65476,ich,frau_glaubeleichtin
+gdc,nm2b.0,65417,65714,frau_glaubeleichtin,65497,65518,Herr von Muckersdorff,herr_von_muckersdorff
+gdc,nm2b.0,65719,65791,jungfer_luischen,65763,65766,Ich,jungfer_luischen
+gdc,nm2b.0,65719,65791,jungfer_luischen,65772,65776,mich,jungfer_luischen
+gdc,nm2b.0,65836,65883,jungfer_luischen,65854,65857,Ich,jungfer_luischen
+gdc,nm2b.0,65888,66118,frau_glaubeleichtin,66013,66016,ich,frau_glaubeleichtin
+gdc,nm2b.0,65888,66118,frau_glaubeleichtin,66072,66075,ich,frau_glaubeleichtin
+gdc,nm2b.0,65888,66118,frau_glaubeleichtin,66114,66117,mir,frau_glaubeleichtin
+gdc,nm2b.0,66123,66395,jungfer_luischen,66199,66202,Ich,jungfer_luischen
+gdc,nm2b.0,66123,66395,jungfer_luischen,66349,66365,Herr Scheinfromm,herr_scheinfromm
+gdc,nm2b.0,66123,66395,jungfer_luischen,66370,66373,mir,jungfer_luischen
+gdc,nm2b.0,66400,66581,frau_glaubeleichtin,66501,66504,ich,frau_glaubeleichtin
+gdc,nm2b.0,66618,66872,frau_glaubeleichtin,66673,66676,mir,frau_glaubeleichtin
+gdc,nm2b.0,66618,66872,frau_glaubeleichtin,66736,66739,ich,frau_glaubeleichtin
+gdc,nm2b.0,66618,66872,frau_glaubeleichtin,66810,66813,ich,frau_glaubeleichtin
+gdc,nm2b.0,66618,66872,frau_glaubeleichtin,66823,66826,ich,frau_glaubeleichtin
+gdc,nm2b.0,66618,66872,frau_glaubeleichtin,66850,66853,ich,frau_glaubeleichtin
+gdc,nm2b.0,66955,67039,frau_glaubeleichtin,66980,66983,ich,frau_glaubeleichtin
+gdc,nm2b.0,67119,67255,jungfer_luischen,67233,67238,meine,jungfer_luischen
+gdc,nm2b.0,67260,67349,frau_glaubeleichtin,67309,67312,ich,frau_glaubeleichtin
+gdc,nm2b.0,67260,67349,frau_glaubeleichtin,67328,67331,ich,frau_glaubeleichtin
+gdc,nm2b.0,67354,67407,jungfer_luischen,67372,67375,Ich,jungfer_luischen
+gdc,nm2b.0,67626,67743,jungfer_luischen,67658,67662,mein,jungfer_luischen
+gdc,nm2b.0,67626,67743,jungfer_luischen,67680,67683,ich,jungfer_luischen
+gdc,nm2b.0,67626,67743,jungfer_luischen,67716,67720,mich,jungfer_luischen
+gdc,nm2b.0,68069,68245,jungfer_luischen,68205,68209,Mein,jungfer_luischen
+gdc,nm2b.0,68549,68806,frau_glaubeleichtin,68631,68634,Ich,frau_glaubeleichtin
+gdc,nm2b.0,68831,68858,_stage,68831,68847,Jungfer Luischen,jungfer_luischen
+gdc,nm2b.0,68831,68858,_stage,68849,68857,Cathrine,cathrine
+gdc,nm2b.0,68906,68960,jungfer_luischen,68924,68927,Ich,jungfer_luischen
+gdc,nm2b.0,68906,68960,jungfer_luischen,68943,68946,ich,jungfer_luischen
+gdc,nm2b.0,69260,69316,jungfer_luischen,69278,69281,Ich,jungfer_luischen
+gdc,nm2b.0,69321,69476,cathrine,69331,69335,Mein,cathrine
+gdc,nm2b.0,69321,69476,cathrine,69459,69475,Jungfer Luischen,jungfer_luischen
+gdc,nm2b.0,69481,69523,jungfer_luischen,69506,69510,mein,jungfer_luischen
+gdc,nm2b.0,69547,69768,jungfer_luischen,69570,69573,ich,jungfer_luischen
+gdc,nm2b.0,69547,69768,jungfer_luischen,69642,69646,mein,jungfer_luischen
+gdc,nm2b.0,69547,69768,jungfer_luischen,69654,69658,mich,jungfer_luischen
+gdc,nm2b.0,69547,69768,jungfer_luischen,69704,69707,ich,jungfer_luischen
+gdc,nm2b.0,69547,69768,jungfer_luischen,69743,69746,ich,jungfer_luischen
+gdc,nm2b.0,69773,69949,cathrine,69891,69894,Ich,cathrine
+gdc,nm2b.0,69773,69949,cathrine,69900,69905,meine,cathrine
+gdc,nm2b.0,69994,70022,_stage,69994,70011,Frau Bettelsackin,frau_bettelsackin
+gdc,nm2b.0,69994,70022,_stage,70013,70021,Cathrine,cathrine
+gdc,nm2b.0,70024,70295,cathrine,70043,70046,ich,cathrine
+gdc,nm2b.0,70024,70295,cathrine,70047,70052,meine,cathrine
+gdc,nm2b.0,70024,70295,cathrine,70171,70188,Frau Bettelsackin,frau_bettelsackin
+gdc,nm2b.0,70024,70295,cathrine,70190,70194,Mich,cathrine
+gdc,nm2b.0,70024,70295,cathrine,70250,70256,meiner,cathrine
+gdc,nm2b.0,70563,70764,cathrine,70586,70589,ich,cathrine
+gdc,nm2b.0,70563,70764,cathrine,70670,70687,Frau Bettelsackin,frau_bettelsackin
+gdc,nm2b.0,70813,70989,cathrine,70848,70852,mich,cathrine
+gdc,nm2b.0,70995,71266,frau_bettelsackin,71209,71212,ich,frau_bettelsackin
+gdc,nm2b.0,70995,71266,frau_bettelsackin,71249,71253,mich,frau_bettelsackin
+gdc,nm2b.0,71271,71290,cathrine,71281,71284,Ich,cathrine
+gdc,nm2b.0,71316,73410,frau_bettelsackin,71360,71363,ich,frau_bettelsackin
+gdc,nm2b.0,71316,73410,frau_bettelsackin,71364,71368,mein,frau_bettelsackin
+gdc,nm2b.0,71316,73410,frau_bettelsackin,71389,71393,Mich,frau_bettelsackin
+gdc,nm2b.0,71316,73410,frau_bettelsackin,71457,71460,ich,frau_bettelsackin
+gdc,nm2b.0,71316,73410,frau_bettelsackin,71504,71507,ich,frau_bettelsackin
+gdc,nm2b.0,71316,73410,frau_bettelsackin,71565,71570,meine,frau_bettelsackin
+gdc,nm2b.0,71316,73410,frau_bettelsackin,72309,72312,ich,frau_bettelsackin
+gdc,nm2b.0,71316,73410,frau_bettelsackin,72400,72403,ich,frau_bettelsackin
+gdc,nm2b.0,71316,73410,frau_bettelsackin,72767,72772,meine,frau_bettelsackin
+gdc,nm2b.0,71316,73410,frau_bettelsackin,72989,72992,ich,frau_bettelsackin
+gdc,nm2b.0,71316,73410,frau_bettelsackin,73139,73142,mir,frau_bettelsackin
+gdc,nm2b.0,71316,73410,frau_bettelsackin,73355,73374,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,71316,73410,frau_bettelsackin,73376,73379,ich,frau_bettelsackin
+gdc,nm2b.0,71316,73410,frau_bettelsackin,73384,73389,meine,frau_bettelsackin
+gdc,nm2b.0,73435,73474,_stage,73435,73454,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,73435,73474,_stage,73456,73473,Frau Bettelsackin,frau_bettelsackin
+gdc,nm2b.0,73760,74057,frau_glaubeleichtin,73815,73818,ich,frau_glaubeleichtin
+gdc,nm2b.0,73760,74057,frau_glaubeleichtin,73859,73862,ich,frau_glaubeleichtin
+gdc,nm2b.0,73760,74057,frau_glaubeleichtin,73887,73890,ich,frau_glaubeleichtin
+gdc,nm2b.0,73760,74057,frau_glaubeleichtin,73940,73943,ich,frau_glaubeleichtin
+gdc,nm2b.0,73760,74057,frau_glaubeleichtin,73944,73950,meinem,frau_glaubeleichtin
+gdc,nm2b.0,73760,74057,frau_glaubeleichtin,74022,74026,mich,frau_glaubeleichtin
+gdc,nm2b.0,76167,76308,frau_bettelsackin,76289,76292,ich,frau_bettelsackin
+gdc,nm2b.0,76167,76308,frau_bettelsackin,76293,76297,mich,frau_bettelsackin
+gdc,nm2b.0,76476,76514,frau_bettelsackin,76504,76507,ich,frau_bettelsackin
+gdc,nm2b.0,77034,77200,frau_glaubeleichtin,77084,77087,ich,frau_glaubeleichtin
+gdc,nm2b.0,77034,77200,frau_glaubeleichtin,77165,77170,meine,frau_glaubeleichtin
+gdc,nm2b.0,77205,77248,frau_bettelsackin,77224,77227,Ich,frau_bettelsackin
+gdc,nm2b.0,77274,77304,_stage,77274,77293,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,77274,77304,_stage,77295,77303,Cathrine,cathrine
+gdc,nm2b.0,77306,77336,frau_glaubeleichtin,77327,77335,Cathrine,cathrine
+gdc,nm2b.0,77373,77454,frau_glaubeleichtin,77400,77403,mir,frau_glaubeleichtin
+gdc,nm2b.0,77373,77454,frau_glaubeleichtin,77418,77422,Mich,frau_glaubeleichtin
+gdc,nm2b.0,77373,77454,frau_glaubeleichtin,77431,77447,Herr Scheinfromm,herr_scheinfromm
+gdc,nm2b.0,77459,77611,cathrine,77507,77523,Jungfer Luischen,jungfer_luischen
+gdc,nm2b.0,77636,77707,_stage,77636,77655,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,77636,77707,_stage,77657,77673,Herr Scheinfromm,herr_scheinfromm
+gdc,nm2b.0,77636,77707,_stage,77685,77706,Herr von Muckersdorff,herr_von_muckersdorff
+gdc,nm2b.0,77709,78030,herr_scheinfromm,77742,77745,mir,herr_scheinfromm
+gdc,nm2b.0,77709,78030,herr_scheinfromm,77780,77784,mein,herr_scheinfromm
+gdc,nm2b.0,77709,78030,herr_scheinfromm,77876,77879,ich,herr_scheinfromm
+gdc,nm2b.0,78166,78231,herr_von_muckersdorff,78212,78216,mich,herr_von_muckersdorff
+gdc,nm2b.0,78236,78335,frau_glaubeleichtin,78261,78277,Herr Scheinfromm,herr_scheinfromm
+gdc,nm2b.0,78236,78335,frau_glaubeleichtin,78282,78285,mir,frau_glaubeleichtin
+gdc,nm2b.0,78389,78467,frau_glaubeleichtin,78410,78413,Ich,frau_glaubeleichtin
+gdc,nm2b.0,78389,78467,frau_glaubeleichtin,78440,78445,meine,frau_glaubeleichtin
+gdc,nm2b.0,78506,78593,frau_glaubeleichtin,78569,78574,meine,frau_glaubeleichtin
+gdc,nm2b.0,78799,78843,herr_von_muckersdorff,78839,78842,mir,herr_von_muckersdorff
+gdc,nm2b.0,78848,79002,frau_glaubeleichtin,78886,78907,Herr von Muckersdorff,herr_von_muckersdorff
+gdc,nm2b.0,78848,79002,frau_glaubeleichtin,78953,78956,mir,frau_glaubeleichtin
+gdc,nm2b.0,79007,79164,herr_von_muckersdorff,79041,79044,mir,herr_von_muckersdorff
+gdc,nm2b.0,79007,79164,herr_von_muckersdorff,79079,79082,ich,herr_von_muckersdorff
+gdc,nm2b.0,79007,79164,herr_von_muckersdorff,79138,79141,ich,herr_von_muckersdorff
+gdc,nm2b.0,79170,79282,frau_glaubeleichtin,79212,79216,mein,frau_glaubeleichtin
+gdc,nm2b.0,79170,79282,frau_glaubeleichtin,79217,79238,Herr von Muckersdorff,herr_von_muckersdorff
+gdc,nm2b.0,79170,79282,frau_glaubeleichtin,79240,79243,ich,frau_glaubeleichtin
+gdc,nm2b.0,79342,79433,frau_glaubeleichtin,79406,79410,mein,frau_glaubeleichtin
+gdc,nm2b.0,79342,79433,frau_glaubeleichtin,79411,79432,Herr von Muckersdorff,herr_von_muckersdorff
+gdc,nm2b.0,79438,79560,herr_von_muckersdorff,79474,79477,ich,herr_von_muckersdorff
+gdc,nm2b.0,79438,79560,herr_von_muckersdorff,79542,79545,ich,herr_von_muckersdorff
+gdc,nm2b.0,79565,79681,herr_scheinfromm,79583,79586,Ich,herr_scheinfromm
+gdc,nm2b.0,79686,79761,frau_glaubeleichtin,79732,79735,ich,frau_glaubeleichtin
+gdc,nm2b.0,79766,79819,herr_von_muckersdorff,79789,79792,Ich,herr_von_muckersdorff
+gdc,nm2b.0,79824,79895,herr_scheinfromm,79857,79873,Jungfer Luischen,jungfer_luischen
+gdc,nm2b.0,79921,80010,_stage,79921,79937,Herr Scheinfromm,herr_scheinfromm
+gdc,nm2b.0,79921,80010,_stage,79939,79958,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,79921,80010,_stage,79960,79981,Herr von Muckersdorff,herr_von_muckersdorff
+gdc,nm2b.0,79921,80010,_stage,79983,79999,Jungfer Luischen,jungfer_luischen
+gdc,nm2b.0,79921,80010,_stage,80001,80009,Cathrine,cathrine
+gdc,nm2b.0,80012,80146,herr_von_muckersdorff,80103,80111,Cathrine,cathrine
+gdc,nm2b.0,80012,80146,herr_von_muckersdorff,80137,80141,mich,herr_von_muckersdorff
+gdc,nm2b.0,80152,80242,herr_scheinfromm,80211,80227,Jungfer Luischen,jungfer_luischen
+gdc,nm2b.0,80247,80528,herr_von_muckersdorff,80429,80433,mein,herr_von_muckersdorff
+gdc,nm2b.0,80247,80528,herr_von_muckersdorff,80478,80481,ich,herr_von_muckersdorff
+gdc,nm2b.0,80247,80528,herr_von_muckersdorff,80511,80514,ich,herr_von_muckersdorff
+gdc,nm2b.0,80689,80790,herr_von_muckersdorff,80726,80729,ich,herr_von_muckersdorff
+gdc,nm2b.0,80689,80790,herr_von_muckersdorff,80742,80745,ich,herr_von_muckersdorff
+gdc,nm2b.0,80795,80835,frau_glaubeleichtin,80816,80819,Ich,frau_glaubeleichtin
+gdc,nm2b.0,80840,81075,herr_von_muckersdorff,80866,80869,ich,herr_von_muckersdorff
+gdc,nm2b.0,80840,81075,herr_von_muckersdorff,80896,80899,Ich,herr_von_muckersdorff
+gdc,nm2b.0,80840,81075,herr_von_muckersdorff,80957,80960,ich,herr_von_muckersdorff
+gdc,nm2b.0,80840,81075,herr_von_muckersdorff,80995,80998,ich,herr_von_muckersdorff
+gdc,nm2b.0,81080,81274,herr_scheinfromm,81129,81132,ich,herr_scheinfromm
+gdc,nm2b.0,81279,81417,frau_glaubeleichtin,81386,81391,meine,frau_glaubeleichtin
+gdc,nm2b.0,81423,81510,jungfer_luischen,81450,81453,ich,jungfer_luischen
+gdc,nm2b.0,81423,81510,jungfer_luischen,81466,81469,ich,jungfer_luischen
+gdc,nm2b.0,81699,81926,herr_von_muckersdorff,81722,81725,Ich,herr_von_muckersdorff
+gdc,nm2b.0,81699,81926,herr_von_muckersdorff,81743,81746,ich,herr_von_muckersdorff
+gdc,nm2b.0,81699,81926,herr_von_muckersdorff,81763,81767,mich,herr_von_muckersdorff
+gdc,nm2b.0,81699,81926,herr_von_muckersdorff,81794,81797,ich,herr_von_muckersdorff
+gdc,nm2b.0,81699,81926,herr_von_muckersdorff,81850,81853,ich,herr_von_muckersdorff
+gdc,nm2b.0,81931,82482,frau_glaubeleichtin,81990,81993,mir,frau_glaubeleichtin
+gdc,nm2b.0,81931,82482,frau_glaubeleichtin,82004,82007,ich,frau_glaubeleichtin
+gdc,nm2b.0,81931,82482,frau_glaubeleichtin,82089,82094,meine,frau_glaubeleichtin
+gdc,nm2b.0,81931,82482,frau_glaubeleichtin,82108,82111,ich,frau_glaubeleichtin
+gdc,nm2b.0,81931,82482,frau_glaubeleichtin,82112,82118,meiner,frau_glaubeleichtin
+gdc,nm2b.0,81931,82482,frau_glaubeleichtin,82143,82146,Ich,frau_glaubeleichtin
+gdc,nm2b.0,81931,82482,frau_glaubeleichtin,82187,82190,mir,frau_glaubeleichtin
+gdc,nm2b.0,81931,82482,frau_glaubeleichtin,82191,82195,mein,frau_glaubeleichtin
+gdc,nm2b.0,81931,82482,frau_glaubeleichtin,82223,82226,ich,frau_glaubeleichtin
+gdc,nm2b.0,81931,82482,frau_glaubeleichtin,82267,82270,ich,frau_glaubeleichtin
+gdc,nm2b.0,81931,82482,frau_glaubeleichtin,82428,82431,mir,frau_glaubeleichtin
+gdc,nm2b.0,81931,82482,frau_glaubeleichtin,82449,82452,ich,frau_glaubeleichtin
+gdc,nm2b.0,82606,82795,frau_glaubeleichtin,82665,82668,ich,frau_glaubeleichtin
+gdc,nm2b.0,82606,82795,frau_glaubeleichtin,82720,82723,ich,frau_glaubeleichtin
+gdc,nm2b.0,82606,82795,frau_glaubeleichtin,82747,82750,ich,frau_glaubeleichtin
+gdc,nm2b.0,82801,82855,cathrine,82824,82828,mich,cathrine
+gdc,nm2b.0,82801,82855,cathrine,82837,82840,ich,cathrine
+gdc,nm2b.0,82860,83068,herr_scheinfromm,82898,82901,mir,herr_scheinfromm
+gdc,nm2b.0,82860,83068,herr_scheinfromm,82958,82961,ich,herr_scheinfromm
+gdc,nm2b.0,82860,83068,herr_scheinfromm,83001,83004,ich,herr_scheinfromm
+gdc,nm2b.0,83073,83147,frau_glaubeleichtin,83098,83101,ich,frau_glaubeleichtin
+gdc,nm2b.0,83073,83147,frau_glaubeleichtin,83117,83122,meine,frau_glaubeleichtin
+gdc,nm2b.0,83301,83468,cathrine,83385,83389,Mich,cathrine
+gdc,nm2b.0,83495,83529,_stage,83495,83510,Jungfer Dorchen,jungfer_dorchen
+gdc,nm2b.0,83495,83529,_stage,83512,83528,Jungfer Luischen,jungfer_luischen
+gdc,nm2b.0,83531,83679,jungfer_dorchen,83552,83557,meine,jungfer_dorchen
+gdc,nm2b.0,83531,83679,jungfer_dorchen,83651,83654,Ich,jungfer_dorchen
+gdc,nm2b.0,83885,84003,jungfer_luischen,83972,83975,ich,jungfer_luischen
+gdc,nm2b.0,84008,84143,jungfer_dorchen,84025,84028,Ich,jungfer_dorchen
+gdc,nm2b.0,84008,84143,jungfer_dorchen,84030,84035,meine,jungfer_dorchen
+gdc,nm2b.0,84008,84143,jungfer_dorchen,84054,84058,mich,jungfer_dorchen
+gdc,nm2b.0,84008,84143,jungfer_dorchen,84069,84072,ich,jungfer_dorchen
+gdc,nm2b.0,84008,84143,jungfer_dorchen,84122,84125,mir,jungfer_dorchen
+gdc,nm2b.0,84198,84418,jungfer_dorchen,84327,84330,mir,jungfer_dorchen
+gdc,nm2b.0,84198,84418,jungfer_dorchen,84376,84379,ich,jungfer_dorchen
+gdc,nm2b.0,84557,84781,jungfer_dorchen,84612,84615,mir,jungfer_dorchen
+gdc,nm2b.0,84557,84781,jungfer_dorchen,84716,84719,Ich,jungfer_dorchen
+gdc,nm2b.0,84557,84781,jungfer_dorchen,84757,84761,mich,jungfer_dorchen
+gdc,nm2b.0,84786,85069,jungfer_luischen,84804,84807,Ich,jungfer_luischen
+gdc,nm2b.0,84786,85069,jungfer_luischen,84906,84910,mich,jungfer_luischen
+gdc,nm2b.0,84786,85069,jungfer_luischen,84944,84947,ich,jungfer_luischen
+gdc,nm2b.0,84786,85069,jungfer_luischen,85057,85060,ich,jungfer_luischen
+gdc,nm2b.0,85074,85112,jungfer_dorchen,85108,85111,mir,jungfer_dorchen
+gdc,nm2b.0,85117,85161,jungfer_luischen,85139,85142,ich,jungfer_luischen
+gdc,nm2b.0,85186,85217,_stage,85186,85201,Jungfer Dorchen,jungfer_dorchen
+gdc,nm2b.0,85186,85217,_stage,85203,85216,Herr Liebmann,herr_liebmann
+gdc,nm2b.0,85219,85481,herr_liebmann,85249,85265,Jungfer Luischen,jungfer_luischen
+gdc,nm2b.0,85219,85481,herr_liebmann,85299,85303,mich,herr_liebmann
+gdc,nm2b.0,85219,85481,herr_liebmann,85376,85379,mir,herr_liebmann
+gdc,nm2b.0,85219,85481,herr_liebmann,85448,85451,mir,herr_liebmann
+gdc,nm2b.0,85547,85661,herr_liebmann,85611,85615,mich,herr_liebmann
+gdc,nm2b.0,85547,85661,herr_liebmann,85650,85653,ich,herr_liebmann
+gdc,nm2b.0,85666,85774,jungfer_dorchen,85683,85686,Ich,jungfer_dorchen
+gdc,nm2b.0,85779,85872,herr_liebmann,85825,85828,mir,herr_liebmann
+gdc,nm2b.0,85877,85944,jungfer_dorchen,85908,85911,ich,jungfer_dorchen
+gdc,nm2b.0,85949,85985,herr_liebmann,85968,85971,mir,herr_liebmann
+gdc,nm2b.0,85990,86114,jungfer_dorchen,86019,86022,mir,jungfer_dorchen
+gdc,nm2b.0,86119,86243,herr_liebmann,86227,86232,meine,herr_liebmann
+gdc,nm2b.0,86249,86316,jungfer_dorchen,86307,86310,ich,jungfer_dorchen
+gdc,nm2b.0,86321,86442,herr_liebmann,86421,86424,Ich,herr_liebmann
+gdc,nm2b.0,86447,86510,jungfer_dorchen,86478,86482,mich,jungfer_dorchen
+gdc,nm2b.0,86447,86510,jungfer_dorchen,86490,86493,Ich,jungfer_dorchen
+gdc,nm2b.0,86515,86669,herr_liebmann,86624,86629,meine,herr_liebmann
+gdc,nm2b.0,86515,86669,herr_liebmann,86640,86645,meine,herr_liebmann
+gdc,nm2b.0,86674,86808,jungfer_dorchen,86701,86705,mich,jungfer_dorchen
+gdc,nm2b.0,86674,86808,jungfer_dorchen,86719,86722,Ich,jungfer_dorchen
+gdc,nm2b.0,86813,86896,herr_liebmann,86866,86870,mein,herr_liebmann
+gdc,nm2b.0,87125,87168,herr_liebmann,87153,87156,ich,herr_liebmann
+gdc,nm2b.0,87228,87300,herr_liebmann,87251,87254,ich,herr_liebmann
+gdc,nm2b.0,87228,87300,herr_liebmann,87277,87280,mir,herr_liebmann
+gdc,nm2b.0,87305,87429,jungfer_dorchen,87322,87326,Mein,jungfer_dorchen
+gdc,nm2b.0,87305,87429,jungfer_dorchen,87404,87407,ich,jungfer_dorchen
+gdc,nm2b.0,87435,87558,herr_liebmann,87464,87467,mir,herr_liebmann
+gdc,nm2b.0,87435,87558,herr_liebmann,87530,87533,ich,herr_liebmann
+gdc,nm2b.0,87705,87870,jungfer_dorchen,87722,87735,Herr Liebmann,herr_liebmann
+gdc,nm2b.0,87705,87870,jungfer_dorchen,87790,87794,mich,jungfer_dorchen
+gdc,nm2b.0,87705,87870,jungfer_dorchen,87834,87840,meiner,jungfer_dorchen
+gdc,nm2b.0,87875,87933,herr_liebmann,87895,87898,ich,herr_liebmann
+gdc,nm2b.0,87985,88130,herr_liebmann,88015,88018,Ich,herr_liebmann
+gdc,nm2b.0,87985,88130,herr_liebmann,88036,88039,Ich,herr_liebmann
+gdc,nm2b.0,87985,88130,herr_liebmann,88045,88049,mich,herr_liebmann
+gdc,nm2b.0,87985,88130,herr_liebmann,88108,88112,mich,herr_liebmann
+gdc,nm2b.0,88183,88438,herr_liebmann,88198,88201,Ich,herr_liebmann
+gdc,nm2b.0,88183,88438,herr_liebmann,88209,88212,ich,herr_liebmann
+gdc,nm2b.0,88183,88438,herr_liebmann,88218,88222,mich,herr_liebmann
+gdc,nm2b.0,88183,88438,herr_liebmann,88258,88261,Ich,herr_liebmann
+gdc,nm2b.0,88183,88438,herr_liebmann,88295,88299,mein,herr_liebmann
+gdc,nm2b.0,88183,88438,herr_liebmann,88329,88332,ich,herr_liebmann
+gdc,nm2b.0,88183,88438,herr_liebmann,88413,88416,ich,herr_liebmann
+gdc,nm2b.0,88500,88656,herr_liebmann,88524,88527,ich,herr_liebmann
+gdc,nm2b.0,88500,88656,herr_liebmann,88559,88562,ich,herr_liebmann
+gdc,nm2b.0,88500,88656,herr_liebmann,88588,88591,Ich,herr_liebmann
+gdc,nm2b.0,88500,88656,herr_liebmann,88644,88647,ich,herr_liebmann
+gdc,nm2b.0,88756,88815,herr_liebmann,88779,88782,ich,herr_liebmann
+gdc,nm2b.0,88820,88999,jungfer_dorchen,88847,88851,mein,jungfer_dorchen
+gdc,nm2b.0,88820,88999,jungfer_dorchen,88932,88937,meine,jungfer_dorchen
+gdc,nm2b.0,88820,88999,jungfer_dorchen,88965,88968,Ich,jungfer_dorchen
+gdc,nm2b.0,89024,89055,_stage,89024,89037,Herr Liebmann,herr_liebmann
+gdc,nm2b.0,89024,89055,_stage,89039,89054,Herr Wackermann,herr_wackermann
+gdc,nm2b.0,89057,89140,herr_wackermann,89101,89114,Herr Liebmann,herr_liebmann
+gdc,nm2b.0,89057,89140,herr_wackermann,89127,89131,mich,herr_wackermann
+gdc,nm2b.0,89145,89552,herr_liebmann,89197,89201,mich,herr_liebmann
+gdc,nm2b.0,89145,89552,herr_liebmann,89218,89223,Meine,herr_liebmann
+gdc,nm2b.0,89145,89552,herr_liebmann,89334,89340,meiner,herr_liebmann
+gdc,nm2b.0,89145,89552,herr_liebmann,89359,89362,mir,herr_liebmann
+gdc,nm2b.0,89145,89552,herr_liebmann,89385,89389,mich,herr_liebmann
+gdc,nm2b.0,89145,89552,herr_liebmann,89417,89420,mir,herr_liebmann
+gdc,nm2b.0,89145,89552,herr_liebmann,89452,89456,mich,herr_liebmann
+gdc,nm2b.0,89145,89552,herr_liebmann,89529,89533,mich,herr_liebmann
+gdc,nm2b.0,89557,89666,herr_wackermann,89631,89634,Ich,herr_wackermann
+gdc,nm2b.0,89671,89725,herr_liebmann,89691,89694,ich,herr_liebmann
+gdc,nm2b.0,89837,89992,herr_wackermann,89931,89934,ich,herr_wackermann
+gdc,nm2b.0,89837,89992,herr_wackermann,89956,89959,Ich,herr_wackermann
+gdc,nm2b.0,90050,90306,herr_wackermann,90067,90070,Ich,herr_wackermann
+gdc,nm2b.0,90050,90306,herr_wackermann,90129,90132,mir,herr_wackermann
+gdc,nm2b.0,90050,90306,herr_wackermann,90152,90155,ich,herr_wackermann
+gdc,nm2b.0,90050,90306,herr_wackermann,90163,90166,mir,herr_wackermann
+gdc,nm2b.0,90050,90306,herr_wackermann,90197,90200,mir,herr_wackermann
+gdc,nm2b.0,90050,90306,herr_wackermann,90280,90283,Ich,herr_wackermann
+gdc,nm2b.0,90050,90306,herr_wackermann,90294,90299,meine,herr_wackermann
+gdc,nm2b.0,90364,90753,herr_wackermann,90392,90395,ich,herr_wackermann
+gdc,nm2b.0,90364,90753,herr_wackermann,90484,90487,ich,herr_wackermann
+gdc,nm2b.0,90364,90753,herr_wackermann,90552,90556,mich,herr_wackermann
+gdc,nm2b.0,90364,90753,herr_wackermann,90647,90650,ich,herr_wackermann
+gdc,nm2b.0,90364,90753,herr_wackermann,90672,90678,meinem,herr_wackermann
+gdc,nm2b.0,90364,90753,herr_wackermann,90717,90720,mir,herr_wackermann
+gdc,nm2b.0,90758,90976,herr_liebmann,90778,90781,ich,herr_liebmann
+gdc,nm2b.0,90758,90976,herr_liebmann,90825,90828,ich,herr_liebmann
+gdc,nm2b.0,90758,90976,herr_liebmann,90829,90833,mich,herr_liebmann
+gdc,nm2b.0,90758,90976,herr_liebmann,90872,90877,meine,herr_liebmann
+gdc,nm2b.0,90758,90976,herr_liebmann,90884,90887,mir,herr_liebmann
+gdc,nm2b.0,90758,90976,herr_liebmann,90907,90910,ich,herr_liebmann
+gdc,nm2b.0,90758,90976,herr_liebmann,90914,90917,mir,herr_liebmann
+gdc,nm2b.0,90758,90976,herr_liebmann,90949,90952,ich,herr_liebmann
+gdc,nm2b.0,90981,91084,herr_wackermann,91013,91016,mir,herr_wackermann
+gdc,nm2b.0,91129,91186,_stage,91129,91148,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,91129,91186,_stage,91150,91168,Frau Zanckenheimin,frau_zanckenheimin
+gdc,nm2b.0,91129,91186,_stage,91170,91185,Frau Seuffzerin,frau_seuffzerin
+gdc,nm2b.0,91188,91441,frau_glaubeleichtin,91209,91212,Ich,frau_glaubeleichtin
+gdc,nm2b.0,91188,91441,frau_glaubeleichtin,91223,91228,meine,frau_glaubeleichtin
+gdc,nm2b.0,91446,91715,frau_zanckenheimin,91473,91476,mir,frau_zanckenheimin
+gdc,nm2b.0,91446,91715,frau_zanckenheimin,91494,91497,Ich,frau_zanckenheimin
+gdc,nm2b.0,91953,92290,frau_zanckenheimin,91983,91986,Ich,frau_zanckenheimin
+gdc,nm2b.0,92536,92907,frau_glaubeleichtin,92840,92844,Mich,frau_glaubeleichtin
+gdc,nm2b.0,92960,93264,frau_glaubeleichtin,92986,92989,ich,frau_glaubeleichtin
+gdc,nm2b.0,92960,93264,frau_glaubeleichtin,93005,93010,meine,frau_glaubeleichtin
+gdc,nm2b.0,92960,93264,frau_glaubeleichtin,93028,93031,Ich,frau_glaubeleichtin
+gdc,nm2b.0,93422,93516,frau_zanckenheimin,93442,93445,Ich,frau_zanckenheimin
+gdc,nm2b.0,93422,93516,frau_zanckenheimin,93455,93458,mir,frau_zanckenheimin
+gdc,nm2b.0,93521,93655,frau_glaubeleichtin,93642,93645,ich,frau_glaubeleichtin
+gdc,nm2b.0,93752,94018,frau_glaubeleichtin,93808,93811,ich,frau_glaubeleichtin
+gdc,nm2b.0,93752,94018,frau_glaubeleichtin,93841,93844,ich,frau_glaubeleichtin
+gdc,nm2b.0,93752,94018,frau_glaubeleichtin,93894,93897,ich,frau_glaubeleichtin
+gdc,nm2b.0,94084,94187,frau_glaubeleichtin,94111,94114,ich,frau_glaubeleichtin
+gdc,nm2b.0,94419,94588,frau_glaubeleichtin,94491,94494,ich,frau_glaubeleichtin
+gdc,nm2b.0,94419,94588,frau_glaubeleichtin,94518,94521,ich,frau_glaubeleichtin
+gdc,nm2b.0,94419,94588,frau_glaubeleichtin,94554,94557,Ich,frau_glaubeleichtin
+gdc,nm2b.0,94593,94806,frau_zanckenheimin,94618,94624,meiner,frau_zanckenheimin
+gdc,nm2b.0,94965,95007,frau_glaubeleichtin,94986,94989,Ich,frau_glaubeleichtin
+gdc,nm2b.0,95012,95114,frau_zanckenheimin,95044,95048,mich,frau_zanckenheimin
+gdc,nm2b.0,95684,95726,frau_glaubeleichtin,95705,95709,Mich,frau_glaubeleichtin
+gdc,nm2b.0,95777,95814,frau_glaubeleichtin,95801,95807,meinem,frau_glaubeleichtin
+gdc,nm2b.0,95869,95923,frau_zanckenheimin,95900,95903,ich,frau_zanckenheimin
+gdc,nm2b.0,95928,96033,frau_seuffzerin,95970,95989,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,96073,96183,frau_seuffzerin,96117,96135,Frau Zanckenheimin,frau_zanckenheimin
+gdc,nm2b.0,96188,96246,frau_glaubeleichtin,96212,96215,ich,frau_glaubeleichtin
+gdc,nm2b.0,96188,96246,frau_glaubeleichtin,96232,96235,ich,frau_glaubeleichtin
+gdc,nm2b.0,96251,96413,frau_seuffzerin,96273,96276,ich,frau_seuffzerin
+gdc,nm2b.0,96419,96459,frau_zanckenheimin,96444,96447,ich,frau_zanckenheimin
+gdc,nm2b.0,96464,96517,frau_glaubeleichtin,96491,96494,ich,frau_glaubeleichtin
+gdc,nm2b.0,96522,96766,frau_seuffzerin,96646,96649,ich,frau_seuffzerin
+gdc,nm2b.0,96522,96766,frau_seuffzerin,96656,96661,meine,frau_seuffzerin
+gdc,nm2b.0,96809,96853,frau_zanckenheimin,96829,96832,Ich,frau_zanckenheimin
+gdc,nm2b.0,96858,97432,frau_seuffzerin,96895,96901,meiner,frau_seuffzerin
+gdc,nm2b.0,97574,97611,frau_seuffzerin,97601,97604,ich,frau_seuffzerin
+gdc,nm2b.0,97616,97660,frau_glaubeleichtin,97637,97640,Mir,frau_glaubeleichtin
+gdc,nm2b.0,97665,97700,frau_zanckenheimin,97685,97688,Mir,frau_zanckenheimin
+gdc,nm2b.0,97705,97939,frau_seuffzerin,97818,97821,ich,frau_seuffzerin
+gdc,nm2b.0,97705,97939,frau_seuffzerin,97918,97923,Meine,frau_seuffzerin
+gdc,nm2b.0,98107,98613,frau_seuffzerin,98154,98158,mich,frau_seuffzerin
+gdc,nm2b.0,98107,98613,frau_seuffzerin,98165,98168,ich,frau_seuffzerin
+gdc,nm2b.0,98107,98613,frau_seuffzerin,98257,98260,ich,frau_seuffzerin
+gdc,nm2b.0,98107,98613,frau_seuffzerin,98379,98383,mich,frau_seuffzerin
+gdc,nm2b.0,98107,98613,frau_seuffzerin,98424,98427,ich,frau_seuffzerin
+gdc,nm2b.0,98107,98613,frau_seuffzerin,98428,98433,meine,frau_seuffzerin
+gdc,nm2b.0,98107,98613,frau_seuffzerin,98558,98561,ich,frau_seuffzerin
+gdc,nm2b.0,98735,98810,_stage,98735,98754,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,98735,98810,_stage,98756,98774,Frau Zanckenheimin,frau_zanckenheimin
+gdc,nm2b.0,98735,98810,_stage,98776,98791,Frau Seuffzerin,frau_seuffzerin
+gdc,nm2b.0,98735,98810,_stage,98793,98809,Herr Scheinfromm,herr_scheinfromm
+gdc,nm2b.0,98812,98918,herr_scheinfromm,98867,98870,ich,herr_scheinfromm
+gdc,nm2b.0,98812,98918,herr_scheinfromm,98901,98904,ich,herr_scheinfromm
+gdc,nm2b.0,98923,98994,frau_glaubeleichtin,98948,98963,Frau Seuffzerin,frau_seuffzerin
+gdc,nm2b.0,99117,99213,frau_seuffzerin,99150,99154,mich,frau_seuffzerin
+gdc,nm2b.0,99117,99213,frau_seuffzerin,99180,99186,meiner,frau_seuffzerin
+gdc,nm2b.0,99850,99908,frau_glaubeleichtin,99871,99874,Ich,frau_glaubeleichtin
+gdc,nm2b.0,100035,100106,frau_glaubeleichtin,100060,100063,ich,frau_glaubeleichtin
+gdc,nm2b.0,100111,100191,frau_zanckenheimin,100131,100134,Ich,frau_zanckenheimin
+gdc,nm2b.0,100196,100297,frau_seuffzerin,100274,100277,ich,frau_seuffzerin
+gdc,nm2b.0,100302,100411,frau_glaubeleichtin,100364,100367,ich,frau_glaubeleichtin
+gdc,nm2b.0,100572,100743,herr_scheinfromm,100651,100654,ich,herr_scheinfromm
+gdc,nm2b.0,100748,100795,frau_seuffzerin,100791,100794,mir,frau_seuffzerin
+gdc,nm2b.0,100800,100844,frau_glaubeleichtin,100840,100843,mir,frau_glaubeleichtin
+gdc,nm2b.0,100849,100901,frau_zanckenheimin,100897,100900,mir,frau_zanckenheimin
+gdc,nm2b.0,100906,100956,herr_scheinfromm,100943,100946,ich,herr_scheinfromm
+gdc,nm2b.0,100961,101044,frau_glaubeleichtin,100982,100985,Ich,frau_glaubeleichtin
+gdc,nm2b.0,101129,101171,frau_glaubeleichtin,101150,101153,Ich,frau_glaubeleichtin
+gdc,nm2b.0,101176,101235,frau_zanckenheimin,101196,101199,Ich,frau_zanckenheimin
+gdc,nm2b.0,101240,101341,frau_seuffzerin,101268,101272,mich,frau_seuffzerin
+gdc,nm2b.0,101346,101421,herr_scheinfromm,101364,101368,Mein,herr_scheinfromm
+gdc,nm2b.0,102125,102182,frau_glaubeleichtin,102151,102154,ich,frau_glaubeleichtin
+gdc,nm2b.0,102187,102236,frau_zanckenheimin,102212,102215,ich,frau_zanckenheimin
+gdc,nm2b.0,102294,102451,herr_scheinfromm,102320,102323,ich,herr_scheinfromm
+gdc,nm2b.0,102294,102451,herr_scheinfromm,102350,102353,ich,herr_scheinfromm
+gdc,nm2b.0,102294,102451,herr_scheinfromm,102415,102418,ich,herr_scheinfromm
+gdc,nm2b.0,102615,102728,herr_scheinfromm,102673,102676,mir,herr_scheinfromm
+gdc,nm2b.0,102615,102728,herr_scheinfromm,102711,102714,ich,herr_scheinfromm
+gdc,nm2b.0,102733,102797,frau_glaubeleichtin,102785,102789,mich,frau_glaubeleichtin
+gdc,nm2b.0,102802,102870,frau_zanckenheimin,102838,102842,mich,frau_zanckenheimin
+gdc,nm2b.0,102802,102870,frau_zanckenheimin,102851,102854,ich,frau_zanckenheimin
+gdc,nm2b.0,102875,102924,frau_seuffzerin,102892,102895,Ich,frau_seuffzerin
+gdc,nm2b.0,102929,103013,herr_scheinfromm,102993,102996,ich,herr_scheinfromm
+gdc,nm2b.0,103017,103073,frau_glaubeleichtin,103043,103046,ich,frau_glaubeleichtin
+gdc,nm2b.0,103331,103492,frau_glaubeleichtin,103414,103417,ich,frau_glaubeleichtin
+gdc,nm2b.0,103788,103989,frau_zanckenheimin,103808,103811,Ich,frau_zanckenheimin
+gdc,nm2b.0,104562,104644,herr_scheinfromm,104635,104638,mir,herr_scheinfromm
+gdc,nm2b.0,104788,104898,herr_scheinfromm,104830,104833,ich,herr_scheinfromm
+gdc,nm2b.0,104788,104898,herr_scheinfromm,104850,104853,ich,herr_scheinfromm
+gdc,nm2b.0,104788,104898,herr_scheinfromm,104862,104868,meiner,herr_scheinfromm
+gdc,nm2b.0,104904,104972,frau_zanckenheimin,104924,104928,Mich,frau_zanckenheimin
+gdc,nm2b.0,104977,105070,herr_scheinfromm,105040,105043,mir,herr_scheinfromm
+gdc,nm2b.0,105075,105166,frau_seuffzerin,105092,105095,Ich,frau_seuffzerin
+gdc,nm2b.0,105075,105166,frau_seuffzerin,105111,105116,meine,frau_seuffzerin
+gdc,nm2b.0,105075,105166,frau_seuffzerin,105147,105152,Jacob,jacob
+gdc,nm2b.0,105171,105267,herr_scheinfromm,105197,105200,ich,herr_scheinfromm
+gdc,nm2b.0,105338,105431,herr_scheinfromm,105380,105383,mir,herr_scheinfromm
+gdc,nm2b.0,105726,105882,herr_scheinfromm,105832,105835,Ich,herr_scheinfromm
+gdc,nm2b.0,105726,105882,herr_scheinfromm,105863,105866,ich,herr_scheinfromm
+gdc,nm2b.0,105908,106004,_stage,105908,105927,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,105908,106004,_stage,105929,105944,Frau Seuffzerin,frau_seuffzerin
+gdc,nm2b.0,105908,106004,_stage,105946,105964,Frau Zanckenheimin,frau_zanckenheimin
+gdc,nm2b.0,106006,106183,der_diener,106022,106036,Frau Ehrlichen,frau_ehrlichen
+gdc,nm2b.0,106188,106231,herr_scheinfromm,106206,106209,Ich,herr_scheinfromm
+gdc,nm2b.0,106422,106527,_stage,106422,106441,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,106422,106527,_stage,106491,106506,Frau Seuffzerin,frau_seuffzerin
+gdc,nm2b.0,106422,106527,_stage,106512,106526,Frau Ehrlichen,frau_ehrlichen
+gdc,nm2b.0,106692,106743,herr_scheinfromm,106733,106736,mir,herr_scheinfromm
+gdc,nm2b.0,106886,106996,herr_scheinfromm,106904,106909,Meine,herr_scheinfromm
+gdc,nm2b.0,106886,106996,herr_scheinfromm,106942,106945,ich,herr_scheinfromm
+gdc,nm2b.0,107339,107544,herr_scheinfromm,107452,107455,ich,herr_scheinfromm
+gdc,nm2b.0,107339,107544,herr_scheinfromm,107456,107460,mich,herr_scheinfromm
+gdc,nm2b.0,107549,108218,frau_ehrlichen,107695,107714,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,107549,108218,frau_ehrlichen,108024,108040,Herr Scheinfromm,herr_scheinfromm
+gdc,nm2b.0,108223,108339,frau_glaubeleichtin,108300,108316,Herr Scheinfromm,herr_scheinfromm
+gdc,nm2b.0,108345,108437,herr_scheinfromm,108363,108367,Mein,herr_scheinfromm
+gdc,nm2b.0,108345,108437,herr_scheinfromm,108386,108389,mir,herr_scheinfromm
+gdc,nm2b.0,108345,108437,herr_scheinfromm,108411,108414,Ich,herr_scheinfromm
+gdc,nm2b.0,109245,109315,herr_scheinfromm,109267,109272,meine,herr_scheinfromm
+gdc,nm2b.0,109419,109524,herr_scheinfromm,109460,109463,mir,herr_scheinfromm
+gdc,nm2b.0,109419,109524,herr_scheinfromm,109482,109487,meine,herr_scheinfromm
+gdc,nm2b.0,109777,109834,_stage,109777,109796,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,109777,109834,_stage,109798,109813,Frau Seuffzerin,frau_seuffzerin
+gdc,nm2b.0,109777,109834,_stage,109815,109833,Frau Zanckenheimin,frau_zanckenheimin
+gdc,nm2b.0,109914,110024,frau_seuffzerin,109931,109934,Ich,frau_seuffzerin
+gdc,nm2b.0,110225,110492,frau_glaubeleichtin,110315,110318,ich,frau_glaubeleichtin
+gdc,nm2b.0,110225,110492,frau_glaubeleichtin,110353,110356,Ich,frau_glaubeleichtin
+gdc,nm2b.0,110225,110492,frau_glaubeleichtin,110381,110386,meine,frau_glaubeleichtin
+gdc,nm2b.0,110621,110694,frau_glaubeleichtin,110646,110651,meine,frau_glaubeleichtin
+gdc,nm2b.0,111068,111204,frau_glaubeleichtin,111157,111162,Jacob,jacob
+gdc,nm2b.0,111230,111312,_stage,111230,111249,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,111230,111312,_stage,111251,111266,Frau Seuffzerin,frau_seuffzerin
+gdc,nm2b.0,111230,111312,_stage,111268,111286,Frau Zanckenheimin,frau_zanckenheimin
+gdc,nm2b.0,111230,111312,_stage,111306,111311,Jacob,jacob
+gdc,nm2b.0,111364,111453,jacob,111374,111377,ich,jacob
+gdc,nm2b.0,111945,112270,frau_seuffzerin,112188,112191,ich,frau_seuffzerin
+gdc,nm2b.0,112275,112640,frau_zanckenheimin,112630,112633,ich,frau_zanckenheimin
+gdc,nm2b.0,112646,113293,jacob,112674,112677,ich,jacob
+gdc,nm2b.0,113298,113337,frau_glaubeleichtin,113319,113322,Ich,frau_glaubeleichtin
+gdc,nm2b.0,113342,113939,frau_seuffzerin,113363,113366,ich,frau_seuffzerin
+gdc,nm2b.0,113342,113939,frau_seuffzerin,113878,113881,Ich,frau_seuffzerin
+gdc,nm2b.0,113944,114026,jacob,114003,114006,ich,jacob
+gdc,nm2b.0,114032,121503,frau_glaubeleichtin,118012,118015,mir,frau_glaubeleichtin
+gdc,nm2b.0,114032,121503,frau_glaubeleichtin,118475,118481,meinem,frau_glaubeleichtin
+gdc,nm2b.0,114032,121503,frau_glaubeleichtin,118554,118557,mir,frau_glaubeleichtin
+gdc,nm2b.0,114032,121503,frau_glaubeleichtin,118635,118638,ich,frau_glaubeleichtin
+gdc,nm2b.0,114032,121503,frau_glaubeleichtin,118639,118643,mich,frau_glaubeleichtin
+gdc,nm2b.0,114032,121503,frau_glaubeleichtin,118709,118712,ich,frau_glaubeleichtin
+gdc,nm2b.0,114032,121503,frau_glaubeleichtin,118865,118868,mir,frau_glaubeleichtin
+gdc,nm2b.0,114032,121503,frau_glaubeleichtin,118878,118883,meine,frau_glaubeleichtin
+gdc,nm2b.0,114032,121503,frau_glaubeleichtin,118934,118938,mich,frau_glaubeleichtin
+gdc,nm2b.0,114032,121503,frau_glaubeleichtin,119043,119046,mir,frau_glaubeleichtin
+gdc,nm2b.0,121508,121842,frau_glaubeleichtin,121533,121538,Jacob,jacob
+gdc,nm2b.0,122010,122719,frau_zanckenheimin,122034,122037,mir,frau_zanckenheimin
+gdc,nm2b.0,122010,122719,frau_zanckenheimin,122690,122693,ich,frau_zanckenheimin
+gdc,nm2b.0,122724,122930,frau_glaubeleichtin,122750,122755,Jacob,jacob
+gdc,nm2b.0,122724,122930,frau_glaubeleichtin,122843,122846,ich,frau_glaubeleichtin
+gdc,nm2b.0,123017,123187,frau_glaubeleichtin,123085,123089,mein,frau_glaubeleichtin
+gdc,nm2b.0,123214,123287,_stage,123214,123233,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,123214,123287,_stage,123235,123250,Frau Seuffzerin,frau_seuffzerin
+gdc,nm2b.0,123214,123287,_stage,123271,123286,Herr Wackermann,herr_wackermann
+gdc,nm2b.0,123375,123591,herr_wackermann,123399,123402,mir,herr_wackermann
+gdc,nm2b.0,123375,123591,herr_wackermann,123424,123427,ich,herr_wackermann
+gdc,nm2b.0,123375,123591,herr_wackermann,123440,123443,ich,herr_wackermann
+gdc,nm2b.0,123375,123591,herr_wackermann,123470,123473,ich,herr_wackermann
+gdc,nm2b.0,123596,123701,frau_glaubeleichtin,123670,123674,mein,frau_glaubeleichtin
+gdc,nm2b.0,123887,124267,herr_wackermann,123913,123916,Ich,herr_wackermann
+gdc,nm2b.0,123887,124267,herr_wackermann,123922,123926,mich,herr_wackermann
+gdc,nm2b.0,123887,124267,herr_wackermann,123975,123978,ich,herr_wackermann
+gdc,nm2b.0,123887,124267,herr_wackermann,124131,124134,mir,herr_wackermann
+gdc,nm2b.0,123887,124267,herr_wackermann,124201,124204,ich,herr_wackermann
+gdc,nm2b.0,123887,124267,herr_wackermann,124229,124232,ich,herr_wackermann
+gdc,nm2b.0,124372,124474,herr_wackermann,124398,124401,ich,herr_wackermann
+gdc,nm2b.0,124581,124683,herr_wackermann,124617,124621,mich,herr_wackermann
+gdc,nm2b.0,124581,124683,herr_wackermann,124651,124654,ich,herr_wackermann
+gdc,nm2b.0,124785,124862,herr_wackermann,124824,124827,ich,herr_wackermann
+gdc,nm2b.0,125156,125282,herr_wackermann,125176,125179,ich,herr_wackermann
+gdc,nm2b.0,125156,125282,herr_wackermann,125221,125224,ich,herr_wackermann
+gdc,nm2b.0,125360,125584,herr_wackermann,125397,125400,Ich,herr_wackermann
+gdc,nm2b.0,125671,125892,herr_wackermann,125697,125700,ich,herr_wackermann
+gdc,nm2b.0,125671,125892,herr_wackermann,125710,125713,Ich,herr_wackermann
+gdc,nm2b.0,125671,125892,herr_wackermann,125720,125723,mir,herr_wackermann
+gdc,nm2b.0,125897,126015,frau_zanckenheimin,125920,125924,mich,frau_zanckenheimin
+gdc,nm2b.0,126164,126382,herr_wackermann,126229,126232,Ich,herr_wackermann
+gdc,nm2b.0,127203,127303,frau_glaubeleichtin,127260,127263,Ich,frau_glaubeleichtin
+gdc,nm2b.0,127203,127303,frau_glaubeleichtin,127270,127274,mein,frau_glaubeleichtin
+gdc,nm2b.0,127203,127303,frau_glaubeleichtin,127293,127296,ich,frau_glaubeleichtin
+gdc,nm2b.0,127703,127855,herr_wackermann,127831,127834,ich,herr_wackermann
+gdc,nm2b.0,127703,127855,herr_wackermann,127835,127839,mich,herr_wackermann
+gdc,nm2b.0,127948,127984,herr_wackermann,127965,127968,Ich,herr_wackermann
+gdc,nm2b.0,127989,128052,frau_seuffzerin,128013,128032,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,127989,128052,frau_seuffzerin,128034,128037,ich,frau_seuffzerin
+gdc,nm2b.0,127989,128052,frau_seuffzerin,128047,128051,mich,frau_seuffzerin
+gdc,nm2b.0,128241,128278,_stage,128241,128260,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,128241,128278,_stage,128262,128277,Herr Wackermann,herr_wackermann
+gdc,nm2b.0,128377,128527,herr_wackermann,128415,128418,ich,herr_wackermann
+gdc,nm2b.0,128377,128527,herr_wackermann,128454,128457,ich,herr_wackermann
+gdc,nm2b.0,128377,128527,herr_wackermann,128479,128482,mir,herr_wackermann
+gdc,nm2b.0,128578,128642,herr_wackermann,128595,128598,Ich,herr_wackermann
+gdc,nm2b.0,128647,128761,frau_glaubeleichtin,128722,128725,mir,frau_glaubeleichtin
+gdc,nm2b.0,128766,128889,herr_wackermann,128793,128797,mich,herr_wackermann
+gdc,nm2b.0,128766,128889,herr_wackermann,128811,128814,Ich,herr_wackermann
+gdc,nm2b.0,128766,128889,herr_wackermann,128835,128856,Herr von Muckersdorff,herr_von_muckersdorff
+gdc,nm2b.0,129062,129155,herr_wackermann,129110,129114,mich,herr_wackermann
+gdc,nm2b.0,129239,129319,herr_wackermann,129260,129264,mein,herr_wackermann
+gdc,nm2b.0,129239,129319,herr_wackermann,129295,129298,ich,herr_wackermann
+gdc,nm2b.0,129545,129583,frau_glaubeleichtin,129569,129572,ich,frau_glaubeleichtin
+gdc,nm2b.0,129676,129759,herr_wackermann,129693,129696,Ich,herr_wackermann
+gdc,nm2b.0,129676,129759,herr_wackermann,129729,129732,mir,herr_wackermann
+gdc,nm2b.0,129909,130016,frau_glaubeleichtin,129959,129962,Ich,frau_glaubeleichtin
+gdc,nm2b.0,129909,130016,frau_glaubeleichtin,129976,129979,ich,frau_glaubeleichtin
+gdc,nm2b.0,129909,130016,frau_glaubeleichtin,129985,129991,meiner,frau_glaubeleichtin
+gdc,nm2b.0,130021,130078,herr_wackermann,130050,130066,Herr Scheinfromm,herr_scheinfromm
+gdc,nm2b.0,130179,130283,herr_wackermann,130196,130199,Ich,herr_wackermann
+gdc,nm2b.0,130179,130283,herr_wackermann,130251,130254,ich,herr_wackermann
+gdc,nm2b.0,130676,131017,herr_wackermann,130803,130806,Ich,herr_wackermann
+gdc,nm2b.0,130676,131017,herr_wackermann,130844,130847,ich,herr_wackermann
+gdc,nm2b.0,130676,131017,herr_wackermann,130875,130878,mir,herr_wackermann
+gdc,nm2b.0,130676,131017,herr_wackermann,130898,130904,meines,herr_wackermann
+gdc,nm2b.0,130676,131017,herr_wackermann,130926,130929,mir,herr_wackermann
+gdc,nm2b.0,130676,131017,herr_wackermann,130952,130955,ich,herr_wackermann
+gdc,nm2b.0,131022,131114,frau_glaubeleichtin,131060,131063,mir,frau_glaubeleichtin
+gdc,nm2b.0,131022,131114,frau_glaubeleichtin,131064,131069,meine,frau_glaubeleichtin
+gdc,nm2b.0,131022,131114,frau_glaubeleichtin,131089,131092,Ich,frau_glaubeleichtin
+gdc,nm2b.0,131119,131322,herr_wackermann,131157,131160,Ich,herr_wackermann
+gdc,nm2b.0,131119,131322,herr_wackermann,131209,131212,ich,herr_wackermann
+gdc,nm2b.0,131119,131322,herr_wackermann,131242,131258,Herr Scheinfromm,herr_scheinfromm
+gdc,nm2b.0,131119,131322,herr_wackermann,131291,131294,ich,herr_wackermann
+gdc,nm2b.0,131575,131657,frau_glaubeleichtin,131631,131634,ich,frau_glaubeleichtin
+gdc,nm2b.0,131575,131657,frau_glaubeleichtin,131644,131647,ich,frau_glaubeleichtin
+gdc,nm2b.0,131662,131810,herr_wackermann,131733,131736,mir,herr_wackermann
+gdc,nm2b.0,131662,131810,herr_wackermann,131768,131784,Herr Scheinfromm,herr_scheinfromm
+gdc,nm2b.0,131815,132125,frau_glaubeleichtin,131864,131867,Ich,frau_glaubeleichtin
+gdc,nm2b.0,131815,132125,frau_glaubeleichtin,131883,131886,Ich,frau_glaubeleichtin
+gdc,nm2b.0,131815,132125,frau_glaubeleichtin,132023,132039,Herr Scheinfromm,herr_scheinfromm
+gdc,nm2b.0,131815,132125,frau_glaubeleichtin,132049,132052,mir,frau_glaubeleichtin
+gdc,nm2b.0,131815,132125,frau_glaubeleichtin,132066,132069,ich,frau_glaubeleichtin
+gdc,nm2b.0,132130,132637,herr_wackermann,132147,132151,Mein,herr_wackermann
+gdc,nm2b.0,132130,132637,herr_wackermann,132329,132332,Ich,herr_wackermann
+gdc,nm2b.0,132130,132637,herr_wackermann,132435,132438,ich,herr_wackermann
+gdc,nm2b.0,132130,132637,herr_wackermann,132443,132449,meinem,herr_wackermann
+gdc,nm2b.0,132130,132637,herr_wackermann,132491,132494,ich,herr_wackermann
+gdc,nm2b.0,132130,132637,herr_wackermann,132500,132504,mein,herr_wackermann
+gdc,nm2b.0,132130,132637,herr_wackermann,132548,132551,Ich,herr_wackermann
+gdc,nm2b.0,132130,132637,herr_wackermann,132594,132597,ich,herr_wackermann
+gdc,nm2b.0,132682,132709,_stage,132682,132698,Jungfer Luischen,jungfer_luischen
+gdc,nm2b.0,132682,132709,_stage,132700,132708,Cathrine,cathrine
+gdc,nm2b.0,132711,132837,jungfer_luischen,132729,132737,Cathrine,cathrine
+gdc,nm2b.0,132711,132837,jungfer_luischen,132739,132743,mich,jungfer_luischen
+gdc,nm2b.0,132711,132837,jungfer_luischen,132771,132775,mich,jungfer_luischen
+gdc,nm2b.0,132711,132837,jungfer_luischen,132798,132804,meines,jungfer_luischen
+gdc,nm2b.0,132842,132933,cathrine,132871,132875,mich,cathrine
+gdc,nm2b.0,132938,133108,jungfer_luischen,132956,132959,Mir,jungfer_luischen
+gdc,nm2b.0,132938,133108,jungfer_luischen,132988,132992,Mein,jungfer_luischen
+gdc,nm2b.0,132938,133108,jungfer_luischen,133020,133024,mich,jungfer_luischen
+gdc,nm2b.0,132938,133108,jungfer_luischen,133046,133049,mir,jungfer_luischen
+gdc,nm2b.0,132938,133108,jungfer_luischen,133080,133083,ich,jungfer_luischen
+gdc,nm2b.0,132938,133108,jungfer_luischen,133099,133107,Cathrine,cathrine
+gdc,nm2b.0,133255,133286,cathrine,133276,133279,ich,cathrine
+gdc,nm2b.0,133361,133451,cathrine,133381,133385,mich,cathrine
+gdc,nm2b.0,133361,133451,cathrine,133413,133416,ich,cathrine
+gdc,nm2b.0,133456,133523,jungfer_luischen,133505,133508,mir,jungfer_luischen
+gdc,nm2b.0,133529,133662,cathrine,133585,133588,Ich,cathrine
+gdc,nm2b.0,133667,133793,jungfer_luischen,133690,133693,mir,jungfer_luischen
+gdc,nm2b.0,133667,133793,jungfer_luischen,133738,133743,meine,jungfer_luischen
+gdc,nm2b.0,133798,134100,cathrine,133833,133836,mir,cathrine
+gdc,nm2b.0,134105,134146,jungfer_luischen,134123,134131,Cathrine,cathrine
+gdc,nm2b.0,134193,134250,jungfer_luischen,134225,134229,mein,jungfer_luischen
+gdc,nm2b.0,134275,134338,_stage,134275,134290,Herr Wackermann,herr_wackermann
+gdc,nm2b.0,134275,134338,_stage,134292,134309,Herr Glaubeleicht,herr_glaubeleicht
+gdc,nm2b.0,134275,134338,_stage,134311,134327,Jungfer Luischen,jungfer_luischen
+gdc,nm2b.0,134275,134338,_stage,134329,134337,Cathrine,cathrine
+gdc,nm2b.0,134340,134430,jungfer_luischen,134402,134405,ich,jungfer_luischen
+gdc,nm2b.0,134340,134430,jungfer_luischen,134406,134411,meine,jungfer_luischen
+gdc,nm2b.0,134491,134555,cathrine,134518,134521,ich,cathrine
+gdc,nm2b.0,134561,134706,herr_glaubeleicht,134626,134629,ich,herr_glaubeleicht
+gdc,nm2b.0,134561,134706,herr_glaubeleicht,134641,134646,meine,herr_glaubeleicht
+gdc,nm2b.0,134561,134706,herr_glaubeleicht,134680,134685,meine,herr_glaubeleicht
+gdc,nm2b.0,134711,134857,jungfer_luischen,134746,134749,Ich,jungfer_luischen
+gdc,nm2b.0,134711,134857,jungfer_luischen,134780,134784,mich,jungfer_luischen
+gdc,nm2b.0,134711,134857,jungfer_luischen,134832,134835,ich,jungfer_luischen
+gdc,nm2b.0,134862,135114,herr_glaubeleicht,134887,134891,mein,herr_glaubeleicht
+gdc,nm2b.0,134862,135114,herr_glaubeleicht,134898,134902,mein,herr_glaubeleicht
+gdc,nm2b.0,134862,135114,herr_glaubeleicht,134914,134917,mir,herr_glaubeleicht
+gdc,nm2b.0,134862,135114,herr_glaubeleicht,134940,134943,ich,herr_glaubeleicht
+gdc,nm2b.0,134862,135114,herr_glaubeleicht,134964,134968,mich,herr_glaubeleicht
+gdc,nm2b.0,134862,135114,herr_glaubeleicht,135031,135034,ich,herr_glaubeleicht
+gdc,nm2b.0,134862,135114,herr_glaubeleicht,135060,135063,Ich,herr_glaubeleicht
+gdc,nm2b.0,135139,135174,_stage,135139,135156,Herr Glaubeleicht,herr_glaubeleicht
+gdc,nm2b.0,135139,135174,_stage,135158,135173,Herr Wackermann,herr_wackermann
+gdc,nm2b.0,135176,135517,herr_glaubeleicht,135195,135198,Ich,herr_glaubeleicht
+gdc,nm2b.0,135176,135517,herr_glaubeleicht,135204,135208,mich,herr_glaubeleicht
+gdc,nm2b.0,135176,135517,herr_glaubeleicht,135213,135219,meinem,herr_glaubeleicht
+gdc,nm2b.0,135176,135517,herr_glaubeleicht,135256,135261,meine,herr_glaubeleicht
+gdc,nm2b.0,135176,135517,herr_glaubeleicht,135313,135316,ich,herr_glaubeleicht
+gdc,nm2b.0,135176,135517,herr_glaubeleicht,135408,135412,mein,herr_glaubeleicht
+gdc,nm2b.0,135176,135517,herr_glaubeleicht,135512,135516,mich,herr_glaubeleicht
+gdc,nm2b.0,135522,135767,herr_wackermann,135539,135542,Ich,herr_wackermann
+gdc,nm2b.0,135772,135814,herr_glaubeleicht,135800,135803,ich,herr_glaubeleicht
+gdc,nm2b.0,135819,136478,herr_wackermann,135961,135964,ich,herr_wackermann
+gdc,nm2b.0,135819,136478,herr_wackermann,136056,136059,ich,herr_wackermann
+gdc,nm2b.0,135819,136478,herr_wackermann,136084,136095,Der Advocat,der_advocat
+gdc,nm2b.0,135819,136478,herr_wackermann,136185,136188,mir,herr_wackermann
+gdc,nm2b.0,135819,136478,herr_wackermann,136212,136217,meine,herr_wackermann
+gdc,nm2b.0,136483,136738,herr_glaubeleicht,136502,136505,Ich,herr_glaubeleicht
+gdc,nm2b.0,136483,136738,herr_glaubeleicht,136563,136569,meiner,herr_glaubeleicht
+gdc,nm2b.0,136483,136738,herr_glaubeleicht,136637,136642,meine,herr_glaubeleicht
+gdc,nm2b.0,136743,137292,herr_wackermann,136760,136764,Mich,herr_wackermann
+gdc,nm2b.0,137336,137570,herr_wackermann,137387,137391,mich,herr_wackermann
+gdc,nm2b.0,137336,137570,herr_wackermann,137410,137413,Ich,herr_wackermann
+gdc,nm2b.0,137336,137570,herr_wackermann,137533,137537,mich,herr_wackermann
+gdc,nm2b.0,137596,137654,_stage,137619,137640,Herr von Muckersdorff,herr_von_muckersdorff
+gdc,nm2b.0,137656,137762,herr_scheinfromm,137736,137755,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,138383,138440,der_advocat,138415,138418,ich,der_advocat
+gdc,nm2b.0,138445,138539,herr_scheinfromm,138479,138482,ich,herr_scheinfromm
+gdc,nm2b.0,138545,138619,der_advocat,138576,138579,ich,der_advocat
+gdc,nm2b.0,138624,138713,herr_scheinfromm,138642,138646,Mich,herr_scheinfromm
+gdc,nm2b.0,138718,138863,der_advocat,138758,138761,mir,der_advocat
+gdc,nm2b.0,138718,138863,der_advocat,138778,138797,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,138718,138863,der_advocat,138829,138832,ich,der_advocat
+gdc,nm2b.0,139024,139084,der_advocat,139048,139051,ich,der_advocat
+gdc,nm2b.0,139089,139278,herr_scheinfromm,139247,139250,ich,herr_scheinfromm
+gdc,nm2b.0,139407,139478,der_advocat,139435,139454,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,139407,139478,der_advocat,139461,139464,mir,der_advocat
+gdc,nm2b.0,139483,139635,herr_scheinfromm,139517,139520,Ich,herr_scheinfromm
+gdc,nm2b.0,139483,139635,herr_scheinfromm,139586,139589,mir,herr_scheinfromm
+gdc,nm2b.0,139677,139793,herr_scheinfromm,139698,139701,ich,herr_scheinfromm
+gdc,nm2b.0,139677,139793,herr_scheinfromm,139749,139752,ich,herr_scheinfromm
+gdc,nm2b.0,139677,139793,herr_scheinfromm,139753,139758,meine,herr_scheinfromm
+gdc,nm2b.0,139850,139925,_stage,139850,139865,Herr Wackermann,herr_wackermann
+gdc,nm2b.0,139850,139925,_stage,139890,139911,Herr von Muckersdorff,herr_von_muckersdorff
+gdc,nm2b.0,139850,139925,_stage,139913,139924,der Advocat,der_advocat
+gdc,nm2b.0,139927,140027,herr_wackermann,140000,140005,meine,herr_wackermann
+gdc,nm2b.0,140032,140224,herr_scheinfromm,140117,140120,Ich,herr_scheinfromm
+gdc,nm2b.0,140229,140337,herr_wackermann,140281,140287,meines,herr_wackermann
+gdc,nm2b.0,140342,140445,herr_scheinfromm,140360,140363,Ich,herr_scheinfromm
+gdc,nm2b.0,140450,140614,herr_wackermann,140471,140475,mein,herr_wackermann
+gdc,nm2b.0,140450,140614,herr_wackermann,140476,140497,Herr von Muckersdorff,herr_von_muckersdorff
+gdc,nm2b.0,140450,140614,herr_wackermann,140543,140548,meine,herr_wackermann
+gdc,nm2b.0,140450,140614,herr_wackermann,140591,140594,mir,herr_wackermann
+gdc,nm2b.0,140619,140664,herr_von_muckersdorff,140655,140658,ich,herr_von_muckersdorff
+gdc,nm2b.0,140704,140755,herr_von_muckersdorff,140740,140743,ich,herr_von_muckersdorff
+gdc,nm2b.0,140957,141012,herr_von_muckersdorff,140988,140991,ich,herr_von_muckersdorff
+gdc,nm2b.0,141158,141333,herr_wackermann,141179,141182,ich,herr_wackermann
+gdc,nm2b.0,141338,141390,herr_scheinfromm,141370,141373,mir,herr_scheinfromm
+gdc,nm2b.0,141511,141552,herr_scheinfromm,141547,141551,mich,herr_scheinfromm
+gdc,nm2b.0,141557,141679,herr_wackermann,141646,141652,meiner,herr_wackermann
+gdc,nm2b.0,141685,141722,herr_scheinfromm,141703,141706,Ich,herr_scheinfromm
+gdc,nm2b.0,141727,142327,herr_wackermann,141805,141810,Meine,herr_wackermann
+gdc,nm2b.0,141727,142327,herr_wackermann,141875,141880,Meine,herr_wackermann
+gdc,nm2b.0,141727,142327,herr_wackermann,141986,141992,meinen,herr_wackermann
+gdc,nm2b.0,141727,142327,herr_wackermann,142117,142120,Ich,herr_wackermann
+gdc,nm2b.0,141727,142327,herr_wackermann,142160,142163,ich,herr_wackermann
+gdc,nm2b.0,141727,142327,herr_wackermann,142188,142191,Ich,herr_wackermann
+gdc,nm2b.0,141727,142327,herr_wackermann,142197,142203,meinen,herr_wackermann
+gdc,nm2b.0,142332,142447,herr_scheinfromm,142365,142369,mich,herr_scheinfromm
+gdc,nm2b.0,142332,142447,herr_scheinfromm,142385,142388,Ich,herr_scheinfromm
+gdc,nm2b.0,142452,142548,herr_wackermann,142497,142501,mich,herr_wackermann
+gdc,nm2b.0,142553,142649,herr_scheinfromm,142586,142589,ich,herr_scheinfromm
+gdc,nm2b.0,142654,142802,herr_wackermann,142671,142674,Ich,herr_wackermann
+gdc,nm2b.0,142953,143036,herr_scheinfromm,142976,142995,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,142953,143036,herr_scheinfromm,143002,143007,meine,herr_scheinfromm
+gdc,nm2b.0,143041,143168,herr_wackermann,143088,143091,Ich,herr_wackermann
+gdc,nm2b.0,143041,143168,herr_wackermann,143131,143136,meine,herr_wackermann
+gdc,nm2b.0,143041,143168,herr_wackermann,143160,143163,mir,herr_wackermann
+gdc,nm2b.0,143173,143227,herr_scheinfromm,143215,143219,mich,herr_scheinfromm
+gdc,nm2b.0,143232,143312,herr_wackermann,143249,143252,Ich,herr_wackermann
+gdc,nm2b.0,143232,143312,herr_wackermann,143273,143276,Ich,herr_wackermann
+gdc,nm2b.0,143232,143312,herr_wackermann,143296,143301,meine,herr_wackermann
+gdc,nm2b.0,143338,143439,_stage,143338,143357,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,143338,143439,_stage,143359,143374,Herr Wackermann,herr_wackermann
+gdc,nm2b.0,143338,143439,_stage,143376,143392,Herr Scheinfromm,herr_scheinfromm
+gdc,nm2b.0,143338,143439,_stage,143394,143415,Herr von Muckersdorff,herr_von_muckersdorff
+gdc,nm2b.0,143338,143439,_stage,143417,143425,Cathrine,cathrine
+gdc,nm2b.0,143338,143439,_stage,143427,143438,der Advocat,der_advocat
+gdc,nm2b.0,143441,143584,frau_glaubeleichtin,143498,143501,Ich,frau_glaubeleichtin
+gdc,nm2b.0,143589,143646,herr_scheinfromm,143629,143633,mich,herr_scheinfromm
+gdc,nm2b.0,143651,143717,frau_glaubeleichtin,143689,143697,Cathrine,cathrine
+gdc,nm2b.0,143777,143899,_stage,143777,143796,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,143777,143899,_stage,143798,143814,Jungfer Luischen,jungfer_luischen
+gdc,nm2b.0,143777,143899,_stage,143816,143831,Herr Wackermann,herr_wackermann
+gdc,nm2b.0,143777,143899,_stage,143833,143849,Herr Scheinfromm,herr_scheinfromm
+gdc,nm2b.0,143777,143899,_stage,143851,143872,Herr von Muckersdorff,herr_von_muckersdorff
+gdc,nm2b.0,143777,143899,_stage,143874,143882,Cathrine,cathrine
+gdc,nm2b.0,143777,143899,_stage,143887,143898,der Advocat,der_advocat
+gdc,nm2b.0,143901,143997,frau_glaubeleichtin,143953,143958,meine,frau_glaubeleichtin
+gdc,nm2b.0,143901,143997,frau_glaubeleichtin,143976,143979,mir,frau_glaubeleichtin
+gdc,nm2b.0,144002,144118,jungfer_luischen,144035,144040,meine,jungfer_luischen
+gdc,nm2b.0,144002,144118,jungfer_luischen,144052,144055,mir,jungfer_luischen
+gdc,nm2b.0,144002,144118,jungfer_luischen,144093,144096,ich,jungfer_luischen
+gdc,nm2b.0,144181,144280,jungfer_luischen,144212,144215,Ich,jungfer_luischen
+gdc,nm2b.0,144181,144280,jungfer_luischen,144221,144225,mein,jungfer_luischen
+gdc,nm2b.0,144285,144378,frau_glaubeleichtin,144318,144323,meine,frau_glaubeleichtin
+gdc,nm2b.0,144383,144496,herr_von_muckersdorff,144459,144462,ich,herr_von_muckersdorff
+gdc,nm2b.0,144501,145276,herr_wackermann,144526,144529,Ich,herr_wackermann
+gdc,nm2b.0,144501,145276,herr_wackermann,144582,144585,Ich,herr_wackermann
+gdc,nm2b.0,144501,145276,herr_wackermann,144708,144711,Ich,herr_wackermann
+gdc,nm2b.0,144501,145276,herr_wackermann,144804,144807,Ich,herr_wackermann
+gdc,nm2b.0,144501,145276,herr_wackermann,145057,145073,Jungfer Luischen,jungfer_luischen
+gdc,nm2b.0,144501,145276,herr_wackermann,145178,145181,ich,herr_wackermann
+gdc,nm2b.0,145335,145438,cathrine,145399,145415,Jungfer Luischen,jungfer_luischen
+gdc,nm2b.0,145623,145832,herr_wackermann,145664,145668,meIn,herr_wackermann
+gdc,nm2b.0,145886,146066,herr_wackermann,145952,145956,mein,herr_wackermann
+gdc,nm2b.0,145886,146066,herr_wackermann,145979,145983,mich,herr_wackermann
+gdc,nm2b.0,146071,146154,cathrine,146089,146110,Herr von Muckersdorff,herr_von_muckersdorff
+gdc,nm2b.0,146159,146546,herr_wackermann,146494,146498,mein,herr_wackermann
+gdc,nm2b.0,146159,146546,herr_wackermann,146521,146525,mich,herr_wackermann
+gdc,nm2b.0,146552,146698,jungfer_luischen,146570,146573,Ich,jungfer_luischen
+gdc,nm2b.0,146552,146698,jungfer_luischen,146600,146604,mein,jungfer_luischen
+gdc,nm2b.0,146552,146698,jungfer_luischen,146605,146626,Herr von Muckersdorff,herr_von_muckersdorff
+gdc,nm2b.0,146552,146698,jungfer_luischen,146628,146631,Ich,jungfer_luischen
+gdc,nm2b.0,146552,146698,jungfer_luischen,146655,146659,mein,jungfer_luischen
+gdc,nm2b.0,147144,147270,herr_scheinfromm,147209,147212,mir,herr_scheinfromm
+gdc,nm2b.0,147144,147270,herr_scheinfromm,147235,147238,ich,herr_scheinfromm
+gdc,nm2b.0,147601,147672,herr_wackermann,147630,147633,ich,herr_wackermann
+gdc,nm2b.0,147677,147844,frau_glaubeleichtin,147760,147763,mir,frau_glaubeleichtin
+gdc,nm2b.0,147677,147844,frau_glaubeleichtin,147828,147831,ich,frau_glaubeleichtin
+gdc,nm2b.0,147849,148030,herr_scheinfromm,147871,147874,ich,herr_scheinfromm
+gdc,nm2b.0,147849,148030,herr_scheinfromm,147970,147973,mir,herr_scheinfromm
+gdc,nm2b.0,148035,148081,frau_glaubeleichtin,148059,148062,ich,frau_glaubeleichtin
+gdc,nm2b.0,148136,148311,herr_scheinfromm,148172,148175,ich,herr_scheinfromm
+gdc,nm2b.0,148316,148430,frau_glaubeleichtin,148346,148362,Herr Scheinfromm,herr_scheinfromm
+gdc,nm2b.0,148316,148430,frau_glaubeleichtin,148405,148408,ich,frau_glaubeleichtin
+gdc,nm2b.0,148501,148747,herr_wackermann,148616,148619,Ich,herr_wackermann
+gdc,nm2b.0,148823,148967,herr_wackermann,148872,148888,Herr Scheinfromm,herr_scheinfromm
+gdc,nm2b.0,148823,148967,herr_wackermann,148943,148946,ich,herr_wackermann
+gdc,nm2b.0,148972,149028,herr_scheinfromm,149000,149004,mich,herr_scheinfromm
+gdc,nm2b.0,149033,149223,herr_wackermann,149056,149059,ich,herr_wackermann
+gdc,nm2b.0,149033,149223,herr_wackermann,149110,149113,mir,herr_wackermann
+gdc,nm2b.0,149228,149289,frau_glaubeleichtin,149273,149276,Ich,frau_glaubeleichtin
+gdc,nm2b.0,149365,149457,herr_scheinfromm,149398,149401,ich,herr_scheinfromm
+gdc,nm2b.0,149553,149604,herr_scheinfromm,149577,149580,ich,herr_scheinfromm
+gdc,nm2b.0,149609,149685,herr_wackermann,149626,149629,Ich,herr_wackermann
+gdc,nm2b.0,149609,149685,herr_wackermann,149643,149646,ich,herr_wackermann
+gdc,nm2b.0,149690,149800,frau_glaubeleichtin,149730,149733,ich,frau_glaubeleichtin
+gdc,nm2b.0,149690,149800,frau_glaubeleichtin,149766,149782,Herr Scheinfromm,herr_scheinfromm
+gdc,nm2b.0,149805,149892,herr_wackermann,149826,149829,ich,herr_wackermann
+gdc,nm2b.0,149805,149892,herr_wackermann,149871,149874,ich,herr_wackermann
+gdc,nm2b.0,149897,149977,frau_glaubeleichtin,149923,149939,Herr Scheinfromm,herr_scheinfromm
+gdc,nm2b.0,149982,150036,herr_scheinfromm,150026,150029,ich,herr_scheinfromm
+gdc,nm2b.0,150041,150132,frau_glaubeleichtin,150062,150065,Ich,frau_glaubeleichtin
+gdc,nm2b.0,151025,151105,cathrine,151035,151039,Mein,cathrine
+gdc,nm2b.0,151110,151235,herr_scheinfromm,151128,151131,Ich,herr_scheinfromm
+gdc,nm2b.0,151110,151235,herr_scheinfromm,151143,151146,Ich,herr_scheinfromm
+gdc,nm2b.0,151310,151543,der_advocat,151370,151373,ich,der_advocat
+gdc,nm2b.0,151310,151543,der_advocat,151391,151394,ich,der_advocat
+gdc,nm2b.0,151310,151543,der_advocat,151469,151472,ich,der_advocat
+gdc,nm2b.0,151310,151543,der_advocat,151517,151520,mir,der_advocat
+gdc,nm2b.0,151601,151857,der_advocat,151626,151629,ich,der_advocat
+gdc,nm2b.0,151601,151857,der_advocat,151637,151640,Ich,der_advocat
+gdc,nm2b.0,151601,151857,der_advocat,151682,151685,ich,der_advocat
+gdc,nm2b.0,151601,151857,der_advocat,151706,151709,ich,der_advocat
+gdc,nm2b.0,151601,151857,der_advocat,151735,151738,mir,der_advocat
+gdc,nm2b.0,151862,152407,frau_glaubeleichtin,151898,151901,ich,frau_glaubeleichtin
+gdc,nm2b.0,151862,152407,frau_glaubeleichtin,151926,151929,mir,frau_glaubeleichtin
+gdc,nm2b.0,151862,152407,frau_glaubeleichtin,152086,152089,mir,frau_glaubeleichtin
+gdc,nm2b.0,151862,152407,frau_glaubeleichtin,152372,152393,Herr von Muckersdorff,herr_von_muckersdorff
+gdc,nm2b.0,152561,152628,herr_scheinfromm,152587,152591,mein,herr_scheinfromm
+gdc,nm2b.0,152937,153057,herr_scheinfromm,152968,152971,ich,herr_scheinfromm
+gdc,nm2b.0,152937,153057,herr_scheinfromm,153012,153016,mich,herr_scheinfromm
+gdc,nm2b.0,152937,153057,herr_scheinfromm,153022,153025,ich,herr_scheinfromm
+gdc,nm2b.0,153063,153256,frau_glaubeleichtin,153106,153109,ich,frau_glaubeleichtin
+gdc,nm2b.0,153063,153256,frau_glaubeleichtin,153143,153146,Ich,frau_glaubeleichtin
+gdc,nm2b.0,153063,153256,frau_glaubeleichtin,153194,153197,ich,frau_glaubeleichtin
+gdc,nm2b.0,153261,153357,herr_scheinfromm,153283,153286,ich,herr_scheinfromm
+gdc,nm2b.0,153261,153357,herr_scheinfromm,153293,153296,ich,herr_scheinfromm
+gdc,nm2b.0,153261,153357,herr_scheinfromm,153303,153307,mich,herr_scheinfromm
+gdc,nm2b.0,153362,153486,cathrine,153379,153400,Herr von Muckersdorff,herr_von_muckersdorff
+gdc,nm2b.0,153491,153593,herr_wackermann,153515,153523,Cathrine,cathrine
+gdc,nm2b.0,153598,153837,der_advocat,153611,153614,Ich,der_advocat
+gdc,nm2b.0,153598,153837,der_advocat,153650,153666,Herr Scheinfromm,herr_scheinfromm
+gdc,nm2b.0,153598,153837,der_advocat,153698,153701,ich,der_advocat
+gdc,nm2b.0,153875,153908,der_advocat,153892,153895,ich,der_advocat
+gdc,nm2b.0,153913,154044,herr_wackermann,153976,153984,Cathrine,cathrine
+gdc,nm2b.0,154069,154106,_stage,154069,154088,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,154069,154106,_stage,154090,154105,Herr Wackermann,herr_wackermann
+gdc,nm2b.0,154208,154282,frau_glaubeleichtin,154239,154242,ich,frau_glaubeleichtin
+gdc,nm2b.0,154208,154282,frau_glaubeleichtin,154243,154246,mir,frau_glaubeleichtin
+gdc,nm2b.0,154287,154591,herr_wackermann,154315,154318,ich,herr_wackermann
+gdc,nm2b.0,154694,155125,herr_wackermann,155109,155112,ich,herr_wackermann
+gdc,nm2b.0,155180,155889,herr_wackermann,155197,155201,Mein,herr_wackermann
+gdc,nm2b.0,155180,155889,herr_wackermann,155677,155680,ich,herr_wackermann
+gdc,nm2b.0,155894,156182,frau_glaubeleichtin,155938,155941,mir,frau_glaubeleichtin
+gdc,nm2b.0,155894,156182,frau_glaubeleichtin,155960,155963,ich,frau_glaubeleichtin
+gdc,nm2b.0,155894,156182,frau_glaubeleichtin,156001,156004,mir,frau_glaubeleichtin
+gdc,nm2b.0,155894,156182,frau_glaubeleichtin,156019,156023,mich,frau_glaubeleichtin
+gdc,nm2b.0,155894,156182,frau_glaubeleichtin,156160,156163,ich,frau_glaubeleichtin
+gdc,nm2b.0,156187,156580,herr_wackermann,156215,156218,ich,herr_wackermann
+gdc,nm2b.0,156187,156580,herr_wackermann,156380,156383,ich,herr_wackermann
+gdc,nm2b.0,156187,156580,herr_wackermann,156515,156519,mein,herr_wackermann
+gdc,nm2b.0,156585,156663,frau_glaubeleichtin,156620,156623,Ich,frau_glaubeleichtin
+gdc,nm2b.0,156668,156742,herr_wackermann,156703,156706,Ich,herr_wackermann
+gdc,nm2b.0,156777,156842,herr_wackermann,156794,156798,Mein,herr_wackermann
+gdc,nm2b.0,156847,156894,frau_glaubeleichtin,156868,156872,Mein,frau_glaubeleichtin
+gdc,nm2b.0,157130,157185,frau_glaubeleichtin,157151,157154,Ich,frau_glaubeleichtin
+gdc,nm2b.0,157210,157330,_stage,157210,157227,Herr Glaubeleicht,herr_glaubeleicht
+gdc,nm2b.0,157210,157330,_stage,157229,157248,Frau Glaubeleichtin,frau_glaubeleichtin
+gdc,nm2b.0,157210,157330,_stage,157250,157266,Jungfer Luischen,jungfer_luischen
+gdc,nm2b.0,157210,157330,_stage,157268,157283,Jungfer Dorchen,jungfer_dorchen
+gdc,nm2b.0,157210,157330,_stage,157285,157300,Herr Wackermann,herr_wackermann
+gdc,nm2b.0,157210,157330,_stage,157302,157310,Cathrine,cathrine
+gdc,nm2b.0,157210,157330,_stage,157316,157329,Herr Liebmann,herr_liebmann
+gdc,nm2b.0,157332,157470,frau_glaubeleichtin,157377,157380,ich,frau_glaubeleichtin
+gdc,nm2b.0,157332,157470,frau_glaubeleichtin,157421,157424,ich,frau_glaubeleichtin
+gdc,nm2b.0,157332,157470,frau_glaubeleichtin,157440,157446,meines,frau_glaubeleichtin
+gdc,nm2b.0,157475,157906,herr_glaubeleicht,157573,157576,ich,herr_glaubeleicht
+gdc,nm2b.0,157911,157985,herr_liebmann,157926,157931,Meine,herr_liebmann
+gdc,nm2b.0,157911,157985,herr_liebmann,157943,157947,mein,herr_liebmann
+gdc,nm2b.0,157990,158048,jungfer_dorchen,158011,158014,ich,jungfer_dorchen
+gdc,nm2b.0,157990,158048,jungfer_dorchen,158043,158047,mich,jungfer_dorchen
+gdc,nm2b.0,158053,158237,herr_glaubeleicht,158084,158087,Ich,herr_glaubeleicht

@@ -1176,7 +1176,7 @@ gdc,pn2n.0,10804,10917,Trabant,trabant,außer,APPR,außer,27095,,
 gdc,pn2n.0,10804,10917,Trabant,trabant,Nebucad,NE,nebucad,27095,,
 gdc,pn2n.0,10804,10917,Trabant,trabant,Necar,NE,necar,27095,,
 gdc,pn2n.0,10804,10917,Trabant,trabant,.,$.,--,27095,,
-gdc,pn2n.0,10921,10981,Holofernes,holofernes,Priester,NE,priester,27095,erster_priester_5a,(7)|(41)
+gdc,pn2n.0,10921,10981,Holofernes,holofernes,Priester,NE,priester,27095,priester_1b,(41)|(7)
 gdc,pn2n.0,10921,10981,Holofernes,holofernes,",","$,",--,27095,,
 gdc,pn2n.0,10921,10981,Holofernes,holofernes,du,PPER,du,27095,,
 gdc,pn2n.0,10921,10981,Holofernes,holofernes,hast,VAFIN,haben,27095,,
@@ -10459,7 +10459,7 @@ gdc,pn2n.0,60122,60165,Volk/Stimmen im Volk (III. Akt),volk_stimmen_im_volk_3,We
 gdc,pn2n.0,60122,60165,Volk/Stimmen im Volk (III. Akt),volk_stimmen_im_volk_3,anders,ADV,anders,27095,,
 gdc,pn2n.0,60122,60165,Volk/Stimmen im Volk (III. Akt),volk_stimmen_im_volk_3,",","$,",--,27095,,
 gdc,pn2n.0,60122,60165,Volk/Stimmen im Volk (III. Akt),volk_stimmen_im_volk_3,als,APPR,als,27095,,
-gdc,pn2n.0,60122,60165,Volk/Stimmen im Volk (III. Akt),volk_stimmen_im_volk_3,Priester,NN,priester,27095,erster_priester_5a,(7)|(41)
+gdc,pn2n.0,60122,60165,Volk/Stimmen im Volk (III. Akt),volk_stimmen_im_volk_3,Priester,NN,priester,27095,priester_1b,(41)|(7)
 gdc,pn2n.0,60122,60165,Volk/Stimmen im Volk (III. Akt),volk_stimmen_im_volk_3,und,KON,und,27095,,
 gdc,pn2n.0,60122,60165,Volk/Stimmen im Volk (III. Akt),volk_stimmen_im_volk_3,Älteste,NN,ältest,27095,,
 gdc,pn2n.0,60122,60165,Volk/Stimmen im Volk (III. Akt),volk_stimmen_im_volk_3,?,$.,--,27095,,
@@ -10633,7 +10633,7 @@ gdc,pn2n.0,60976,61425,Josua,josua,",","$,",--,27095,,
 gdc,pn2n.0,60976,61425,Josua,josua,und,KON,und,27095,,
 gdc,pn2n.0,60976,61425,Josua,josua,Älteste,NN,ältest,27095,,
 gdc,pn2n.0,60976,61425,Josua,josua,und,KON,und,27095,,
-gdc,pn2n.0,60976,61425,Josua,josua,Priester,NN,priester,27095,erster_priester_5a,(7)|(41)
+gdc,pn2n.0,60976,61425,Josua,josua,Priester,NN,priester,27095,priester_1b,(41)|(7)
 gdc,pn2n.0,60976,61425,Josua,josua,waren,VAFIN,sein,27095,,
 gdc,pn2n.0,60976,61425,Josua,josua,nah,ADJD,nah,27095,,
 gdc,pn2n.0,60976,61425,Josua,josua,und,KON,und,27095,,
@@ -10658,7 +10658,7 @@ gdc,pn2n.0,60976,61425,Josua,josua,Wir,PPER,wir,27095,,
 gdc,pn2n.0,60976,61425,Josua,josua,wollen,VMFIN,wollen,27095,,
 gdc,pn2n.0,60976,61425,Josua,josua,Älteste,NN,ältest,27095,,
 gdc,pn2n.0,60976,61425,Josua,josua,und,KON,und,27095,,
-gdc,pn2n.0,60976,61425,Josua,josua,Priester,NN,priester,27095,erster_priester_5a,(7)|(41)
+gdc,pn2n.0,60976,61425,Josua,josua,Priester,NN,priester,27095,priester_1b,(41)|(7)
 gdc,pn2n.0,60976,61425,Josua,josua,aus,APPR,aus,27095,,
 gdc,pn2n.0,60976,61425,Josua,josua,der,ART,der,27095,,
 gdc,pn2n.0,60976,61425,Josua,josua,Stadt,NN,stadt,27095,,
@@ -16759,7 +16759,7 @@ gdc,pn2n.0,93500,93708,Holofernes,holofernes,nicht,PTKNEG,nicht,27095,,
 gdc,pn2n.0,93500,93708,Holofernes,holofernes,zu,PTKZU,zu,27095,,
 gdc,pn2n.0,93500,93708,Holofernes,holofernes,besitzen,VVINF,besitzen,27095,,
 gdc,pn2n.0,93500,93708,Holofernes,holofernes,.,$.,--,27095,,
-gdc,pn2n.0,93713,93949,Der Hauptmann (V. Akt),der_hauptmann_5,Priester,NE,priester,27095,erster_priester_5a,(7)|(41)
+gdc,pn2n.0,93713,93949,Der Hauptmann (V. Akt),der_hauptmann_5,Priester,NE,priester,27095,priester_1b,(41)|(7)
 gdc,pn2n.0,93713,93949,Der Hauptmann (V. Akt),der_hauptmann_5,sieht,VVFIN,sehen,27095,,
 gdc,pn2n.0,93713,93949,Der Hauptmann (V. Akt),der_hauptmann_5,man,PIS,man,27095,,
 gdc,pn2n.0,93713,93949,Der Hauptmann (V. Akt),der_hauptmann_5,stumm,ADJD,stumm,27095,,
@@ -16807,7 +16807,7 @@ gdc,pn2n.0,93954,94064,Holofernes,holofernes,Daß,KOUS,daß,27095,,
 gdc,pn2n.0,93954,94064,Holofernes,holofernes,man,PIS,man,27095,,
 gdc,pn2n.0,93954,94064,Holofernes,holofernes,mir,PPER,sich,27095,holofernes,(0)
 gdc,pn2n.0,93954,94064,Holofernes,holofernes,solche,PIAT,solcher,27095,,
-gdc,pn2n.0,93954,94064,Holofernes,holofernes,Priester,NN,priester,27095,erster_priester_5a,(7)|(41)
+gdc,pn2n.0,93954,94064,Holofernes,holofernes,Priester,NN,priester,27095,priester_1b,(41)|(7)
 gdc,pn2n.0,93954,94064,Holofernes,holofernes,nicht,PTKNEG,nicht,27095,,
 gdc,pn2n.0,93954,94064,Holofernes,holofernes,tötet,VVFIN,töten,27095,,
 gdc,pn2n.0,93954,94064,Holofernes,holofernes,"!",$.,--,27095,,
@@ -22843,7 +22843,7 @@ gdc,pn2n.0,126662,127007,Mutter,eine_mutter,Ich,PPER,ich,27095,eine_mutter,(44)
 gdc,pn2n.0,126662,127007,Mutter,eine_mutter,sage,VVFIN,sagen,27095,,
 gdc,pn2n.0,126662,127007,Mutter,eine_mutter,dir,PPER,dir,27095,,
 gdc,pn2n.0,126662,127007,Mutter,eine_mutter,",","$,",--,27095,,
-gdc,pn2n.0,126662,127007,Mutter,eine_mutter,Priester,NE,priester,27095,erster_priester_5a,(7)|(41)
+gdc,pn2n.0,126662,127007,Mutter,eine_mutter,Priester,NE,priester,27095,priester_1b,(41)|(7)
 gdc,pn2n.0,126662,127007,Mutter,eine_mutter,",","$,",--,27095,,
 gdc,pn2n.0,126662,127007,Mutter,eine_mutter,eine,ART,ein,27095,eine_mutter,(44
 gdc,pn2n.0,126662,127007,Mutter,eine_mutter,Mutter,NN,mutter,27095,eine_mutter,44)|(44)

@@ -1475,37 +1475,37 @@ gdc,str8.0,136898,136923,_stage,136901,136913,Madame Knorr,madame_knorr
 gdc,str8.0,136972,136992,_stage,136972,136981,Christoph,christoph
 gdc,str8.0,137026,137037,_stage,137029,137036,Zangler,zangler
 gdc,str8.0,137082,137152,zangler,137118,137121,mir,zangler
-gdc,str8.0,137227,137246,_stage,137227,137235,Weinberl,weinberl
-gdc,str8.0,137291,137350,_stage,137295,137307,Madame Knorr,madame_knorr
-gdc,str8.0,137291,137350,_stage,137312,137328,Frau von Fischer,frau_von_fischer
-gdc,str8.0,137291,137350,_stage,137329,137337,Weinberl,weinberl
-gdc,str8.0,137283,137472,zangler,137351,137355,Mein,zangler
-gdc,str8.0,137283,137472,zangler,137386,137390,mein,zangler
-gdc,str8.0,137283,137472,zangler,137405,137413,Weinberl,weinberl
-gdc,str8.0,137283,137472,zangler,137427,137433,meiner,zangler
-gdc,str8.0,137283,137472,zangler,137446,137450,mein,zangler
-gdc,str8.0,137512,137523,_stage,137515,137522,Zangler,zangler
-gdc,str8.0,137552,137628,melchior,137601,137606,meine,melchior
-gdc,str8.0,137642,137722,_stage,137688,137704,Frau von Fischer,frau_von_fischer
-gdc,str8.0,137642,137722,_stage,137709,137721,Madame Knorr,madame_knorr
-gdc,str8.0,137633,137769,weinberl,137754,137759,meine,weinberl
-gdc,str8.0,137774,137855,frau_von_fischer,137807,137814,Zangler,zangler
-gdc,str8.0,137861,138169,weinberl,137936,137939,ich,weinberl
-gdc,str8.0,137861,138169,weinberl,137993,137997,mich,weinberl
-gdc,str8.0,137861,138169,weinberl,138040,138043,ich,weinberl
-gdc,str8.0,137861,138169,weinberl,138055,138059,mich,weinberl
-gdc,str8.0,137861,138169,weinberl,138125,138128,ich,weinberl
-gdc,str8.0,138240,138275,weinberl,138258,138261,ich,weinberl
-gdc,str8.0,138240,138275,weinberl,138262,138270,Weinberl,weinberl
-gdc,str8.0,138280,138309,zangler,138303,138307,mich,zangler
-gdc,str8.0,138323,138334,_stage,138326,138333,Zangler,zangler
-gdc,str8.0,138357,138410,zangler,138384,138387,ich,zangler
-gdc,str8.0,138424,138512,_stage,138471,138478,Sonders,sonders
-gdc,str8.0,138542,139000,zangler,138602,138606,mich,zangler
-gdc,str8.0,138542,139000,zangler,138621,138629,Weinberl,weinberl
-gdc,str8.0,138542,139000,zangler,138682,138685,ich,zangler
-gdc,str8.0,138542,139000,zangler,138686,138691,meine,zangler
-gdc,str8.0,138542,139000,zangler,138768,138771,ich,zangler
-gdc,str8.0,138542,139000,zangler,138971,138974,ich,zangler
-gdc,str8.0,139035,139076,sonders,139068,139075,Zangler,zangler
-gdc,str8.0,139264,139331,_stage,139264,139276,Madame Knorr,madame_knorr
+gdc,str8.0,137226,137245,_stage,137226,137234,Weinberl,weinberl
+gdc,str8.0,137290,137349,_stage,137294,137306,Madame Knorr,madame_knorr
+gdc,str8.0,137290,137349,_stage,137311,137327,Frau von Fischer,frau_von_fischer
+gdc,str8.0,137290,137349,_stage,137328,137336,Weinberl,weinberl
+gdc,str8.0,137282,137471,zangler,137350,137354,Mein,zangler
+gdc,str8.0,137282,137471,zangler,137385,137389,mein,zangler
+gdc,str8.0,137282,137471,zangler,137404,137412,Weinberl,weinberl
+gdc,str8.0,137282,137471,zangler,137426,137432,meiner,zangler
+gdc,str8.0,137282,137471,zangler,137445,137449,mein,zangler
+gdc,str8.0,137510,137521,_stage,137513,137520,Zangler,zangler
+gdc,str8.0,137550,137626,melchior,137599,137604,meine,melchior
+gdc,str8.0,137640,137720,_stage,137686,137702,Frau von Fischer,frau_von_fischer
+gdc,str8.0,137640,137720,_stage,137707,137719,Madame Knorr,madame_knorr
+gdc,str8.0,137631,137767,weinberl,137752,137757,meine,weinberl
+gdc,str8.0,137772,137853,frau_von_fischer,137805,137812,Zangler,zangler
+gdc,str8.0,137859,138167,weinberl,137934,137937,ich,weinberl
+gdc,str8.0,137859,138167,weinberl,137991,137995,mich,weinberl
+gdc,str8.0,137859,138167,weinberl,138038,138041,ich,weinberl
+gdc,str8.0,137859,138167,weinberl,138053,138057,mich,weinberl
+gdc,str8.0,137859,138167,weinberl,138123,138126,ich,weinberl
+gdc,str8.0,138238,138273,weinberl,138256,138259,ich,weinberl
+gdc,str8.0,138238,138273,weinberl,138260,138268,Weinberl,weinberl
+gdc,str8.0,138278,138307,zangler,138301,138305,mich,zangler
+gdc,str8.0,138321,138332,_stage,138324,138331,Zangler,zangler
+gdc,str8.0,138355,138408,zangler,138382,138385,ich,zangler
+gdc,str8.0,138422,138510,_stage,138469,138476,Sonders,sonders
+gdc,str8.0,138540,138998,zangler,138600,138604,mich,zangler
+gdc,str8.0,138540,138998,zangler,138619,138627,Weinberl,weinberl
+gdc,str8.0,138540,138998,zangler,138680,138683,ich,zangler
+gdc,str8.0,138540,138998,zangler,138684,138689,meine,zangler
+gdc,str8.0,138540,138998,zangler,138766,138769,ich,zangler
+gdc,str8.0,138540,138998,zangler,138969,138972,ich,zangler
+gdc,str8.0,139033,139074,sonders,139066,139073,Zangler,zangler
+gdc,str8.0,139262,139329,_stage,139262,139274,Madame Knorr,madame_knorr

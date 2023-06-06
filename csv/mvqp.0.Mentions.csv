@@ -1,516 +1,516 @@
 corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
-gdc,mvqp.0,10007,12025,_stage,11516,11524,der alte,der_alte
-gdc,mvqp.0,10007,12025,_stage,11635,11643,der alte,der_alte
-gdc,mvqp.0,10007,12025,_stage,11648,11665,der junge Gärtner,der_junge_gaertner
-gdc,mvqp.0,10007,12025,_stage,11734,11751,Der junge Gärtner,der_junge_gaertner
-gdc,mvqp.0,10007,12025,_stage,11856,11864,der alte,der_alte
-gdc,mvqp.0,10007,12025,_stage,11895,11905,Der Fremde,der_fremde
-gdc,mvqp.0,12038,12096,_stage,12038,12048,Der Fremde,der_fremde
-gdc,mvqp.0,12038,12096,_stage,12050,12058,der alte,der_alte
-gdc,mvqp.0,12038,12096,_stage,12065,12073,der alte,der_alte
-gdc,mvqp.0,12038,12096,_stage,12078,12095,der junge Gärtner,der_junge_gaertner
-gdc,mvqp.0,12445,12514,der_alte,12466,12469,ich,der_alte
-gdc,mvqp.0,12519,12645,der_fremde,12638,12641,ich,der_fremde
-gdc,mvqp.0,12703,12872,der_alte,12716,12719,ich,der_alte
-gdc,mvqp.0,12703,12872,der_alte,12748,12751,ich,der_alte
-gdc,mvqp.0,12703,12872,der_alte,12778,12781,ich,der_alte
-gdc,mvqp.0,12877,13000,der_fremde,12947,12950,ich,der_fremde
-gdc,mvqp.0,13966,14008,der_alte_gaertner,14004,14007,ich,der_alte_gaertner
-gdc,mvqp.0,14134,14756,der_alte_gaertner,14248,14256,Der Alte,der_alte
-gdc,mvqp.0,14134,14756,der_alte_gaertner,14607,14610,mir,der_alte_gaertner
-gdc,mvqp.0,14761,15768,der_alte,15226,15229,Ich,der_alte
-gdc,mvqp.0,14761,15768,der_alte,15436,15439,Ich,der_alte
-gdc,mvqp.0,14761,15768,der_alte,15713,15721,der alte,der_alte
-gdc,mvqp.0,14761,15768,der_alte,15728,15734,Belian,belian
-gdc,mvqp.0,15784,15813,_stage,15784,15794,Der Fremde,der_fremde
-gdc,mvqp.0,15945,17566,der_alte_gaertner,16150,16158,der alte,der_alte
-gdc,mvqp.0,15945,17566,der_alte_gaertner,16171,16177,Belian,belian
-gdc,mvqp.0,15945,17566,der_alte_gaertner,16336,16339,ich,der_alte_gaertner
-gdc,mvqp.0,15945,17566,der_alte_gaertner,17070,17076,Belian,belian
-gdc,mvqp.0,15945,17566,der_alte_gaertner,17176,17186,der Fremde,der_fremde
-gdc,mvqp.0,15945,17566,der_alte_gaertner,17437,17440,Ich,der_alte_gaertner
-gdc,mvqp.0,17737,17843,der_junge_gaertner,17760,17770,der fremde,der_fremde
-gdc,mvqp.0,17848,18473,der_alte_gaertner,18054,18073,die jungen Bauleute,die_jungen_bauleute
-gdc,mvqp.0,18600,18625,der_fremde,18612,18615,Ich,der_fremde
-gdc,mvqp.0,18683,18925,der_fremde,18701,18704,ich,der_fremde
-gdc,mvqp.0,18683,18925,der_fremde,18751,18754,ich,der_fremde
-gdc,mvqp.0,18683,18925,der_fremde,18762,18765,Ich,der_fremde
-gdc,mvqp.0,18683,18925,der_fremde,18814,18817,ich,der_fremde
-gdc,mvqp.0,18683,18925,der_fremde,18868,18871,Ich,der_fremde
-gdc,mvqp.0,18683,18925,der_fremde,18899,18902,ich,der_fremde
-gdc,mvqp.0,19047,19512,der_alte_gaertner,19238,19250,Das Fräulein,das_fraeulein
-gdc,mvqp.0,19047,19512,der_alte_gaertner,19415,19418,ich,der_alte_gaertner
-gdc,mvqp.0,19517,19575,der_junge_gaertner,19536,19548,Das Fräulein,das_fraeulein
-gdc,mvqp.0,19580,19727,der_alte_gaertner,19618,19621,Ich,der_alte_gaertner
-gdc,mvqp.0,20461,20483,_stage,20469,20477,der alte,der_alte
-gdc,mvqp.0,20485,20973,der_alte,20730,20738,Der alte,der_alte
-gdc,mvqp.0,20485,20973,der_alte,20745,20751,Belian,belian
-gdc,mvqp.0,20485,20973,der_alte,20856,20859,Ich,der_alte
-gdc,mvqp.0,21838,22022,_stage,21947,21957,der Fremde,der_fremde
-gdc,mvqp.0,22046,22386,_stage,22070,22078,Der Herr,der_herr
-gdc,mvqp.0,22046,22386,_stage,22094,22111,der zweite Freier,der_zweite_freier
-gdc,mvqp.0,22046,22386,_stage,22126,22138,das Fräulein,das_fraeulein
-gdc,mvqp.0,22046,22386,_stage,22140,22157,der dritte Freier,der_dritte_freier
-gdc,mvqp.0,22046,22386,_stage,22162,22182,der dichtende Freier,der_dichtende_freier
-gdc,mvqp.0,22389,22822,der_erste_freier,22758,22761,ich,der_erste_freier
-gdc,mvqp.0,23618,23941,der_erste_freier,23640,23643,ich,der_erste_freier
-gdc,mvqp.0,23618,23941,der_erste_freier,23829,23832,ich,der_erste_freier
-gdc,mvqp.0,24073,24118,der_herr,24083,24086,Ich,der_herr
-gdc,mvqp.0,24123,24219,der_erste_freier,24193,24196,ich,der_erste_freier
-gdc,mvqp.0,24263,24398,der_erste_freier,24373,24376,ich,der_erste_freier
-gdc,mvqp.0,24263,24398,der_erste_freier,24388,24391,ich,der_erste_freier
-gdc,mvqp.0,24403,24437,der_herr,24428,24431,ich,der_herr
-gdc,mvqp.0,24695,24756,der_herr,24736,24739,mir,der_herr
-gdc,mvqp.0,25527,25672,der_zweite_freier,25601,25604,Ich,der_zweite_freier
-gdc,mvqp.0,25744,26146,der_erste_freier,25802,25805,Ich,der_erste_freier
-gdc,mvqp.0,25744,26146,der_erste_freier,25983,25986,ich,der_erste_freier
-gdc,mvqp.0,25744,26146,der_erste_freier,26076,26084,der Herr,der_herr
-gdc,mvqp.0,25744,26146,der_erste_freier,26100,26117,der zweite Freier,der_zweite_freier
-gdc,mvqp.0,26163,26246,_stage,26163,26175,Das Fräulein,das_fraeulein
-gdc,mvqp.0,26163,26246,_stage,26177,26194,der dritte Freier,der_dritte_freier
-gdc,mvqp.0,26163,26246,_stage,26199,26219,der dichtende Freier,der_dichtende_freier
-gdc,mvqp.0,26248,26508,der_dritte_freier,26344,26349,meine,der_dritte_freier
-gdc,mvqp.0,26248,26508,der_dritte_freier,26422,26425,ich,der_dritte_freier
-gdc,mvqp.0,26645,26702,der_dichtende_freier,26673,26676,ich,der_dichtende_freier
-gdc,mvqp.0,26733,26762,der_dritte_freier,26757,26761,mich,der_dritte_freier
-gdc,mvqp.0,27086,27218,der_dritte_freier,27120,27123,ich,der_dritte_freier
-gdc,mvqp.0,27295,27347,der_dritte_freier,27314,27317,Ich,der_dritte_freier
-gdc,mvqp.0,27352,27403,der_dichtende_freier,27399,27402,mir,der_dichtende_freier
-gdc,mvqp.0,27805,27873,das_fraeulein,27856,27860,mich,das_fraeulein
-gdc,mvqp.0,28086,28159,der_dichtende_freier,28143,28148,meine,der_dichtende_freier
-gdc,mvqp.0,28164,28291,der_dritte_freier,28191,28194,ich,der_dritte_freier
-gdc,mvqp.0,28164,28291,der_dritte_freier,28234,28238,mein,der_dritte_freier
-gdc,mvqp.0,28164,28291,der_dritte_freier,28245,28248,Ich,der_dritte_freier
-gdc,mvqp.0,28164,28291,der_dritte_freier,28256,28259,mir,der_dritte_freier
-gdc,mvqp.0,28465,28781,der_dichtende_freier,28688,28691,ich,der_dichtende_freier
-gdc,mvqp.0,28465,28781,der_dichtende_freier,28724,28727,Ich,der_dichtende_freier
-gdc,mvqp.0,28839,29051,der_dichtende_freier,28977,28980,Ich,der_dichtende_freier
-gdc,mvqp.0,28839,29051,der_dichtende_freier,29026,29029,ich,der_dichtende_freier
-gdc,mvqp.0,29413,29483,der_fremde,29434,29451,Der junge Gärtner,der_junge_gaertner
-gdc,mvqp.0,29488,29529,der_junge_gaertner,29519,29527,Marpalye,marpalye
-gdc,mvqp.0,29534,29648,der_dichtende_freier,29638,29646,Marpalye,marpalye
-gdc,mvqp.0,29909,29994,der_dichtende_freier,29940,29943,Ich,der_dichtende_freier
-gdc,mvqp.0,30199,30343,das_fraeulein,30270,30273,Ich,das_fraeulein
-gdc,mvqp.0,30348,30431,der_dichtende_freier,30370,30373,Ich,der_dichtende_freier
-gdc,mvqp.0,30573,30678,das_fraeulein,30669,30677,Marpalye,marpalye
-gdc,mvqp.0,30736,30912,das_fraeulein,30827,30830,ich,das_fraeulein
-gdc,mvqp.0,31348,31480,_stage,31348,31358,Der Fremde,der_fremde
-gdc,mvqp.0,31542,31837,das_fraeulein,31613,31616,Ich,das_fraeulein
-gdc,mvqp.0,31542,31837,das_fraeulein,31645,31653,Marpalye,marpalye
-gdc,mvqp.0,31854,31924,_stage,31862,31870,der Herr,der_herr
-gdc,mvqp.0,32008,32169,der_erste_freier,32062,32065,Ich,der_erste_freier
-gdc,mvqp.0,32740,32914,_stage,32764,32774,der Fremde,der_fremde
-gdc,mvqp.0,32740,32914,_stage,32827,32844,Der dritte Freier,der_dritte_freier
-gdc,mvqp.0,32740,32914,_stage,32866,32876,Der Fremde,der_fremde
-gdc,mvqp.0,32931,33128,_stage,33009,33017,Marpalye,marpalye
-gdc,mvqp.0,33152,33693,der_fremde,33276,33284,Marpalye,marpalye
-gdc,mvqp.0,33287,33693,_stage,33291,33303,das Fräulein,das_fraeulein
-gdc,mvqp.0,33287,33693,_stage,33333,33352,die jungen Bauleute,die_jungen_bauleute
-gdc,mvqp.0,33287,33693,_stage,33413,33425,das Fräulein,das_fraeulein
-gdc,mvqp.0,33287,33693,_stage,33463,33473,Der Fremde,der_fremde
-gdc,mvqp.0,33939,34084,_stage,33994,34004,Der Fremde,der_fremde
-gdc,mvqp.0,34418,34729,_stage,34418,34438,Der erste Geblendete,der_erste_geblendete
-gdc,mvqp.0,34418,34729,_stage,34631,34652,der zweite Geblendete,der_zweite_geblendete
-gdc,mvqp.0,34730,34895,_stage,34773,34792,der sehende Wächter,der_sehende_waechter
-gdc,mvqp.0,34730,34895,_stage,34794,34802,der alte,der_alte
-gdc,mvqp.0,34730,34895,_stage,34807,34824,der junge Gärtner,der_junge_gaertner
-gdc,mvqp.0,35165,35449,der_erste_geblendete,35196,35199,mir,der_erste_geblendete
-gdc,mvqp.0,35165,35449,der_erste_geblendete,35355,35359,mein,der_erste_geblendete
-gdc,mvqp.0,35165,35449,der_erste_geblendete,35425,35428,Ich,der_erste_geblendete
-gdc,mvqp.0,35165,35449,der_erste_geblendete,35433,35436,Ich,der_erste_geblendete
-gdc,mvqp.0,35798,36084,der_erste_geblendete,35824,35827,ich,der_erste_geblendete
-gdc,mvqp.0,35798,36084,der_erste_geblendete,35851,35857,meinen,der_erste_geblendete
-gdc,mvqp.0,36322,36431,der_erfahrene_waechter,36390,36394,Mein,der_erfahrene_waechter
-gdc,mvqp.0,36436,36944,der_erste_geblendete,36609,36612,ich,der_erste_geblendete
-gdc,mvqp.0,36436,36944,der_erste_geblendete,36906,36909,Ich,der_erste_geblendete
-gdc,mvqp.0,36949,37280,der_zweite_geblendete,37142,37145,mir,der_zweite_geblendete
-gdc,mvqp.0,37481,38543,der_zweite_geblendete,37536,37539,Ich,der_zweite_geblendete
-gdc,mvqp.0,37481,38543,der_zweite_geblendete,37574,37578,mein,der_zweite_geblendete
-gdc,mvqp.0,37481,38543,der_zweite_geblendete,37586,37590,mein,der_zweite_geblendete
-gdc,mvqp.0,37481,38543,der_zweite_geblendete,37673,37679,meiner,der_zweite_geblendete
-gdc,mvqp.0,37481,38543,der_zweite_geblendete,37690,37693,ich,der_zweite_geblendete
-gdc,mvqp.0,37481,38543,der_zweite_geblendete,37732,37738,meinen,der_zweite_geblendete
-gdc,mvqp.0,37481,38543,der_zweite_geblendete,37754,37758,mein,der_zweite_geblendete
-gdc,mvqp.0,37481,38543,der_zweite_geblendete,37860,37866,meines,der_zweite_geblendete
-gdc,mvqp.0,37481,38543,der_zweite_geblendete,37906,37910,mein,der_zweite_geblendete
-gdc,mvqp.0,37481,38543,der_zweite_geblendete,38157,38160,Ich,der_zweite_geblendete
-gdc,mvqp.0,37481,38543,der_zweite_geblendete,38286,38289,mir,der_zweite_geblendete
-gdc,mvqp.0,37481,38543,der_zweite_geblendete,38437,38440,mir,der_zweite_geblendete
-gdc,mvqp.0,37481,38543,der_zweite_geblendete,38529,38533,Mein,der_zweite_geblendete
-gdc,mvqp.0,38548,38624,der_erste_geblendete,38611,38615,Mein,der_erste_geblendete
-gdc,mvqp.0,38642,38687,_stage,38650,38668,die stumme Sklavin,die_stumme_sklavin
-gdc,mvqp.0,38700,38893,_stage,38706,38724,die stumme Sklavin,die_stumme_sklavin
-gdc,mvqp.0,38689,38940,der_knecht,38916,38924,Der Herr,der_herr
-gdc,mvqp.0,39192,39465,der_knecht,39382,39385,Ich,der_knecht
-gdc,mvqp.0,39545,39883,der_erfahrene_waechter,39605,39623,die stumme Sklavin,die_stumme_sklavin
-gdc,mvqp.0,39545,39883,der_erfahrene_waechter,39857,39863,Belian,belian
-gdc,mvqp.0,39888,40403,der_sehende_waechter,39971,39974,Ich,der_sehende_waechter
-gdc,mvqp.0,39888,40403,der_sehende_waechter,39982,39986,mein,der_sehende_waechter
-gdc,mvqp.0,39888,40403,der_sehende_waechter,40185,40189,mich,der_sehende_waechter
-gdc,mvqp.0,39888,40403,der_sehende_waechter,40200,40204,mich,der_sehende_waechter
-gdc,mvqp.0,39888,40403,der_sehende_waechter,40284,40287,ich,der_sehende_waechter
-gdc,mvqp.0,39888,40403,der_sehende_waechter,40297,40300,ich,der_sehende_waechter
-gdc,mvqp.0,40330,40403,_stage,40330,40348,Die stumme Sklavin,die_stumme_sklavin
-gdc,mvqp.0,40419,40456,_stage,40427,40433,Belian,belian
-gdc,mvqp.0,40419,40456,_stage,40438,40455,der dritte Freier,der_dritte_freier
-gdc,mvqp.0,40523,40555,der_erfahrene_waechter,40546,40554,Der Herr,der_herr
-gdc,mvqp.0,40609,40828,der_erste_geblendete,40643,40649,Belian,belian
-gdc,mvqp.0,40657,40828,_stage,40723,40729,Belian,belian
-gdc,mvqp.0,40832,41180,belian,40927,40931,mein,belian
-gdc,mvqp.0,40832,41180,belian,41088,41091,Ich,belian
-gdc,mvqp.0,41222,41312,der_dritte_freier,41274,41277,mir,der_dritte_freier
-gdc,mvqp.0,41317,41535,belian,41363,41367,mein,belian
-gdc,mvqp.0,41317,41535,belian,41382,41385,ich,belian
-gdc,mvqp.0,42119,42210,der_dritte_freier,42166,42169,Ich,der_dritte_freier
-gdc,mvqp.0,42215,42248,belian,42240,42243,ich,belian
-gdc,mvqp.0,42253,43177,der_dritte_freier,42284,42287,ich,der_dritte_freier
-gdc,mvqp.0,42253,43177,der_dritte_freier,42304,42307,ich,der_dritte_freier
-gdc,mvqp.0,42253,43177,der_dritte_freier,42321,42325,mein,der_dritte_freier
-gdc,mvqp.0,42253,43177,der_dritte_freier,42355,42359,mich,der_dritte_freier
-gdc,mvqp.0,42253,43177,der_dritte_freier,42856,42862,meinen,der_dritte_freier
-gdc,mvqp.0,42253,43177,der_dritte_freier,42891,42894,Ich,der_dritte_freier
-gdc,mvqp.0,42253,43177,der_dritte_freier,42910,42913,ich,der_dritte_freier
-gdc,mvqp.0,42253,43177,der_dritte_freier,42965,42973,Marpalye,marpalye
-gdc,mvqp.0,42253,43177,der_dritte_freier,42998,43001,mir,der_dritte_freier
-gdc,mvqp.0,42253,43177,der_dritte_freier,43072,43075,ich,der_dritte_freier
-gdc,mvqp.0,42253,43177,der_dritte_freier,43127,43135,Marpalye,marpalye
-gdc,mvqp.0,43183,43671,belian,43360,43364,mein,belian
-gdc,mvqp.0,43496,43671,_stage,43580,43588,Marpalye,marpalye
-gdc,mvqp.0,43932,44217,der_dritte_freier,43953,43961,Marpalye,marpalye
-gdc,mvqp.0,43986,44217,_stage,44081,44102,Der erfahrene Wächter,der_erfahrene_waechter
-gdc,mvqp.0,43986,44217,_stage,44187,44195,Marpalye,marpalye
-gdc,mvqp.0,44487,45380,belian,44616,44619,ich,belian
-gdc,mvqp.0,44487,45380,belian,44656,44659,ich,belian
-gdc,mvqp.0,44487,45380,belian,44813,44816,mir,belian
-gdc,mvqp.0,44487,45380,belian,44825,44828,Ich,belian
-gdc,mvqp.0,44487,45380,belian,44847,44851,mein,belian
-gdc,mvqp.0,44487,45380,belian,44860,44863,Ich,belian
-gdc,mvqp.0,44487,45380,belian,44876,44881,meine,belian
-gdc,mvqp.0,44487,45380,belian,44897,44903,meiner,belian
-gdc,mvqp.0,44487,45380,belian,44983,44987,mich,belian
-gdc,mvqp.0,44487,45380,belian,45002,45005,Ich,belian
-gdc,mvqp.0,44487,45380,belian,45013,45017,mich,belian
-gdc,mvqp.0,44487,45380,belian,45076,45079,ich,belian
-gdc,mvqp.0,44487,45380,belian,45164,45167,Ich,belian
-gdc,mvqp.0,44487,45380,belian,45203,45206,ich,belian
-gdc,mvqp.0,44487,45380,belian,45231,45249,die stumme Sklavin,die_stumme_sklavin
-gdc,mvqp.0,45606,45644,_stage,45624,45630,Belian,belian
-gdc,mvqp.0,45897,46445,belian,45914,45917,Ich,belian
-gdc,mvqp.0,45897,46445,belian,45965,45968,mir,belian
-gdc,mvqp.0,45897,46445,belian,46035,46038,mir,belian
-gdc,mvqp.0,46340,46445,_stage,46340,46346,Belian,belian
-gdc,mvqp.0,46508,46586,der_zweite_geblendete,46556,46561,Meine,der_zweite_geblendete
-gdc,mvqp.0,46508,46586,der_zweite_geblendete,46575,46579,mein,der_zweite_geblendete
-gdc,mvqp.0,46970,47202,_stage,47004,47023,der sehende Wächter,der_sehende_waechter
-gdc,mvqp.0,48056,48103,der_erfahrene_waechter,48083,48087,mich,der_erfahrene_waechter
-gdc,mvqp.0,49365,49511,_stage,49429,49450,der zweite Geblendete,der_zweite_geblendete
-gdc,mvqp.0,49601,49690,der_erste_geblendete,49657,49661,Mein,der_erste_geblendete
-gdc,mvqp.0,49601,49690,der_erste_geblendete,49677,49681,Mein,der_erste_geblendete
-gdc,mvqp.0,49695,49765,der_zweite_geblendete,49732,49736,Mein,der_zweite_geblendete
-gdc,mvqp.0,49695,49765,der_zweite_geblendete,49747,49752,Meine,der_zweite_geblendete
-gdc,mvqp.0,49770,49845,der_dritte_geblendete,49833,49841,Marpalye,marpalye
-gdc,mvqp.0,49850,50198,der_erfahrene_waechter,50186,50194,Marpalye,marpalye
-gdc,mvqp.0,50449,50861,der_erfahrene_waechter,50488,50491,mir,der_erfahrene_waechter
-gdc,mvqp.0,50449,50861,der_erfahrene_waechter,50533,50536,ich,der_erfahrene_waechter
-gdc,mvqp.0,51274,51664,der_sehende_waechter,51429,51432,Ich,der_sehende_waechter
-gdc,mvqp.0,51669,53152,der_erfahrene_waechter,51999,52004,Meine,der_erfahrene_waechter
-gdc,mvqp.0,51669,53152,der_erfahrene_waechter,52023,52028,meine,der_erfahrene_waechter
-gdc,mvqp.0,51669,53152,der_erfahrene_waechter,52403,52409,Belian,belian
-gdc,mvqp.0,51669,53152,der_erfahrene_waechter,52903,52909,Belian,belian
-gdc,mvqp.0,53697,54052,_stage,53821,53829,Marpalye,marpalye
-gdc,mvqp.0,53697,54052,_stage,53897,53905,Der Narr,der_narr
-gdc,mvqp.0,53697,54052,_stage,53907,53927,der dichtende Freier,der_dichtende_freier
-gdc,mvqp.0,54746,55059,der_narr,55003,55011,Marpalye,marpalye
-gdc,mvqp.0,55379,55789,marpalye,55479,55482,mir,marpalye
-gdc,mvqp.0,55379,55789,marpalye,55520,55523,mir,marpalye
-gdc,mvqp.0,55794,56631,der_narr,55883,55891,Marpalye,marpalye
-gdc,mvqp.0,55794,56631,der_narr,55942,55945,ich,der_narr
-gdc,mvqp.0,55794,56631,der_narr,55971,55974,ich,der_narr
-gdc,mvqp.0,55794,56631,der_narr,56021,56024,mir,der_narr
-gdc,mvqp.0,55794,56631,der_narr,56049,56052,ich,der_narr
-gdc,mvqp.0,56817,57049,der_narr,56837,56840,Mir,der_narr
-gdc,mvqp.0,56817,57049,der_narr,56872,56875,Ich,der_narr
-gdc,mvqp.0,56817,57049,der_narr,56903,56906,mir,der_narr
-gdc,mvqp.0,56817,57049,der_narr,56955,56959,mich,der_narr
-gdc,mvqp.0,56817,57049,der_narr,56985,56993,Marpalye,marpalye
-gdc,mvqp.0,56817,57049,der_narr,57014,57017,mir,der_narr
-gdc,mvqp.0,56817,57049,der_narr,57029,57032,ich,der_narr
-gdc,mvqp.0,57090,57515,der_narr,57147,57150,ich,der_narr
-gdc,mvqp.0,57090,57515,der_narr,57155,57161,Belian,belian
-gdc,mvqp.0,57090,57515,der_narr,57212,57215,ich,der_narr
-gdc,mvqp.0,57090,57515,der_narr,57234,57237,mir,der_narr
-gdc,mvqp.0,57090,57515,der_narr,57447,57451,mein,der_narr
-gdc,mvqp.0,57090,57515,der_narr,57462,57465,ich,der_narr
-gdc,mvqp.0,57090,57515,der_narr,57496,57499,ich,der_narr
-gdc,mvqp.0,57544,57727,der_narr,57610,57618,Marpalye,marpalye
-gdc,mvqp.0,57732,58785,marpalye,57870,57873,ich,marpalye
-gdc,mvqp.0,57732,58785,marpalye,57887,57890,ich,marpalye
-gdc,mvqp.0,57732,58785,marpalye,57986,57989,Ich,marpalye
-gdc,mvqp.0,57732,58785,marpalye,58112,58115,mir,marpalye
-gdc,mvqp.0,57732,58785,marpalye,58140,58145,meine,marpalye
-gdc,mvqp.0,57732,58785,marpalye,58174,58177,mir,marpalye
-gdc,mvqp.0,57732,58785,marpalye,58275,58278,mir,marpalye
-gdc,mvqp.0,57732,58785,marpalye,58304,58308,mich,marpalye
-gdc,mvqp.0,57732,58785,marpalye,58320,58323,ich,marpalye
-gdc,mvqp.0,57732,58785,marpalye,58360,58363,ich,marpalye
-gdc,mvqp.0,57732,58785,marpalye,58541,58545,mich,marpalye
-gdc,mvqp.0,57732,58785,marpalye,58563,58566,ich,marpalye
-gdc,mvqp.0,57732,58785,marpalye,58624,58630,meinen,marpalye
-gdc,mvqp.0,57732,58785,marpalye,58751,58754,Ich,marpalye
-gdc,mvqp.0,57732,58785,marpalye,58770,58773,Ich,marpalye
-gdc,mvqp.0,58790,59487,der_narr,59065,59068,Ich,der_narr
-gdc,mvqp.0,58790,59487,der_narr,59210,59213,Ich,der_narr
-gdc,mvqp.0,58790,59487,der_narr,59244,59252,Marpalye,marpalye
-gdc,mvqp.0,58790,59487,der_narr,59294,59297,Ich,der_narr
-gdc,mvqp.0,58790,59487,der_narr,59315,59319,mein,der_narr
-gdc,mvqp.0,59503,59531,_stage,59511,59530,der sehende Wächter,der_sehende_waechter
-gdc,mvqp.0,59639,59735,der_sehende_waechter,59703,59706,mir,der_sehende_waechter
-gdc,mvqp.0,59639,59735,der_sehende_waechter,59711,59714,Ich,der_sehende_waechter
-gdc,mvqp.0,59639,59735,der_sehende_waechter,59723,59731,der Herr,der_herr
-gdc,mvqp.0,60118,60180,der_sehende_waechter,60139,60142,Ich,der_sehende_waechter
-gdc,mvqp.0,60118,60180,der_sehende_waechter,60171,60174,ich,der_sehende_waechter
-gdc,mvqp.0,60241,60279,_stage,60241,60249,Marpalye,marpalye
-gdc,mvqp.0,60221,60882,der_sehende_waechter,60445,60448,Ich,der_sehende_waechter
-gdc,mvqp.0,60221,60882,der_sehende_waechter,60788,60792,mich,der_sehende_waechter
-gdc,mvqp.0,61000,61082,der_sehende_waechter,61059,61062,Ich,der_sehende_waechter
-gdc,mvqp.0,61179,61278,der_sehende_waechter,61213,61216,Ich,der_sehende_waechter
-gdc,mvqp.0,61179,61278,der_sehende_waechter,61259,61262,ich,der_sehende_waechter
-gdc,mvqp.0,61825,61911,der_narr,61875,61878,Ich,der_narr
-gdc,mvqp.0,61825,61911,der_narr,61888,61892,mein,der_narr
-gdc,mvqp.0,61825,61911,der_narr,61899,61907,Marpalye,marpalye
-gdc,mvqp.0,62017,62079,_stage,62025,62033,der Narr,der_narr
-gdc,mvqp.0,62313,62618,_stage,62313,62323,Der Fremde,der_fremde
-gdc,mvqp.0,62313,62618,_stage,62496,62504,der alte,der_alte
-gdc,mvqp.0,62631,62755,der_fremde,62701,62707,meiner,der_fremde
-gdc,mvqp.0,62760,62927,der_waffenmeister,62902,62905,ich,der_waffenmeister
-gdc,mvqp.0,62932,62987,der_fremde,62983,62986,mir,der_fremde
-gdc,mvqp.0,62992,63095,der_waffenmeister,63011,63014,Ich,der_waffenmeister
-gdc,mvqp.0,62992,63095,der_waffenmeister,63020,63024,mich,der_waffenmeister
-gdc,mvqp.0,63590,63716,der_waffenmeister,63609,63612,Ich,der_waffenmeister
-gdc,mvqp.0,64632,65406,der_waffenmeister,64687,64691,mich,der_waffenmeister
-gdc,mvqp.0,64632,65406,der_waffenmeister,64713,64717,mich,der_waffenmeister
-gdc,mvqp.0,64632,65406,der_waffenmeister,64755,64761,meinen,der_waffenmeister
-gdc,mvqp.0,64632,65406,der_waffenmeister,64810,64813,Ich,der_waffenmeister
-gdc,mvqp.0,64632,65406,der_waffenmeister,65078,65082,mein,der_waffenmeister
-gdc,mvqp.0,64632,65406,der_waffenmeister,65178,65181,ich,der_waffenmeister
-gdc,mvqp.0,66065,66134,der_fremde,66086,66089,ich,der_fremde
-gdc,mvqp.0,66065,66134,der_fremde,66120,66123,ich,der_fremde
-gdc,mvqp.0,66784,66901,der_waffenmeister,66803,66806,Ich,der_waffenmeister
-gdc,mvqp.0,66906,66942,der_fremde,66918,66921,Ich,der_fremde
-gdc,mvqp.0,67925,67966,der_waffenmeister,67944,67947,Ich,der_waffenmeister
-gdc,mvqp.0,68019,68047,_stage,68027,68046,der sehende Wächter,der_sehende_waechter
-gdc,mvqp.0,68048,68140,_stage,68048,68067,Der sehende Wächter,der_sehende_waechter
-gdc,mvqp.0,68142,68173,der_fremde,68169,68172,mir,der_fremde
-gdc,mvqp.0,68178,68227,der_sehende_waechter,68199,68203,Mein,der_sehende_waechter
-gdc,mvqp.0,68178,68227,der_sehende_waechter,68219,68223,mich,der_sehende_waechter
-gdc,mvqp.0,68267,68412,der_sehende_waechter,68302,68310,Der Herr,der_herr
-gdc,mvqp.0,68267,68412,der_sehende_waechter,68326,68332,Belian,belian
-gdc,mvqp.0,68417,68539,der_fremde,68454,68457,Ich,der_fremde
-gdc,mvqp.0,68417,68539,der_fremde,68492,68495,ich,der_fremde
-gdc,mvqp.0,68544,68618,der_sehende_waechter,68595,68599,mich,der_sehende_waechter
-gdc,mvqp.0,68839,68972,der_sehende_waechter,68893,68896,ich,der_sehende_waechter
-gdc,mvqp.0,69124,69260,der_fremde,69155,69158,ich,der_fremde
-gdc,mvqp.0,69714,69781,der_sehende_waechter,69748,69752,mich,der_sehende_waechter
-gdc,mvqp.0,70189,70219,_stage,70189,70199,Der Fremde,der_fremde
-gdc,mvqp.0,70189,70219,_stage,70201,70218,der Waffenmeister,der_waffenmeister
-gdc,mvqp.0,70566,70686,_stage,70590,70607,Der Waffenmeister,der_waffenmeister
-gdc,mvqp.0,70915,71035,_stage,70942,70950,der Narr,der_narr
-gdc,mvqp.0,70915,71035,_stage,70952,70958,Belian,belian
-gdc,mvqp.0,70915,71035,_stage,70963,70984,der erfahrene Wächter,der_erfahrene_waechter
-gdc,mvqp.0,71048,71162,der_erfahrene_waechter,71082,71085,ich,der_erfahrene_waechter
-gdc,mvqp.0,71048,71162,der_erfahrene_waechter,71142,71146,mich,der_erfahrene_waechter
-gdc,mvqp.0,71239,71284,der_erfahrene_waechter,71262,71265,Ich,der_erfahrene_waechter
-gdc,mvqp.0,71662,71967,belian,71859,71862,ich,belian
-gdc,mvqp.0,71972,72043,der_narr,71982,71985,Ich,der_narr
-gdc,mvqp.0,72232,72416,belian,72306,72309,Ich,belian
-gdc,mvqp.0,72511,72672,belian,72530,72533,mir,belian
-gdc,mvqp.0,72511,72672,belian,72658,72661,mir,belian
-gdc,mvqp.0,72743,72826,belian,72808,72816,Marpalye,marpalye
-gdc,mvqp.0,72874,73267,belian,73183,73186,Ich,belian
-gdc,mvqp.0,73284,73301,_stage,73284,73290,Belian,belian
-gdc,mvqp.0,73284,73301,_stage,73292,73300,Marpalye,marpalye
-gdc,mvqp.0,73332,73416,belian,73372,73380,Marpalye,marpalye
-gdc,mvqp.0,73421,73469,marpalye,73442,73446,mich,marpalye
-gdc,mvqp.0,73421,73469,marpalye,73457,73465,Der Narr,der_narr
-gdc,mvqp.0,73474,73564,belian,73503,73511,der Narr,der_narr
-gdc,mvqp.0,73689,73739,marpalye,73706,73709,mir,marpalye
-gdc,mvqp.0,73744,73859,belian,73846,73850,mein,belian
-gdc,mvqp.0,73864,73902,marpalye,73889,73894,meine,marpalye
-gdc,mvqp.0,74145,74286,belian,74164,74167,Ich,belian
-gdc,mvqp.0,74145,74286,belian,74223,74231,Marpalye,marpalye
-gdc,mvqp.0,74145,74286,belian,74233,74236,ich,belian
-gdc,mvqp.0,74291,74343,marpalye,74301,74304,Ich,marpalye
-gdc,mvqp.0,74291,74343,marpalye,74324,74327,mir,marpalye
-gdc,mvqp.0,74348,74925,belian,74361,74364,ich,belian
-gdc,mvqp.0,74348,74925,belian,74381,74387,Belian,belian
-gdc,mvqp.0,74348,74925,belian,74394,74402,der Herr,der_herr
-gdc,mvqp.0,74348,74925,belian,74485,74489,mein,belian
-gdc,mvqp.0,74348,74925,belian,74499,74502,ich,belian
-gdc,mvqp.0,74348,74925,belian,74545,74553,Marpalye,marpalye
-gdc,mvqp.0,74348,74925,belian,74659,74662,mir,belian
-gdc,mvqp.0,74348,74925,belian,74791,74799,Marpalye,marpalye
-gdc,mvqp.0,74930,74975,marpalye,74959,74962,Ich,marpalye
-gdc,mvqp.0,74981,75092,belian,75006,75009,mir,belian
-gdc,mvqp.0,74981,75092,belian,75045,75048,Ich,belian
-gdc,mvqp.0,74981,75092,belian,75060,75063,ich,belian
-gdc,mvqp.0,74981,75092,belian,75079,75082,ich,belian
-gdc,mvqp.0,75097,75137,marpalye,75107,75110,Ich,marpalye
-gdc,mvqp.0,75142,75840,belian,75194,75197,Ich,belian
-gdc,mvqp.0,75142,75840,belian,75582,75586,mein,belian
-gdc,mvqp.0,75142,75840,belian,75828,75836,Marpalye,marpalye
-gdc,mvqp.0,75845,75908,marpalye,75855,75858,Ich,marpalye
-gdc,mvqp.0,75845,75908,marpalye,75883,75886,ich,marpalye
-gdc,mvqp.0,76089,76158,der_sehende_waechter,76147,76157,Der Fremde,der_fremde
-gdc,mvqp.0,76163,76264,belian,76191,76194,mir,belian
-gdc,mvqp.0,76163,76264,belian,76238,76242,mich,belian
-gdc,mvqp.0,76281,76392,_stage,76281,76287,Belian,belian
-gdc,mvqp.0,76281,76392,_stage,76289,76297,Marpalye,marpalye
-gdc,mvqp.0,76281,76392,_stage,76299,76307,der Narr,der_narr
-gdc,mvqp.0,76281,76392,_stage,76342,76352,der Fremde,der_fremde
-gdc,mvqp.0,76281,76392,_stage,76354,76371,der Waffenmeister,der_waffenmeister
-gdc,mvqp.0,76393,76876,_stage,76597,76605,Marpalye,marpalye
-gdc,mvqp.0,76393,76876,_stage,76636,76644,der Narr,der_narr
-gdc,mvqp.0,76393,76876,_stage,76821,76827,Belian,belian
-gdc,mvqp.0,76877,77184,_stage,76877,76898,Der erfahrene Wächter,der_erfahrene_waechter
-gdc,mvqp.0,76877,77184,_stage,76948,76958,der Fremde,der_fremde
-gdc,mvqp.0,76877,77184,_stage,76963,76980,der Waffenmeister,der_waffenmeister
-gdc,mvqp.0,76877,77184,_stage,77033,77043,Der Fremde,der_fremde
-gdc,mvqp.0,76877,77184,_stage,77133,77141,Marpalye,marpalye
-gdc,mvqp.0,77187,77332,belian,77218,77224,Belian,belian
-gdc,mvqp.0,77348,77385,_stage,77367,77375,Marpalye,marpalye
-gdc,mvqp.0,77337,77441,der_fremde,77407,77411,mich,der_fremde
-gdc,mvqp.0,77337,77441,der_fremde,77428,77431,ich,der_fremde
-gdc,mvqp.0,77768,77809,der_fremde,77791,77794,ich,der_fremde
-gdc,mvqp.0,77814,78152,belian,77888,77894,Belian,belian
-gdc,mvqp.0,77814,78152,belian,78049,78052,mir,belian
-gdc,mvqp.0,77814,78152,belian,78100,78103,mir,belian
-gdc,mvqp.0,77814,78152,belian,78128,78131,ich,belian
-gdc,mvqp.0,78157,78329,der_fremde,78169,78172,Ich,der_fremde
-gdc,mvqp.0,78157,78329,der_fremde,78281,78285,mich,der_fremde
-gdc,mvqp.0,78157,78329,der_fremde,78298,78306,Marpalye,marpalye
-gdc,mvqp.0,78334,78586,belian,78375,78380,meine,belian
-gdc,mvqp.0,78334,78586,belian,78410,78413,mir,belian
-gdc,mvqp.0,78334,78586,belian,78450,78454,mich,belian
-gdc,mvqp.0,78591,78845,der_narr,78737,78740,ich,der_narr
-gdc,mvqp.0,78963,79085,der_waffenmeister,79056,79059,Ich,der_waffenmeister
-gdc,mvqp.0,79313,79401,der_fremde,79335,79338,ich,der_fremde
-gdc,mvqp.0,79313,79401,der_fremde,79349,79353,mich,der_fremde
-gdc,mvqp.0,79468,79834,der_fremde,79551,79554,ich,der_fremde
-gdc,mvqp.0,79468,79834,der_fremde,79598,79604,meiner,der_fremde
-gdc,mvqp.0,79468,79834,der_fremde,79640,79644,mein,der_fremde
-gdc,mvqp.0,79468,79834,der_fremde,79701,79705,mich,der_fremde
-gdc,mvqp.0,79468,79834,der_fremde,79814,79817,ich,der_fremde
-gdc,mvqp.0,79468,79834,der_fremde,79818,79823,meine,der_fremde
-gdc,mvqp.0,79984,80212,belian,79992,79995,Ich,belian
-gdc,mvqp.0,79984,80212,belian,80071,80079,Marpalye,marpalye
-gdc,mvqp.0,79984,80212,belian,80165,80168,mir,belian
-gdc,mvqp.0,80397,81119,der_sehende_waechter,80648,80652,mich,der_sehende_waechter
-gdc,mvqp.0,80397,81119,der_sehende_waechter,80741,80744,mir,der_sehende_waechter
-gdc,mvqp.0,80397,81119,der_sehende_waechter,80788,80792,mich,der_sehende_waechter
-gdc,mvqp.0,80397,81119,der_sehende_waechter,80818,80822,mich,der_sehende_waechter
-gdc,mvqp.0,80397,81119,der_sehende_waechter,80886,80890,mich,der_sehende_waechter
-gdc,mvqp.0,80397,81119,der_sehende_waechter,81031,81034,ich,der_sehende_waechter
-gdc,mvqp.0,81123,81331,der_erfahrene_waechter,81271,81279,der Herr,der_herr
-gdc,mvqp.0,81123,81331,der_erfahrene_waechter,81284,81287,mir,der_erfahrene_waechter
-gdc,mvqp.0,81391,81594,der_erfahrene_waechter,81418,81424,Belian,belian
-gdc,mvqp.0,81391,81594,der_erfahrene_waechter,81433,81436,Ich,der_erfahrene_waechter
-gdc,mvqp.0,81652,81832,der_erfahrene_waechter,81701,81704,Mir,der_erfahrene_waechter
-gdc,mvqp.0,81652,81832,der_erfahrene_waechter,81767,81770,ich,der_erfahrene_waechter
-gdc,mvqp.0,81652,81832,der_erfahrene_waechter,81771,81774,mir,der_erfahrene_waechter
-gdc,mvqp.0,81652,81832,der_erfahrene_waechter,81810,81816,Belian,belian
-gdc,mvqp.0,81837,81882,der_sehende_waechter,81871,81877,Belian,belian
-gdc,mvqp.0,82002,82082,der_erfahrene_waechter,82068,82071,mir,der_erfahrene_waechter
-gdc,mvqp.0,82087,82152,der_sehende_waechter,82120,82124,mein,der_sehende_waechter
-gdc,mvqp.0,82157,82360,der_erfahrene_waechter,82266,82269,ich,der_erfahrene_waechter
-gdc,mvqp.0,82524,82867,der_erfahrene_waechter,82631,82634,Ich,der_erfahrene_waechter
-gdc,mvqp.0,82524,82867,der_erfahrene_waechter,82835,82838,Ich,der_erfahrene_waechter
-gdc,mvqp.0,82524,82867,der_erfahrene_waechter,82845,82849,mich,der_erfahrene_waechter
-gdc,mvqp.0,82872,82925,der_sehende_waechter,82921,82924,ich,der_sehende_waechter
-gdc,mvqp.0,83285,83650,der_sehende_waechter,83363,83366,mir,der_sehende_waechter
-gdc,mvqp.0,83833,84074,_stage,83898,83908,Der Fremde,der_fremde
-gdc,mvqp.0,83833,84074,_stage,83910,83927,der Waffenmeister,der_waffenmeister
-gdc,mvqp.0,84087,84204,der_waffenmeister,84106,84109,Ich,der_waffenmeister
-gdc,mvqp.0,84455,84768,der_fremde,84555,84560,meine,der_fremde
-gdc,mvqp.0,84455,84768,der_fremde,84685,84689,mein,der_fremde
-gdc,mvqp.0,84455,84768,der_fremde,84696,84699,ich,der_fremde
-gdc,mvqp.0,84827,85078,der_fremde,84844,84847,ich,der_fremde
-gdc,mvqp.0,85229,85276,der_waffenmeister,85263,85271,Marpalye,marpalye
-gdc,mvqp.0,85281,85336,der_fremde,85322,85325,mir,der_fremde
-gdc,mvqp.0,85341,85535,der_waffenmeister,85464,85467,Ich,der_waffenmeister
-gdc,mvqp.0,85575,85664,der_waffenmeister,85608,85611,ich,der_waffenmeister
-gdc,mvqp.0,85786,85977,der_fremde,85828,85834,Belian,belian
-gdc,mvqp.0,86073,86477,der_fremde,86164,86167,mir,der_fremde
-gdc,mvqp.0,86073,86477,der_fremde,86331,86334,mir,der_fremde
-gdc,mvqp.0,86073,86477,der_fremde,86394,86398,mein,der_fremde
-gdc,mvqp.0,86073,86477,der_fremde,86414,86417,Ich,der_fremde
-gdc,mvqp.0,86073,86477,der_fremde,86449,86452,ich,der_fremde
-gdc,mvqp.0,86073,86477,der_fremde,86460,86463,mir,der_fremde
-gdc,mvqp.0,86482,86533,der_waffenmeister,86501,86504,Ich,der_waffenmeister
-gdc,mvqp.0,86538,86753,der_fremde,86655,86658,ich,der_fremde
-gdc,mvqp.0,86678,86753,_stage,86678,86695,Der Waffenmeister,der_waffenmeister
-gdc,mvqp.0,86769,86790,_stage,86769,86779,Der Fremde,der_fremde
-gdc,mvqp.0,86769,86790,_stage,86781,86789,Marpalye,marpalye
-gdc,mvqp.0,86791,87277,_stage,86791,86801,Der Fremde,der_fremde
-gdc,mvqp.0,86791,87277,_stage,87015,87023,Marpalye,marpalye
-gdc,mvqp.0,87279,87446,der_fremde,87412,87420,Marpalye,marpalye
-gdc,mvqp.0,87752,87840,der_fremde,87797,87805,Marpalye,marpalye
-gdc,mvqp.0,87845,87902,marpalye,87889,87892,mir,marpalye
-gdc,mvqp.0,88140,88339,marpalye,88205,88209,mich,marpalye
-gdc,mvqp.0,88140,88339,marpalye,88219,88222,mir,marpalye
-gdc,mvqp.0,88140,88339,marpalye,88271,88274,Ich,marpalye
-gdc,mvqp.0,88344,88434,der_fremde,88422,88430,Marpalye,marpalye
-gdc,mvqp.0,88757,89624,der_fremde,89576,89579,mir,der_fremde
-gdc,mvqp.0,89629,89986,marpalye,89829,89832,ich,marpalye
-gdc,mvqp.0,90001,90074,_stage,90036,90044,Marpalye,marpalye
-gdc,mvqp.0,90710,90998,_stage,90710,90716,Belian,belian
-gdc,mvqp.0,90710,90998,_stage,90721,90742,der erfahrene Wächter,der_erfahrene_waechter
-gdc,mvqp.0,90710,90998,_stage,90761,90767,Belian,belian
-gdc,mvqp.0,90710,90998,_stage,90900,90921,Der erfahrene Wächter,der_erfahrene_waechter
-gdc,mvqp.0,91043,91154,der_erfahrene_waechter,91066,91069,Ich,der_erfahrene_waechter
-gdc,mvqp.0,91043,91154,der_erfahrene_waechter,91138,91141,Ich,der_erfahrene_waechter
-gdc,mvqp.0,91159,91429,belian,91398,91406,Marpalye,marpalye
-gdc,mvqp.0,91159,91429,belian,91411,91414,ich,belian
-gdc,mvqp.0,91576,91657,belian,91610,91613,ich,belian
-gdc,mvqp.0,91662,91757,der_erste_geblendete,91732,91740,Marpalye,marpalye
-gdc,mvqp.0,91774,91832,_stage,91782,91790,Marpalye,marpalye
-gdc,mvqp.0,91774,91832,_stage,91792,91800,der Narr,der_narr
-gdc,mvqp.0,91774,91832,_stage,91802,91812,der Fremde,der_fremde
-gdc,mvqp.0,91774,91832,_stage,91814,91831,der Waffenmeister,der_waffenmeister
-gdc,mvqp.0,91877,92043,belian,91957,91965,Marpalye,marpalye
-gdc,mvqp.0,92057,92139,_stage,92099,92109,der Fremde,der_fremde
-gdc,mvqp.0,92057,92139,_stage,92114,92131,der Waffenmeister,der_waffenmeister
-gdc,mvqp.0,92248,92349,_stage,92342,92348,Belian,belian
-gdc,mvqp.0,92986,93304,der_waffenmeister,93212,93215,ich,der_waffenmeister
-gdc,mvqp.0,93320,93372,_stage,93365,93371,Belian,belian
-gdc,mvqp.0,93432,93513,belian,93471,93474,Mir,belian
-gdc,mvqp.0,93432,93513,belian,93479,93483,mein,belian
-gdc,mvqp.0,94206,94341,belian,94312,94320,Marpalye,marpalye
-gdc,mvqp.0,94385,94512,_stage,94408,94429,der erfahrene Wächter,der_erfahrene_waechter
-gdc,mvqp.0,94378,94603,belian,94568,94574,meinem,belian
-gdc,mvqp.0,94378,94603,belian,94585,94591,meiner,belian
-gdc,mvqp.0,94905,95413,_stage,94905,94911,Belian,belian
-gdc,mvqp.0,94905,95413,_stage,95023,95044,Der erfahrene Wächter,der_erfahrene_waechter
-gdc,mvqp.0,94905,95413,_stage,95062,95070,Marpalye,marpalye
-gdc,mvqp.0,94905,95413,_stage,95090,95098,der Narr,der_narr
-gdc,mvqp.0,94905,95413,_stage,95137,95147,Der Fremde,der_fremde
-gdc,mvqp.0,94905,95413,_stage,95266,95272,Belian,belian
-gdc,mvqp.0,94905,95413,_stage,95319,95325,Belian,belian
-gdc,mvqp.0,95427,95846,_stage,95644,95663,die jungen Bauleute,die_jungen_bauleute
-gdc,mvqp.0,95427,95846,_stage,95765,95775,Der Fremde,der_fremde
-gdc,mvqp.0,95427,95846,_stage,95780,95788,Marpalye,marpalye
-gdc,mvqp.0,96112,96465,der_fremde,96180,96184,mich,der_fremde
-gdc,mvqp.0,96298,96465,_stage,96307,96326,die jungen Bauleute,die_jungen_bauleute
-gdc,mvqp.0,96298,96465,_stage,96360,96370,Der Fremde,der_fremde
-gdc,mvqp.0,96298,96465,_stage,96375,96383,Marpalye,marpalye
-gdc,mvqp.0,97540,97565,marpalye,97561,97564,ich,marpalye
-gdc,mvqp.0,97570,97609,ein_junges_maedchen,97599,97602,ich,ein_junges_maedchen
-gdc,mvqp.0,97625,97653,_stage,97625,97633,Marpalye,marpalye
-gdc,mvqp.0,97614,98255,der_fremde,97917,97925,Marpalye,marpalye
-gdc,mvqp.0,98072,98255,_stage,98072,98084,Die Bauleute,die_jungen_bauleute
-gdc,mvqp.0,98072,98255,_stage,98207,98215,der alte,der_alte
-gdc,mvqp.0,98072,98255,_stage,98220,98237,der junge Gärtner,der_junge_gaertner
-gdc,mvqp.0,98259,98328,der_alte_gaertner,98288,98291,Ich,der_alte_gaertner
-gdc,mvqp.0,98481,98520,der_junge_gaertner,98504,98514,der fremde,der_fremde
-gdc,mvqp.0,98525,98571,der_alte_gaertner,98556,98566,der Fremde,der_fremde
-gdc,mvqp.0,99000,99139,_stage,99034,99050,der alte Gärtner,der_alte_gaertner
-gdc,mvqp.0,99000,99139,_stage,99034,99042,der alte,der_alte
+gdc,mvqp.0,10009,12027,_stage,11518,11526,der alte,der_alte
+gdc,mvqp.0,10009,12027,_stage,11637,11645,der alte,der_alte
+gdc,mvqp.0,10009,12027,_stage,11650,11667,der junge Gärtner,der_junge_gaertner
+gdc,mvqp.0,10009,12027,_stage,11736,11753,Der junge Gärtner,der_junge_gaertner
+gdc,mvqp.0,10009,12027,_stage,11858,11866,der alte,der_alte
+gdc,mvqp.0,10009,12027,_stage,11897,11907,Der Fremde,der_fremde
+gdc,mvqp.0,12040,12098,_stage,12040,12050,Der Fremde,der_fremde
+gdc,mvqp.0,12040,12098,_stage,12052,12060,der alte,der_alte
+gdc,mvqp.0,12040,12098,_stage,12067,12075,der alte,der_alte
+gdc,mvqp.0,12040,12098,_stage,12080,12097,der junge Gärtner,der_junge_gaertner
+gdc,mvqp.0,12447,12516,der_alte,12468,12471,ich,der_alte
+gdc,mvqp.0,12521,12647,der_fremde,12640,12643,ich,der_fremde
+gdc,mvqp.0,12705,12874,der_alte,12718,12721,ich,der_alte
+gdc,mvqp.0,12705,12874,der_alte,12750,12753,ich,der_alte
+gdc,mvqp.0,12705,12874,der_alte,12780,12783,ich,der_alte
+gdc,mvqp.0,12879,13002,der_fremde,12949,12952,ich,der_fremde
+gdc,mvqp.0,13968,14010,der_alte_gaertner,14006,14009,ich,der_alte_gaertner
+gdc,mvqp.0,14136,14758,der_alte_gaertner,14250,14258,Der Alte,der_alte
+gdc,mvqp.0,14136,14758,der_alte_gaertner,14609,14612,mir,der_alte_gaertner
+gdc,mvqp.0,14763,15770,der_alte,15228,15231,Ich,der_alte
+gdc,mvqp.0,14763,15770,der_alte,15438,15441,Ich,der_alte
+gdc,mvqp.0,14763,15770,der_alte,15715,15723,der alte,der_alte
+gdc,mvqp.0,14763,15770,der_alte,15730,15736,Belian,belian
+gdc,mvqp.0,15786,15815,_stage,15786,15796,Der Fremde,der_fremde
+gdc,mvqp.0,15947,17568,der_alte_gaertner,16152,16160,der alte,der_alte
+gdc,mvqp.0,15947,17568,der_alte_gaertner,16173,16179,Belian,belian
+gdc,mvqp.0,15947,17568,der_alte_gaertner,16338,16341,ich,der_alte_gaertner
+gdc,mvqp.0,15947,17568,der_alte_gaertner,17072,17078,Belian,belian
+gdc,mvqp.0,15947,17568,der_alte_gaertner,17178,17188,der Fremde,der_fremde
+gdc,mvqp.0,15947,17568,der_alte_gaertner,17439,17442,Ich,der_alte_gaertner
+gdc,mvqp.0,17739,17845,der_junge_gaertner,17762,17772,der fremde,der_fremde
+gdc,mvqp.0,17850,18475,der_alte_gaertner,18056,18075,die jungen Bauleute,die_jungen_bauleute
+gdc,mvqp.0,18602,18627,der_fremde,18614,18617,Ich,der_fremde
+gdc,mvqp.0,18685,18927,der_fremde,18703,18706,ich,der_fremde
+gdc,mvqp.0,18685,18927,der_fremde,18753,18756,ich,der_fremde
+gdc,mvqp.0,18685,18927,der_fremde,18764,18767,Ich,der_fremde
+gdc,mvqp.0,18685,18927,der_fremde,18816,18819,ich,der_fremde
+gdc,mvqp.0,18685,18927,der_fremde,18870,18873,Ich,der_fremde
+gdc,mvqp.0,18685,18927,der_fremde,18901,18904,ich,der_fremde
+gdc,mvqp.0,19049,19514,der_alte_gaertner,19240,19252,Das Fräulein,das_fraeulein
+gdc,mvqp.0,19049,19514,der_alte_gaertner,19417,19420,ich,der_alte_gaertner
+gdc,mvqp.0,19519,19577,der_junge_gaertner,19538,19550,Das Fräulein,das_fraeulein
+gdc,mvqp.0,19582,19729,der_alte_gaertner,19620,19623,Ich,der_alte_gaertner
+gdc,mvqp.0,20463,20485,_stage,20471,20479,der alte,der_alte
+gdc,mvqp.0,20487,20975,der_alte,20732,20740,Der alte,der_alte
+gdc,mvqp.0,20487,20975,der_alte,20747,20753,Belian,belian
+gdc,mvqp.0,20487,20975,der_alte,20858,20861,Ich,der_alte
+gdc,mvqp.0,21840,22024,_stage,21949,21959,der Fremde,der_fremde
+gdc,mvqp.0,22048,22388,_stage,22072,22080,Der Herr,der_herr
+gdc,mvqp.0,22048,22388,_stage,22096,22113,der zweite Freier,der_zweite_freier
+gdc,mvqp.0,22048,22388,_stage,22128,22140,das Fräulein,das_fraeulein
+gdc,mvqp.0,22048,22388,_stage,22142,22159,der dritte Freier,der_dritte_freier
+gdc,mvqp.0,22048,22388,_stage,22164,22184,der dichtende Freier,der_dichtende_freier
+gdc,mvqp.0,22391,22824,der_erste_freier,22760,22763,ich,der_erste_freier
+gdc,mvqp.0,23620,23943,der_erste_freier,23642,23645,ich,der_erste_freier
+gdc,mvqp.0,23620,23943,der_erste_freier,23831,23834,ich,der_erste_freier
+gdc,mvqp.0,24075,24120,der_herr,24085,24088,Ich,der_herr
+gdc,mvqp.0,24125,24221,der_erste_freier,24195,24198,ich,der_erste_freier
+gdc,mvqp.0,24265,24400,der_erste_freier,24375,24378,ich,der_erste_freier
+gdc,mvqp.0,24265,24400,der_erste_freier,24390,24393,ich,der_erste_freier
+gdc,mvqp.0,24405,24439,der_herr,24430,24433,ich,der_herr
+gdc,mvqp.0,24697,24758,der_herr,24738,24741,mir,der_herr
+gdc,mvqp.0,25529,25674,der_zweite_freier,25603,25606,Ich,der_zweite_freier
+gdc,mvqp.0,25746,26148,der_erste_freier,25804,25807,Ich,der_erste_freier
+gdc,mvqp.0,25746,26148,der_erste_freier,25985,25988,ich,der_erste_freier
+gdc,mvqp.0,25746,26148,der_erste_freier,26078,26086,der Herr,der_herr
+gdc,mvqp.0,25746,26148,der_erste_freier,26102,26119,der zweite Freier,der_zweite_freier
+gdc,mvqp.0,26165,26248,_stage,26165,26177,Das Fräulein,das_fraeulein
+gdc,mvqp.0,26165,26248,_stage,26179,26196,der dritte Freier,der_dritte_freier
+gdc,mvqp.0,26165,26248,_stage,26201,26221,der dichtende Freier,der_dichtende_freier
+gdc,mvqp.0,26250,26510,der_dritte_freier,26346,26351,meine,der_dritte_freier
+gdc,mvqp.0,26250,26510,der_dritte_freier,26424,26427,ich,der_dritte_freier
+gdc,mvqp.0,26647,26704,der_dichtende_freier,26675,26678,ich,der_dichtende_freier
+gdc,mvqp.0,26735,26764,der_dritte_freier,26759,26763,mich,der_dritte_freier
+gdc,mvqp.0,27088,27220,der_dritte_freier,27122,27125,ich,der_dritte_freier
+gdc,mvqp.0,27297,27349,der_dritte_freier,27316,27319,Ich,der_dritte_freier
+gdc,mvqp.0,27354,27405,der_dichtende_freier,27401,27404,mir,der_dichtende_freier
+gdc,mvqp.0,27807,27875,das_fraeulein,27858,27862,mich,das_fraeulein
+gdc,mvqp.0,28088,28161,der_dichtende_freier,28145,28150,meine,der_dichtende_freier
+gdc,mvqp.0,28166,28293,der_dritte_freier,28193,28196,ich,der_dritte_freier
+gdc,mvqp.0,28166,28293,der_dritte_freier,28236,28240,mein,der_dritte_freier
+gdc,mvqp.0,28166,28293,der_dritte_freier,28247,28250,Ich,der_dritte_freier
+gdc,mvqp.0,28166,28293,der_dritte_freier,28258,28261,mir,der_dritte_freier
+gdc,mvqp.0,28467,28783,der_dichtende_freier,28690,28693,ich,der_dichtende_freier
+gdc,mvqp.0,28467,28783,der_dichtende_freier,28726,28729,Ich,der_dichtende_freier
+gdc,mvqp.0,28841,29053,der_dichtende_freier,28979,28982,Ich,der_dichtende_freier
+gdc,mvqp.0,28841,29053,der_dichtende_freier,29028,29031,ich,der_dichtende_freier
+gdc,mvqp.0,29415,29485,der_fremde,29436,29453,Der junge Gärtner,der_junge_gaertner
+gdc,mvqp.0,29490,29531,der_junge_gaertner,29521,29529,Marpalye,marpalye
+gdc,mvqp.0,29536,29650,der_dichtende_freier,29640,29648,Marpalye,marpalye
+gdc,mvqp.0,29911,29996,der_dichtende_freier,29942,29945,Ich,der_dichtende_freier
+gdc,mvqp.0,30201,30345,das_fraeulein,30272,30275,Ich,das_fraeulein
+gdc,mvqp.0,30350,30433,der_dichtende_freier,30372,30375,Ich,der_dichtende_freier
+gdc,mvqp.0,30575,30680,das_fraeulein,30671,30679,Marpalye,marpalye
+gdc,mvqp.0,30738,30914,das_fraeulein,30829,30832,ich,das_fraeulein
+gdc,mvqp.0,31350,31482,_stage,31350,31360,Der Fremde,der_fremde
+gdc,mvqp.0,31544,31839,das_fraeulein,31615,31618,Ich,das_fraeulein
+gdc,mvqp.0,31544,31839,das_fraeulein,31647,31655,Marpalye,marpalye
+gdc,mvqp.0,31856,31926,_stage,31864,31872,der Herr,der_herr
+gdc,mvqp.0,32010,32171,der_erste_freier,32064,32067,Ich,der_erste_freier
+gdc,mvqp.0,32742,32916,_stage,32766,32776,der Fremde,der_fremde
+gdc,mvqp.0,32742,32916,_stage,32829,32846,Der dritte Freier,der_dritte_freier
+gdc,mvqp.0,32742,32916,_stage,32868,32878,Der Fremde,der_fremde
+gdc,mvqp.0,32933,33130,_stage,33011,33019,Marpalye,marpalye
+gdc,mvqp.0,33154,33695,der_fremde,33278,33286,Marpalye,marpalye
+gdc,mvqp.0,33289,33695,_stage,33293,33305,das Fräulein,das_fraeulein
+gdc,mvqp.0,33289,33695,_stage,33335,33354,die jungen Bauleute,die_jungen_bauleute
+gdc,mvqp.0,33289,33695,_stage,33415,33427,das Fräulein,das_fraeulein
+gdc,mvqp.0,33289,33695,_stage,33465,33475,Der Fremde,der_fremde
+gdc,mvqp.0,33941,34086,_stage,33996,34006,Der Fremde,der_fremde
+gdc,mvqp.0,34420,34731,_stage,34420,34440,Der erste Geblendete,der_erste_geblendete
+gdc,mvqp.0,34420,34731,_stage,34633,34654,der zweite Geblendete,der_zweite_geblendete
+gdc,mvqp.0,34732,34897,_stage,34775,34794,der sehende Wächter,der_sehende_waechter
+gdc,mvqp.0,34732,34897,_stage,34796,34804,der alte,der_alte
+gdc,mvqp.0,34732,34897,_stage,34809,34826,der junge Gärtner,der_junge_gaertner
+gdc,mvqp.0,35167,35451,der_erste_geblendete,35198,35201,mir,der_erste_geblendete
+gdc,mvqp.0,35167,35451,der_erste_geblendete,35357,35361,mein,der_erste_geblendete
+gdc,mvqp.0,35167,35451,der_erste_geblendete,35427,35430,Ich,der_erste_geblendete
+gdc,mvqp.0,35167,35451,der_erste_geblendete,35435,35438,Ich,der_erste_geblendete
+gdc,mvqp.0,35800,36086,der_erste_geblendete,35826,35829,ich,der_erste_geblendete
+gdc,mvqp.0,35800,36086,der_erste_geblendete,35853,35859,meinen,der_erste_geblendete
+gdc,mvqp.0,36324,36433,der_erfahrene_waechter,36392,36396,Mein,der_erfahrene_waechter
+gdc,mvqp.0,36438,36946,der_erste_geblendete,36611,36614,ich,der_erste_geblendete
+gdc,mvqp.0,36438,36946,der_erste_geblendete,36908,36911,Ich,der_erste_geblendete
+gdc,mvqp.0,36951,37282,der_zweite_geblendete,37144,37147,mir,der_zweite_geblendete
+gdc,mvqp.0,37483,38545,der_zweite_geblendete,37538,37541,Ich,der_zweite_geblendete
+gdc,mvqp.0,37483,38545,der_zweite_geblendete,37576,37580,mein,der_zweite_geblendete
+gdc,mvqp.0,37483,38545,der_zweite_geblendete,37588,37592,mein,der_zweite_geblendete
+gdc,mvqp.0,37483,38545,der_zweite_geblendete,37675,37681,meiner,der_zweite_geblendete
+gdc,mvqp.0,37483,38545,der_zweite_geblendete,37692,37695,ich,der_zweite_geblendete
+gdc,mvqp.0,37483,38545,der_zweite_geblendete,37734,37740,meinen,der_zweite_geblendete
+gdc,mvqp.0,37483,38545,der_zweite_geblendete,37756,37760,mein,der_zweite_geblendete
+gdc,mvqp.0,37483,38545,der_zweite_geblendete,37862,37868,meines,der_zweite_geblendete
+gdc,mvqp.0,37483,38545,der_zweite_geblendete,37908,37912,mein,der_zweite_geblendete
+gdc,mvqp.0,37483,38545,der_zweite_geblendete,38159,38162,Ich,der_zweite_geblendete
+gdc,mvqp.0,37483,38545,der_zweite_geblendete,38288,38291,mir,der_zweite_geblendete
+gdc,mvqp.0,37483,38545,der_zweite_geblendete,38439,38442,mir,der_zweite_geblendete
+gdc,mvqp.0,37483,38545,der_zweite_geblendete,38531,38535,Mein,der_zweite_geblendete
+gdc,mvqp.0,38550,38626,der_erste_geblendete,38613,38617,Mein,der_erste_geblendete
+gdc,mvqp.0,38644,38689,_stage,38652,38670,die stumme Sklavin,die_stumme_sklavin
+gdc,mvqp.0,38702,38895,_stage,38708,38726,die stumme Sklavin,die_stumme_sklavin
+gdc,mvqp.0,38691,38942,der_knecht,38918,38926,Der Herr,der_herr
+gdc,mvqp.0,39194,39467,der_knecht,39384,39387,Ich,der_knecht
+gdc,mvqp.0,39547,39885,der_erfahrene_waechter,39607,39625,die stumme Sklavin,die_stumme_sklavin
+gdc,mvqp.0,39547,39885,der_erfahrene_waechter,39859,39865,Belian,belian
+gdc,mvqp.0,39890,40405,der_sehende_waechter,39973,39976,Ich,der_sehende_waechter
+gdc,mvqp.0,39890,40405,der_sehende_waechter,39984,39988,mein,der_sehende_waechter
+gdc,mvqp.0,39890,40405,der_sehende_waechter,40187,40191,mich,der_sehende_waechter
+gdc,mvqp.0,39890,40405,der_sehende_waechter,40202,40206,mich,der_sehende_waechter
+gdc,mvqp.0,39890,40405,der_sehende_waechter,40286,40289,ich,der_sehende_waechter
+gdc,mvqp.0,39890,40405,der_sehende_waechter,40299,40302,ich,der_sehende_waechter
+gdc,mvqp.0,40332,40405,_stage,40332,40350,Die stumme Sklavin,die_stumme_sklavin
+gdc,mvqp.0,40421,40458,_stage,40429,40435,Belian,belian
+gdc,mvqp.0,40421,40458,_stage,40440,40457,der dritte Freier,der_dritte_freier
+gdc,mvqp.0,40525,40557,der_erfahrene_waechter,40548,40556,Der Herr,der_herr
+gdc,mvqp.0,40611,40830,der_erste_geblendete,40645,40651,Belian,belian
+gdc,mvqp.0,40659,40830,_stage,40725,40731,Belian,belian
+gdc,mvqp.0,40834,41182,belian,40929,40933,mein,belian
+gdc,mvqp.0,40834,41182,belian,41090,41093,Ich,belian
+gdc,mvqp.0,41224,41314,der_dritte_freier,41276,41279,mir,der_dritte_freier
+gdc,mvqp.0,41319,41537,belian,41365,41369,mein,belian
+gdc,mvqp.0,41319,41537,belian,41384,41387,ich,belian
+gdc,mvqp.0,42121,42212,der_dritte_freier,42168,42171,Ich,der_dritte_freier
+gdc,mvqp.0,42217,42250,belian,42242,42245,ich,belian
+gdc,mvqp.0,42255,43179,der_dritte_freier,42286,42289,ich,der_dritte_freier
+gdc,mvqp.0,42255,43179,der_dritte_freier,42306,42309,ich,der_dritte_freier
+gdc,mvqp.0,42255,43179,der_dritte_freier,42323,42327,mein,der_dritte_freier
+gdc,mvqp.0,42255,43179,der_dritte_freier,42357,42361,mich,der_dritte_freier
+gdc,mvqp.0,42255,43179,der_dritte_freier,42858,42864,meinen,der_dritte_freier
+gdc,mvqp.0,42255,43179,der_dritte_freier,42893,42896,Ich,der_dritte_freier
+gdc,mvqp.0,42255,43179,der_dritte_freier,42912,42915,ich,der_dritte_freier
+gdc,mvqp.0,42255,43179,der_dritte_freier,42967,42975,Marpalye,marpalye
+gdc,mvqp.0,42255,43179,der_dritte_freier,43000,43003,mir,der_dritte_freier
+gdc,mvqp.0,42255,43179,der_dritte_freier,43074,43077,ich,der_dritte_freier
+gdc,mvqp.0,42255,43179,der_dritte_freier,43129,43137,Marpalye,marpalye
+gdc,mvqp.0,43185,43673,belian,43362,43366,mein,belian
+gdc,mvqp.0,43498,43673,_stage,43582,43590,Marpalye,marpalye
+gdc,mvqp.0,43934,44219,der_dritte_freier,43955,43963,Marpalye,marpalye
+gdc,mvqp.0,43988,44219,_stage,44083,44104,Der erfahrene Wächter,der_erfahrene_waechter
+gdc,mvqp.0,43988,44219,_stage,44189,44197,Marpalye,marpalye
+gdc,mvqp.0,44489,45382,belian,44618,44621,ich,belian
+gdc,mvqp.0,44489,45382,belian,44658,44661,ich,belian
+gdc,mvqp.0,44489,45382,belian,44815,44818,mir,belian
+gdc,mvqp.0,44489,45382,belian,44827,44830,Ich,belian
+gdc,mvqp.0,44489,45382,belian,44849,44853,mein,belian
+gdc,mvqp.0,44489,45382,belian,44862,44865,Ich,belian
+gdc,mvqp.0,44489,45382,belian,44878,44883,meine,belian
+gdc,mvqp.0,44489,45382,belian,44899,44905,meiner,belian
+gdc,mvqp.0,44489,45382,belian,44985,44989,mich,belian
+gdc,mvqp.0,44489,45382,belian,45004,45007,Ich,belian
+gdc,mvqp.0,44489,45382,belian,45015,45019,mich,belian
+gdc,mvqp.0,44489,45382,belian,45078,45081,ich,belian
+gdc,mvqp.0,44489,45382,belian,45166,45169,Ich,belian
+gdc,mvqp.0,44489,45382,belian,45205,45208,ich,belian
+gdc,mvqp.0,44489,45382,belian,45233,45251,die stumme Sklavin,die_stumme_sklavin
+gdc,mvqp.0,45608,45646,_stage,45626,45632,Belian,belian
+gdc,mvqp.0,45899,46447,belian,45916,45919,Ich,belian
+gdc,mvqp.0,45899,46447,belian,45967,45970,mir,belian
+gdc,mvqp.0,45899,46447,belian,46037,46040,mir,belian
+gdc,mvqp.0,46342,46447,_stage,46342,46348,Belian,belian
+gdc,mvqp.0,46510,46588,der_zweite_geblendete,46558,46563,Meine,der_zweite_geblendete
+gdc,mvqp.0,46510,46588,der_zweite_geblendete,46577,46581,mein,der_zweite_geblendete
+gdc,mvqp.0,46972,47204,_stage,47006,47025,der sehende Wächter,der_sehende_waechter
+gdc,mvqp.0,48058,48105,der_erfahrene_waechter,48085,48089,mich,der_erfahrene_waechter
+gdc,mvqp.0,49367,49513,_stage,49431,49452,der zweite Geblendete,der_zweite_geblendete
+gdc,mvqp.0,49603,49692,der_erste_geblendete,49659,49663,Mein,der_erste_geblendete
+gdc,mvqp.0,49603,49692,der_erste_geblendete,49679,49683,Mein,der_erste_geblendete
+gdc,mvqp.0,49697,49767,der_zweite_geblendete,49734,49738,Mein,der_zweite_geblendete
+gdc,mvqp.0,49697,49767,der_zweite_geblendete,49749,49754,Meine,der_zweite_geblendete
+gdc,mvqp.0,49772,49847,der_dritte_geblendete,49835,49843,Marpalye,marpalye
+gdc,mvqp.0,49852,50200,der_erfahrene_waechter,50188,50196,Marpalye,marpalye
+gdc,mvqp.0,50451,50863,der_erfahrene_waechter,50490,50493,mir,der_erfahrene_waechter
+gdc,mvqp.0,50451,50863,der_erfahrene_waechter,50535,50538,ich,der_erfahrene_waechter
+gdc,mvqp.0,51276,51666,der_sehende_waechter,51431,51434,Ich,der_sehende_waechter
+gdc,mvqp.0,51671,53154,der_erfahrene_waechter,52001,52006,Meine,der_erfahrene_waechter
+gdc,mvqp.0,51671,53154,der_erfahrene_waechter,52025,52030,meine,der_erfahrene_waechter
+gdc,mvqp.0,51671,53154,der_erfahrene_waechter,52405,52411,Belian,belian
+gdc,mvqp.0,51671,53154,der_erfahrene_waechter,52905,52911,Belian,belian
+gdc,mvqp.0,53699,54054,_stage,53823,53831,Marpalye,marpalye
+gdc,mvqp.0,53699,54054,_stage,53899,53907,Der Narr,der_narr
+gdc,mvqp.0,53699,54054,_stage,53909,53929,der dichtende Freier,der_dichtende_freier
+gdc,mvqp.0,54748,55061,der_narr,55005,55013,Marpalye,marpalye
+gdc,mvqp.0,55381,55791,marpalye,55481,55484,mir,marpalye
+gdc,mvqp.0,55381,55791,marpalye,55522,55525,mir,marpalye
+gdc,mvqp.0,55796,56633,der_narr,55885,55893,Marpalye,marpalye
+gdc,mvqp.0,55796,56633,der_narr,55944,55947,ich,der_narr
+gdc,mvqp.0,55796,56633,der_narr,55973,55976,ich,der_narr
+gdc,mvqp.0,55796,56633,der_narr,56023,56026,mir,der_narr
+gdc,mvqp.0,55796,56633,der_narr,56051,56054,ich,der_narr
+gdc,mvqp.0,56819,57051,der_narr,56839,56842,Mir,der_narr
+gdc,mvqp.0,56819,57051,der_narr,56874,56877,Ich,der_narr
+gdc,mvqp.0,56819,57051,der_narr,56905,56908,mir,der_narr
+gdc,mvqp.0,56819,57051,der_narr,56957,56961,mich,der_narr
+gdc,mvqp.0,56819,57051,der_narr,56987,56995,Marpalye,marpalye
+gdc,mvqp.0,56819,57051,der_narr,57016,57019,mir,der_narr
+gdc,mvqp.0,56819,57051,der_narr,57031,57034,ich,der_narr
+gdc,mvqp.0,57092,57517,der_narr,57149,57152,ich,der_narr
+gdc,mvqp.0,57092,57517,der_narr,57157,57163,Belian,belian
+gdc,mvqp.0,57092,57517,der_narr,57214,57217,ich,der_narr
+gdc,mvqp.0,57092,57517,der_narr,57236,57239,mir,der_narr
+gdc,mvqp.0,57092,57517,der_narr,57449,57453,mein,der_narr
+gdc,mvqp.0,57092,57517,der_narr,57464,57467,ich,der_narr
+gdc,mvqp.0,57092,57517,der_narr,57498,57501,ich,der_narr
+gdc,mvqp.0,57546,57729,der_narr,57612,57620,Marpalye,marpalye
+gdc,mvqp.0,57734,58787,marpalye,57872,57875,ich,marpalye
+gdc,mvqp.0,57734,58787,marpalye,57889,57892,ich,marpalye
+gdc,mvqp.0,57734,58787,marpalye,57988,57991,Ich,marpalye
+gdc,mvqp.0,57734,58787,marpalye,58114,58117,mir,marpalye
+gdc,mvqp.0,57734,58787,marpalye,58142,58147,meine,marpalye
+gdc,mvqp.0,57734,58787,marpalye,58176,58179,mir,marpalye
+gdc,mvqp.0,57734,58787,marpalye,58277,58280,mir,marpalye
+gdc,mvqp.0,57734,58787,marpalye,58306,58310,mich,marpalye
+gdc,mvqp.0,57734,58787,marpalye,58322,58325,ich,marpalye
+gdc,mvqp.0,57734,58787,marpalye,58362,58365,ich,marpalye
+gdc,mvqp.0,57734,58787,marpalye,58543,58547,mich,marpalye
+gdc,mvqp.0,57734,58787,marpalye,58565,58568,ich,marpalye
+gdc,mvqp.0,57734,58787,marpalye,58626,58632,meinen,marpalye
+gdc,mvqp.0,57734,58787,marpalye,58753,58756,Ich,marpalye
+gdc,mvqp.0,57734,58787,marpalye,58772,58775,Ich,marpalye
+gdc,mvqp.0,58792,59489,der_narr,59067,59070,Ich,der_narr
+gdc,mvqp.0,58792,59489,der_narr,59212,59215,Ich,der_narr
+gdc,mvqp.0,58792,59489,der_narr,59246,59254,Marpalye,marpalye
+gdc,mvqp.0,58792,59489,der_narr,59296,59299,Ich,der_narr
+gdc,mvqp.0,58792,59489,der_narr,59317,59321,mein,der_narr
+gdc,mvqp.0,59505,59533,_stage,59513,59532,der sehende Wächter,der_sehende_waechter
+gdc,mvqp.0,59641,59737,der_sehende_waechter,59705,59708,mir,der_sehende_waechter
+gdc,mvqp.0,59641,59737,der_sehende_waechter,59713,59716,Ich,der_sehende_waechter
+gdc,mvqp.0,59641,59737,der_sehende_waechter,59725,59733,der Herr,der_herr
+gdc,mvqp.0,60120,60182,der_sehende_waechter,60141,60144,Ich,der_sehende_waechter
+gdc,mvqp.0,60120,60182,der_sehende_waechter,60173,60176,ich,der_sehende_waechter
+gdc,mvqp.0,60243,60281,_stage,60243,60251,Marpalye,marpalye
+gdc,mvqp.0,60223,60884,der_sehende_waechter,60447,60450,Ich,der_sehende_waechter
+gdc,mvqp.0,60223,60884,der_sehende_waechter,60790,60794,mich,der_sehende_waechter
+gdc,mvqp.0,61002,61084,der_sehende_waechter,61061,61064,Ich,der_sehende_waechter
+gdc,mvqp.0,61181,61280,der_sehende_waechter,61215,61218,Ich,der_sehende_waechter
+gdc,mvqp.0,61181,61280,der_sehende_waechter,61261,61264,ich,der_sehende_waechter
+gdc,mvqp.0,61827,61913,der_narr,61877,61880,Ich,der_narr
+gdc,mvqp.0,61827,61913,der_narr,61890,61894,mein,der_narr
+gdc,mvqp.0,61827,61913,der_narr,61901,61909,Marpalye,marpalye
+gdc,mvqp.0,62019,62081,_stage,62027,62035,der Narr,der_narr
+gdc,mvqp.0,62315,62620,_stage,62315,62325,Der Fremde,der_fremde
+gdc,mvqp.0,62315,62620,_stage,62498,62506,der alte,der_alte
+gdc,mvqp.0,62633,62757,der_fremde,62703,62709,meiner,der_fremde
+gdc,mvqp.0,62762,62929,der_waffenmeister,62904,62907,ich,der_waffenmeister
+gdc,mvqp.0,62934,62989,der_fremde,62985,62988,mir,der_fremde
+gdc,mvqp.0,62994,63097,der_waffenmeister,63013,63016,Ich,der_waffenmeister
+gdc,mvqp.0,62994,63097,der_waffenmeister,63022,63026,mich,der_waffenmeister
+gdc,mvqp.0,63592,63718,der_waffenmeister,63611,63614,Ich,der_waffenmeister
+gdc,mvqp.0,64634,65408,der_waffenmeister,64689,64693,mich,der_waffenmeister
+gdc,mvqp.0,64634,65408,der_waffenmeister,64715,64719,mich,der_waffenmeister
+gdc,mvqp.0,64634,65408,der_waffenmeister,64757,64763,meinen,der_waffenmeister
+gdc,mvqp.0,64634,65408,der_waffenmeister,64812,64815,Ich,der_waffenmeister
+gdc,mvqp.0,64634,65408,der_waffenmeister,65080,65084,mein,der_waffenmeister
+gdc,mvqp.0,64634,65408,der_waffenmeister,65180,65183,ich,der_waffenmeister
+gdc,mvqp.0,66067,66136,der_fremde,66088,66091,ich,der_fremde
+gdc,mvqp.0,66067,66136,der_fremde,66122,66125,ich,der_fremde
+gdc,mvqp.0,66786,66903,der_waffenmeister,66805,66808,Ich,der_waffenmeister
+gdc,mvqp.0,66908,66944,der_fremde,66920,66923,Ich,der_fremde
+gdc,mvqp.0,67927,67968,der_waffenmeister,67946,67949,Ich,der_waffenmeister
+gdc,mvqp.0,68021,68049,_stage,68029,68048,der sehende Wächter,der_sehende_waechter
+gdc,mvqp.0,68050,68142,_stage,68050,68069,Der sehende Wächter,der_sehende_waechter
+gdc,mvqp.0,68144,68175,der_fremde,68171,68174,mir,der_fremde
+gdc,mvqp.0,68180,68229,der_sehende_waechter,68201,68205,Mein,der_sehende_waechter
+gdc,mvqp.0,68180,68229,der_sehende_waechter,68221,68225,mich,der_sehende_waechter
+gdc,mvqp.0,68269,68414,der_sehende_waechter,68304,68312,Der Herr,der_herr
+gdc,mvqp.0,68269,68414,der_sehende_waechter,68328,68334,Belian,belian
+gdc,mvqp.0,68419,68541,der_fremde,68456,68459,Ich,der_fremde
+gdc,mvqp.0,68419,68541,der_fremde,68494,68497,ich,der_fremde
+gdc,mvqp.0,68546,68620,der_sehende_waechter,68597,68601,mich,der_sehende_waechter
+gdc,mvqp.0,68841,68974,der_sehende_waechter,68895,68898,ich,der_sehende_waechter
+gdc,mvqp.0,69126,69262,der_fremde,69157,69160,ich,der_fremde
+gdc,mvqp.0,69716,69783,der_sehende_waechter,69750,69754,mich,der_sehende_waechter
+gdc,mvqp.0,70191,70221,_stage,70191,70201,Der Fremde,der_fremde
+gdc,mvqp.0,70191,70221,_stage,70203,70220,der Waffenmeister,der_waffenmeister
+gdc,mvqp.0,70568,70688,_stage,70592,70609,Der Waffenmeister,der_waffenmeister
+gdc,mvqp.0,70917,71037,_stage,70944,70952,der Narr,der_narr
+gdc,mvqp.0,70917,71037,_stage,70954,70960,Belian,belian
+gdc,mvqp.0,70917,71037,_stage,70965,70986,der erfahrene Wächter,der_erfahrene_waechter
+gdc,mvqp.0,71050,71164,der_erfahrene_waechter,71084,71087,ich,der_erfahrene_waechter
+gdc,mvqp.0,71050,71164,der_erfahrene_waechter,71144,71148,mich,der_erfahrene_waechter
+gdc,mvqp.0,71241,71286,der_erfahrene_waechter,71264,71267,Ich,der_erfahrene_waechter
+gdc,mvqp.0,71664,71969,belian,71861,71864,ich,belian
+gdc,mvqp.0,71974,72045,der_narr,71984,71987,Ich,der_narr
+gdc,mvqp.0,72234,72418,belian,72308,72311,Ich,belian
+gdc,mvqp.0,72513,72674,belian,72532,72535,mir,belian
+gdc,mvqp.0,72513,72674,belian,72660,72663,mir,belian
+gdc,mvqp.0,72745,72828,belian,72810,72818,Marpalye,marpalye
+gdc,mvqp.0,72876,73269,belian,73185,73188,Ich,belian
+gdc,mvqp.0,73286,73303,_stage,73286,73292,Belian,belian
+gdc,mvqp.0,73286,73303,_stage,73294,73302,Marpalye,marpalye
+gdc,mvqp.0,73334,73418,belian,73374,73382,Marpalye,marpalye
+gdc,mvqp.0,73423,73471,marpalye,73444,73448,mich,marpalye
+gdc,mvqp.0,73423,73471,marpalye,73459,73467,Der Narr,der_narr
+gdc,mvqp.0,73476,73566,belian,73505,73513,der Narr,der_narr
+gdc,mvqp.0,73691,73741,marpalye,73708,73711,mir,marpalye
+gdc,mvqp.0,73746,73861,belian,73848,73852,mein,belian
+gdc,mvqp.0,73866,73904,marpalye,73891,73896,meine,marpalye
+gdc,mvqp.0,74147,74288,belian,74166,74169,Ich,belian
+gdc,mvqp.0,74147,74288,belian,74225,74233,Marpalye,marpalye
+gdc,mvqp.0,74147,74288,belian,74235,74238,ich,belian
+gdc,mvqp.0,74293,74345,marpalye,74303,74306,Ich,marpalye
+gdc,mvqp.0,74293,74345,marpalye,74326,74329,mir,marpalye
+gdc,mvqp.0,74350,74927,belian,74363,74366,ich,belian
+gdc,mvqp.0,74350,74927,belian,74383,74389,Belian,belian
+gdc,mvqp.0,74350,74927,belian,74396,74404,der Herr,der_herr
+gdc,mvqp.0,74350,74927,belian,74487,74491,mein,belian
+gdc,mvqp.0,74350,74927,belian,74501,74504,ich,belian
+gdc,mvqp.0,74350,74927,belian,74547,74555,Marpalye,marpalye
+gdc,mvqp.0,74350,74927,belian,74661,74664,mir,belian
+gdc,mvqp.0,74350,74927,belian,74793,74801,Marpalye,marpalye
+gdc,mvqp.0,74932,74977,marpalye,74961,74964,Ich,marpalye
+gdc,mvqp.0,74983,75094,belian,75008,75011,mir,belian
+gdc,mvqp.0,74983,75094,belian,75047,75050,Ich,belian
+gdc,mvqp.0,74983,75094,belian,75062,75065,ich,belian
+gdc,mvqp.0,74983,75094,belian,75081,75084,ich,belian
+gdc,mvqp.0,75099,75139,marpalye,75109,75112,Ich,marpalye
+gdc,mvqp.0,75144,75842,belian,75196,75199,Ich,belian
+gdc,mvqp.0,75144,75842,belian,75584,75588,mein,belian
+gdc,mvqp.0,75144,75842,belian,75830,75838,Marpalye,marpalye
+gdc,mvqp.0,75847,75910,marpalye,75857,75860,Ich,marpalye
+gdc,mvqp.0,75847,75910,marpalye,75885,75888,ich,marpalye
+gdc,mvqp.0,76091,76160,der_sehende_waechter,76149,76159,Der Fremde,der_fremde
+gdc,mvqp.0,76165,76266,belian,76193,76196,mir,belian
+gdc,mvqp.0,76165,76266,belian,76240,76244,mich,belian
+gdc,mvqp.0,76283,76394,_stage,76283,76289,Belian,belian
+gdc,mvqp.0,76283,76394,_stage,76291,76299,Marpalye,marpalye
+gdc,mvqp.0,76283,76394,_stage,76301,76309,der Narr,der_narr
+gdc,mvqp.0,76283,76394,_stage,76344,76354,der Fremde,der_fremde
+gdc,mvqp.0,76283,76394,_stage,76356,76373,der Waffenmeister,der_waffenmeister
+gdc,mvqp.0,76395,76878,_stage,76599,76607,Marpalye,marpalye
+gdc,mvqp.0,76395,76878,_stage,76638,76646,der Narr,der_narr
+gdc,mvqp.0,76395,76878,_stage,76823,76829,Belian,belian
+gdc,mvqp.0,76879,77186,_stage,76879,76900,Der erfahrene Wächter,der_erfahrene_waechter
+gdc,mvqp.0,76879,77186,_stage,76950,76960,der Fremde,der_fremde
+gdc,mvqp.0,76879,77186,_stage,76965,76982,der Waffenmeister,der_waffenmeister
+gdc,mvqp.0,76879,77186,_stage,77035,77045,Der Fremde,der_fremde
+gdc,mvqp.0,76879,77186,_stage,77135,77143,Marpalye,marpalye
+gdc,mvqp.0,77189,77334,belian,77220,77226,Belian,belian
+gdc,mvqp.0,77350,77387,_stage,77369,77377,Marpalye,marpalye
+gdc,mvqp.0,77339,77443,der_fremde,77409,77413,mich,der_fremde
+gdc,mvqp.0,77339,77443,der_fremde,77430,77433,ich,der_fremde
+gdc,mvqp.0,77770,77811,der_fremde,77793,77796,ich,der_fremde
+gdc,mvqp.0,77816,78154,belian,77890,77896,Belian,belian
+gdc,mvqp.0,77816,78154,belian,78051,78054,mir,belian
+gdc,mvqp.0,77816,78154,belian,78102,78105,mir,belian
+gdc,mvqp.0,77816,78154,belian,78130,78133,ich,belian
+gdc,mvqp.0,78159,78331,der_fremde,78171,78174,Ich,der_fremde
+gdc,mvqp.0,78159,78331,der_fremde,78283,78287,mich,der_fremde
+gdc,mvqp.0,78159,78331,der_fremde,78300,78308,Marpalye,marpalye
+gdc,mvqp.0,78336,78588,belian,78377,78382,meine,belian
+gdc,mvqp.0,78336,78588,belian,78412,78415,mir,belian
+gdc,mvqp.0,78336,78588,belian,78452,78456,mich,belian
+gdc,mvqp.0,78593,78847,der_narr,78739,78742,ich,der_narr
+gdc,mvqp.0,78965,79087,der_waffenmeister,79058,79061,Ich,der_waffenmeister
+gdc,mvqp.0,79315,79403,der_fremde,79337,79340,ich,der_fremde
+gdc,mvqp.0,79315,79403,der_fremde,79351,79355,mich,der_fremde
+gdc,mvqp.0,79470,79836,der_fremde,79553,79556,ich,der_fremde
+gdc,mvqp.0,79470,79836,der_fremde,79600,79606,meiner,der_fremde
+gdc,mvqp.0,79470,79836,der_fremde,79642,79646,mein,der_fremde
+gdc,mvqp.0,79470,79836,der_fremde,79703,79707,mich,der_fremde
+gdc,mvqp.0,79470,79836,der_fremde,79816,79819,ich,der_fremde
+gdc,mvqp.0,79470,79836,der_fremde,79820,79825,meine,der_fremde
+gdc,mvqp.0,79986,80214,belian,79994,79997,Ich,belian
+gdc,mvqp.0,79986,80214,belian,80073,80081,Marpalye,marpalye
+gdc,mvqp.0,79986,80214,belian,80167,80170,mir,belian
+gdc,mvqp.0,80399,81121,der_sehende_waechter,80650,80654,mich,der_sehende_waechter
+gdc,mvqp.0,80399,81121,der_sehende_waechter,80743,80746,mir,der_sehende_waechter
+gdc,mvqp.0,80399,81121,der_sehende_waechter,80790,80794,mich,der_sehende_waechter
+gdc,mvqp.0,80399,81121,der_sehende_waechter,80820,80824,mich,der_sehende_waechter
+gdc,mvqp.0,80399,81121,der_sehende_waechter,80888,80892,mich,der_sehende_waechter
+gdc,mvqp.0,80399,81121,der_sehende_waechter,81033,81036,ich,der_sehende_waechter
+gdc,mvqp.0,81125,81333,der_erfahrene_waechter,81273,81281,der Herr,der_herr
+gdc,mvqp.0,81125,81333,der_erfahrene_waechter,81286,81289,mir,der_erfahrene_waechter
+gdc,mvqp.0,81393,81596,der_erfahrene_waechter,81420,81426,Belian,belian
+gdc,mvqp.0,81393,81596,der_erfahrene_waechter,81435,81438,Ich,der_erfahrene_waechter
+gdc,mvqp.0,81654,81834,der_erfahrene_waechter,81703,81706,Mir,der_erfahrene_waechter
+gdc,mvqp.0,81654,81834,der_erfahrene_waechter,81769,81772,ich,der_erfahrene_waechter
+gdc,mvqp.0,81654,81834,der_erfahrene_waechter,81773,81776,mir,der_erfahrene_waechter
+gdc,mvqp.0,81654,81834,der_erfahrene_waechter,81812,81818,Belian,belian
+gdc,mvqp.0,81839,81884,der_sehende_waechter,81873,81879,Belian,belian
+gdc,mvqp.0,82004,82084,der_erfahrene_waechter,82070,82073,mir,der_erfahrene_waechter
+gdc,mvqp.0,82089,82154,der_sehende_waechter,82122,82126,mein,der_sehende_waechter
+gdc,mvqp.0,82159,82362,der_erfahrene_waechter,82268,82271,ich,der_erfahrene_waechter
+gdc,mvqp.0,82526,82869,der_erfahrene_waechter,82633,82636,Ich,der_erfahrene_waechter
+gdc,mvqp.0,82526,82869,der_erfahrene_waechter,82837,82840,Ich,der_erfahrene_waechter
+gdc,mvqp.0,82526,82869,der_erfahrene_waechter,82847,82851,mich,der_erfahrene_waechter
+gdc,mvqp.0,82874,82927,der_sehende_waechter,82923,82926,ich,der_sehende_waechter
+gdc,mvqp.0,83287,83652,der_sehende_waechter,83365,83368,mir,der_sehende_waechter
+gdc,mvqp.0,83835,84076,_stage,83900,83910,Der Fremde,der_fremde
+gdc,mvqp.0,83835,84076,_stage,83912,83929,der Waffenmeister,der_waffenmeister
+gdc,mvqp.0,84089,84206,der_waffenmeister,84108,84111,Ich,der_waffenmeister
+gdc,mvqp.0,84457,84770,der_fremde,84557,84562,meine,der_fremde
+gdc,mvqp.0,84457,84770,der_fremde,84687,84691,mein,der_fremde
+gdc,mvqp.0,84457,84770,der_fremde,84698,84701,ich,der_fremde
+gdc,mvqp.0,84829,85080,der_fremde,84846,84849,ich,der_fremde
+gdc,mvqp.0,85231,85278,der_waffenmeister,85265,85273,Marpalye,marpalye
+gdc,mvqp.0,85283,85338,der_fremde,85324,85327,mir,der_fremde
+gdc,mvqp.0,85343,85537,der_waffenmeister,85466,85469,Ich,der_waffenmeister
+gdc,mvqp.0,85577,85666,der_waffenmeister,85610,85613,ich,der_waffenmeister
+gdc,mvqp.0,85788,85979,der_fremde,85830,85836,Belian,belian
+gdc,mvqp.0,86075,86479,der_fremde,86166,86169,mir,der_fremde
+gdc,mvqp.0,86075,86479,der_fremde,86333,86336,mir,der_fremde
+gdc,mvqp.0,86075,86479,der_fremde,86396,86400,mein,der_fremde
+gdc,mvqp.0,86075,86479,der_fremde,86416,86419,Ich,der_fremde
+gdc,mvqp.0,86075,86479,der_fremde,86451,86454,ich,der_fremde
+gdc,mvqp.0,86075,86479,der_fremde,86462,86465,mir,der_fremde
+gdc,mvqp.0,86484,86535,der_waffenmeister,86503,86506,Ich,der_waffenmeister
+gdc,mvqp.0,86540,86755,der_fremde,86657,86660,ich,der_fremde
+gdc,mvqp.0,86680,86755,_stage,86680,86697,Der Waffenmeister,der_waffenmeister
+gdc,mvqp.0,86771,86792,_stage,86771,86781,Der Fremde,der_fremde
+gdc,mvqp.0,86771,86792,_stage,86783,86791,Marpalye,marpalye
+gdc,mvqp.0,86793,87279,_stage,86793,86803,Der Fremde,der_fremde
+gdc,mvqp.0,86793,87279,_stage,87017,87025,Marpalye,marpalye
+gdc,mvqp.0,87281,87448,der_fremde,87414,87422,Marpalye,marpalye
+gdc,mvqp.0,87754,87842,der_fremde,87799,87807,Marpalye,marpalye
+gdc,mvqp.0,87847,87904,marpalye,87891,87894,mir,marpalye
+gdc,mvqp.0,88142,88341,marpalye,88207,88211,mich,marpalye
+gdc,mvqp.0,88142,88341,marpalye,88221,88224,mir,marpalye
+gdc,mvqp.0,88142,88341,marpalye,88273,88276,Ich,marpalye
+gdc,mvqp.0,88346,88436,der_fremde,88424,88432,Marpalye,marpalye
+gdc,mvqp.0,88759,89626,der_fremde,89578,89581,mir,der_fremde
+gdc,mvqp.0,89631,89988,marpalye,89831,89834,ich,marpalye
+gdc,mvqp.0,90003,90076,_stage,90038,90046,Marpalye,marpalye
+gdc,mvqp.0,90712,91000,_stage,90712,90718,Belian,belian
+gdc,mvqp.0,90712,91000,_stage,90723,90744,der erfahrene Wächter,der_erfahrene_waechter
+gdc,mvqp.0,90712,91000,_stage,90763,90769,Belian,belian
+gdc,mvqp.0,90712,91000,_stage,90902,90923,Der erfahrene Wächter,der_erfahrene_waechter
+gdc,mvqp.0,91045,91156,der_erfahrene_waechter,91068,91071,Ich,der_erfahrene_waechter
+gdc,mvqp.0,91045,91156,der_erfahrene_waechter,91140,91143,Ich,der_erfahrene_waechter
+gdc,mvqp.0,91161,91431,belian,91400,91408,Marpalye,marpalye
+gdc,mvqp.0,91161,91431,belian,91413,91416,ich,belian
+gdc,mvqp.0,91578,91659,belian,91612,91615,ich,belian
+gdc,mvqp.0,91664,91759,der_erste_geblendete,91734,91742,Marpalye,marpalye
+gdc,mvqp.0,91776,91834,_stage,91784,91792,Marpalye,marpalye
+gdc,mvqp.0,91776,91834,_stage,91794,91802,der Narr,der_narr
+gdc,mvqp.0,91776,91834,_stage,91804,91814,der Fremde,der_fremde
+gdc,mvqp.0,91776,91834,_stage,91816,91833,der Waffenmeister,der_waffenmeister
+gdc,mvqp.0,91879,92045,belian,91959,91967,Marpalye,marpalye
+gdc,mvqp.0,92059,92141,_stage,92101,92111,der Fremde,der_fremde
+gdc,mvqp.0,92059,92141,_stage,92116,92133,der Waffenmeister,der_waffenmeister
+gdc,mvqp.0,92250,92351,_stage,92344,92350,Belian,belian
+gdc,mvqp.0,92988,93306,der_waffenmeister,93214,93217,ich,der_waffenmeister
+gdc,mvqp.0,93322,93374,_stage,93367,93373,Belian,belian
+gdc,mvqp.0,93434,93515,belian,93473,93476,Mir,belian
+gdc,mvqp.0,93434,93515,belian,93481,93485,mein,belian
+gdc,mvqp.0,94208,94343,belian,94314,94322,Marpalye,marpalye
+gdc,mvqp.0,94387,94514,_stage,94410,94431,der erfahrene Wächter,der_erfahrene_waechter
+gdc,mvqp.0,94380,94605,belian,94570,94576,meinem,belian
+gdc,mvqp.0,94380,94605,belian,94587,94593,meiner,belian
+gdc,mvqp.0,94907,95415,_stage,94907,94913,Belian,belian
+gdc,mvqp.0,94907,95415,_stage,95025,95046,Der erfahrene Wächter,der_erfahrene_waechter
+gdc,mvqp.0,94907,95415,_stage,95064,95072,Marpalye,marpalye
+gdc,mvqp.0,94907,95415,_stage,95092,95100,der Narr,der_narr
+gdc,mvqp.0,94907,95415,_stage,95139,95149,Der Fremde,der_fremde
+gdc,mvqp.0,94907,95415,_stage,95268,95274,Belian,belian
+gdc,mvqp.0,94907,95415,_stage,95321,95327,Belian,belian
+gdc,mvqp.0,95429,95848,_stage,95646,95665,die jungen Bauleute,die_jungen_bauleute
+gdc,mvqp.0,95429,95848,_stage,95767,95777,Der Fremde,der_fremde
+gdc,mvqp.0,95429,95848,_stage,95782,95790,Marpalye,marpalye
+gdc,mvqp.0,96114,96467,der_fremde,96182,96186,mich,der_fremde
+gdc,mvqp.0,96300,96467,_stage,96309,96328,die jungen Bauleute,die_jungen_bauleute
+gdc,mvqp.0,96300,96467,_stage,96362,96372,Der Fremde,der_fremde
+gdc,mvqp.0,96300,96467,_stage,96377,96385,Marpalye,marpalye
+gdc,mvqp.0,97542,97567,marpalye,97563,97566,ich,marpalye
+gdc,mvqp.0,97572,97611,ein_junges_maedchen,97601,97604,ich,ein_junges_maedchen
+gdc,mvqp.0,97627,97655,_stage,97627,97635,Marpalye,marpalye
+gdc,mvqp.0,97616,98257,der_fremde,97919,97927,Marpalye,marpalye
+gdc,mvqp.0,98074,98257,_stage,98074,98086,Die Bauleute,die_jungen_bauleute
+gdc,mvqp.0,98074,98257,_stage,98209,98217,der alte,der_alte
+gdc,mvqp.0,98074,98257,_stage,98222,98239,der junge Gärtner,der_junge_gaertner
+gdc,mvqp.0,98261,98330,der_alte_gaertner,98290,98293,Ich,der_alte_gaertner
+gdc,mvqp.0,98483,98522,der_junge_gaertner,98506,98516,der fremde,der_fremde
+gdc,mvqp.0,98527,98573,der_alte_gaertner,98558,98568,der Fremde,der_fremde
+gdc,mvqp.0,99002,99141,_stage,99036,99052,der alte Gärtner,der_alte_gaertner
+gdc,mvqp.0,99002,99141,_stage,99036,99044,der alte,der_alte

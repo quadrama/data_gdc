@@ -1,8 +1,8 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc,rktc.0,Lisette,lisette,FEMALE,
-gdc,rktc.0,Michel Stich,michel_stich,MALE,
-gdc,rktc.0,Das Fräulein,das_fraeulein,FEMALE,
 gdc,rktc.0,Martin Krumm,martin_krumm,MALE,
-gdc,rktc.0,Christoph,christoph,MALE,
+gdc,rktc.0,Lisette,lisette,FEMALE,
+gdc,rktc.0,Das Fräulein,das_fraeulein,FEMALE,
 gdc,rktc.0,Der Reisende,der_reisende,MALE,
+gdc,rktc.0,Christoph,christoph,MALE,
 gdc,rktc.0,Der Baron,der_baron,MALE,
+gdc,rktc.0,Michel Stich,michel_stich,MALE,

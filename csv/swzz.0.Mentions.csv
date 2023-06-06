@@ -1,434 +1,434 @@
 corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
-gdc,swzz.0,2592,2880,_stage,2624,2629,Engel,lesender_engel
-gdc,swzz.0,3860,3928,dritter_engel,3909,3914,meine,dritter_engel
-gdc,swzz.0,4040,4122,dritter_engel,4111,4115,mich,dritter_engel
-gdc,swzz.0,4669,4737,dritter_engel,4716,4719,ich,dritter_engel
-gdc,swzz.0,4861,4955,dritter_engel,4924,4927,ich,dritter_engel
-gdc,swzz.0,5281,5399,dritter_engel,5339,5342,mir,dritter_engel
-gdc,swzz.0,5669,5725,dritter_engel,5689,5693,mich,dritter_engel
-gdc,swzz.0,5848,5910,dritter_engel,5868,5871,Ich,dritter_engel
-gdc,swzz.0,5989,6344,dritter_engel,6158,6161,ich,dritter_engel
-gdc,swzz.0,5989,6344,dritter_engel,6260,6263,ich,dritter_engel
-gdc,swzz.0,5989,6344,dritter_engel,6294,6297,ich,dritter_engel
-gdc,swzz.0,6746,6895,dritter_engel,6789,6793,mich,dritter_engel
-gdc,swzz.0,6746,6895,dritter_engel,6809,6813,mich,dritter_engel
-gdc,swzz.0,6746,6895,dritter_engel,6826,6830,mich,dritter_engel
-gdc,swzz.0,6746,6895,dritter_engel,6869,6875,meinen,dritter_engel
-gdc,swzz.0,7179,7232,dritter_engel,7203,7206,ich,dritter_engel
-gdc,swzz.0,7265,7353,dritter_engel,7299,7302,ich,dritter_engel
-gdc,swzz.0,7395,7536,dritter_engel,7434,7437,ich,dritter_engel
-gdc,swzz.0,7395,7536,dritter_engel,7497,7500,ich,dritter_engel
-gdc,swzz.0,7848,7902,dritter_engel,7888,7891,ich,dritter_engel
-gdc,swzz.0,8367,8435,dritter_engel,8404,8407,Ich,dritter_engel
-gdc,swzz.0,8862,8983,_stage,8872,8877,Engel,lesender_engel
-gdc,swzz.0,8862,8983,_stage,8918,8923,Engel,lesender_engel
-gdc,swzz.0,9072,9253,erster_engel,9198,9201,mir,erster_engel
-gdc,swzz.0,9539,10823,_stage,9552,9562,Gott Vater,gott_vater
-gdc,swzz.0,9539,10823,_stage,9808,9816,Cherubim,cherubim
-gdc,swzz.0,9539,10823,_stage,9938,9943,Engel,lesender_engel
-gdc,swzz.0,9539,10823,_stage,10071,10081,Gott Vater,gott_vater
-gdc,swzz.0,9539,10823,_stage,10403,10413,Gott Vater,gott_vater
-gdc,swzz.0,9539,10823,_stage,10794,10799,Engel,lesender_engel
-gdc,swzz.0,11023,11114,_stage,11028,11033,Engel,lesender_engel
-gdc,swzz.0,11966,12037,_stage,11978,11986,Cherubim,cherubim
-gdc,swzz.0,12296,12410,_stage,12399,12409,Gott Vater,gott_vater
-gdc,swzz.0,12285,12556,verschiedene_engel_alle_engel_1-2,12513,12518,Maria,maria
-gdc,swzz.0,13099,13826,_stage,13099,13108,Ein Engel,ein_engel_1-2b
-gdc,swzz.0,13099,13826,_stage,13099,13108,Ein Engel,ein_engel_1-2i
-gdc,swzz.0,13099,13826,_stage,13099,13108,Ein Engel,ein_engel_1-2d
-gdc,swzz.0,13099,13826,_stage,13099,13108,Ein Engel,ein_engel_1-2a
-gdc,swzz.0,13099,13826,_stage,13099,13108,Ein Engel,ein_engel_1-2f
-gdc,swzz.0,13099,13826,_stage,13099,13108,Ein Engel,ein_engel_1-2g
-gdc,swzz.0,13099,13826,_stage,13099,13108,Ein Engel,ein_engel_1-2c
-gdc,swzz.0,13099,13826,_stage,13099,13108,Ein Engel,ein_engel_1-2h
-gdc,swzz.0,13099,13826,_stage,13099,13108,Ein Engel,ein_engel_1-2e
-gdc,swzz.0,13099,13826,_stage,13103,13108,Engel,lesender_engel
-gdc,swzz.0,13099,13826,_stage,13208,13213,Engel,lesender_engel
-gdc,swzz.0,13099,13826,_stage,13332,13342,Gott Vater,gott_vater
-gdc,swzz.0,13099,13826,_stage,13601,13606,Engel,lesender_engel
-gdc,swzz.0,13099,13826,_stage,13630,13635,Engel,lesender_engel
-gdc,swzz.0,13099,13826,_stage,13709,13717,Cherubim,cherubim
-gdc,swzz.0,13847,14010,_stage,13847,13857,Gott Vater,gott_vater
-gdc,swzz.0,13847,14010,_stage,13863,13871,Cherubim,cherubim
-gdc,swzz.0,13847,14010,_stage,13902,13907,Engel,lesender_engel
-gdc,swzz.0,14354,14468,gott_vater,14412,14415,ich,gott_vater
-gdc,swzz.0,14354,14468,gott_vater,14434,14437,Ich,gott_vater
-gdc,swzz.0,14532,14597,gott_vater,14574,14577,ich,gott_vater
-gdc,swzz.0,14794,15015,gott_vater,14812,14815,ich,gott_vater
-gdc,swzz.0,15099,15247,gott_vater,15126,15129,ich,gott_vater
-gdc,swzz.0,15099,15247,gott_vater,15166,15169,Ich,gott_vater
-gdc,swzz.0,15099,15247,gott_vater,15228,15231,ich,gott_vater
-gdc,swzz.0,15352,15507,gott_vater,15396,15401,meine,gott_vater
-gdc,swzz.0,15822,15944,gott_vater,15853,15858,Meine,gott_vater
-gdc,swzz.0,16233,16373,cherubim,16350,16354,mein,cherubim
-gdc,swzz.0,16233,16373,cherubim,16361,16365,Mein,cherubim
-gdc,swzz.0,16389,16549,_stage,16527,16535,Cherubim,cherubim
-gdc,swzz.0,16684,17071,_stage,16684,16694,Gott Vater,gott_vater
-gdc,swzz.0,17162,17318,cherubim,17250,17254,Bote,bote
-gdc,swzz.0,17387,17535,_stage,17448,17452,Bote,bote
-gdc,swzz.0,17387,17535,_stage,17503,17508,Engel,lesender_engel
-gdc,swzz.0,17537,19002,bote,17617,17620,ich,bote
-gdc,swzz.0,17537,19002,bote,17667,17670,ich,bote
-gdc,swzz.0,17537,19002,bote,18945,18948,ich,bote
-gdc,swzz.0,17537,19002,bote,18953,18961,Priester,priester
-gdc,swzz.0,19007,19275,gott_vater,19200,19203,Ich,gott_vater
-gdc,swzz.0,19414,19500,_stage,19422,19430,Cherubim,cherubim
-gdc,swzz.0,19403,19665,gott_vater,19522,19525,ich,gott_vater
-gdc,swzz.0,19403,19665,gott_vater,19612,19615,ich,gott_vater
-gdc,swzz.0,19403,19665,gott_vater,19634,19639,meine,gott_vater
-gdc,swzz.0,19852,20825,gott_vater,19908,19912,mich,gott_vater
-gdc,swzz.0,19852,20825,gott_vater,19935,19938,ich,gott_vater
-gdc,swzz.0,19852,20825,gott_vater,20039,20043,mich,gott_vater
-gdc,swzz.0,19852,20825,gott_vater,20105,20108,mir,gott_vater
-gdc,swzz.0,19852,20825,gott_vater,20109,20114,meine,gott_vater
-gdc,swzz.0,19852,20825,gott_vater,20163,20169,meinen,gott_vater
-gdc,swzz.0,19852,20825,gott_vater,20201,20209,Cherubim,cherubim
-gdc,swzz.0,19852,20825,gott_vater,20239,20245,meinen,gott_vater
-gdc,swzz.0,19852,20825,gott_vater,20294,20300,Teufel,teufel
-gdc,swzz.0,19852,20825,gott_vater,20305,20308,ich,gott_vater
-gdc,swzz.0,19852,20825,gott_vater,20336,20339,mir,gott_vater
-gdc,swzz.0,20436,20825,_stage,20436,20440,Bote,bote
-gdc,swzz.0,20436,20825,_stage,20458,20463,Engel,lesender_engel
-gdc,swzz.0,20436,20825,_stage,20476,20484,Cherubim,cherubim
-gdc,swzz.0,20436,20825,_stage,20517,20525,Cherubim,cherubim
-gdc,swzz.0,20846,22067,_stage,20859,20864,Maria,maria
-gdc,swzz.0,20846,22067,_stage,20919,20924,Engel,lesender_engel
-gdc,swzz.0,20846,22067,_stage,21270,21280,Gott Vater,gott_vater
-gdc,swzz.0,20846,22067,_stage,21317,21325,Cherubim,cherubim
-gdc,swzz.0,20846,22067,_stage,21489,21499,Gott Vater,gott_vater
-gdc,swzz.0,20846,22067,_stage,22061,22066,Engel,lesender_engel
-gdc,swzz.0,23456,23495,_stage,23456,23469,Dritter Engel,dritter_engel
-gdc,swzz.0,23456,23495,_stage,23464,23469,Engel,lesender_engel
-gdc,swzz.0,23831,23929,_stage,23909,23914,Engel,lesender_engel
-gdc,swzz.0,24146,25257,_stage,24146,24154,Christus,christus
-gdc,swzz.0,24146,25257,_stage,24502,24517,Maria Magdalena,maria_magdalena
-gdc,swzz.0,24146,25257,_stage,24502,24507,Maria,maria
-gdc,swzz.0,24146,25257,_stage,24748,24753,Engel,lesender_engel
-gdc,swzz.0,24146,25257,_stage,24867,24877,Gott Vater,gott_vater
-gdc,swzz.0,24146,25257,_stage,24917,24922,Maria,maria
-gdc,swzz.0,25487,25977,_stage,25695,25700,Engel,lesender_engel
-gdc,swzz.0,25487,25977,_stage,25748,25753,Maria,maria
-gdc,swzz.0,25487,25977,_stage,25852,25860,Christus,christus
-gdc,swzz.0,25981,26404,gott_vater,26189,26194,meine,gott_vater
-gdc,swzz.0,26418,26477,_stage,26439,26449,Gott Vater,gott_vater
-gdc,swzz.0,26793,26852,maria,26830,26833,ich,maria
-gdc,swzz.0,26912,27287,maria,26932,26935,ich,maria
-gdc,swzz.0,26912,27287,maria,26958,26962,Bote,bote
-gdc,swzz.0,26912,27287,maria,26978,26981,mir,maria
-gdc,swzz.0,27050,27179,_stage,27050,27060,Gott Vater,gott_vater
-gdc,swzz.0,27050,27179,_stage,27165,27170,Maria,maria
-gdc,swzz.0,27180,27287,_stage,27180,27188,Cherubim,cherubim
-gdc,swzz.0,27789,27854,maria,27801,27804,Ich,maria
-gdc,swzz.0,28214,28403,gott_vater,28288,28291,Ich,gott_vater
-gdc,swzz.0,28964,29148,gott_vater,28991,28994,Ich,gott_vater
-gdc,swzz.0,28964,29148,gott_vater,29117,29122,Engel,lesender_engel
-gdc,swzz.0,29198,29918,_stage,29637,29642,Maria,maria
-gdc,swzz.0,29198,29918,_stage,29670,29678,Christus,christus
-gdc,swzz.0,29922,30136,gott_vater,29934,29937,Ich,gott_vater
-gdc,swzz.0,29922,30136,gott_vater,29984,29990,meines,gott_vater
-gdc,swzz.0,30773,30824,gott_vater,30798,30802,Mein,gott_vater
-gdc,swzz.0,30829,30876,christus,30871,30875,mich,christus
-gdc,swzz.0,30881,30971,maria,30915,30919,Mein,maria
-gdc,swzz.0,30881,30971,maria,30937,30940,ich,maria
-gdc,swzz.0,30881,30971,maria,30944,30950,meinem,maria
-gdc,swzz.0,31205,31239,christus,31224,31228,Mich,christus
-gdc,swzz.0,31284,31832,christus,31404,31408,Mich,christus
-gdc,swzz.0,31284,31832,christus,31582,31586,mich,christus
-gdc,swzz.0,31284,31832,christus,31706,31709,Ich,christus
-gdc,swzz.0,31284,31832,christus,31747,31751,mich,christus
-gdc,swzz.0,31836,32043,maria,31886,31890,Mein,maria
-gdc,swzz.0,31836,32043,maria,31897,31901,mein,maria
-gdc,swzz.0,32174,32227,_stage,32218,32226,Cherubim,cherubim
-gdc,swzz.0,32284,32510,cherubim,32476,32484,Priester,priester
-gdc,swzz.0,32284,32510,cherubim,32500,32509,der Papst,der_papst
-gdc,swzz.0,32599,33328,maria,32683,32691,Christus,christus
-gdc,swzz.0,32599,33328,maria,32699,32703,mein,maria
-gdc,swzz.0,32772,33328,_stage,32865,32870,Engel,lesender_engel
-gdc,swzz.0,32772,33328,_stage,33167,33172,Engel,lesender_engel
-gdc,swzz.0,32772,33328,_stage,33281,33289,Cherubim,cherubim
-gdc,swzz.0,32772,33328,_stage,33308,33313,Engel,lesender_engel
-gdc,swzz.0,33553,33929,_stage,33735,33740,Engel,lesender_engel
-gdc,swzz.0,33553,33929,_stage,33772,33780,Cherubim,cherubim
-gdc,swzz.0,34074,36759,_stage,34541,34550,der Papst,der_papst
-gdc,swzz.0,34074,36759,_stage,34995,35004,Der Papst,der_papst
-gdc,swzz.0,34074,36759,_stage,35482,35496,Rodrigo Borgia,rodrigo_borgia
-gdc,swzz.0,34074,36759,_stage,35581,35593,Don Giovanni,don_giovanni
-gdc,swzz.0,34074,36759,_stage,35613,35619,Cesare,cesare
-gdc,swzz.0,34074,36759,_stage,35621,35632,Don Gioffre,don_gioffre
-gdc,swzz.0,34074,36759,_stage,35634,35642,Lucrezia,lucrezia
-gdc,swzz.0,34074,36759,_stage,35698,35710,Don Giovanni,don_giovanni
-gdc,swzz.0,34074,36759,_stage,35782,35794,Donna Sancia,donna_sancia
-gdc,swzz.0,34074,36759,_stage,35920,35936,Francesco Borgia,francesco_borgia
-gdc,swzz.0,34074,36759,_stage,36036,36041,Maria,maria
-gdc,swzz.0,34074,36759,_stage,36043,36057,Rodrigo Borgia,rodrigo_borgia
-gdc,swzz.0,34074,36759,_stage,36561,36568,Burcard,burcard
-gdc,swzz.0,36905,36917,_stage,36908,36916,Lucrezia,lucrezia
-gdc,swzz.0,36892,36996,donna_sancia,36918,36921,Ich,donna_sancia
-gdc,swzz.0,36892,36996,donna_sancia,36974,36978,mich,donna_sancia
-gdc,swzz.0,37001,37074,lucrezia,37037,37041,mich,lucrezia
-gdc,swzz.0,37663,37723,don_giovanni,37682,37694,Donna Sancia,donna_sancia
-gdc,swzz.0,37728,37780,donna_sancia,37753,37761,Lucrezia,lucrezia
-gdc,swzz.0,37850,37930,don_gioffre,37863,37866,Ich,don_gioffre
-gdc,swzz.0,38079,38397,der_papst,38192,38195,ich,der_papst
-gdc,swzz.0,38079,38397,der_papst,38331,38334,mir,der_papst
-gdc,swzz.0,39657,39833,dritter_edelmann,39820,39828,Lucrezia,lucrezia
-gdc,swzz.0,39875,40080,dritter_edelmann,39893,39896,Ich,dritter_edelmann
-gdc,swzz.0,39875,40080,dritter_edelmann,39975,39983,Lucrezia,lucrezia
-gdc,swzz.0,40033,40080,_stage,40044,40060,zweiter Edelmann,zweiter_edelmann
-gdc,swzz.0,40357,40430,erster_edelmann,40384,40392,Lucrezia,lucrezia
-gdc,swzz.0,40587,40644,zweiter_edelmann,40614,40623,der Papst,der_papst
-gdc,swzz.0,40649,40720,dritter_edelmann,40694,40708,Rodrigo Borgia,rodrigo_borgia
-gdc,swzz.0,40767,41699,dritter_edelmann,40905,40913,Lucrezia,lucrezia
-gdc,swzz.0,40927,41699,_stage,41514,41523,Der Papst,der_papst
-gdc,swzz.0,41703,42728,der_papst,41850,41858,Lucrezia,lucrezia
-gdc,swzz.0,41703,42728,der_papst,41866,41870,mein,der_papst
-gdc,swzz.0,41882,42728,_stage,42424,42433,Der Papst,der_papst
-gdc,swzz.0,42742,42840,_stage,42764,42772,Lucrezia,lucrezia
-gdc,swzz.0,42732,42948,der_papst,42841,42845,Mein,der_papst
-gdc,swzz.0,43191,43234,lucrezia,43222,43226,mein,lucrezia
-gdc,swzz.0,43239,43562,der_papst,43264,43268,mein,der_papst
-gdc,swzz.0,43729,44567,der_papst,43924,43927,ich,der_papst
-gdc,swzz.0,44571,46116,chor_mehrstimmiges_graduale,44950,44953,ich,chor_mehrstimmiges_graduale
-gdc,swzz.0,44571,46116,chor_mehrstimmiges_graduale,44980,44985,meine,chor_mehrstimmiges_graduale
-gdc,swzz.0,44571,46116,chor_mehrstimmiges_graduale,45032,45038,meines,chor_mehrstimmiges_graduale
-gdc,swzz.0,44571,46116,chor_mehrstimmiges_graduale,45110,45115,Meine,chor_mehrstimmiges_graduale
-gdc,swzz.0,45286,45656,_stage,45549,45558,der Papst,der_papst
-gdc,swzz.0,45657,46116,_stage,45709,45718,Der Papst,der_papst
-gdc,swzz.0,45657,46116,_stage,45944,45953,Der Papst,der_papst
-gdc,swzz.0,46204,46569,_stage,46434,46443,der Papst,der_papst
-gdc,swzz.0,46927,48158,_stage,46927,46936,Der Papst,der_papst
-gdc,swzz.0,46927,48158,_stage,47053,47061,Lucrezia,lucrezia
-gdc,swzz.0,46927,48158,_stage,47320,47331,die Mädchen,die_maedchen
-gdc,swzz.0,46927,48158,_stage,47503,47514,die Mädchen,die_maedchen
-gdc,swzz.0,46927,48158,_stage,47949,47966,Eines der Mädchen,eines_der_maedchen
-gdc,swzz.0,46927,48158,_stage,48054,48063,Der Papst,der_papst
-gdc,swzz.0,46927,48158,_stage,48086,48094,Lucrezia,lucrezia
-gdc,swzz.0,48335,48773,die_kurtisane,48361,48365,mich,die_kurtisane
-gdc,swzz.0,48335,48773,die_kurtisane,48455,48464,der Papst,der_papst
-gdc,swzz.0,48481,48773,_stage,48568,48579,die Mädchen,die_maedchen
-gdc,swzz.0,48858,49953,_stage,49244,49255,die Mädchen,die_maedchen
-gdc,swzz.0,48858,49953,_stage,49929,49952,Schlußgesang der Vesper,schlussgesang_der_vesper
-gdc,swzz.0,50631,51442,_stage,50915,50924,Der Papst,der_papst
-gdc,swzz.0,51443,51641,_stage,51475,51479,Bote,bote
-gdc,swzz.0,51822,52478,der_papst,51857,51863,Teufel,teufel
-gdc,swzz.0,51822,52478,der_papst,52358,52364,Cesare,cesare
-gdc,swzz.0,52619,53055,_stage,52701,52711,Gott Vater,gott_vater
-gdc,swzz.0,52619,53055,_stage,52713,52718,Maria,maria
-gdc,swzz.0,52619,53055,_stage,52720,52728,Christus,christus
-gdc,swzz.0,52619,53055,_stage,52734,52740,Teufel,teufel
-gdc,swzz.0,53057,53862,gott_vater,53230,53233,ich,gott_vater
-gdc,swzz.0,53057,53862,gott_vater,53257,53263,Teufel,teufel
-gdc,swzz.0,53057,53862,gott_vater,53490,53496,Teufel,teufel
-gdc,swzz.0,53057,53862,gott_vater,53709,53717,Christus,christus
-gdc,swzz.0,53057,53862,gott_vater,53728,53732,mein,gott_vater
-gdc,swzz.0,53057,53862,gott_vater,53763,53766,Ich,gott_vater
-gdc,swzz.0,53057,53862,gott_vater,53805,53808,Ich,gott_vater
-gdc,swzz.0,53867,55055,christus,53934,53938,Mein,christus
-gdc,swzz.0,53867,55055,christus,54087,54090,ich,christus
-gdc,swzz.0,53867,55055,christus,54193,54196,ich,christus
-gdc,swzz.0,53867,55055,christus,54312,54318,Teufel,teufel
-gdc,swzz.0,55065,55153,_stage,55094,55100,Teufel,teufel
-gdc,swzz.0,55059,55914,maria,55166,55170,mein,maria
-gdc,swzz.0,55059,55914,maria,55246,55252,Teufel,teufel
-gdc,swzz.0,55059,55914,maria,55276,55280,mein,maria
-gdc,swzz.0,55059,55914,maria,55410,55416,Teufel,teufel
-gdc,swzz.0,55059,55914,maria,55561,55571,Gott Vater,gott_vater
-gdc,swzz.0,55059,55914,maria,55665,55671,Teufel,teufel
-gdc,swzz.0,55919,56009,teufel,55991,56005,Rodrigo Borgia,rodrigo_borgia
-gdc,swzz.0,56344,56549,teufel,56408,56411,Ich,teufel
-gdc,swzz.0,56344,56549,teufel,56454,56457,ich,teufel
-gdc,swzz.0,56565,56599,_stage,56583,56589,Teufel,teufel
-gdc,swzz.0,56554,56648,gott_vater,56600,56604,Mein,gott_vater
-gdc,swzz.0,56686,56816,gott_vater,56802,56805,Ich,gott_vater
-gdc,swzz.0,56966,58298,maria,56985,56989,mein,maria
-gdc,swzz.0,56966,58298,maria,57279,57285,Teufel,teufel
-gdc,swzz.0,56966,58298,maria,57936,57942,Teufel,teufel
-gdc,swzz.0,56966,58298,maria,57966,57969,mir,maria
-gdc,swzz.0,58303,58364,teufel,58349,58352,Ich,teufel
-gdc,swzz.0,58565,58664,_stage,58585,58591,Teufel,teufel
-gdc,swzz.0,59186,59449,_stage,59186,59194,Christus,christus
-gdc,swzz.0,59186,59449,_stage,59291,59296,Maria,maria
-gdc,swzz.0,59459,59470,_stage,59463,59469,Teufel,teufel
-gdc,swzz.0,59453,59552,maria,59502,59506,mein,maria
-gdc,swzz.0,59564,59775,_stage,59601,59606,Maria,maria
-gdc,swzz.0,59564,59775,_stage,59721,59729,Christus,christus
-gdc,swzz.0,60222,60431,_stage,60340,60350,Gott Vater,gott_vater
-gdc,swzz.0,60222,60431,_stage,60360,60365,Maria,maria
-gdc,swzz.0,60458,60598,_stage,60488,60496,Christus,christus
-gdc,swzz.0,60736,60865,_stage,60736,60746,Gott Vater,gott_vater
-gdc,swzz.0,60736,60865,_stage,60751,60759,Christus,christus
-gdc,swzz.0,60736,60865,_stage,60848,60854,Teufel,teufel
-gdc,swzz.0,61165,62332,teufel,61826,61829,ich,teufel
-gdc,swzz.0,61165,62332,teufel,61830,61834,mich,teufel
-gdc,swzz.0,61165,62332,teufel,61857,61862,Maria,maria
-gdc,swzz.0,61165,62332,teufel,62162,62167,Maria,maria
-gdc,swzz.0,62419,62464,_stage,62419,62429,Gott Vater,gott_vater
-gdc,swzz.0,62419,62464,_stage,62434,62442,Christus,christus
-gdc,swzz.0,62468,62522,teufel,62503,62508,meine,teufel
-gdc,swzz.0,62775,62955,teufel,62876,62879,ich,teufel
-gdc,swzz.0,62966,63040,_stage,63009,63019,Gott Vater,gott_vater
-gdc,swzz.0,62966,63040,_stage,63024,63032,Christus,christus
-gdc,swzz.0,63176,63318,_stage,63176,63186,Gott Vater,gott_vater
-gdc,swzz.0,63176,63318,_stage,63191,63199,Christus,christus
-gdc,swzz.0,63176,63318,_stage,63237,63245,Christus,christus
-gdc,swzz.0,63319,63470,_stage,63319,63325,Teufel,teufel
-gdc,swzz.0,63562,63680,_stage,63673,63679,Teufel,teufel
-gdc,swzz.0,63728,63922,teufel,63832,63836,Mein,teufel
-gdc,swzz.0,64230,64347,_stage,64244,64249,Maria,maria
-gdc,swzz.0,64230,64347,_stage,64284,64294,Gott Vater,gott_vater
-gdc,swzz.0,64351,64575,gott_vater,64401,64405,mein,gott_vater
-gdc,swzz.0,64351,64575,gott_vater,64565,64569,mein,gott_vater
-gdc,swzz.0,64672,64985,teufel,64795,64798,ich,teufel
-gdc,swzz.0,65235,65337,teufel,65285,65289,Mein,teufel
-gdc,swzz.0,65716,65730,_stage,65719,65729,Gott Vater,gott_vater
-gdc,swzz.0,65866,65933,christus,65922,65925,ich,christus
-gdc,swzz.0,66708,66895,teufel,66769,66772,ich,teufel
-gdc,swzz.0,66708,66895,teufel,66876,66879,Ich,teufel
-gdc,swzz.0,66926,66979,teufel,66957,66960,Ich,teufel
-gdc,swzz.0,66926,66979,teufel,66969,66972,ich,teufel
-gdc,swzz.0,67068,67180,gott_vater,67154,67160,Teufel,teufel
-gdc,swzz.0,67185,67699,teufel,67250,67253,Ich,teufel
-gdc,swzz.0,67280,67699,_stage,67340,67345,Engel,lesender_engel
-gdc,swzz.0,67280,67699,_stage,67498,67504,Teufel,teufel
-gdc,swzz.0,67733,69500,_stage,68177,68183,Teufel,teufel
-gdc,swzz.0,67733,69500,_stage,68869,68875,Teufel,teufel
-gdc,swzz.0,69502,80010,teufel,70600,70604,Mein,teufel
-gdc,swzz.0,69502,80010,teufel,70613,70617,Mein,teufel
-gdc,swzz.0,69502,80010,teufel,72272,72277,Maria,maria
-gdc,swzz.0,69502,80010,teufel,72751,72754,ich,teufel
-gdc,swzz.0,69502,80010,teufel,72869,72872,ich,teufel
-gdc,swzz.0,69502,80010,teufel,73004,73007,ich,teufel
-gdc,swzz.0,69502,80010,teufel,73070,73076,Teufel,teufel
-gdc,swzz.0,69502,80010,teufel,73171,73174,mir,teufel
-gdc,swzz.0,69502,80010,teufel,73438,73441,ich,teufel
-gdc,swzz.0,69502,80010,teufel,73468,73471,ich,teufel
-gdc,swzz.0,69502,80010,teufel,73612,73615,Ich,teufel
-gdc,swzz.0,69502,80010,teufel,73640,73643,Ich,teufel
-gdc,swzz.0,69502,80010,teufel,74247,74251,mein,teufel
-gdc,swzz.0,69502,80010,teufel,75186,75189,ich,teufel
-gdc,swzz.0,69502,80010,teufel,75320,75323,ich,teufel
-gdc,swzz.0,69502,80010,teufel,75365,75368,ich,teufel
-gdc,swzz.0,69502,80010,teufel,75582,75585,mir,teufel
-gdc,swzz.0,69502,80010,teufel,75617,75620,ich,teufel
-gdc,swzz.0,69502,80010,teufel,75651,75654,mir,teufel
-gdc,swzz.0,69502,80010,teufel,75673,75676,ich,teufel
-gdc,swzz.0,69502,80010,teufel,75737,75743,meiner,teufel
-gdc,swzz.0,69502,80010,teufel,75762,75765,ich,teufel
-gdc,swzz.0,69502,80010,teufel,75766,75770,mich,teufel
-gdc,swzz.0,69502,80010,teufel,75918,75921,ich,teufel
-gdc,swzz.0,69502,80010,teufel,75981,75984,ich,teufel
-gdc,swzz.0,69502,80010,teufel,76011,76014,Ich,teufel
-gdc,swzz.0,69502,80010,teufel,76093,76096,mir,teufel
-gdc,swzz.0,69502,80010,teufel,76136,76139,mir,teufel
-gdc,swzz.0,69502,80010,teufel,76140,76145,meine,teufel
-gdc,swzz.0,69502,80010,teufel,76247,76250,ich,teufel
-gdc,swzz.0,69502,80010,teufel,76282,76285,ich,teufel
-gdc,swzz.0,69502,80010,teufel,76749,76752,ich,teufel
-gdc,swzz.0,69502,80010,teufel,76753,76756,mir,teufel
-gdc,swzz.0,69502,80010,teufel,76865,76869,mich,teufel
-gdc,swzz.0,69502,80010,teufel,77081,77084,ich,teufel
-gdc,swzz.0,69502,80010,teufel,77198,77201,Ich,teufel
-gdc,swzz.0,69502,80010,teufel,77219,77225,meinem,teufel
-gdc,swzz.0,69502,80010,teufel,77273,77276,ich,teufel
-gdc,swzz.0,69502,80010,teufel,77277,77280,mir,teufel
-gdc,swzz.0,69502,80010,teufel,77482,77485,ich,teufel
-gdc,swzz.0,69502,80010,teufel,77538,77543,meine,teufel
-gdc,swzz.0,69502,80010,teufel,77587,77590,mir,teufel
-gdc,swzz.0,69502,80010,teufel,77698,77701,ich,teufel
-gdc,swzz.0,69502,80010,teufel,77780,77785,meine,teufel
-gdc,swzz.0,69502,80010,teufel,77881,77885,mein,teufel
-gdc,swzz.0,69502,80010,teufel,77892,77895,ich,teufel
-gdc,swzz.0,69502,80010,teufel,78047,78052,Engel,lesender_engel
-gdc,swzz.0,69502,80010,teufel,78102,78105,mir,teufel
-gdc,swzz.0,69502,80010,teufel,78178,78181,ich,teufel
-gdc,swzz.0,69502,80010,teufel,78193,78196,mir,teufel
-gdc,swzz.0,69502,80010,teufel,78569,78573,mich,teufel
-gdc,swzz.0,69502,80010,teufel,78590,78593,ich,teufel
-gdc,swzz.0,69502,80010,teufel,78665,78671,Teufel,teufel
-gdc,swzz.0,69502,80010,teufel,78774,78778,mich,teufel
-gdc,swzz.0,69502,80010,teufel,78853,78859,Teufel,teufel
-gdc,swzz.0,80014,81427,teufel,80220,80223,mir,teufel
-gdc,swzz.0,80014,81427,teufel,80318,80323,meine,teufel
-gdc,swzz.0,80014,81427,teufel,80364,80367,mir,teufel
-gdc,swzz.0,80014,81427,teufel,80401,80405,mich,teufel
-gdc,swzz.0,80014,81427,teufel,80674,80677,ich,teufel
-gdc,swzz.0,80014,81427,teufel,80678,80681,mir,teufel
-gdc,swzz.0,80014,81427,teufel,80707,80711,mein,teufel
-gdc,swzz.0,80014,81427,teufel,81413,81419,Teufel,teufel
-gdc,swzz.0,84990,87951,teufel,85007,85010,Ich,teufel
-gdc,swzz.0,84990,87951,teufel,85065,85068,mir,teufel
-gdc,swzz.0,84990,87951,teufel,86176,86179,ich,teufel
-gdc,swzz.0,84990,87951,teufel,87553,87556,ich,teufel
-gdc,swzz.0,84990,87951,teufel,87842,87845,Ich,teufel
-gdc,swzz.0,87955,90115,teufel,88007,88010,ich,teufel
-gdc,swzz.0,87955,90115,teufel,88056,88059,ich,teufel
-gdc,swzz.0,87955,90115,teufel,88154,88157,mir,teufel
-gdc,swzz.0,87955,90115,teufel,88305,88308,mir,teufel
-gdc,swzz.0,87955,90115,teufel,88317,88321,mein,teufel
-gdc,swzz.0,90119,90571,teufel,90163,90167,mein,teufel
-gdc,swzz.0,90119,90571,teufel,90308,90311,mir,teufel
-gdc,swzz.0,90119,90571,teufel,90321,90325,mein,teufel
-gdc,swzz.0,90575,91617,teufel,90936,90942,meinem,teufel
-gdc,swzz.0,90575,91617,teufel,91345,91349,mein,teufel
-gdc,swzz.0,91657,92018,_stage,91711,91716,Maria,maria
-gdc,swzz.0,93860,93926,lesender_engel,93887,93890,Ich,lesender_engel
-gdc,swzz.0,94078,94263,maria,94181,94184,ich,maria
-gdc,swzz.0,94577,95011,_stage,94929,94934,Engel,lesender_engel
-gdc,swzz.0,95342,95477,_stage,95373,95379,Teufel,teufel
-gdc,swzz.0,95342,95477,_stage,95471,95476,Maria,maria
-gdc,swzz.0,95481,95587,teufel,95529,95534,meine,teufel
-gdc,swzz.0,95545,95587,_stage,95549,95554,Engel,lesender_engel
-gdc,swzz.0,95678,95759,teufel,95732,95735,Ich,teufel
-gdc,swzz.0,95765,95927,maria,95900,95903,Ich,maria
-gdc,swzz.0,95968,96140,maria,96029,96032,Ich,maria
-gdc,swzz.0,96454,96557,maria,96461,96464,Ich,maria
-gdc,swzz.0,96562,96606,teufel,96570,96573,Ich,teufel
-gdc,swzz.0,96611,96702,maria,96634,96637,ich,maria
-gdc,swzz.0,96611,96702,maria,96657,96660,ich,maria
-gdc,swzz.0,96611,96702,maria,96667,96673,meiner,maria
-gdc,swzz.0,96611,96702,maria,96674,96679,Engel,lesender_engel
-gdc,swzz.0,96611,96702,maria,96681,96684,ich,maria
-gdc,swzz.0,96773,96928,maria,96869,96875,Teufel,teufel
-gdc,swzz.0,96999,97109,_stage,96999,97004,Maria,maria
-gdc,swzz.0,97367,97499,teufel,97484,97487,ich,teufel
-gdc,swzz.0,98194,98216,maria,98212,98215,ich,maria
-gdc,swzz.0,98221,98266,teufel,98229,98232,Ich,teufel
-gdc,swzz.0,98221,98266,teufel,98240,98246,meiner,teufel
-gdc,swzz.0,98612,100869,teufel,98644,98647,Ich,teufel
-gdc,swzz.0,98612,100869,teufel,98959,98962,ich,teufel
-gdc,swzz.0,100918,101021,teufel,100949,100952,ich,teufel
-gdc,swzz.0,100918,101021,teufel,100953,100958,meine,teufel
-gdc,swzz.0,101174,101418,_stage,101174,101179,Maria,maria
-gdc,swzz.0,101422,101733,maria,101544,101548,mein,maria
-gdc,swzz.0,101422,101733,maria,101640,101643,mir,maria
-gdc,swzz.0,101738,101900,teufel,101760,101765,Maria,maria
-gdc,swzz.0,101738,101900,teufel,101822,101825,ich,teufel
-gdc,swzz.0,101738,101900,teufel,101854,101857,ich,teufel
-gdc,swzz.0,101738,101900,teufel,101865,101868,ich,teufel
-gdc,swzz.0,102037,102383,maria,102081,102084,Ich,maria
-gdc,swzz.0,102037,102383,maria,102090,102093,mir,maria
-gdc,swzz.0,102037,102383,maria,102111,102114,ich,maria
-gdc,swzz.0,102155,102308,_stage,102155,102161,Teufel,teufel
-gdc,swzz.0,102155,102308,_stage,102213,102218,Maria,maria
-gdc,swzz.0,102309,102383,_stage,102309,102314,Maria,maria
-gdc,swzz.0,102423,103563,_stage,102551,102559,Priester,priester
-gdc,swzz.0,102423,103563,_stage,102678,102687,der Papst,der_papst
-gdc,swzz.0,102423,103563,_stage,102717,102723,Cesare,cesare
-gdc,swzz.0,102423,103563,_stage,102728,102736,Lucrezia,lucrezia
-gdc,swzz.0,102423,103563,_stage,102884,102891,Burcard,burcard
-gdc,swzz.0,103565,104454,priester,103686,103690,mein,priester
-gdc,swzz.0,103565,104454,priester,103910,103916,meines,priester
-gdc,swzz.0,104058,104454,_stage,104124,104133,der Papst,der_papst
-gdc,swzz.0,104598,104670,_stage,104598,104606,Lucrezia,lucrezia
-gdc,swzz.0,104835,105149,_stage,105072,105081,der Papst,der_papst
-gdc,swzz.0,105297,105585,_stage,105297,105303,Cesare,cesare
-gdc,swzz.0,106862,107204,_stage,106862,106871,Der Papst,der_papst
-gdc,swzz.0,106862,107204,_stage,107070,107077,Burcard,burcard
-gdc,swzz.0,107775,109191,_stage,107894,107903,der Papst,der_papst
-gdc,swzz.0,107775,109191,_stage,107929,107935,Cesare,cesare
-gdc,swzz.0,107775,109191,_stage,108169,108177,Priester,priester
-gdc,swzz.0,107775,109191,_stage,108496,108505,der Papst,der_papst
-gdc,swzz.0,107775,109191,_stage,108588,108595,Burcard,burcard
-gdc,swzz.0,107775,109191,_stage,108665,108671,Cesare,cesare
-gdc,swzz.0,107775,109191,_stage,108966,108972,Cesare,cesare
-gdc,swzz.0,107775,109191,_stage,108976,108982,Cesare,cesare
+gdc,swzz.0,2600,2888,_stage,2632,2637,Engel,lesender_engel
+gdc,swzz.0,3868,3936,dritter_engel,3917,3922,meine,dritter_engel
+gdc,swzz.0,4048,4130,dritter_engel,4119,4123,mich,dritter_engel
+gdc,swzz.0,4677,4745,dritter_engel,4724,4727,ich,dritter_engel
+gdc,swzz.0,4869,4963,dritter_engel,4932,4935,ich,dritter_engel
+gdc,swzz.0,5289,5407,dritter_engel,5347,5350,mir,dritter_engel
+gdc,swzz.0,5677,5733,dritter_engel,5697,5701,mich,dritter_engel
+gdc,swzz.0,5856,5918,dritter_engel,5876,5879,Ich,dritter_engel
+gdc,swzz.0,5997,6352,dritter_engel,6166,6169,ich,dritter_engel
+gdc,swzz.0,5997,6352,dritter_engel,6268,6271,ich,dritter_engel
+gdc,swzz.0,5997,6352,dritter_engel,6302,6305,ich,dritter_engel
+gdc,swzz.0,6754,6903,dritter_engel,6797,6801,mich,dritter_engel
+gdc,swzz.0,6754,6903,dritter_engel,6817,6821,mich,dritter_engel
+gdc,swzz.0,6754,6903,dritter_engel,6834,6838,mich,dritter_engel
+gdc,swzz.0,6754,6903,dritter_engel,6877,6883,meinen,dritter_engel
+gdc,swzz.0,7187,7240,dritter_engel,7211,7214,ich,dritter_engel
+gdc,swzz.0,7273,7361,dritter_engel,7307,7310,ich,dritter_engel
+gdc,swzz.0,7403,7544,dritter_engel,7442,7445,ich,dritter_engel
+gdc,swzz.0,7403,7544,dritter_engel,7505,7508,ich,dritter_engel
+gdc,swzz.0,7856,7910,dritter_engel,7896,7899,ich,dritter_engel
+gdc,swzz.0,8375,8443,dritter_engel,8412,8415,Ich,dritter_engel
+gdc,swzz.0,8870,8991,_stage,8880,8885,Engel,lesender_engel
+gdc,swzz.0,8870,8991,_stage,8926,8931,Engel,lesender_engel
+gdc,swzz.0,9080,9261,erster_engel,9206,9209,mir,erster_engel
+gdc,swzz.0,9547,10831,_stage,9560,9570,Gott Vater,gott_vater
+gdc,swzz.0,9547,10831,_stage,9816,9824,Cherubim,cherubim
+gdc,swzz.0,9547,10831,_stage,9946,9951,Engel,lesender_engel
+gdc,swzz.0,9547,10831,_stage,10079,10089,Gott Vater,gott_vater
+gdc,swzz.0,9547,10831,_stage,10411,10421,Gott Vater,gott_vater
+gdc,swzz.0,9547,10831,_stage,10802,10807,Engel,lesender_engel
+gdc,swzz.0,11031,11122,_stage,11036,11041,Engel,lesender_engel
+gdc,swzz.0,11974,12045,_stage,11986,11994,Cherubim,cherubim
+gdc,swzz.0,12304,12418,_stage,12407,12417,Gott Vater,gott_vater
+gdc,swzz.0,12293,12564,verschiedene_engel_alle_engel_1-2,12521,12526,Maria,maria
+gdc,swzz.0,13107,13834,_stage,13107,13116,Ein Engel,ein_engel_1-2b
+gdc,swzz.0,13107,13834,_stage,13107,13116,Ein Engel,ein_engel_1-2i
+gdc,swzz.0,13107,13834,_stage,13107,13116,Ein Engel,ein_engel_1-2d
+gdc,swzz.0,13107,13834,_stage,13107,13116,Ein Engel,ein_engel_1-2a
+gdc,swzz.0,13107,13834,_stage,13107,13116,Ein Engel,ein_engel_1-2f
+gdc,swzz.0,13107,13834,_stage,13107,13116,Ein Engel,ein_engel_1-2g
+gdc,swzz.0,13107,13834,_stage,13107,13116,Ein Engel,ein_engel_1-2c
+gdc,swzz.0,13107,13834,_stage,13107,13116,Ein Engel,ein_engel_1-2h
+gdc,swzz.0,13107,13834,_stage,13107,13116,Ein Engel,ein_engel_1-2e
+gdc,swzz.0,13107,13834,_stage,13111,13116,Engel,lesender_engel
+gdc,swzz.0,13107,13834,_stage,13216,13221,Engel,lesender_engel
+gdc,swzz.0,13107,13834,_stage,13340,13350,Gott Vater,gott_vater
+gdc,swzz.0,13107,13834,_stage,13609,13614,Engel,lesender_engel
+gdc,swzz.0,13107,13834,_stage,13638,13643,Engel,lesender_engel
+gdc,swzz.0,13107,13834,_stage,13717,13725,Cherubim,cherubim
+gdc,swzz.0,13855,14018,_stage,13855,13865,Gott Vater,gott_vater
+gdc,swzz.0,13855,14018,_stage,13871,13879,Cherubim,cherubim
+gdc,swzz.0,13855,14018,_stage,13910,13915,Engel,lesender_engel
+gdc,swzz.0,14362,14476,gott_vater,14420,14423,ich,gott_vater
+gdc,swzz.0,14362,14476,gott_vater,14442,14445,Ich,gott_vater
+gdc,swzz.0,14540,14605,gott_vater,14582,14585,ich,gott_vater
+gdc,swzz.0,14802,15023,gott_vater,14820,14823,ich,gott_vater
+gdc,swzz.0,15107,15255,gott_vater,15134,15137,ich,gott_vater
+gdc,swzz.0,15107,15255,gott_vater,15174,15177,Ich,gott_vater
+gdc,swzz.0,15107,15255,gott_vater,15236,15239,ich,gott_vater
+gdc,swzz.0,15360,15515,gott_vater,15404,15409,meine,gott_vater
+gdc,swzz.0,15830,15952,gott_vater,15861,15866,Meine,gott_vater
+gdc,swzz.0,16241,16381,cherubim,16358,16362,mein,cherubim
+gdc,swzz.0,16241,16381,cherubim,16369,16373,Mein,cherubim
+gdc,swzz.0,16397,16557,_stage,16535,16543,Cherubim,cherubim
+gdc,swzz.0,16692,17079,_stage,16692,16702,Gott Vater,gott_vater
+gdc,swzz.0,17170,17326,cherubim,17258,17262,Bote,bote
+gdc,swzz.0,17395,17543,_stage,17456,17460,Bote,bote
+gdc,swzz.0,17395,17543,_stage,17511,17516,Engel,lesender_engel
+gdc,swzz.0,17545,19010,bote,17625,17628,ich,bote
+gdc,swzz.0,17545,19010,bote,17675,17678,ich,bote
+gdc,swzz.0,17545,19010,bote,18953,18956,ich,bote
+gdc,swzz.0,17545,19010,bote,18961,18969,Priester,priester
+gdc,swzz.0,19015,19283,gott_vater,19208,19211,Ich,gott_vater
+gdc,swzz.0,19422,19508,_stage,19430,19438,Cherubim,cherubim
+gdc,swzz.0,19411,19673,gott_vater,19530,19533,ich,gott_vater
+gdc,swzz.0,19411,19673,gott_vater,19620,19623,ich,gott_vater
+gdc,swzz.0,19411,19673,gott_vater,19642,19647,meine,gott_vater
+gdc,swzz.0,19860,20833,gott_vater,19916,19920,mich,gott_vater
+gdc,swzz.0,19860,20833,gott_vater,19943,19946,ich,gott_vater
+gdc,swzz.0,19860,20833,gott_vater,20047,20051,mich,gott_vater
+gdc,swzz.0,19860,20833,gott_vater,20113,20116,mir,gott_vater
+gdc,swzz.0,19860,20833,gott_vater,20117,20122,meine,gott_vater
+gdc,swzz.0,19860,20833,gott_vater,20171,20177,meinen,gott_vater
+gdc,swzz.0,19860,20833,gott_vater,20209,20217,Cherubim,cherubim
+gdc,swzz.0,19860,20833,gott_vater,20247,20253,meinen,gott_vater
+gdc,swzz.0,19860,20833,gott_vater,20302,20308,Teufel,teufel
+gdc,swzz.0,19860,20833,gott_vater,20313,20316,ich,gott_vater
+gdc,swzz.0,19860,20833,gott_vater,20344,20347,mir,gott_vater
+gdc,swzz.0,20444,20833,_stage,20444,20448,Bote,bote
+gdc,swzz.0,20444,20833,_stage,20466,20471,Engel,lesender_engel
+gdc,swzz.0,20444,20833,_stage,20484,20492,Cherubim,cherubim
+gdc,swzz.0,20444,20833,_stage,20525,20533,Cherubim,cherubim
+gdc,swzz.0,20854,22075,_stage,20867,20872,Maria,maria
+gdc,swzz.0,20854,22075,_stage,20927,20932,Engel,lesender_engel
+gdc,swzz.0,20854,22075,_stage,21278,21288,Gott Vater,gott_vater
+gdc,swzz.0,20854,22075,_stage,21325,21333,Cherubim,cherubim
+gdc,swzz.0,20854,22075,_stage,21497,21507,Gott Vater,gott_vater
+gdc,swzz.0,20854,22075,_stage,22069,22074,Engel,lesender_engel
+gdc,swzz.0,23464,23503,_stage,23464,23477,Dritter Engel,dritter_engel
+gdc,swzz.0,23464,23503,_stage,23472,23477,Engel,lesender_engel
+gdc,swzz.0,23839,23937,_stage,23917,23922,Engel,lesender_engel
+gdc,swzz.0,24154,25265,_stage,24154,24162,Christus,christus
+gdc,swzz.0,24154,25265,_stage,24510,24525,Maria Magdalena,maria_magdalena
+gdc,swzz.0,24154,25265,_stage,24510,24515,Maria,maria
+gdc,swzz.0,24154,25265,_stage,24756,24761,Engel,lesender_engel
+gdc,swzz.0,24154,25265,_stage,24875,24885,Gott Vater,gott_vater
+gdc,swzz.0,24154,25265,_stage,24925,24930,Maria,maria
+gdc,swzz.0,25495,25985,_stage,25703,25708,Engel,lesender_engel
+gdc,swzz.0,25495,25985,_stage,25756,25761,Maria,maria
+gdc,swzz.0,25495,25985,_stage,25860,25868,Christus,christus
+gdc,swzz.0,25989,26412,gott_vater,26197,26202,meine,gott_vater
+gdc,swzz.0,26426,26485,_stage,26447,26457,Gott Vater,gott_vater
+gdc,swzz.0,26801,26860,maria,26838,26841,ich,maria
+gdc,swzz.0,26920,27295,maria,26940,26943,ich,maria
+gdc,swzz.0,26920,27295,maria,26966,26970,Bote,bote
+gdc,swzz.0,26920,27295,maria,26986,26989,mir,maria
+gdc,swzz.0,27058,27187,_stage,27058,27068,Gott Vater,gott_vater
+gdc,swzz.0,27058,27187,_stage,27173,27178,Maria,maria
+gdc,swzz.0,27188,27295,_stage,27188,27196,Cherubim,cherubim
+gdc,swzz.0,27797,27862,maria,27809,27812,Ich,maria
+gdc,swzz.0,28221,28410,gott_vater,28295,28298,Ich,gott_vater
+gdc,swzz.0,28971,29155,gott_vater,28998,29001,Ich,gott_vater
+gdc,swzz.0,28971,29155,gott_vater,29124,29129,Engel,lesender_engel
+gdc,swzz.0,29205,29925,_stage,29644,29649,Maria,maria
+gdc,swzz.0,29205,29925,_stage,29677,29685,Christus,christus
+gdc,swzz.0,29929,30143,gott_vater,29941,29944,Ich,gott_vater
+gdc,swzz.0,29929,30143,gott_vater,29991,29997,meines,gott_vater
+gdc,swzz.0,30780,30831,gott_vater,30805,30809,Mein,gott_vater
+gdc,swzz.0,30836,30883,christus,30878,30882,mich,christus
+gdc,swzz.0,30888,30978,maria,30922,30926,Mein,maria
+gdc,swzz.0,30888,30978,maria,30944,30947,ich,maria
+gdc,swzz.0,30888,30978,maria,30951,30957,meinem,maria
+gdc,swzz.0,31212,31246,christus,31231,31235,Mich,christus
+gdc,swzz.0,31291,31839,christus,31411,31415,Mich,christus
+gdc,swzz.0,31291,31839,christus,31589,31593,mich,christus
+gdc,swzz.0,31291,31839,christus,31713,31716,Ich,christus
+gdc,swzz.0,31291,31839,christus,31754,31758,mich,christus
+gdc,swzz.0,31843,32050,maria,31893,31897,Mein,maria
+gdc,swzz.0,31843,32050,maria,31904,31908,mein,maria
+gdc,swzz.0,32181,32234,_stage,32225,32233,Cherubim,cherubim
+gdc,swzz.0,32291,32517,cherubim,32483,32491,Priester,priester
+gdc,swzz.0,32291,32517,cherubim,32507,32516,der Papst,der_papst
+gdc,swzz.0,32606,33335,maria,32690,32698,Christus,christus
+gdc,swzz.0,32606,33335,maria,32706,32710,mein,maria
+gdc,swzz.0,32779,33335,_stage,32872,32877,Engel,lesender_engel
+gdc,swzz.0,32779,33335,_stage,33174,33179,Engel,lesender_engel
+gdc,swzz.0,32779,33335,_stage,33288,33296,Cherubim,cherubim
+gdc,swzz.0,32779,33335,_stage,33315,33320,Engel,lesender_engel
+gdc,swzz.0,33560,33936,_stage,33742,33747,Engel,lesender_engel
+gdc,swzz.0,33560,33936,_stage,33779,33787,Cherubim,cherubim
+gdc,swzz.0,34081,36766,_stage,34548,34557,der Papst,der_papst
+gdc,swzz.0,34081,36766,_stage,35002,35011,Der Papst,der_papst
+gdc,swzz.0,34081,36766,_stage,35489,35503,Rodrigo Borgia,rodrigo_borgia
+gdc,swzz.0,34081,36766,_stage,35588,35600,Don Giovanni,don_giovanni
+gdc,swzz.0,34081,36766,_stage,35620,35626,Cesare,cesare
+gdc,swzz.0,34081,36766,_stage,35628,35639,Don Gioffre,don_gioffre
+gdc,swzz.0,34081,36766,_stage,35641,35649,Lucrezia,lucrezia
+gdc,swzz.0,34081,36766,_stage,35705,35717,Don Giovanni,don_giovanni
+gdc,swzz.0,34081,36766,_stage,35789,35801,Donna Sancia,donna_sancia
+gdc,swzz.0,34081,36766,_stage,35927,35943,Francesco Borgia,francesco_borgia
+gdc,swzz.0,34081,36766,_stage,36043,36048,Maria,maria
+gdc,swzz.0,34081,36766,_stage,36050,36064,Rodrigo Borgia,rodrigo_borgia
+gdc,swzz.0,34081,36766,_stage,36568,36575,Burcard,burcard
+gdc,swzz.0,36912,36924,_stage,36915,36923,Lucrezia,lucrezia
+gdc,swzz.0,36899,37003,donna_sancia,36925,36928,Ich,donna_sancia
+gdc,swzz.0,36899,37003,donna_sancia,36981,36985,mich,donna_sancia
+gdc,swzz.0,37008,37081,lucrezia,37044,37048,mich,lucrezia
+gdc,swzz.0,37670,37730,don_giovanni,37689,37701,Donna Sancia,donna_sancia
+gdc,swzz.0,37735,37787,donna_sancia,37760,37768,Lucrezia,lucrezia
+gdc,swzz.0,37857,37937,don_gioffre,37870,37873,Ich,don_gioffre
+gdc,swzz.0,38086,38404,der_papst,38199,38202,ich,der_papst
+gdc,swzz.0,38086,38404,der_papst,38338,38341,mir,der_papst
+gdc,swzz.0,39664,39840,dritter_edelmann,39827,39835,Lucrezia,lucrezia
+gdc,swzz.0,39882,40087,dritter_edelmann,39900,39903,Ich,dritter_edelmann
+gdc,swzz.0,39882,40087,dritter_edelmann,39982,39990,Lucrezia,lucrezia
+gdc,swzz.0,40040,40087,_stage,40051,40067,zweiter Edelmann,zweiter_edelmann
+gdc,swzz.0,40364,40437,erster_edelmann,40391,40399,Lucrezia,lucrezia
+gdc,swzz.0,40594,40651,zweiter_edelmann,40621,40630,der Papst,der_papst
+gdc,swzz.0,40656,40727,dritter_edelmann,40701,40715,Rodrigo Borgia,rodrigo_borgia
+gdc,swzz.0,40774,41706,dritter_edelmann,40912,40920,Lucrezia,lucrezia
+gdc,swzz.0,40934,41706,_stage,41521,41530,Der Papst,der_papst
+gdc,swzz.0,41710,42735,der_papst,41857,41865,Lucrezia,lucrezia
+gdc,swzz.0,41710,42735,der_papst,41873,41877,mein,der_papst
+gdc,swzz.0,41889,42735,_stage,42431,42440,Der Papst,der_papst
+gdc,swzz.0,42749,42847,_stage,42771,42779,Lucrezia,lucrezia
+gdc,swzz.0,42739,42955,der_papst,42848,42852,Mein,der_papst
+gdc,swzz.0,43198,43241,lucrezia,43229,43233,mein,lucrezia
+gdc,swzz.0,43246,43569,der_papst,43271,43275,mein,der_papst
+gdc,swzz.0,43736,44574,der_papst,43931,43934,ich,der_papst
+gdc,swzz.0,44578,46123,chor_mehrstimmiges_graduale,44957,44960,ich,chor_mehrstimmiges_graduale
+gdc,swzz.0,44578,46123,chor_mehrstimmiges_graduale,44987,44992,meine,chor_mehrstimmiges_graduale
+gdc,swzz.0,44578,46123,chor_mehrstimmiges_graduale,45039,45045,meines,chor_mehrstimmiges_graduale
+gdc,swzz.0,44578,46123,chor_mehrstimmiges_graduale,45117,45122,Meine,chor_mehrstimmiges_graduale
+gdc,swzz.0,45293,45663,_stage,45556,45565,der Papst,der_papst
+gdc,swzz.0,45664,46123,_stage,45716,45725,Der Papst,der_papst
+gdc,swzz.0,45664,46123,_stage,45951,45960,Der Papst,der_papst
+gdc,swzz.0,46211,46576,_stage,46441,46450,der Papst,der_papst
+gdc,swzz.0,46934,48165,_stage,46934,46943,Der Papst,der_papst
+gdc,swzz.0,46934,48165,_stage,47060,47068,Lucrezia,lucrezia
+gdc,swzz.0,46934,48165,_stage,47327,47338,die Mädchen,die_maedchen
+gdc,swzz.0,46934,48165,_stage,47510,47521,die Mädchen,die_maedchen
+gdc,swzz.0,46934,48165,_stage,47956,47973,Eines der Mädchen,eines_der_maedchen
+gdc,swzz.0,46934,48165,_stage,48061,48070,Der Papst,der_papst
+gdc,swzz.0,46934,48165,_stage,48093,48101,Lucrezia,lucrezia
+gdc,swzz.0,48342,48780,die_kurtisane,48368,48372,mich,die_kurtisane
+gdc,swzz.0,48342,48780,die_kurtisane,48462,48471,der Papst,der_papst
+gdc,swzz.0,48488,48780,_stage,48575,48586,die Mädchen,die_maedchen
+gdc,swzz.0,48865,49960,_stage,49251,49262,die Mädchen,die_maedchen
+gdc,swzz.0,48865,49960,_stage,49936,49959,Schlußgesang der Vesper,schlussgesang_der_vesper
+gdc,swzz.0,50638,51449,_stage,50922,50931,Der Papst,der_papst
+gdc,swzz.0,51450,51648,_stage,51482,51486,Bote,bote
+gdc,swzz.0,51829,52485,der_papst,51864,51870,Teufel,teufel
+gdc,swzz.0,51829,52485,der_papst,52365,52371,Cesare,cesare
+gdc,swzz.0,52626,53062,_stage,52708,52718,Gott Vater,gott_vater
+gdc,swzz.0,52626,53062,_stage,52720,52725,Maria,maria
+gdc,swzz.0,52626,53062,_stage,52727,52735,Christus,christus
+gdc,swzz.0,52626,53062,_stage,52741,52747,Teufel,teufel
+gdc,swzz.0,53064,53869,gott_vater,53237,53240,ich,gott_vater
+gdc,swzz.0,53064,53869,gott_vater,53264,53270,Teufel,teufel
+gdc,swzz.0,53064,53869,gott_vater,53497,53503,Teufel,teufel
+gdc,swzz.0,53064,53869,gott_vater,53716,53724,Christus,christus
+gdc,swzz.0,53064,53869,gott_vater,53735,53739,mein,gott_vater
+gdc,swzz.0,53064,53869,gott_vater,53770,53773,Ich,gott_vater
+gdc,swzz.0,53064,53869,gott_vater,53812,53815,Ich,gott_vater
+gdc,swzz.0,53874,55062,christus,53941,53945,Mein,christus
+gdc,swzz.0,53874,55062,christus,54094,54097,ich,christus
+gdc,swzz.0,53874,55062,christus,54200,54203,ich,christus
+gdc,swzz.0,53874,55062,christus,54319,54325,Teufel,teufel
+gdc,swzz.0,55072,55160,_stage,55101,55107,Teufel,teufel
+gdc,swzz.0,55066,55921,maria,55173,55177,mein,maria
+gdc,swzz.0,55066,55921,maria,55253,55259,Teufel,teufel
+gdc,swzz.0,55066,55921,maria,55283,55287,mein,maria
+gdc,swzz.0,55066,55921,maria,55417,55423,Teufel,teufel
+gdc,swzz.0,55066,55921,maria,55568,55578,Gott Vater,gott_vater
+gdc,swzz.0,55066,55921,maria,55672,55678,Teufel,teufel
+gdc,swzz.0,55926,56016,teufel,55998,56012,Rodrigo Borgia,rodrigo_borgia
+gdc,swzz.0,56351,56556,teufel,56415,56418,Ich,teufel
+gdc,swzz.0,56351,56556,teufel,56461,56464,ich,teufel
+gdc,swzz.0,56572,56606,_stage,56590,56596,Teufel,teufel
+gdc,swzz.0,56561,56655,gott_vater,56607,56611,Mein,gott_vater
+gdc,swzz.0,56693,56823,gott_vater,56809,56812,Ich,gott_vater
+gdc,swzz.0,56973,58305,maria,56992,56996,mein,maria
+gdc,swzz.0,56973,58305,maria,57286,57292,Teufel,teufel
+gdc,swzz.0,56973,58305,maria,57943,57949,Teufel,teufel
+gdc,swzz.0,56973,58305,maria,57973,57976,mir,maria
+gdc,swzz.0,58310,58371,teufel,58356,58359,Ich,teufel
+gdc,swzz.0,58572,58671,_stage,58592,58598,Teufel,teufel
+gdc,swzz.0,59193,59456,_stage,59193,59201,Christus,christus
+gdc,swzz.0,59193,59456,_stage,59298,59303,Maria,maria
+gdc,swzz.0,59466,59477,_stage,59470,59476,Teufel,teufel
+gdc,swzz.0,59460,59559,maria,59509,59513,mein,maria
+gdc,swzz.0,59571,59782,_stage,59608,59613,Maria,maria
+gdc,swzz.0,59571,59782,_stage,59728,59736,Christus,christus
+gdc,swzz.0,60229,60438,_stage,60347,60357,Gott Vater,gott_vater
+gdc,swzz.0,60229,60438,_stage,60367,60372,Maria,maria
+gdc,swzz.0,60465,60605,_stage,60495,60503,Christus,christus
+gdc,swzz.0,60743,60872,_stage,60743,60753,Gott Vater,gott_vater
+gdc,swzz.0,60743,60872,_stage,60758,60766,Christus,christus
+gdc,swzz.0,60743,60872,_stage,60855,60861,Teufel,teufel
+gdc,swzz.0,61172,62339,teufel,61833,61836,ich,teufel
+gdc,swzz.0,61172,62339,teufel,61837,61841,mich,teufel
+gdc,swzz.0,61172,62339,teufel,61864,61869,Maria,maria
+gdc,swzz.0,61172,62339,teufel,62169,62174,Maria,maria
+gdc,swzz.0,62426,62471,_stage,62426,62436,Gott Vater,gott_vater
+gdc,swzz.0,62426,62471,_stage,62441,62449,Christus,christus
+gdc,swzz.0,62475,62529,teufel,62510,62515,meine,teufel
+gdc,swzz.0,62782,62962,teufel,62883,62886,ich,teufel
+gdc,swzz.0,62973,63047,_stage,63016,63026,Gott Vater,gott_vater
+gdc,swzz.0,62973,63047,_stage,63031,63039,Christus,christus
+gdc,swzz.0,63183,63325,_stage,63183,63193,Gott Vater,gott_vater
+gdc,swzz.0,63183,63325,_stage,63198,63206,Christus,christus
+gdc,swzz.0,63183,63325,_stage,63244,63252,Christus,christus
+gdc,swzz.0,63326,63477,_stage,63326,63332,Teufel,teufel
+gdc,swzz.0,63569,63687,_stage,63680,63686,Teufel,teufel
+gdc,swzz.0,63735,63929,teufel,63839,63843,Mein,teufel
+gdc,swzz.0,64237,64354,_stage,64251,64256,Maria,maria
+gdc,swzz.0,64237,64354,_stage,64291,64301,Gott Vater,gott_vater
+gdc,swzz.0,64358,64582,gott_vater,64408,64412,mein,gott_vater
+gdc,swzz.0,64358,64582,gott_vater,64572,64576,mein,gott_vater
+gdc,swzz.0,64679,64992,teufel,64802,64805,ich,teufel
+gdc,swzz.0,65242,65344,teufel,65292,65296,Mein,teufel
+gdc,swzz.0,65723,65737,_stage,65726,65736,Gott Vater,gott_vater
+gdc,swzz.0,65873,65940,christus,65929,65932,ich,christus
+gdc,swzz.0,66715,66902,teufel,66776,66779,ich,teufel
+gdc,swzz.0,66715,66902,teufel,66883,66886,Ich,teufel
+gdc,swzz.0,66933,66986,teufel,66964,66967,Ich,teufel
+gdc,swzz.0,66933,66986,teufel,66976,66979,ich,teufel
+gdc,swzz.0,67075,67187,gott_vater,67161,67167,Teufel,teufel
+gdc,swzz.0,67192,67706,teufel,67257,67260,Ich,teufel
+gdc,swzz.0,67287,67706,_stage,67347,67352,Engel,lesender_engel
+gdc,swzz.0,67287,67706,_stage,67505,67511,Teufel,teufel
+gdc,swzz.0,67740,69507,_stage,68184,68190,Teufel,teufel
+gdc,swzz.0,67740,69507,_stage,68876,68882,Teufel,teufel
+gdc,swzz.0,69509,80017,teufel,70607,70611,Mein,teufel
+gdc,swzz.0,69509,80017,teufel,70620,70624,Mein,teufel
+gdc,swzz.0,69509,80017,teufel,72279,72284,Maria,maria
+gdc,swzz.0,69509,80017,teufel,72758,72761,ich,teufel
+gdc,swzz.0,69509,80017,teufel,72876,72879,ich,teufel
+gdc,swzz.0,69509,80017,teufel,73011,73014,ich,teufel
+gdc,swzz.0,69509,80017,teufel,73077,73083,Teufel,teufel
+gdc,swzz.0,69509,80017,teufel,73178,73181,mir,teufel
+gdc,swzz.0,69509,80017,teufel,73445,73448,ich,teufel
+gdc,swzz.0,69509,80017,teufel,73475,73478,ich,teufel
+gdc,swzz.0,69509,80017,teufel,73619,73622,Ich,teufel
+gdc,swzz.0,69509,80017,teufel,73647,73650,Ich,teufel
+gdc,swzz.0,69509,80017,teufel,74254,74258,mein,teufel
+gdc,swzz.0,69509,80017,teufel,75193,75196,ich,teufel
+gdc,swzz.0,69509,80017,teufel,75327,75330,ich,teufel
+gdc,swzz.0,69509,80017,teufel,75372,75375,ich,teufel
+gdc,swzz.0,69509,80017,teufel,75589,75592,mir,teufel
+gdc,swzz.0,69509,80017,teufel,75624,75627,ich,teufel
+gdc,swzz.0,69509,80017,teufel,75658,75661,mir,teufel
+gdc,swzz.0,69509,80017,teufel,75680,75683,ich,teufel
+gdc,swzz.0,69509,80017,teufel,75744,75750,meiner,teufel
+gdc,swzz.0,69509,80017,teufel,75769,75772,ich,teufel
+gdc,swzz.0,69509,80017,teufel,75773,75777,mich,teufel
+gdc,swzz.0,69509,80017,teufel,75925,75928,ich,teufel
+gdc,swzz.0,69509,80017,teufel,75988,75991,ich,teufel
+gdc,swzz.0,69509,80017,teufel,76018,76021,Ich,teufel
+gdc,swzz.0,69509,80017,teufel,76100,76103,mir,teufel
+gdc,swzz.0,69509,80017,teufel,76143,76146,mir,teufel
+gdc,swzz.0,69509,80017,teufel,76147,76152,meine,teufel
+gdc,swzz.0,69509,80017,teufel,76254,76257,ich,teufel
+gdc,swzz.0,69509,80017,teufel,76289,76292,ich,teufel
+gdc,swzz.0,69509,80017,teufel,76756,76759,ich,teufel
+gdc,swzz.0,69509,80017,teufel,76760,76763,mir,teufel
+gdc,swzz.0,69509,80017,teufel,76872,76876,mich,teufel
+gdc,swzz.0,69509,80017,teufel,77088,77091,ich,teufel
+gdc,swzz.0,69509,80017,teufel,77205,77208,Ich,teufel
+gdc,swzz.0,69509,80017,teufel,77226,77232,meinem,teufel
+gdc,swzz.0,69509,80017,teufel,77280,77283,ich,teufel
+gdc,swzz.0,69509,80017,teufel,77284,77287,mir,teufel
+gdc,swzz.0,69509,80017,teufel,77489,77492,ich,teufel
+gdc,swzz.0,69509,80017,teufel,77545,77550,meine,teufel
+gdc,swzz.0,69509,80017,teufel,77594,77597,mir,teufel
+gdc,swzz.0,69509,80017,teufel,77705,77708,ich,teufel
+gdc,swzz.0,69509,80017,teufel,77787,77792,meine,teufel
+gdc,swzz.0,69509,80017,teufel,77888,77892,mein,teufel
+gdc,swzz.0,69509,80017,teufel,77899,77902,ich,teufel
+gdc,swzz.0,69509,80017,teufel,78054,78059,Engel,lesender_engel
+gdc,swzz.0,69509,80017,teufel,78109,78112,mir,teufel
+gdc,swzz.0,69509,80017,teufel,78185,78188,ich,teufel
+gdc,swzz.0,69509,80017,teufel,78200,78203,mir,teufel
+gdc,swzz.0,69509,80017,teufel,78576,78580,mich,teufel
+gdc,swzz.0,69509,80017,teufel,78597,78600,ich,teufel
+gdc,swzz.0,69509,80017,teufel,78672,78678,Teufel,teufel
+gdc,swzz.0,69509,80017,teufel,78781,78785,mich,teufel
+gdc,swzz.0,69509,80017,teufel,78860,78866,Teufel,teufel
+gdc,swzz.0,80021,81434,teufel,80227,80230,mir,teufel
+gdc,swzz.0,80021,81434,teufel,80325,80330,meine,teufel
+gdc,swzz.0,80021,81434,teufel,80371,80374,mir,teufel
+gdc,swzz.0,80021,81434,teufel,80408,80412,mich,teufel
+gdc,swzz.0,80021,81434,teufel,80681,80684,ich,teufel
+gdc,swzz.0,80021,81434,teufel,80685,80688,mir,teufel
+gdc,swzz.0,80021,81434,teufel,80714,80718,mein,teufel
+gdc,swzz.0,80021,81434,teufel,81420,81426,Teufel,teufel
+gdc,swzz.0,84997,87958,teufel,85014,85017,Ich,teufel
+gdc,swzz.0,84997,87958,teufel,85072,85075,mir,teufel
+gdc,swzz.0,84997,87958,teufel,86183,86186,ich,teufel
+gdc,swzz.0,84997,87958,teufel,87560,87563,ich,teufel
+gdc,swzz.0,84997,87958,teufel,87849,87852,Ich,teufel
+gdc,swzz.0,87962,90122,teufel,88014,88017,ich,teufel
+gdc,swzz.0,87962,90122,teufel,88063,88066,ich,teufel
+gdc,swzz.0,87962,90122,teufel,88161,88164,mir,teufel
+gdc,swzz.0,87962,90122,teufel,88312,88315,mir,teufel
+gdc,swzz.0,87962,90122,teufel,88324,88328,mein,teufel
+gdc,swzz.0,90126,90578,teufel,90170,90174,mein,teufel
+gdc,swzz.0,90126,90578,teufel,90315,90318,mir,teufel
+gdc,swzz.0,90126,90578,teufel,90328,90332,mein,teufel
+gdc,swzz.0,90582,91624,teufel,90943,90949,meinem,teufel
+gdc,swzz.0,90582,91624,teufel,91352,91356,mein,teufel
+gdc,swzz.0,91664,92025,_stage,91718,91723,Maria,maria
+gdc,swzz.0,93867,93933,lesender_engel,93894,93897,Ich,lesender_engel
+gdc,swzz.0,94085,94270,maria,94188,94191,ich,maria
+gdc,swzz.0,94584,95018,_stage,94936,94941,Engel,lesender_engel
+gdc,swzz.0,95349,95484,_stage,95380,95386,Teufel,teufel
+gdc,swzz.0,95349,95484,_stage,95478,95483,Maria,maria
+gdc,swzz.0,95488,95594,teufel,95536,95541,meine,teufel
+gdc,swzz.0,95552,95594,_stage,95556,95561,Engel,lesender_engel
+gdc,swzz.0,95685,95766,teufel,95739,95742,Ich,teufel
+gdc,swzz.0,95772,95934,maria,95907,95910,Ich,maria
+gdc,swzz.0,95975,96147,maria,96036,96039,Ich,maria
+gdc,swzz.0,96461,96564,maria,96468,96471,Ich,maria
+gdc,swzz.0,96569,96613,teufel,96577,96580,Ich,teufel
+gdc,swzz.0,96618,96709,maria,96641,96644,ich,maria
+gdc,swzz.0,96618,96709,maria,96664,96667,ich,maria
+gdc,swzz.0,96618,96709,maria,96674,96680,meiner,maria
+gdc,swzz.0,96618,96709,maria,96681,96686,Engel,lesender_engel
+gdc,swzz.0,96618,96709,maria,96688,96691,ich,maria
+gdc,swzz.0,96780,96935,maria,96876,96882,Teufel,teufel
+gdc,swzz.0,97006,97116,_stage,97006,97011,Maria,maria
+gdc,swzz.0,97374,97506,teufel,97491,97494,ich,teufel
+gdc,swzz.0,98201,98223,maria,98219,98222,ich,maria
+gdc,swzz.0,98228,98273,teufel,98236,98239,Ich,teufel
+gdc,swzz.0,98228,98273,teufel,98247,98253,meiner,teufel
+gdc,swzz.0,98619,100876,teufel,98651,98654,Ich,teufel
+gdc,swzz.0,98619,100876,teufel,98966,98969,ich,teufel
+gdc,swzz.0,100925,101028,teufel,100956,100959,ich,teufel
+gdc,swzz.0,100925,101028,teufel,100960,100965,meine,teufel
+gdc,swzz.0,101181,101425,_stage,101181,101186,Maria,maria
+gdc,swzz.0,101429,101740,maria,101551,101555,mein,maria
+gdc,swzz.0,101429,101740,maria,101647,101650,mir,maria
+gdc,swzz.0,101745,101907,teufel,101767,101772,Maria,maria
+gdc,swzz.0,101745,101907,teufel,101829,101832,ich,teufel
+gdc,swzz.0,101745,101907,teufel,101861,101864,ich,teufel
+gdc,swzz.0,101745,101907,teufel,101872,101875,ich,teufel
+gdc,swzz.0,102044,102390,maria,102088,102091,Ich,maria
+gdc,swzz.0,102044,102390,maria,102097,102100,mir,maria
+gdc,swzz.0,102044,102390,maria,102118,102121,ich,maria
+gdc,swzz.0,102162,102315,_stage,102162,102168,Teufel,teufel
+gdc,swzz.0,102162,102315,_stage,102220,102225,Maria,maria
+gdc,swzz.0,102316,102390,_stage,102316,102321,Maria,maria
+gdc,swzz.0,102430,103570,_stage,102558,102566,Priester,priester
+gdc,swzz.0,102430,103570,_stage,102685,102694,der Papst,der_papst
+gdc,swzz.0,102430,103570,_stage,102724,102730,Cesare,cesare
+gdc,swzz.0,102430,103570,_stage,102735,102743,Lucrezia,lucrezia
+gdc,swzz.0,102430,103570,_stage,102891,102898,Burcard,burcard
+gdc,swzz.0,103572,104461,priester,103693,103697,mein,priester
+gdc,swzz.0,103572,104461,priester,103917,103923,meines,priester
+gdc,swzz.0,104065,104461,_stage,104131,104140,der Papst,der_papst
+gdc,swzz.0,104605,104677,_stage,104605,104613,Lucrezia,lucrezia
+gdc,swzz.0,104842,105156,_stage,105079,105088,der Papst,der_papst
+gdc,swzz.0,105304,105592,_stage,105304,105310,Cesare,cesare
+gdc,swzz.0,106869,107211,_stage,106869,106878,Der Papst,der_papst
+gdc,swzz.0,106869,107211,_stage,107077,107084,Burcard,burcard
+gdc,swzz.0,107782,109198,_stage,107901,107910,der Papst,der_papst
+gdc,swzz.0,107782,109198,_stage,107936,107942,Cesare,cesare
+gdc,swzz.0,107782,109198,_stage,108176,108184,Priester,priester
+gdc,swzz.0,107782,109198,_stage,108503,108512,der Papst,der_papst
+gdc,swzz.0,107782,109198,_stage,108595,108602,Burcard,burcard
+gdc,swzz.0,107782,109198,_stage,108672,108678,Cesare,cesare
+gdc,swzz.0,107782,109198,_stage,108973,108979,Cesare,cesare
+gdc,swzz.0,107782,109198,_stage,108983,108989,Cesare,cesare
